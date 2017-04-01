@@ -1,0 +1,77 @@
+<html>
+<body>
+<style>
+    html,body{
+		width:100%;
+		height:100%;
+		overflow:hidden;
+		padding: 0; 
+		margin: 0;
+	}
+	#frame { width: 780px; height: 820px; padding: 0; margin: 0; border:none;
+	}
+   .dragdealer {
+            height: 30px;
+            background: #EEE;
+            z-index: 50;
+        }
+        .dragdealer .handle {
+            top: 0;
+            left: 0;
+            cursor: pointer;
+        }
+        .dragdealer .red-bar {
+            width: 100px;
+            height: 30px;
+            background: #F80;
+            color: #FFF;
+            font-size: 20px;
+            line-height: 30px;
+            text-align: center;
+            font-weight: bold;
+            font-style: oblique
+        }
+        .dragdealer .red-bar:hover {
+            background: #F60
+        }
+        .dragdealer .orange-bar {
+            width: 25px;
+            height: 18px;
+            background: #F80;
+            color: #FFF;
+            font-size: 18px;
+            line-height: 16px;
+            text-align: center;
+            font-weight: bold;
+        }
+        .dragdealer .orange-bar:hover {
+            background: #F60
+        }
+        .dragdealer .disabled {
+            background: #898989
+        }
+</style>
+<iframe id="frame" src="embed.html"/></iframe>
+<script>
+var scal=Math.min(document.getElementById("frame").parentElement.offsetWidth,document.getElementById("frame").parentElement.offsetHeight)/820;
+//var scal=document.getElementById("frame").parentElement.offsetWidth/820;
+
+document.getElementById("frame").style.WebkitTransform="scale("+scal+")";
+document.getElementById("frame").style.OTransform="scale("+scal+")";
+document.getElementById("frame").style.MozTransform="scale("+scal+")";
+document.getElementById("frame").style.msTransform="scale("+scal+")";
+document.getElementById("frame").style.Transform="scale("+scal+")";
+
+document.getElementById("frame").style.WebkitTransformOrigin="0 0";
+document.getElementById("frame").style.OTransformOrigin="0 0";
+document.getElementById("frame").style.MozTransformOrigin="0 0";
+document.getElementById("frame").style.msTransformOrigin="0 0";
+document.getElementById("frame").style.TransformOrigin="0 0";
+</script>
+<script>
+window.onresize = function() {
+	window.location.reload();
+}
+</script>
+</body>
+</html>

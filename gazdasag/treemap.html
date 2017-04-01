@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+html {
+  width: 100%;
+  height: 100%;
+  overflow:hidden;
+}
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow:hidden;
+}
+.node {
+  border: solid 1px white;
+  font: 10px sans-serif;
+  line-height: 12px;
+  overflow: hidden;
+  position: absolute;
+  text-indent: 2px;
+}
+
+</style>
+<form>
+  <label><input id="bev" type="radio" name="mode" value="size" checked>Bevétel</label>
+  <label><input id="szam" type="radio" name="mode" value="count">Szám</label>
+</form>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+
+window.onresize = function() {
+	window.location.reload();
+}
+		
+var margin = {top: 5, right: 3, bottom: 7, left: 0},
+    width = window.innerWidth - margin.left - margin.right,
+    height = window.innerHeight - margin.top - margin.bottom - 12;
+
+var color = function(a)
+{colors=['#543005','#9e0142','#d53e4f','#f46d43','#fdae61','#fee08b','#ffffbf',
+        '#e6f598','#abdda4','#66c2a5','#3288bd','#5e4fa2','#40004b','#762a83']
+return colors[a];
+};
+
+var treemap = d3.layout.treemap()
+    .size([width, height])
+    .sticky(true)
+    .value(function(d) { return d.size; });
+
+var div = d3.select("body").append("div")
+    .style("position", "relative")
+    .style("width", (width + margin.left + margin.right) + "px")
+    .style("height", (height + margin.top + margin.bottom) + "px")
+    .style("left", margin.left + "px")
+    .style("top", margin.top + "px");
+
+d3.json("flare.json", function(error, root) {
+  var node = div.datum(root).selectAll(".node")
+      .data(treemap.nodes)
+    .enter().append("div")
+      .attr("class", "node")
+      .call(position)
+      .style("background", function(d) { return d.children ? color(d.name) : null; })
+      .text(function(d) { return d.children ? null : d.name; })
+	  .attr("title",function(d) { return d.name+': '+Math.round(d.size/1000000)+'M RON';});
+
+  d3.selectAll("input").on("change", function change() {
+    var value = this.value === "count"
+        ? function() { return 1; }
+        : function(d) { return d.size; };
+
+    node
+        .data(treemap.value(value).nodes)
+      .transition()
+        .duration(1500)
+        .call(position);
+  });
+});
+
+function position() {
+  this.style("left", function(d) { return d.x + "px"; })
+      .style("top", function(d) { return d.y + "px"; })
+      .style("width", function(d) { return Math.max(0, d.dx - 1) + "px"; })
+      .style("height", function(d) { return Math.max(0, d.dy - 1) + "px"; });
+}
+if (window.location.hash=="#szam") {
+setTimeout(function(){document.getElementById("szam").click();},1000);}
+</script>

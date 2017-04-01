@@ -1,0 +1,32 @@
+<html>
+<head>
+<style>
+    html, body, table, tr, td, iframe{
+		width:100%;
+		height:100%;
+		overflow:hidden;
+		padding: 0; 
+		margin: 0;
+		border:none;
+	}
+</style>
+</head>
+<body>
+<table style="border:3px; ">
+	<tr style="height:50%;">
+		<td rowspan="2" style="width:60%;"><iframe src="frame.html" width="100%" height="100%" style="margin-left:10px;"></iframe>
+		</td>
+		<td style="height:50%;"><iframe src="treemap2.html" width="100%" height="100%"></iframe>
+		</td>
+	<tr style="height:40%;">
+		<td style="height:50%;"><iframe src="treemap.html" width="100%" height="100%"></iframe>
+		</td>
+	</tr>
+</table>
+<script>
+window.onresize = function() {
+	window.location.reload();
+}
+</script>
+</body>
+</html>
