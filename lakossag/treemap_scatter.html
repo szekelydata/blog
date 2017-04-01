@@ -1,0 +1,142 @@
+<!DOCTYPE xhtml>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta charset="utf-8">
+<head>
+	<style>
+	html,body,div{
+		height:100%;
+		width:100%;
+		overflow:hidden;
+		font-weight: bold;
+		font-family: "Comic Sans MS", "Trebuchet MS", "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+        
+	}
+	.dragdealer {
+            height: 30px;
+			width:636px;
+			margin-left:40px;
+            background: #EEE;
+            z-index: 50;
+        }
+        .dragdealer .handle {
+            top: 0;
+            left: 0;
+            cursor: pointer;
+        }
+        .dragdealer .red-bar {
+            width: 100px;
+            height: 30px;
+            background: #D90000;
+            color: #FFF;
+            font-size: 20px;
+            line-height: 30px;
+            text-align: center;
+            font-weight: bold;
+			font-family: "Trebuchet MS", "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+            
+        }
+        .dragdealer .red-bar:hover {
+            background: #000
+		.lbl {
+			font-weight: bold;
+			font-family: "Trebuchet MS", "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+		}
+	</style>
+    
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<script src="dragdealer.min.js"></script>
+      
+<body>
+
+<div id="imgcontainer" style="width:792px;height:637px;">
+	
+	<img id="map" src="szfmap_feher.png" alt="Map" width=630px height=600px; style="top:5px;position:fixed;left:80px;"/>
+	
+	<img src="frame.png" alt="frame" width=790px height=660px; style="top:-27px;position:fixed;left:0px;"/>
+	
+</div>
+<script>
+
+	var year=2014
+	var loc="83320 MUNICIPIUL MIERCUREA CIUC"
+	var source="perc"
+	
+	//scroll for PCs
+	var scal=Math.min(document.getElementById("imgcontainer").parentElement.offsetWidth/792,document.getElementById("imgcontainer").parentElement.offsetHeight/650)
+	document.getElementById("imgcontainer").style.WebkitTransform="scale("+scal+")";
+	document.getElementById("imgcontainer").style.OTransform="scale("+scal+")";
+	document.getElementById("imgcontainer").style.MozTransform="scale("+scal+")";
+	document.getElementById("imgcontainer").style.msTransform="scale("+scal+")";
+	document.getElementById("imgcontainer").style.Transform="scale("+scal+")";
+
+	document.getElementById("imgcontainer").style.WebkitTransformOrigin="0 0";
+	document.getElementById("imgcontainer").style.OTransformOrigin="0 0";
+	document.getElementById("imgcontainer").style.MozTransformOrigin="0 0";
+	document.getElementById("imgcontainer").style.msTransformOrigin="0 0";
+	document.getElementById("imgcontainer").style.TransformOrigin="0 0";
+	
+	function scrolltree(a)
+	{
+		if (a>0) year=Math.max(1995,year-1)
+		else year=Math.min(year+1,2014)
+		timedragdealer.setValue((year-1995)/19);
+	}
+	//swipe for touchscreens
+	timedragdealer = new Dragdealer("timeslider", {
+		x: (year-1995)/19,
+		steps: 20,
+		animationCallback: function(a) {
+			year=Math.round(a*19)+1995;
+			reset();
+			d3.select("#timeslider").select(".value").text('< '+year+' >');
+		}
+	});
+	
+	//init
+	//scrolltree(-1);
+	reset();
+	
+	function reset(){
+		d3.select("#korfa").attr("src",source+"/"+loc+"_"+year+"_korfa_population_pyramid.png");
+	}
+	
+	d3.selectAll("input").on("change", function change() {
+    var value = this.value === "count"
+        ? source="value"
+        : source="perc"
+		reset();
+
+		//source =="value"
+		//? d3.select("#korfa").attr("width","800px")
+		//: d3.select("#korfa").attr("width","792px")
+	})
+	
+	var xlim=[24.02,26.3]
+		ylim=[45.65,47.06]
+	
+	d3.json("dict.json",function(d){
+		for (i in d) {
+			d3.select("#imgcontainer").append("img")
+				.style("position","fixed")
+				.style("z-index","300")
+				.style("left",(d[i][2][1]-xlim[0])*585/(xlim[1]-xlim[0])+60+"px")
+				.style("top",560-(d[i][2][0]-ylim[0])*515/(ylim[1]-ylim[0])+"px")
+				.attr("src","tperc/"+i+"_2014_korfa_population_pyramid.png")
+				.attr("width",+Math.sqrt(d[i][1])/4+10+"px")
+				.attr("height",+Math.sqrt(d[i][1])/4+10+"px")
+				.style("margin-left",+(Math.sqrt(d[i][1])/4+10)/(-2)+"px")
+				.style("margin-top",+(Math.sqrt(d[i][1])/4+10)/(-2)+"px")
+				.style("z-index",20000-parseInt(d[i][1]/10))
+				.style("cursor","pointer")
+				.attr("onClick",'loc="'+i+'";reset();')
+				.attr("title",d[i][3])
+				.attr("alt",d[i][3])
+		}
+	});
+	window.onresize = function() {
+		window.location.reload();
+	}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2015 by csaladenes (http://jsbin.com/qexune/3/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>A Charlie Hebdo menetelés - Sajtószabadság, vallás és érdek az adatok szemszögéből.</title>
+<style id="jsbin-css">
+html,
+body {
+  font-family: "Trebuchet MS", "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+div.tooltip {
+  line-height: 1;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 6px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 4px;
+  z-index:2000;
+  position:absolute;
+}
+svg circle {
+  opacity: 0.;
+}
+.dragdealer {
+  height: 18px;
+  background: #EEE;
+  z-index: 50;
+}
+.dragdealer .handle {
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}
+.dragdealer .orange-bar {
+  width: 45px;
+  height: 18px;
+  background: #F80;
+  color: #FFF;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  font-weight: bold;
+}
+.dragdealer .orange-bar:hover {
+  background: #F60
+}
+</style>
+</head>
+
+<body>
+  <object id="rgbwheel" style="position:fixed;float:left;top:0px;left:0px;opacity:1;z-index:-100;width:100%;height:100%;opacity:1;" data="RGB_color_wheel.svg" type="image/svg+xml"></object>
+  <svg id="rgbshadow" height="0" width="0" style="position:fixed;float:left;top:0px;left:0px;opacity:1;z-index:-99;">
+
+    <defs>
+      <radialgradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+        <stop offset="0%" style="stop-color:rgb(0,0,0);stop-opacity:0" />
+        <stop offset="100%" style="stop-color:rgb(0,0,0);stop-opacity:0" />
+      </radialgradient>
+    </defs>
+
+    <ellipse cx="50%" cy="50%" rx="42%" ry="42%" fill="url(#grad1)" />
+
+    <line x1="50%" y1="50%" x2="92.5%" y2="50%" style="stroke:black;stroke-width:2" />
+    <line x1="50%" y1="49%" x2="50%" y2="51%" style="stroke:black;stroke-width:2" />
+    <line x1="54.2%" y1="49%" x2="54.2%" y2="51%" style="stroke:black;stroke-width:2" />
+    <line x1="58.5%" y1="49%" x2="58.5%" y2="51%" style="stroke:black;stroke-width:2" />
+    <line x1="62.7%" y1="49%" x2="62.7%" y2="51%" style="stroke:black;stroke-width:2" />
+    <line x1="67%" y1="49%" x2="67%" y2="51%" style="stroke:black;stroke-width:2" />
+    <line x1="71.2%" y1="49%" x2="71.2%" y2="51%" style="stroke:black;stroke-width:2" />
+    <line x1="75.4%" y1="49%" x2="75.4%" y2="51%" style="stroke:black;stroke-width:2" />
+    <line x1="79.7%" y1="49%" x2="79.7%" y2="51%" style="stroke:black;stroke-width:2" />
+    <line x1="83.9%" y1="49%" x2="83.9%" y2="51%" style="stroke:black;stroke-width:2" />
+    <line x1="88.2%" y1="49%" x2="88.2%" y2="51%" style="stroke:black;stroke-width:2" />
+    <line x1="92.4%" y1="49%" x2="92.4%" y2="51%" style="stroke:black;stroke-width:2" />
+
+    <text x="57%" y="48%" fill="black">20%</text>
+    <text x="65.4%" y="48%" fill="black">40%</text>
+    <text x="73.8%" y="48%" fill="black">60%</text>
+    <text x="82.2%" y="48%" fill="black">80%</text>
+    <text x="90.4%" y="48%" fill="black">100%</text>
+
+    <circle cx="50%" cy="50%" r="21.2%" fill="none" stroke="black" stroke-width="2" stroke-dasharray="5,5" />
+    <circle cx="50%" cy="50%" r="29.7%" fill="none" stroke="black" stroke-width="2" stroke-dasharray="5,5" />
+    <circle cx="50%" cy="50%" r="12.8%" fill="none" stroke="black" stroke-width="2" stroke-dasharray="5,5" />
+    <circle cx="50%" cy="50%" r="42.5%" fill="none" stroke="black" stroke-width="2" stroke-dasharray="5,5" />
+	
+	<circle cx="43.5%" cy="17.5%" r="1%" fill="white" stroke="black" stroke-width="2" />
+	<circle cx="43.5%" cy="14.5%" r="1%" fill="black" stroke="black" stroke-width="2" />
+	
+	<circle cx="17%" cy="54.5%" r="2%" fill="none" stroke="black" stroke-width="2" />
+	<circle cx="15.5%" cy="54.5%" r="3.5%" fill="none" stroke="black" stroke-width="2" />
+	<circle cx="14%" cy="54.5%" r="5%" fill="none" stroke="black" stroke-width="2" />
+	
+	<text x="45%" y="15%" fill="black">távol maradt</text>
+	<text x="45%" y="18%" fill="black">megjelent a menetelésen</text>
+	<text x="8.8%" y="55.1%" fill="black">100 50 10</text>
+	<text x="9.8%" y="62.9%" fill="black">Sajtószabadsági</text>
+	<text x="12.4%" y="66.1%" fill="black">mutató</text>
+	
+    <text x="72.2%" y="53.5%" fill="black">Többség részelőnye</text>
+
+  </svg>
+  <canvas id="myCanvas" style="position:fixed;float:left;top:0px;left:0px;width:100%;height:100%;opacity:1;z-index:-90;"></canvas>
+  <div id="chart" style="margin:0px; opacity:1;"></div>
+
+
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+  <script src="dragdealer.js"></script>
+<script id="jsbin-javascript">
+//rgb color wheel adapted from: http://upload.wikimedia.org/wikipedia/commons/c/c5/RGB_color_wheel_10.svg
+
+//var path="https://dl.dropboxusercontent.com/u/333992592/_playground/";
+var path="";
+
+var width = window.innerWidth,
+  height = window.innerHeight;
+radius = Math.min(height, width) / 2 - 10;
+
+var svg = d3.select("#chart").append("svg")
+  .attr("width", width)
+  .attr("height", height);
+var rgbs = d3.select("#rgbshadow")
+  .attr("width", radius * 2 + "px")
+  .attr("height", radius * 2 + "px")
+  .style("top", height / 2 - radius + "px")
+  .style("left", width / 2 - radius + "px");
+var tiptext = "no data";
+
+// Define div for tooltips
+var tooltipdiv = d3.select("body")
+	.append("div")  
+	.attr("class", "tooltip")            
+	.style("visibility", "hidden")
+	.on("mouseover",function(){
+		tooltipdiv.style("visibility", "visible");})
+	.on("mouseout",function(){
+		tooltipdiv.style("visibility", "hidden");})
+	.on("click",function(){
+		tooltipdiv.style("visibility", "hidden");});
+
+var format2Number = d3.format(",.1f"),
+    format2 = function(a) {
+        return format2Number(a)
+    }
+var tipshow=function(){
+            tooltipdiv.style("visibility", "visible");
+			var igen="nem";
+			if (tiptext[1].head) igen="igen";
+			tooltipdiv.html(function() {
+				return '<table><tr><td colspan=2 style="color:lime">'+tiptext[1].hun+'</td></tr><tr><td>Keresztények:</td><td>'+tiptext[1].Christian+' %</td></tr><tr><td>Muzulmánok:</td><td>'+tiptext[1].Muslim+' %</td></tr><tr><td>Más vallásúak:</td><td>'+format2(100-parseFloat(tiptext[1].Christian)-parseFloat(tiptext[1].Muslim))+' %</td></tr><td>FRA Import rész:</td><td>'+tiptext[1].import+' %</td></tr><tr><td>FRA Export rész:</td><td>'+tiptext[1].export+' %</td></tr><tr><td>FRA Távolság:</td><td>'+tiptext[1].dist+' km</td></tr><tr><td>Sajtószabadság:</td><td>'+format2(tiptext[1].press)+'</td></tr><tr><tr><td>Menetelt Párizsban:</td><td>'+igen+' </td></tr></table>';
+			  })	 
+				.style("left", (d3.event.pageX-70) + "px")			 
+				.style("top", (d3.event.pageY - 170) + "px");
+				
+			
+};	
+var tiphide=function(){
+	tooltipdiv.style("visibility", "hidden");
+};
+
+d3.select("#rgbshadow").selectAll("text")
+  .attr("font-size", 0.045 * radius);
+d3.select("#rgbwheel").attr("data",path+"RGB_color_wheel.svg");
+
+var rgbs = d3.select("#myCanvas")
+  .attr("width", width)
+  .attr("height", height);
+
+function drawTextAlongArc(context, str, centerX, centerY, radi, angle) {
+  var len = str.length,
+    s;
+  context.save();
+  context.translate(centerX, centerY);
+  context.rotate(-1 * angle / 2);
+  context.rotate(-1 * (angle / len) / 2);
+  for (var n = 0; n < len; n++) {
+    context.rotate(angle / len);
+    context.save();
+    context.translate(0, -1 * radi);
+    s = str[n];
+    context.fillText(s, 0, 0);
+    context.restore();
+  }
+  context.restore();
+}
+var canvas = document.getElementById('myCanvas');
+var context = canvas.getContext('2d');
+var centerX = width / 2;
+var centerY = height / 2;
+
+
+angle = Math.PI * 2;
+
+radi = radius * 0.9;
+context.font = 5 + radius / 25 + 'pt Trebuchet MS';
+context.fillStyle = 'black';
+context.strokeStyle = 'black';
+drawTextAlongArc(context, 'öbbség                Muzulmán többség            Keresztény többség                Más t', centerX, centerY, radi, angle);
+
+angle = Math.PI * 2;
+
+radi = radius * 0.8;
+context.font = 3 + radius / 70 + 'pt Trebuchet MS';
+context.fillStyle = 'black';
+context.strokeStyle = 'black';
+drawTextAlongArc(context, '                                                                                                                                                                                                 forrás: saját számítások Wikipédia alapján               ', centerX, centerY, radi, angle);
+
+angle = Math.PI * 0.5;
+
+radi = radius * 0.8;
+context.font = 3 + radius / 70 + 'pt Trebuchet MS';
+context.fillStyle = 'black';
+context.strokeStyle = 'black';
+drawTextAlongArc(context, '             csaladen.es | @csaladenes                                  ', centerX, centerY, radi, angle);
+
+
+var hdirgb2 = function(christian, muslim, cx, cy, cr) {
+  var x = cx;
+  var y = cy;
+
+  var r = christian/100;
+  var g = muslim/100;
+  var b = 1-r-g;
+
+  var minx = Math.min(r, g, b);
+  //var minx=0;
+  r = r - minx;
+  g = g - minx;
+  b = b - minx;
+
+  var rr = cr * 0.86;
+  x = cx + rr * (Math.sin(2 * Math.PI / 3) * r + Math.sin(4 * Math.PI / 3) * g + Math.sin(0 * Math.PI / 3) * b);
+  y = cy + rr * (Math.cos(2 * Math.PI / 3) * r + Math.cos(4 * Math.PI / 3) * g + Math.cos(0 * Math.PI / 3) * b);
+  return [x, y];
+};
+
+var dd=[];
+
+var test=function(){
+  
+  svg.append("path")
+    .attr("d","M "+hdirgb2(100,0, width / 2, height / 2, radius)[0]+" "+hdirgb2(100,0, width / 2, height / 2, radius)[1]+" L "+hdirgb2(0,0, width / 2, height / 2, radius)[0]+" "+hdirgb2(0,0, width / 2, height / 2, radius)[1]+" L "+hdirgb2(0,100, width / 2, height / 2, radius)[0]+" "+hdirgb2(0,100, width / 2, height / 2, radius)[1]+" L "+hdirgb2(100,0, width / 2, height / 2, radius)[0]+" "+hdirgb2(100,0, width / 2, height / 2, radius)[1])
+  .attr("fill","none")
+  .attr("stroke","black")
+  .attr("stroke-width","3");
+  
+    d3.json(path+"data-hun.json", function(d) {
+      for (var j in d){
+        dd.push(d[j]);
+        dd[dd.length-1]['key']=j;
+        if (dd[dd.length-1].head) {
+          dd[dd.length-1].press=dd[dd.length-1].press/100;
+        }
+        }
+      dd.sort(function(a, b) {
+          return b.press-a.press;
+      })
+      for (var k in dd){
+      if (dd[k].head) {
+          dd[k].press=dd[k].press*100;
+        }
+      }  
+      for (var i in dd){
+        svg.append("circle")
+    .attr("cx", hdirgb2(dd[i].Christian,dd[i].Muslim, width / 2, height / 2, radius)[0])
+    .attr("cy", hdirgb2(dd[i].Christian,dd[i].Muslim, width / 2, height / 2, radius)[1])
+    //.attr("r",3+25*value[5])
+    .attr("r", dd[i].press/5+10)
+    .attr("fill",function(){
+          if (dd[i].head) return "white";
+          else return "black";
+        })
+  .attr("stroke","black")
+  .attr("stroke-width","2")
+   .style("opacity",function(){
+          if (dd[i].head) return 0.7;
+          else return 0.5;
+        });
+        
+        svg.append("text")
+    .attr("x", hdirgb2(dd[i].Christian,dd[i].Muslim, width / 2, height / 2, radius)[0])
+    .attr("y", hdirgb2(dd[i].Christian,dd[i].Muslim, width / 2, height / 2, radius)[1])
+    .attr("dy", dd[i].press/10+3) //center text in circles
+    .text(dd[i].code)
+    .attr("text-anchor", "middle")
+    .attr("font-size", dd[i].press/5+6)
+    .style("fill", function(){
+          if (dd[i].head) return "black";
+          else return "white";
+        });
+        
+        svg.append("circle")
+    .attr("cx", hdirgb2(dd[i].Christian,dd[i].Muslim, width / 2, height / 2, radius)[0])
+    .attr("cy", hdirgb2(dd[i].Christian,dd[i].Muslim, width / 2, height / 2, radius)[1])
+    //.attr("r",3+25*value[5])
+    .attr("r", dd[i].press/5+10)
+    .style("opacity",0)
+    .datum([dd[i].key,dd[i]])
+    .on("mouseover", function(e) {
+            tiptext = e;
+            tipshow();
+            return;
+          })
+    .on("mouseout", tiphide);
+    
+      }
+    });
+    };
+    
+
+test();
+</script>
+</body>
+
+</html>

@@ -1,0 +1,157 @@
+<!DOCTYPE xhtml>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta charset="utf-8">
+<head>
+	<style>
+	html,body,div{
+		height:100%;
+		width:100%;
+		overflow:hidden;
+		font-weight: bold;
+			font-family: "Comic Sans MS", "Trebuchet MS", "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+            
+	}
+	.dragdealer {
+            height: 30px;
+			width:636px;
+			margin-left:40px;
+            background: #EEE;
+            z-index: 50;
+        }
+        .dragdealer .handle {
+            top: 0;
+            left: 0;
+            cursor: pointer;
+        }
+        .dragdealer .red-bar {
+            width: 100px;
+            height: 30px;
+            background: #D90000;
+            color: #FFF;
+            font-size: 20px;
+            line-height: 30px;
+            text-align: center;
+            font-weight: bold;
+			font-family: "Trebuchet MS", "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+            
+        }
+        .dragdealer .red-bar:hover {
+            background: #000
+	</style>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+	<script src="dragdealer.min.js"></script>
+    
+<body>
+
+<div id="imgcontainer" onmousewheel="scrolltree(event.wheelDelta)" style="width:792px;height:560px;">
+<img id="korfa" src="" alt="Korfa" width=792px height=504px;/>
+<div id="timeslider" title="Tallózz az évek között. Azonos az egérgögetéssel." class="dragdealer" style="position:fixed; bottom:20; left:40;">
+            <div class="handle red-bar"> 
+				<span class="value"></span>
+            </div>
+</div>
+<select id="framemap" style="position:fixed; top:0px; left:180px; width:315px;">
+	<option value="szf">Székelyföld</option>
+	<option value="HR">Hargita megye</option>
+	<option value="CV">Kovászna megye</option>
+	<option value="MS">Maros megye</option>
+	<option value="3m">Mindhárom megye</option>
+	<option value="szf">----------</option>
+</select>
+<form style="top:0px;position:fixed;left:500px;z-index:2000;">
+	  <label><input id="bev" type="radio" name="mode" value="size" checked>Eloszlás</label>
+	  <label><input id="szam" type="radio" name="mode" value="count" >Lakos</label>
+	</form>
+</div>
+<script>
+	//initvalues
+	var year=2014;
+	var loc="szf";
+	var source="perc";
+	
+	//scroll for PCs
+	var scal=Math.min(document.getElementById("imgcontainer").parentElement.offsetWidth/792,document.getElementById("imgcontainer").parentElement.offsetHeight/560)
+	document.getElementById("imgcontainer").style.WebkitTransform="scale("+scal+")";
+	document.getElementById("imgcontainer").style.OTransform="scale("+scal+")";
+	document.getElementById("imgcontainer").style.MozTransform="scale("+scal+")";
+	document.getElementById("imgcontainer").style.msTransform="scale("+scal+")";
+	document.getElementById("imgcontainer").style.Transform="scale("+scal+")";
+
+	document.getElementById("imgcontainer").style.WebkitTransformOrigin="0 0";
+	document.getElementById("imgcontainer").style.OTransformOrigin="0 0";
+	document.getElementById("imgcontainer").style.MozTransformOrigin="0 0";
+	document.getElementById("imgcontainer").style.msTransformOrigin="0 0";
+	document.getElementById("imgcontainer").style.TransformOrigin="0 0";
+	
+	function scrolltree(a)
+	{
+		if (a>0) year=Math.max(1995,year-1)
+		else year=Math.min(year+1,2014)
+		timedragdealer.setValue((year-1995)/19);
+	}
+	//swipe for touchscreens
+	timedragdealer = new Dragdealer("timeslider", {
+		x: (year-1995)/19,
+		steps: 20,
+		animationCallback: function(a) {
+			year=Math.round(a*19)+1995;
+			reset();
+			d3.select("#timeslider").select(".value").text('< '+year+' >');
+		}
+	});
+	
+	//init
+	reset();
+	
+	function reset(){
+		d3.select("#korfa").attr("src",source+"/"+loc+"_"+year+"_korfa_population_pyramid.png");
+	}
+	
+	d3.selectAll("input").on("change", function change() {
+    var value = this.value === "count"
+        ? source="value"
+        : source="perc"
+		reset();
+	})
+	
+	var clist=d3.select("#framemap");
+	d3.json("dict.json",function(d){
+		for (i in d) {
+			clist.append("option").text(d[i][3])
+			.attr("value",i)
+		}
+	})
+	
+	clist.on("change",function(){
+		loc=clist.node().value;
+		reset();
+	})
+	
+	clist.selectAll("option").sort();
+	
+	window.onresize = function() {
+		window.location.reload();
+	}
+	
+	document.addEventListener("keydown", function ( event ) {
+	if (( event.keyCode >= 33 && event.keyCode <= 34 ) || (event.keyCode >= 37 && event.keyCode <= 40)) {
+		switch( event.keyCode ) {
+			case 33: // pg up
+			case 37: // left
+			case 38: // up
+					 scrolltree(1);
+					 break;
+			case 34: // pg down
+			case 39: // right
+			case 40: // down 
+					 scrolltree(-1);
+					 break;
+		}
+		
+		event.preventDefault();
+	}
+}, false);
+</script>
+
+</body>
+</html>

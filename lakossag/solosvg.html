@@ -1,0 +1,167 @@
+<!DOCTYPE xhtml>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta charset="utf-8">
+<head>
+	<style>
+	html,body,div{
+		height:100%;
+		width:100%;
+		overflow:hidden;
+		font-weight: bold;
+		font-family: "Comic Sans MS", "Trebuchet MS", "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+        
+	}
+	.dragdealer {
+            height: 30px;
+			width:636px;
+			margin-left:40px;
+            background: #EEE;
+            z-index: 50;
+        }
+        .dragdealer .handle {
+            top: 0;
+            left: 0;
+            cursor: pointer;
+        }
+        .dragdealer .red-bar {
+            width: 100px;
+            height: 30px;
+            background: #D90000;
+            color: #FFF;
+            font-size: 20px;
+            line-height: 30px;
+            text-align: center;
+            font-weight: bold;
+			font-family: "Trebuchet MS", "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+            
+        }
+        .dragdealer .red-bar:hover {
+            background: #000
+		
+	</style>
+    
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<script src="dragdealer.min.js"></script>
+      
+<body>
+
+<div id="imgcontainer" onmousewheel="scrolltree(event.wheelDelta)" style="width:792px;height:1120px;">
+	
+	<img id="map" src="szfmap_feher.png" alt="Map" width=620px height=570px; style="top:5px;position:fixed;left:10px;"/>
+	
+	<img src="frame.png" alt="frame" width=790px height=637px; style="top:-27px;position:fixed;left:-80px;"/>
+	
+	<svg id="framemap" width=790px height=637px style="top:0px;position:fixed;left:-80px;"></svg>
+		
+</div>
+<script>
+	
+	var svg=d3.select("#framemap");
+	
+		
+	//scroll for PCs
+	var scal=Math.min(document.getElementById("imgcontainer").parentElement.offsetWidth/792,document.getElementById("imgcontainer").parentElement.offsetHeight/600)
+	document.getElementById("imgcontainer").style.WebkitTransform="scale("+scal+")";
+	document.getElementById("imgcontainer").style.OTransform="scale("+scal+")";
+	document.getElementById("imgcontainer").style.MozTransform="scale("+scal+")";
+	document.getElementById("imgcontainer").style.msTransform="scale("+scal+")";
+	document.getElementById("imgcontainer").style.Transform="scale("+scal+")";
+
+	document.getElementById("imgcontainer").style.WebkitTransformOrigin="0 0";
+	document.getElementById("imgcontainer").style.OTransformOrigin="0 0";
+	document.getElementById("imgcontainer").style.MozTransformOrigin="0 0";
+	document.getElementById("imgcontainer").style.msTransformOrigin="0 0";
+	document.getElementById("imgcontainer").style.TransformOrigin="0 0";
+	
+	
+	
+	
+	var xlim=[24.02,26.3]
+		ylim=[45.65,47.06]
+		
+	
+	
+	d3.json("dict.json",function(d){
+		
+		for (i in d) {
+			svg.append("circle")
+				.attr("cx",(d[i][2][1]-xlim[0])*585/(xlim[1]-xlim[0])+60)
+				.attr("cy",560-(d[i][2][0]-ylim[0])*515/(ylim[1]-ylim[0]))
+				.attr("r",+Math.sqrt(d[i][1])/6+1)
+				.style("stroke","black")
+				.style("stroke-width",2)
+				.style("fill",function(){
+						if (i=="119625 STINCENI") return "#ffbfbf"
+						if (i=="118931 RASTOLITA") return "#ffbfbf"
+						if (i=="116545 DEDA") return "#ffbfbf"
+						if (i=="119153 RUSII-MUNTI") return "#ffbfbf"
+						if (i=="115147 ALUNIS") return "#ffbfbf"
+						if (i=="114809 MUNICIPIUL REGHIN") return "#ffbfbf"
+						if (i=="115520 BATOS") return "#ffbfbf"
+						if (i=="115183 APOLD") return "#ffbfbf"
+						if (i=="114514 MUNICIPIUL SIGHISOARA") return "#ffbfbf"
+						if (i=="119206 SASCHIZ") return "#ffbfbf"
+						if (i=="114603 ALBESTI") return "#ffbfbf"
+						if (i=="116493 DANES") return "#ffbfbf"
+						if (i=="120218 VIISOARA") return "#ffbfbf"
+						if (i=="120343 ZAGAR") return "#ffbfbf"
+						if (i=="118469 NADES") return "#ffbfbf"
+						if (i=="115575 BAGACIU") return "#ffbfbf"
+						if (i=="118209 MICA") return "#ffbfbf"
+						if (i=="116395 CUCERDEA") return "#ffbfbf"
+						if (i=="115076 ADAMUS") return "#ffbfbf"
+						if (i=="114925 MUNICIPIUL TARNAVENI") return "#ffbfbf"
+						if (i=="115771 BICHIS") return "#ffbfbf"
+						if (i=="116046 CHETANI") return "#ffbfbf"
+						if (i=="117827 ORAS IERNUT") return "#ffbfbf"
+						if (i=="114710 ORAS LUDUS") return "#ffbfbf"
+						if (i=="118637 PAPIU ILARIAN") return "#ffbfbf"
+						if (i=="119386 SANGER") return "#ffbfbf"
+						if (i=="118370 MIHESU DE CIMPIE") return "#ffbfbf"
+						if (i=="119242 ORAS SARMASU") return "#ffbfbf"
+						if (i=="118824 POGACEAUA") return "#ffbfbf"
+						if (i=="119527 SINPETRU DE CIMPIE") return "#ffbfbf"
+						if (i=="115851 BREAZA") return "#ffbfbf"
+						if (i=="118799 PETELEA") return "#ffbfbf"
+						if (i=="115708 BEICA DE JOS") return "#ffbfbf"
+						if (i=="116224 COZMA") return "#ffbfbf"
+						if (i=="115600 BALA") return "#ffbfbf"
+						if (i=="118058 LUNCA BRADULUI") return "#ffbfbf"
+						if (i=="120138 VATAVA") return "#ffbfbf"
+						if (i=="116723 FARAGAU") return "#ffbfbf"
+						if (i=="117998 LUNCA") return "#ffbfbf"
+						if (i=="119590 SOLOVASTRU") return "#ffbfbf"
+						if (i=="115897 BRINCOVENESTI") return "#ffbfbf"
+						if (i=="119723 SUSENI") return "#ffbfbf"
+						if (i=="117783 IDECIU DE JOS") return "#ffbfbf"
+						if (i=="116340 CRAIESTI") return "#ffbfbf"
+						if (i=="119858 TAURENI") return "#ffbfbf"
+						if (i=="119974 VALEA LARGA") return "#ffbfbf"
+						if (i=="119750 SAULIA") return "#ffbfbf"
+						if (i=="120370 ZAU DE CIMPIE") return "#ffbfbf"
+						if (i=="117319 GURGHIU") return "#ffbfbf"
+						if (i=="117550 IBANESTI") return "#ffbfbf"
+						if (i=="117426 HODAC") return "#ffbfbf"
+						if (i=="120316 VOIVODENI") return "#ffbfbf"
+						if (i=="116938 GANESTI") return "#ffbfbf"
+						if (i=="116439 CUCI") return "#ffbfbf"
+						if (i=="115236 ATINTIS") return "#ffbfbf"
+						if (i=="115824 BOGATA") return "#ffbfbf"
+					else return "red"
+				})
+				.style("opacity",0.5)
+				.style("z-index",20000-parseInt(d[i][1]/10))
+				.style("cursor","pointer")
+				.data([d[i].concat(i),""])
+		}
+		var selection=svg.selectAll("circle");
+		selection
+				.append("title").text(function(d){return d[3]+': '+parseInt(d[1])+' lakos';})
+	});
+	window.onresize = function() {
+		window.location.reload();
+	}
+</script>
+
+</body>
+</html>
