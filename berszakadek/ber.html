@@ -1,0 +1,56 @@
+<!doctype html>
+<title>Női bérszakadék Székelyföldön és Erdélyben</title>
+<link rel="stylesheet" type="text/css" href="d3.parcoords.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+<style>
+/* data table styles */
+#grid { height: 198px; widht:100%; }
+.row, .header { clear: left; font-size: 12px; line-height: 18px; height: 18px; }
+.row:nth-child(odd) { background: rgba(0,0,0,0.05); }
+.header { font-weight: bold; }
+.cell { float: left; overflow: hidden; white-space: nowrap; width: 40px; height: 18px; }
+.col-11 { width: 250px; }
+</style>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="d3.parcoords.js"></script>
+<script src="divgrid.js"></script>
+
+<div id="example" class="parcoords" style="height:200px;width:100%;position:fixed;top:0px;left:0px;background-color:#fff;"></div>
+<div id="grid" style="margin-top:200px;"></div>
+<script id="brushing">// quantitative color scale
+
+var parcoords = d3.parcoords()("#example")
+  .alpha(0.4);
+
+// load csv file and create the chart
+d3.csv('data.csv', function(data) {
+  parcoords
+    .data(data)
+    .hideAxis(["Agazat"])
+    .render()
+    .brushMode("1D-axes");  // enable brushing
+
+  // create data table, row hover highlighting
+  var grid = d3.divgrid();
+  d3.select("#grid")
+    .datum(data)
+    .call(grid)
+    .selectAll(".row")
+    .on({
+      "mouseover": function(d) { parcoords.highlight([d]) },
+      "mouseout": parcoords.unhighlight
+    });
+
+  // update data table on brush event
+  parcoords.on("brush", function(d) {
+    d3.select("#grid")
+      .datum(d)
+      .call(grid)
+      .selectAll(".row")
+      .on({
+        "mouseover": function(d) { parcoords.highlight([d]) },
+        "mouseout": parcoords.unhighlight
+      });
+  });
+});
+</script>

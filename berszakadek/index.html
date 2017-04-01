@@ -1,0 +1,713 @@
+
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<title>Női bérszakadék Székelyföldön és Erdélyben</title>
+<script src="http://metrocosm.com/js/d3.v3.min.js"></script>
+<link rel="stylesheet" type="text/css" href="http://metrocosm.com/css/tooltip.css">
+<style>
+
+html,body {
+
+  width: 650px;
+  float: center;
+    height: 380px;
+	font-family: "Righteous", "Comfortaa", "Trebuchet MS";
+}
+
+#buttons {
+	    padding-top: 8px;
+	    padding-bottom: 8px;
+	    margin-top: 10px;
+	    margin-bottom: 10px;
+	    width: 650px;
+	    display:inline;
+}
+
+#chart {
+  margin-top: 30px;
+  min-width: 650px;
+  width: 650px;
+  float: center;
+    height: 380px;
+}
+
+input[type=range] {
+    /*removes default webkit styles*/
+    -webkit-appearance: none;
+    
+    /*fix for FF unable to apply focus style bug */
+    border: 1px solid transparent;
+    
+    /*required for proper track sizing in FF*/
+    width: 250px;
+}
+input[type=range]::-webkit-slider-runnable-track {
+    width: 250px;
+    height: 5px;
+    background: #ddd;
+    border: none;
+    border-radius: 3px;
+}
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    border: none;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: orange;
+    margin-top: -4px;
+}
+input[type=range]:focus {
+    outline: none;
+}
+input[type=range]:focus::-webkit-slider-runnable-track {
+    background: #ccc;
+}
+
+input[type=range]::-moz-range-track {
+    width: 250px;
+    height: 5px;
+    background: #ddd;
+    border: none;
+    border-radius: 3px;
+}
+input[type=range]::-moz-range-thumb {
+    border: none;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: orange;
+}
+
+/*hide the outline behind the border*/
+input[type=range]:-moz-focusring{
+    outline: 1px solid white;
+    outline-offset: -1px;
+}
+
+input[type=range]::-ms-track {
+    width: 550px;
+    height: 5px;
+    
+    /*remove bg colour from the track, we'll use ms-fill-lower and ms-fill-upper instead */
+    background: transparent;
+    
+    /*leave room for the larger thumb to overflow with a transparent border */
+    border-color: transparent;
+    border-width: 6px 0;
+
+    /*remove default tick marks*/
+    color: transparent;
+}
+input[type=range]::-ms-fill-lower {
+    background: #777;
+    border-radius: 10px;
+}
+input[type=range]::-ms-fill-upper {
+    background: #ddd;
+    border-radius: 10px;
+}
+input[type=range]::-ms-thumb {
+    border: none;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: orange;
+}
+input[type=range]:focus::-ms-fill-lower {
+    background: #888;
+}
+input[type=range]:focus::-ms-fill-upper {
+    background: #ccc;
+}
+
+text {
+  font: 10px "Righteous", "Comfortaa", "Trebuchet MS";
+}
+
+.laborforce {
+	font: 20px "Righteous", "Comfortaa", "Trebuchet MS";
+	font-weight:bold;
+}
+
+.laborforcesub {
+	font: 16px "Righteous", "Comfortaa", "Trebuchet MS";
+	font-weight:bold;
+}
+
+.dot {
+  stroke: #000;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.label {
+  fill: rgb(40,40,40);
+}
+
+.year.label {
+  font: 500 60px "Righteous", "Comfortaa", "Trebuchet MS";
+  fill: rgb(88,88,88);
+}
+
+.year.label.active {
+  fill: #aaa;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+  cursor: ew-resize;
+}
+
+.buttons1 {
+	float: left;
+	text-align: right;
+	width: 175px;
+	padding-bottom: 10px;
+}
+
+.buttons2 {
+	position: relative;
+	top: 0px;
+	left: 20px;
+	float: left;
+	text-align: left;
+	width: 195px;
+	padding-bottom: 10px;
+}
+.buttons3 {
+	display:inline;
+	position: relative;
+	top: 0px;
+	left: 40px;
+}
+
+#option {
+	position: relative;
+	top: 0px;
+	left: 5px;
+}
+@font-face {
+    font-family: "Righteous";
+    src: url(Righteous-Regular.ttf) format("truetype");
+}
+.customfont { 
+    font-family: "Righteous", "Comfortaa", "Trebuchet MS";
+}
+a {
+	text-decoration:none;
+	font-size:10px;
+	color:#999;
+}
+.aa {
+	color:#f60;
+	font-size:14px;
+	margin-left:8px;
+}
+.aa:hover {
+	text-decoration:underline;
+}
+</style>
+
+<header>
+
+</header>
+
+<body style="overflow:hidden;">
+<div style="margin-left:65px;border-bottom:solid 1px #f60; width:645px;">
+	<span><a href="HR.html" target="_self" class="aa">Hargita megye</a></span>
+	<span class="aa">|</span>
+	<span><a href="CV.html" target="_self" class="aa">Kovászna megye</a></span>
+	<span class="aa">|</span>
+	<span><a href="MS.html" target="_self" class="aa">Maros megye</a></span>
+	<span class="aa">|</span>
+	<span><a href="SZF.html" target="_self" class="aa">Székelyföld</a></span>
+	<span class="aa">|</span>
+	<span><a href="TR.html" target="_self" class="aa">Erdély</a></span>
+	<span class="aa">|</span>
+	<span><a href="RO.html" target="_self" class="aa">Románia</a></span>
+</div>
+<div id = "buttons" style="padding-top:30px;">
+	
+
+	
+		<span class="laborforcesub">Székelyföld</span>
+			<select id="option">
+			  <option value="1">Munkaerő</option>
+			  <option value="2">Bérek</option>
+			</select>
+		
+	<div class="buttons3">
+		<input type="range" step="1" defaultValue="1991" min="1991" max="2014" id="yearslider">
+		<input id="playbutton" type="button" value="stop" style="width:105px;"/>
+	</div>
+</div>
+
+
+<p id="chart"></p>
+<a href="http://csaladenes.egologo.ro" target="_blank"><img src="../szekelydata.png" style="position:relative;float:left;bottom:60px;left:70px;width:40px;"/></a>
+<a href="http://www.insse.ro/cms/" target="_blank" style="position:relative;float:left;bottom:32px;left:76px;width:100px;">adat: insse.ro</a>
+<a href="http://www.csaladen.es" target="_blank" style="position:relative;float:left;bottom:47px;left:-25px;width:100px;">csaladen.es</a>
+<a href="https://twitter.com/csaladenes" target="_blank" style="position:relative;float:left;bottom:62px;left:-125px;width:100px;">@csaladenes</a>
+<div id ="tooltipContainer" style="overflow:hidden;">
+    <div class="tooltipTitle">Developer : 2014</div>
+
+    <div class="tooltipMetricContainer"> 
+      <span class="tooltipMetricName">Férfi dolgozók:</span>
+      <span class="tooltipMetricValue ttm">1,222,000</span>
+    </div>
+    <div class="tooltipMetricContainer"> 
+      <span class="tooltipMetricName">Női dolgozók:</span>
+      <span class="tooltipMetricValue2">1,222,000</span>
+    </div>
+    <div class="tooltipMetricContainer2"> 
+      <span class="tooltipMetricName">Férfiak átlagbére:</span>
+      <span class="tooltipMetricValue3">1,222,000</span>
+    </div>
+    <div class="tooltipMetricContainer"> 
+      <span class="tooltipMetricName">Nők átlagbére:</span>
+      <span class="tooltipMetricValue4">1,222,000</span>
+    </div>
+ 
+</div>
+
+
+
+<script>
+
+
+
+// Various accessors that specify the four dimensions of data to visualize.
+function x(d) { return d.income; }
+function y(d) { return d.lifeExpectancy; }
+function radius(d) { return d.population; }
+function color(d) { return d.region; }
+function avgwage(d) { return d.avgwage; }
+function key(d) { return d.name; }
+
+var labelx = 2;
+var labely = 8;
+var labelanchor = "middle";
+var yr = 1991;
+var yrstart = 1991;
+var radiusvariable = 1;
+
+var simpleTooltip = d3.selectAll("#tooltipContainer")
+    .style("opacity", 0);
+
+/*
+var margin = {top: 19.5, right: 59.5, bottom: 279.5, left: 69.5},
+    width = 780 - margin.right - margin.left,
+    height = 660 - margin.top - margin.bottom;
+    */
+
+var margin = {top: 19.5, right: 20, bottom: 132, left: 63},
+    width = 734 - margin.right - margin.left,
+    height = 512 - margin.top - margin.bottom;
+
+d3.select("#yearslider")
+	.property("value", 2014);
+
+var regioselect=d3.select("#regio");
+
+d3.select("#buttons")
+	.style("position", "absolute")
+	.style("top", (4) + "px")
+	.style("left", "90px"); //((width-0)/2) + "px");
+
+ 
+// Various scales. These domains make assumptions of data, naturally.
+var xScale = d3.scale.linear().domain([0, 1]).range([0, width]),
+//    yScale = d3.scale.log().domain([.38, 1.2]).range([height, 0]),
+    yScale = d3.scale.linear().domain([.5, 1.25]).range([height, 0]),    
+    radiusScale = d3.scale.sqrt().domain([0, 100000]).range([0.5, 40]),
+    radiusScale2 = d3.scale.sqrt().domain([400, 2500]).range([0.5, 40]),
+    strokeScale = d3.scale.sqrt().domain([5000, 21000]).range([0, 5]),
+    colorScale = d3.scale.category20();
+
+
+
+// The x & y axes.
+var xAxis = d3.svg.axis().orient("bottom").scale(xScale).tickFormat(d3.format("%"))      //.ticks(12, d3.format(",d"))
+    .tickValues([0,.1,.2,.3,.4,.5,.6,.7,.8,.9,1]);
+    
+var yAxis = d3.svg.axis().scale(yScale).orient("left")
+    .tickFormat(d3.format("%"))
+    .tickValues([.5,.55,.6,.65,.7,.75,.8,.85,.9,.95,1,1.05,1.1,1.15,1.2,1.25]);
+
+// Create the SVG container and set the origin.
+//var svg = d3.select("#chart").append("svg")
+var svg = d3.select("#chart").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+
+var malearea = svg.append("rect")
+        .attr("class", "malearea")
+        .attr("x", 0)
+        .attr("y", yScale(1.25))
+        .attr("width", width/2)
+        .attr("height", height - yScale(1.25))
+        .style("fill","lightblue")
+        .style("opacity",.3);
+        
+var femalearea = svg.append("rect")
+        .attr("class", "malearea")
+        .attr("x", width/2)
+        .attr("y", yScale(1.25))
+        .attr("width", width/2)
+        .attr("height", height - yScale(1.25))
+        .style("fill","pink")
+        .style("opacity",.3);
+
+
+// Add the x-axis.
+svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(0," + height + ")")
+    .call(xAxis);
+
+
+// Add the y-axis.
+svg.append("g")
+    .attr("class", "y axis")
+    .call(yAxis);
+
+// Add temporary lines
+var line1 = svg.append("line")   //horizontal
+                         .attr("x1", 0)
+                         .attr("y1", yScale(1))
+                         .attr("x2", width)
+                         .attr("y2", yScale(1))
+                         .style("stroke","black")
+                         .style("stroke-width",1)
+                         .style("stroke-dasharray", ("3, 3"));
+
+var line2 = svg.append("line")    //vertical
+                         .attr("x1", width/2)
+                         .attr("y1", height)
+                         .attr("x2", width/2)
+                         .attr("y2", 0)
+                         .style("stroke","black")
+                         .style("stroke-width",1)
+                         .style("stroke-dasharray", ("3, 3"));
+                         
+
+
+
+
+
+
+// axis labels
+svg.append("text")
+    .attr("class", "y label")
+    .attr("text-anchor", "end")
+    .attr("x", -80)
+    .attr("y", -42)
+    .attr("dy", ".55em")
+    .attr("transform", "rotate(-90)")
+    .text("Nők bére a férfiakhoz viszonyítva, százalékban");
+
+
+
+svg.append("text")
+    .attr("class", "laborforce")
+    .attr("text-anchor", "end")
+    .attr("x", -150)
+    .attr("y", -50)
+    .style("font-weight","bold")
+    .attr("transform", "rotate(-90)")
+    .text("Bérszakadék");
+    
+
+svg.append("text")
+    .attr("class", "laborforce")
+    .attr("text-anchor", "middle")
+    .attr("x", width/2)
+    .attr("y", height + 55)
+    .text("Nők munkarészesedése");
+
+svg.append("text")
+    .attr("class", "x axis")
+    .attr("text-anchor", "middle")
+    .attr("x", width/2)
+    .attr("y", height + 35)
+    .text("Női munkaerő a teljes munkaerőhöz viszonyítva, százalékban"); 
+ 
+ 
+ 
+
+// Add the year label; the value is set on transition.
+var label = svg.append("text")
+    .attr("class", "year label")
+    .attr("text-anchor", "end")
+    .attr("y", height - 14)
+    .attr("x", width - 14)
+    .text(2014);
+
+
+// Load the data.
+d3.json("SZFnations.json", function(nations) {
+
+  // A bisector since many nation's data is sparsely-defined.
+  var bisect = d3.bisector(function(d) { return d[0]; });
+  var temp1 =0;
+  var temp2 =0;
+
+  //svg.selectAll(".dot").remove()
+  // Add a dot per nation. Initialize the data at 1960, and set the colors.
+  var dot = svg.append("g")
+      .attr("class", "dots")
+    .selectAll(".dot")
+      .data(interpolateData(1991))
+    .enter().append("circle")
+      .attr("class", "dot")
+      .style("fill", function(d) {return colorScale(color(d)); })
+      .style("stroke-width",1)
+      .style("opacity",0.8)
+      .call(position)
+      .sort(order)
+      .on("mouseover", function(d){
+        
+        updateTooltip(d, true);
+      })
+      .on("mouseout", function(d){
+        updateTooltip(d, false);
+      });
+
+
+//add labels
+var dot2 = svg.append("g")
+      .attr("class", "names")
+    .selectAll("name")
+      .data(interpolateData(1991))
+    .enter().append("text")
+      .attr("class", "name")
+      .style("text-anchor",labelanchor)
+      .style("fill", "black")
+//      .style("fill", function(d) { return getcolor(d.income);})
+      .call(positiont)
+//      .attr("x",387)
+//      .attr("y",373)
+//      .attr("r",20)
+      .text(function(d) { return d.name; })
+      .sort(order)
+	  .on("mouseover", function(d){
+        
+        updateTooltip(d, true);
+      })
+      .on("mouseout", function(d){
+        updateTooltip(d, false);
+      });
+
+  // Add an overlay for the year label.
+  var box = label.node().getBBox();
+
+  var overlay = svg.append("rect")
+        .attr("class", "overlay")
+//        .attr("x", box.x)
+//        .attr("y", box.y)
+        .attr("x", height*7/8)
+        .attr("y", width*3/4)
+        .attr("width", width*1/4)
+        .attr("height", width*1/8)
+        .on("mouseover", enableInteraction);
+        
+  // Start a transition that interpolates the data based on year.
+  svg.transition()
+      .duration(0)
+      .ease("linear")
+      .tween("year", tweenYear)
+      .each("end", enableInteraction);
+
+  // Positions the dots based on data.
+  function position(dot) {
+    dot .attr("cx", function(d) { return xScale(x(d)); })
+        .attr("cy", function(d) { return yScale(y(d)); })
+        .attr("r", function(d) {
+        	if (radiusvariable == 1) {
+        		return radiusScale(radius(d));
+        	} else{
+        		return radiusScale2(avgwage(d));
+        	}
+        });
+        
+  }
+  function positiont(t) {
+    t .attr("x", function(d) { return xScale(x(d)) + labelx; })
+        .attr("y", function(d) {
+        	if (radiusvariable == 1) {
+        		return yScale(y(d)) + radiusScale(radius(d)) + labely;
+        	} else{
+        		return yScale(y(d)) + radiusScale2(avgwage(d)) + labely;
+        	}
+
+        });
+          
+  }
+
+  // Defines a sort order so that the smallest dots are drawn on top.
+  function order(a, b) {
+    return radius(b) - radius(a);
+  }
+
+  // After the transition finishes, you can mouseover to change the year.
+  function enableInteraction() {
+    svg.transition().duration(0);
+	d3.select("#playbutton").property("value","lejátszás");  }
+
+  d3.select("#playbutton").on("click", function() {
+  	
+  	yrstart = yr;
+
+	if (this.value == "lejátszás"){
+		if (yrstart == 2014) {yrstart = 1991;}
+		d3.select("#playbutton").property("value","stop");
+		  svg.transition()
+		      .duration(400*(2014-yrstart))
+		      .ease("linear")
+		      .tween("year", tweenYear)
+		      .each("end", enableInteraction);
+	} else{    
+		d3.select("#playbutton").property("value","lejátszás");
+		svg.transition().duration(0);
+		
+	} 
+	  
+  });
+  
+
+  d3.select("#option").on("change", function() {
+	radiusvariable = this.value;
+	dot.call(position).sort(order);
+	dot2.call(positiont).sort(order);
+  });
+
+
+  d3.select("#yearslider").on("input", function() {
+	svg.transition().duration(0);
+	d3.select("#playbutton").property("value","lejátszás");
+	displayYear(parseInt(this.value));
+  });
+  
+  d3.select("#yearslider").on("change", function() {
+	svg.transition().duration(0);
+	d3.select("#playbutton").property("value","lejátszás");
+	displayYear(parseInt(this.value));
+  });
+	
+  // Tweens the entire chart by first tweening the year, and then the data.
+  // For the interpolated data, the dots and label are redrawn.
+  function tweenYear() {
+//    var year = d3.interpolateNumber(1960, 2013);
+	var year = d3.interpolateNumber(yrstart, 2014);
+    return function(t) { displayYear(year(t)); };
+  }
+
+  // Updates the display to show the specified year.
+  function displayYear(year) {
+    dot.data(interpolateData(year), key).call(position).sort(order);
+    dot2.data(interpolateData(year), key).call(positiont).sort(order);
+    label.text(Math.round(year));
+    d3.select("#yearslider").property("value", Math.round(year));
+    yr = Math.round(year);
+  }
+
+  // Interpolates the dataset for the given (fractional) year.
+  function interpolateData(year) {
+    return nations.map(function(d) {
+      return {
+        name: d.name,
+        region: d.region,
+        income: interpolateValues(d.income, year),
+        population: interpolateValues(d.population, year),
+        lifeExpectancy: interpolateValues(d.lifeExpectancy, year),
+        avgwage: interpolateValues(d.avgwage, year)
+      };
+    });
+  }
+
+  // Finds (and possibly interpolates) the value for the specified year.
+  function interpolateValues(values, year) {
+    var i = bisect.left(values, year, 0, values.length - 1),
+        a = values[i];
+    if (i > 0) {
+      var b = values[i - 1],
+          t = (year - a[0]) / (b[0] - a[0]);
+      return a[1] * (1 - t) + b[1] * t;
+    }
+    return a[1];
+  }
+  
+
+  
+});
+
+function formatter (n) {
+		var nn = parseInt(n);
+		return d3.format("0,000")(nn);
+}
+function formatter2 (n) {
+		var nn = parseInt(n);
+		return d3.format("0,00")(nn);
+}
+
+
+function updateTooltip(d, displayRequested){
+
+
+    if(!displayRequested){
+        // hide the tooltip
+        simpleTooltip.style("opacity", 0); // #1 hide on mouseout
+        simpleTooltip 
+
+            .style("left", (width*2) + "px")     
+            .style("top", (height*2) + "px"); // fudge factor 36
+    }else{ // show the tooltip
+
+var newtitle = d.name + " - " + yr;
+var workersf = d.income * d.population;
+var workersm = d.population - workersf;
+var wagem = d.avgwage;
+var wagef = d.avgwage * d.lifeExpectancy;
+
+        // #2 Populate display based on input data (d)
+        // set the data to display for each field of the tooltip
+          d3.select(".tooltipTitle").text(newtitle);
+
+
+
+        d3.select(".tooltipMetricValue").text(formatter(workersm));
+        d3.select(".tooltipMetricValue2").text(formatter(workersf));
+        d3.select(".tooltipMetricValue3").text(formatter2(wagem) + " RON");
+        d3.select(".tooltipMetricValue4").text(formatter2(wagef) + " RON");  
+
+
+        // position with respect to mouse on mouseover
+        var offsets = {"x": d3.event.pageX, "y": d3.event.pageY };
+
+	        simpleTooltip
+
+            .style("left", Math.min(Math.max((offsets.x -100),0),516) + "px")    
+            .style("top", Math.max((offsets.y -120 ),2) + "px"); // fudge factor 36
+			
+        simpleTooltip.style("opacity", 1); 
+  
+    }
+}
+
+
+
+</script>
+
+</body>
+
+<script>
