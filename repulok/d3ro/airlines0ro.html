@@ -1,0 +1,40 @@
+<!doctype html>
+<meta charset="utf-8">
+
+<!-- load D3js -->
+<script src="//d3plus.org/js/d3.js"></script>
+
+<!-- load D3plus after D3js -->
+<script src="//d3plus.org/js/d3plus.js"></script>
+
+<!-- create container element for visualization -->
+<div id="viz"></div>
+
+<style>
+  @font-face {
+    font-family: "Righteous";
+    src: url(../Righteous-Regular.ttf) format("truetype");
+  }
+</style>
+
+<script>
+  // sample data array
+  d3.json("../f_ro.json", function(error, data) {
+    var d4=data.filter(function(d){
+      return ((d["country"]=="Romania"))
+    })
+    //console.log(d2)
+  // instantiate d3plus
+  var visualization = d3plus.viz()
+    .container("#viz")     // container DIV to hold the visualization
+    .data(d4)     // data to use with the visualization
+    .type("bubbles")       // visualization type
+    .id(["al","to", "from", "ap"]) // nesting keys
+    .depth(0)              // 0-based depth
+    .size("heti járatszám")         // key name to size bubbles
+    .color("to")        // color by each group
+    .font({"family":"Righteous","size":15,"align":"center","secondary":{"family":"Righteous"}})
+    .legend(false)
+    .draw()                // finally, draw the visualization!
+  })
+</script>

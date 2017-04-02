@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <script src="api.js"></script>
+    <script>
+      var earth;
+      function initialize() {
+        earth = new WE.map('earth_div');
+        earth.setView([46.8011, 8.2266], 2.7);
+        //WE.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
+        //  attribution: '© OpenStreetMap contributors'
+        WE.tileLayer('http://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png', {
+        maxZoom: 18,
+        attribution: '<a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> • <a href="http://cartodb.com/attributions">CartoDB</a>'
+		}).addTo(earth);
+		// Start a simple rotation animation
+        var before = null;
+        requestAnimationFrame(function animate(now) {
+            var c = earth.getPosition();
+            var elapsed = before? now - before: 0;
+            before = now;
+            earth.setCenter([c[0], c[1] + 0.1*(elapsed/30)]);
+            requestAnimationFrame(animate);
+        });
+
+		var marker = WE.marker([51.5, -0.09]).addTo(earth);
+        marker.bindPopup("<b>Hello world!</b><br>I am a popup.<br /><span style='font-size:10px;color:#999'>Tip: Another popup is hidden in Cairo..</span>", {maxWidth: 150, closeButton: true}).openPopup();
+
+        var marker2 = WE.marker([30.058056, 31.228889]).addTo(earth);
+        marker2.bindPopup("<b>Cairo</b><br>Yay, you found me!", {maxWidth: 120, closeButton: false});
+
+      }
+    </script>
+    <style>
+      html, body{padding: 0; margin: 0; background-color:#000bbb;}
+      #earth_div{ top: 0; right: 0; bottom: 0; left: 0; position: absolute !important;}
+    </style>   
+    <title>WebGL Earth API v2: Animation</title>
+  </head>
+  <body onload="initialize()">
+    <div id="earth_div" style="width:60%;"></div>
+  </body>
+</html>

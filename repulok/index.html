@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Székelyföldi diaszpóra - Hargita, Kovászna és Maros megye városaiból elszármazottak szerte a világban #szekelydata  #d3js @csaladenes" />
+	<meta name="keywords" content="csaladenes, d3.js, data visualization, infographic, szekelyland, székelyföld, adatvizualizáció, diaszpóra, diaspora, d3" />
+	<meta property="og:image" content="http://csaladenes.egologo.ro/wp-content/uploads/2015/08/szekely_diaszpora1.jpg" />
+	<meta property="og:description" content="Székelyföldi diaszpóra - Hargita, Kovászna és Maros megye városaiból elszármazottak szerte a világban #szekelydata  #d3js @csaladenes" />
+	<meta property="og:title" content="Székelyföldi diaszpóra" />
+	<meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+	<meta property="og:url" content="http://csaladenes.egologo.ro/?p=773"/>
+	<meta property="og:site_name" content="SZÉKELYDATA" />
+	<meta property="fb:admins" content="100943737036023614165" />
+	<link rel="shortcut icon" href="szekelydata.png" />
+	<link rel="publisher" href="https://plus.google.com/106181965793093327960" />
+	<title>Székelyföldi diaszpóra</title>
+	<style>
+		@font-face {
+			font-family: "Righteous";
+			src: url(Righteous-Regular.ttf) format("truetype");
+		}
+
+		html,
+		body {
+			font-family: "Righteous", "Trebuchet MS", "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			height: 100%;
+			width: 100%;
+			background-color: #112;
+		}
+
+		.background {
+			fill: none;
+			pointer-events: all;
+		}
+
+		.feature {
+			fill: #334;
+			cursor: pointer;
+		}
+
+		.feature.active {
+			fill: #334;
+		}
+
+		.feature:hover {
+			fill: #445;
+		}
+
+		.mesh {
+			fill: none;
+			stroke: #112;
+			stroke-linecap: round;
+			stroke-linejoin: round;
+		}
+
+		.graticule {
+			fill: none;
+			stroke: #000;
+			stroke-opacity: .3;
+			stroke-width: .5px;
+		}
+
+		.graticule.outline {
+			stroke: #333;
+			stroke-opacity: 1;
+			stroke-width: 1.5px;
+		}
+
+		div.tooltip {
+			line-height: 1;
+			font-size: 14px;
+			padding: 6px;
+			background: rgba(25, 25, 45, 0.8);
+			color: #667;
+			border-radius: 4px;
+			border-color: black;
+			border: solid 1px;
+			z-index: 2000;
+			position: absolute;
+		}
+
+		a {
+			text-decoration: none;
+			color: #667;
+		}
+
+		#social {
+			position: fixed;
+			top: 0;
+			right: 0;
+			text-decoration: none;
+			text-align: right;
+			padding: 3px;
+			z-index: 800;
+			white-space: nowrap;
+			overflow: hidden;
+			opacity: 0;
+		}
+	</style>
+	<script type="text/javascript">
+		var switchTo5x = true;
+	</script>
+	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+	<script type="text/javascript">
+		stLight.options({
+			publisher: "505a26ad-d820-47bd-a500-7f49d04a30f5",
+			doNotHash: true,
+			doNotCopy: false,
+			hashAddressBar: false
+		});
+	</script>
+</head>
+<body>
+
+	<div id="container" style="width:900px;height:500px;margin:0px;opacity:0;border:solid 1px #667;">
+		<div style="position:fixed;float:left;top:486px;left:800px;opacity:1;font-size:8px;color:#667;white-space: nowrap;overflow:hidden;"><a href="http://www.csaladen.es" target="_blank">csaladen.es</a> | <a href="https://twitter.com/csaladenes" target="_blank">@csaladenes</a></div>
+		<div style="position:fixed;float:left;top:440px;left:315px;opacity:1;font-size:34.4px;"><a href="http://wp.me/p5qKps-ct" target="_blank" style="color:#667;">SZÉKELYFÖLDI DIASZPÓRA</a></div>
+		<div style="position:fixed;float:left;top:480px;left:315px;opacity:1;font-size:12px;"><a href="http://wp.me/p5qKps-ct" target="_blank" style="color:#667;">Hargita, Kovászna és Maros megye városaiból elszármazottak szerte a világban</a></div>
+		<div style="position:fixed;float:left;top:433px;left:841px;opacity:1;cursor:pointer;" id="logo">
+			<a href="http://wp.me/p5qKps-ct" target="_blank"><img style="width:55px;border:none;" src="szekelydata.png" alt="Leírás" title="Leírás" /></a>
+		</div>
+		<div style="position:fixed;float:left;top:0px;left:0px;height:100%;width:90px;opacity:0.7;background-color:#001;"></div>
+		
+		<div style="position:fixed;float:left;top:13px;left:25px;opacity:1;cursor:pointer;" id="szf"><img style=
+			"width:35px;border:none;" src="szf.png" / alt="Székelyföldre közelít" title="Székelyföldre közelít"></div>
+			<div style="position:fixed;float:left;top:60px;left:20px;opacity:1;cursor:pointer;" id="ro"><img style="width:55px;border:none;" src="ro.png" / alt="Romániára közelít" title="Romániára közelít"></div>
+			<div style="position:fixed;float:left;top:107px;left:20px;opacity:1;cursor:pointer;" id="eu"><img style="width:55px;border:none;" src="eu.png" / alt="Európára közelít" title="Európára közelít"></div>
+			<div style="position:fixed;float:left;top:168px;left:20px;opacity:1;cursor:pointer;" id="wd"><img style="width:60px;border:none;" src="wd.png" alt="Kinagyít" title="Kinagyít" /></div>
+			<div style="position:fixed;float:left;top:202px;left:15px;opacity:1;cursor:pointer;" id="lines"><img style="width:60px;border:none;" src="lines.png" alt="Vonalak be/ki" title="Vonalak be/ki" /></div>
+		</div>
+
+		<div id="social">
+			<span class='st_facebook'></span>
+			<span class='st_twitter'></span>
+			<span class='st_googleplus'></span>
+			<span class='st_linkedin'></span>
+			<span class='st_tumblr'></span>
+			<span class='st_reddit'></span>
+			<span class='st_email'></span>
+		</div>
+
+		<script src="d3.v3.min.js"></script>
+		<script src="d3.geo.projection.v0.min.js"></script>
+		<script src="topojson.v1.min.js"></script>
+
+		<script>
+
+			var width = document.getElementById("container").offsetWidth - 2,
+			height = document.getElementById("container").offsetHeight - 2,
+			active = d3.select(null);
+
+		var projection = d3.geo.mercator(),//kavrayskiy7
+		graticule = d3.geo.graticule();
+		
+		var defaultZoom = 1;
+		var defaultTranslateX = -50;
+		var defaultTranslateY = 40;
+
+
+		var path = d3.geo.path()
+		.projection(projection);
+
+		var tiptext = "no data";
+
+		var tooltipdiv = d3.select("body")
+		.append("div")
+		.attr("class", "tooltip")
+		.style("visibility", "hidden")
+
+		d3.json("cities.json", function(error, cities) {
+			d3.json("colors.json", function(error, colors) {
+
+				var tipshow = function() {
+					tooltipdiv.style("visibility", "visible");
+
+					tooltipdiv.html(function() {
+
+					//sort the rows - largest first
+					var city=""
+					if (tiptext[0].city.search(/\(/g)<0) city=tiptext[0].city;
+					else city=tiptext[0].city.slice(0,tiptext[0].city.search(/\(/g));
+					var tt = '<table><tr><td style="color:#889;font-size:18px;">' + city +
+					'</td><td style="color:#889;font-size:18px;">' + tiptext[0].data.count + '</td></tr>';
+
+					for (var ii = 0; ii < tiptext[2].length; ii++) {
+						i = tiptext[2][ii];
+						if ((i != 'count') && (i != 'coords'))
+							if (tiptext[1] != i) {
+								tt = tt + '<tr><td style="color:#667;">' + cities[i] + '</td>' + '<td style="color:#667;">' + tiptext[0].data[i].count + '</td></tr>';
+							} else {
+								tt = tt + '<tr><td style="color:' + colors[i] + ';">' + cities[i] + '</td>' + '<td style="color:' + colors[i] + ';">' + tiptext[0].data[i].count + '</td></tr>';
+							}
+						}
+
+						return tt + '</table>';
+					})
+					.style("left", Math.min(document.getElementById("container").parentElement.offsetWidth-200,(d3.event.pageX + 30)) + "px")
+					.style("top", Math.min(document.getElementById("container").parentElement.offsetHeight-330	,(d3.event.pageY - 30)) + "px");
+
+				}
+				var tiphide = function() {
+					tooltipdiv.style("visibility", "hidden");
+				}
+
+				d3.json("hnames.json", function(error, hnames) {
+					d3.json("cnames.json", function(error, cnames) {
+						d3.json("newdata1a_n_only.json", function(error, rawdata) {
+							d3.json("newdata2a_n_only.json", function(error, data2b) {
+								d3.json("citycoords.json", function(error, citycoords) {
+
+									var iszomed="all";
+									var lineson=false;
+									var citylist = Object.keys(citycoords);
+									var ison={}
+
+									for (i = 0; i < citylist.length - 1; i++) {
+										ison[citylist[i]]=true;
+
+										d3.select("#container")
+										.datum(citylist[i])
+										.append("div")
+										.attr("alt","Szűrés")
+										.attr("title","Szűrés")
+										.attr("style", "position:fixed;float:left;top:" + (255 + 15 * i) + "px;left:5px;width:80px;height:16px;background-color:" +
+											colors[citylist[i]] + ";font-size:8px;text-align:center;line-height:15px;cursor:pointer;color:#112;opacity:0.9;z-index:8;")
+										.text(cities[citylist[i]])
+										.on("mouseover", function(d) {
+											d3.selectAll(".el").style("opacity", 0.1);
+											d3.selectAll("." + d).style("opacity", 0.8);
+										})
+										.on("click", function(d) {
+											if (ison[d]){
+												d3.selectAll(".el." + d).style("visibility", "hidden");
+												ison[d]=false;
+
+												d3.select(this).style("background","#445");
+											} else {
+												d3.selectAll(".el." + d).style("visibility", "visible");
+												ison[d]=true;
+												d3.select(this).style("background",colors[d]);
+											}
+											show(iszomed);
+										})
+										.on("mouseout", function(d) {
+											d3.selectAll(".el").style("opacity", 0.8);
+										})				
+									}
+
+
+									data = [];
+									for (i in rawdata.cities) {
+										data.push({
+											"city": i,
+											"data": rawdata.cities[i]
+										});
+									}
+
+									var svg = d3.select("#container").append("svg")
+									.attr("width", width)
+									.attr("height", height)
+									.on("click", stopped, true);
+
+									svg.append("path")
+									.datum(graticule)
+									.attr("class", "graticule")
+									.attr("d", path);
+
+
+									svg.append("rect")
+									.attr("class", "background")
+									.attr("width", width)
+									.attr("height", height)
+									.on("click", reset);
+
+									var g = svg.append("g");
+
+									var zoom = d3.behavior.zoom()
+									.translate([defaultTranslateX, defaultTranslateY])
+									.scale(defaultZoom)
+									.scaleExtent([0.5, 1000])
+									.on("zoom", zoomed);
+
+									svg
+				.call(zoom) // delete this line to disable free zooming
+				.call(zoom.event);
+				
+				d3.json("world.json", function(error, world) {
+					g.selectAll("path")
+					.data(topojson.feature(world, world.objects.countries).features)
+					.enter().append("path")
+					.attr("d", path)
+					.attr("style",function(d){if (d.id==10) return "visibility:hidden;"; else return "visibility:visible;";})
+					.attr("class", "feature")
+					.on("click", clicked)
+					.on("mouseover", function(d, i) {
+
+						if (data2b.cities[cnames[d.id]]) var cc=data2b.cities[cnames[d.id]];
+						else var cc={"count":""};
+
+										//rank data cities in country
+										helperdata = [];
+										for (j in data2b.cities[cnames[d.id]]) {
+											if ((j != "coords") && (j != "count")) {
+												helperdata.push({
+													"colorArr": colors[j],
+													"pieData": data2b.cities[cnames[d.id]][j].count,
+													"corder": j
+												});
+											}
+										}										
+										//sort slices - largest first
+										helperdata.sort(function(a, b) {
+											return b.pieData - a.pieData;
+										});
+										//record ranks
+										var gorder = [];
+										for (var j = 0; j < helperdata.length; j++) {
+											gorder.push(helperdata[j].corder);
+										}	
+
+										if (hnames[cnames[d.id]]) var c=hnames[cnames[d.id]];
+										else var c="";
+
+										tiptext = [{"city":c,"data":cc},[],gorder];
+										tipshow();
+										return;
+									})
+					.on("mouseout", tiphide)
+
+					g.append("path")
+					.datum(topojson.mesh(world, world.objects.countries, function(a, b) {
+						return a !== b;
+					}))
+					.attr("class", "mesh")
+					.attr("d", path);
+				});
+
+				var scale = defaultZoom;
+				var translate = [defaultTranslateX, defaultTranslateY];
+
+				var update = function() {
+
+				//sort pies - largest on the bottom
+				data.sort(function(a, b) {
+					return b.data.count - a.data.count;
+				});
+				
+
+				//draw great circles
+				for (k in data) {
+					for (j in data[k].data) {
+						if ((j != "coords") && (j != "count") && (j != "country") && (j != "orig")) {
+							var start = citycoords[j];
+							var end = data[k].data[j].coords;
+							
+							var x1 = projection([start[1], start[0]])[0];
+							var y1 = projection([start[1], start[0]])[1];
+							var x2 = projection([end[1], end[0]])[0];
+							var y2 = projection([end[1], end[0]])[1];
+
+							svg.append("line")
+							.datum(data[k].data[j].count)
+							.attr("class", function(d){
+								return (data[k].data[j].country=="Romania")
+								? "lin el " + j+" "+data[k].data[j].country+" "+data[k].data[j].county
+								: "lin el " + j+" "+data[k].data[j].country
+							})
+							.attr("x1", x1)
+							.attr("x2", x2)
+							.attr("y1", y1)
+							.attr("y2", y2)
+								.attr("stroke", colors[j])
+								.attr("stroke-linecap", "round")
+								.style("opacity", 0.8)
+
+							}
+						}
+					}
+
+				//draw pies
+				for (k in data) {
+
+					helperdata = [];
+
+					for (j in data[k].data) {
+						if ((j != "coords") && (j != "count") && (j != "country") && (j != "orig")) {
+							helperdata.push({
+								"colorArr": colors[j],
+								"pieData": data[k].data[j].count,
+								"corder": j
+							});
+						}
+					}
+
+					//sort slices - largest first
+
+					helperdata.sort(function(a, b) {
+						return b.pieData - a.pieData;
+					});
+
+					//record ranks
+					var gorder = [];
+					for (var j = 0; j < helperdata.length; j++) {
+						gorder.push(helperdata[j].corder);
+					}
+
+					var sectorAngleArr = [];
+					var total = 0;
+					var startAngle = 90;
+					var endAngle = 90;
+					var x1, x2, y1, y2, r, cx, cy = 0;
+
+					function drawpie() {
+						//CALCULATE THE TOTAL
+						for (var i = 0; i < helperdata.length; i++) {
+							total += helperdata[i].pieData;
+						}
+
+						//CALCULATE THE ANGLES THAT EACH SECTOR SWIPES AND STORE IN AN ARRAY
+						for (var i = 0; i < helperdata.length; i++) {
+							var angle = Math.round((360.0) * helperdata[i].pieData / total);
+							sectorAngleArr.push(angle);
+						}
+						drawArcs();
+					}
+
+					function drawArcs() {
+						var d = "";
+						var pin = svg.append("g")
+						.datum(data[k].data.coords)
+						.attr("class", "pin")
+
+						for (var i = 0; i < sectorAngleArr.length; i++) {
+
+							startAngle = endAngle;
+							endAngle = startAngle + sectorAngleArr[i];
+							r = 5 + Math.pow(Math.min(data[k].data.count, 50), 1 / 1.2) / scale;
+
+							x1 = Math.round(0 + r * Math.cos(Math.PI * startAngle / 180.0));
+							y1 = Math.round(0 + r * Math.sin(Math.PI * startAngle / 180.0));
+
+							x2 = Math.round(0 + r * Math.cos(Math.PI * endAngle / 180.0));
+							y2 = Math.round(0 + r * Math.sin(Math.PI * endAngle / 180.0));
+
+							cx = 0;
+							cy = 0;
+
+							var large_arc_flag=0;
+							if (sectorAngleArr[i]>180) large_arc_flag = 1;
+							
+							//first draw in zero, translate later
+							d = "M" + cx + "," + cy + "  L" + x1 + "," + y1 + "  A" + r + "," + r + " 0 "+ large_arc_flag +" 1 " + x2 + "," + y2 + " z"; //1 means clockwise
+
+							if (sectorAngleArr.length > 1) {
+								var el = pin.append("path")
+								.attr("d", d)
+							} else {
+								var el = pin.append("circle")
+								.attr("r", r)
+								.attr("cx", cx)
+								.attr("cy", cy)
+							}
+
+							el.datum([data[k], helperdata[i].corder, gorder])
+							.attr("class", "el " + helperdata[i].corder)
+							.attr("fill", helperdata[i].colorArr)
+							.attr("stroke", "#112")
+							.attr("stroke-width", 1)
+							.on("mouseover", function(d) {
+								tiptext = d;
+										
+								tipshow();
+									//console.log(d[0])
+									return;
+								})
+							.on("mouseout", tiphide)
+							.style("opacity", "0.8");
+
+						}
+					}
+
+					drawpie();
+				};
+
+			};
+
+			update();
+			reset();
+
+
+			function clicked(d) {
+				
+				iszomed=cnames[d.id];
+				show(cnames[d.id]);
+				
+				if (active.node() === this) return reset();
+				active.classed("active", false);
+				active = d3.select(this).classed("active", true);
+
+				var bounds = path.bounds(d),
+				dx = bounds[1][0] - bounds[0][0],
+				dy = bounds[1][1] - bounds[0][1],
+				x = (bounds[0][0] + bounds[1][0]) / 2,
+				y = (bounds[0][1] + bounds[1][1]) / 2;
+
+				scale = .9 / Math.max(dx / width, dy / height);
+
+				translate = [width / 2 - scale * x, height / 2 - scale * y];
+
+				svg.transition()
+				.duration(750)
+				.call(zoom.translate(translate).scale(scale).event);
+			}
+
+			function reset() {
+				active.classed("active", false);
+				active = d3.select(null);
+				scale = defaultZoom;
+				translate = [defaultTranslateX, defaultTranslateY];
+				svg.transition()
+				.duration(750)
+				.call(zoom.translate([defaultTranslateX, defaultTranslateY]).scale(defaultZoom).event);
+				iszomed="all";
+				show("all");
+			}
+			
+			function show(a){
+				d3.selectAll(".lin").style("visibility","hidden");
+				if (!lineson) {
+					if (a=="eu") {
+						for (j in ison) {
+							if (ison[j]) {
+								d3.selectAll(".Russia."+j).style("visibility","visible");
+								d3.selectAll(".Finland."+j).style("visibility","visible");
+								d3.selectAll(".Sweden."+j).style("visibility","visible");
+								d3.selectAll(".Norway."+j).style("visibility","visible");
+								d3.selectAll(".Denmark."+j).style("visibility","visible");
+								d3.selectAll(".Belgium."+j).style("visibility","visible");
+								d3.selectAll(".Netherlands."+j).style("visibility","visible");
+								d3.selectAll(".Germany."+j).style("visibility","visible");
+								d3.selectAll(".France."+j).style("visibility","visible");
+								d3.selectAll(".United.Kingdom."+j).style("visibility","visible");
+								d3.selectAll(".Switzerland."+j).style("visibility","visible");
+								d3.selectAll(".Luxembourg."+j).style("visibility","visible");
+								d3.selectAll(".Czech Republic."+j).style("visibility","visible");
+								d3.selectAll(".Slovakia."+j).style("visibility","visible");
+								d3.selectAll(".Austria."+j).style("visibility","visible");
+								d3.selectAll(".Poland."+j).style("visibility","visible");
+								d3.selectAll(".Hungary."+j).style("visibility","visible");
+								d3.selectAll(".Romania."+j).style("visibility","visible");
+								d3.selectAll(".Spain."+j).style("visibility","visible");
+								d3.selectAll(".Portugal."+j).style("visibility","visible");
+								d3.selectAll(".Italy."+j).style("visibility","visible");
+								d3.selectAll(".Bulgaria."+j).style("visibility","visible");
+								d3.selectAll(".Greece."+j).style("visibility","visible");
+								d3.selectAll(".Turkey."+j).style("visibility","visible");
+								d3.selectAll(".Ukraine."+j).style("visibility","visible");
+								d3.selectAll(".Serbia."+j).style("visibility","visible");
+								d3.selectAll(".Iraq."+j).style("visibility","visible");
+								d3.selectAll(".Croatia."+j).style("visibility","visible");
+								d3.selectAll(".Albania."+j).style("visibility","visible");
+								d3.selectAll(".Malta."+j).style("visibility","visible");
+								d3.selectAll(".Israel."+j).style("visibility","visible");
+								d3.selectAll(".Lebanon."+j).style("visibility","visible");
+								d3.selectAll(".Ireland."+j).style("visibility","visible");
+								d3.selectAll(".Cyprus."+j).style("visibility","visible");
+								d3.selectAll(".Monaco."+j).style("visibility","visible");
+								d3.selectAll(".Algeria."+j).style("visibility","visible");
+								d3.selectAll(".Morocco."+j).style("visibility","visible");
+								d3.selectAll(".Libya."+j).style("visibility","visible");
+								d3.selectAll(".Lithuania."+j).style("visibility","visible");
+								d3.selectAll(".Georgia."+j).style("visibility","visible");
+							}
+						}
+					}
+					if (a=="szf") {
+						for (j in ison) {
+							if (ison[j]) {
+								d3.selectAll(".HR."+j).style("visibility","visible");
+								d3.selectAll(".CV."+j).style("visibility","visible");
+								d3.selectAll(".BC."+j).style("visibility","visible");
+								d3.selectAll(".NT."+j).style("visibility","visible");
+								d3.selectAll(".CJ."+j).style("visibility","visible");
+								d3.selectAll(".MS."+j).style("visibility","visible");
+								d3.selectAll(".BV."+j).style("visibility","visible");
+								d3.selectAll(".SB."+j).style("visibility","visible");
+								d3.selectAll(".AB."+j).style("visibility","visible");
+							}
+						}
+					}
+					if (a=="ro") {
+						for (j in ison) {
+							if (ison[j]) {
+								d3.selectAll(".Romania."+j).style("visibility","visible");
+								//d3.selectAll(".Hungary").style("visibility","visible");
+							}
+						}
+					}
+					if (a=="all") {
+						for (j in ison) {
+							if (ison[j]) {
+								d3.selectAll(".lin."+j).style("visibility","visible");
+							}
+						}
+					}
+					else {
+						for (j in ison) {
+							if (ison[j]) {
+								d3.selectAll("."+a.replace(/ /g,".")+"."+j).style("visibility","visible");
+							}
+						}
+					}
+				}
+			}
+			
+			function europe() {
+				active.classed("active", false);
+				active = d3.select(null);
+				scale = 4;
+				translate = [-1600, -150];
+				svg.transition()
+				.duration(750)
+				.call(zoom.translate([translate[0], translate[1]]).scale(scale).event);
+				iszomed="eu";
+				show("eu");
+			}
+
+			function szf() {
+				active.classed("active", false);
+				active = d3.select(null);
+				scale = 80;
+				translate = [-43200, -8800];
+				svg.transition()
+				.duration(750)
+				.call(zoom.translate([translate[0], translate[1]]).scale(scale).event);
+				iszomed="szf";
+				show("szf");
+			}
+			
+			function romania() {
+				active.classed("active", false);
+				active = d3.select(null);
+				scale = 25;
+				translate = [-13140, -2630];
+				svg.transition()
+				.duration(750)
+				.call(zoom.translate([translate[0], translate[1]]).scale(scale).event);
+				iszomed="ro";
+				show("ro");
+			}
+			
+			d3.select("#szf").on("click", szf);
+			d3.select("#ro").on("click", romania);
+			d3.select("#eu").on("click", europe);
+			d3.select("#wd").on("click", reset);
+			d3.select("#lines").on("click", function(){lineson=!lineson;show(iszomed);return;});
+
+			function zoomed() {
+				scale = d3.event.scale;
+				translate = d3.event.translate;
+				g.style("stroke-width", 1.5 / d3.event.scale + "px");
+				g.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+
+				d3.selectAll(".lin.el").attr("stroke-width", function(d){ return Math.min(10,d) / d3.event.scale});
+				d3.selectAll(".lin").attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")")
+				d3.selectAll(".pin").each(function(d){	
+					x = projection([d[1], d[0]])[0];
+					y = projection([d[1], d[0]])[1];
+					d3.select(this).attr("transform", "translate(" + 
+						[d3.event.translate[0]+x*d3.event.scale,
+						d3.event.translate[1]+y*d3.event.scale]+")")
+				})
+			}
+
+			// If the drag behavior prevents the default click,
+			// also stop propagation so we don’t click-to-zoom.
+			function stopped() {
+				if (d3.event.defaultPrevented) d3.event.stopPropagation();
+			}
+
+
+		});
+});
+});
+});
+});
+});
+});
+
+var rescale = function() {
+			//scale content
+			var scal = Math.min((document.getElementById("container").parentElement.offsetWidth) / document.getElementById("container").offsetWidth, (document.getElementById("container").parentElement.offsetHeight) / document.getElementById("container").offsetHeight)
+			document.getElementById("container").style.WebkitTransform = "scale(" + scal + ")";
+			document.getElementById("container").style.OTransform = "scale(" + scal + ")";
+			document.getElementById("container").style.MozTransform = "scale(" + scal + ")";
+			document.getElementById("container").style.msTransform = "scale(" + scal + ")";
+			document.getElementById("container").style.Transform = "scale(" + scal + ")";
+
+			document.getElementById("container").style.WebkitTransformOrigin = "0 0";
+			document.getElementById("container").style.OTransformOrigin = "0 0";
+			document.getElementById("container").style.MozTransformOrigin = "0 0";
+			document.getElementById("container").style.msTransformOrigin = "0 0";
+			document.getElementById("container").style.TransformOrigin = "0 0";
+
+		};
+
+		window.onresize = function() {
+			rescale();
+		}
+
+		//init content
+		rescale();
+		d3.select("#container").transition().delay(1000).duration(500).style("opacity", "1");
+		d3.select("#social").transition().delay(3000).duration(500).style("opacity", "1");
+	</script>
+</body>

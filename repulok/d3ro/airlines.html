@@ -1,0 +1,43 @@
+<!doctype html>
+<meta charset="utf-8">
+
+<!-- load D3js -->
+<script src="//d3plus.org/js/d3.js"></script>
+
+<!-- load D3plus after D3js -->
+<script src="//d3plus.org/js/d3plus.js"></script>
+
+<!-- create container element for visualization -->
+<div id="viz"></div>
+
+<style>
+  @font-face {
+    font-family: "Righteous";
+    src: url(../Righteous-Regular.ttf) format("truetype");
+  }
+</style>
+
+<script>
+  // sample data array
+  d3.json("../f_ro.json", function(error, data) {
+    var d4=data.filter(function(d){
+      return ((d["al"]=="Blue Air") | (d["al"]=="Ryanair") | (d["al"]=="Lufthansa") |(d["al"]=="Turkish Airlines") |(d["al"]=="LOT") |(d["al"]=="Tarom") |(d["al"]=="Austrian Airlines") | (d["al"]=="Wizz Air"))
+    })
+    //console.log(d2)
+  // instantiate d3plus
+  var ids=["al","to", "from", "ap"];
+  var visualization = d3plus.viz()
+    .container("#viz")     // container DIV to hold the visualization
+    .data(d4)     // data to use with the visualization
+    .type("bubbles")       // visualization type
+    .id(ids) // nesting keys
+    .depth(1)              // 0-based depth
+    .size("heti járatszám")         // key name to size bubbles
+    .color(function(d){
+      return d[ids[d.d3plus.depth]];
+    })        // color by each group
+    .font({"family":"Righteous","size":15,"align":"center","secondary":{"family":"Righteous"}})
+    .legend(false)
+    .draw()                // finally, draw the visualization!
+  })
+</script>

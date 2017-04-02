@@ -1,0 +1,2556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+*************************************************
+	         AnyLogic Project File 
+*************************************************	         
+-->
+<AnyLogicWorkspace WorkspaceVersion="1.9" AnyLogicVersion="7.3.1.201603031744" AlpVersion="7.3.3">
+<Model>
+	<Id>1459641959754</Id>
+	<Name><![CDATA[awesome_model3]]></Name>
+	<Description><![CDATA[This model has been converted automatically via AnyLogic import feature from Vensim® model "awesome_model3.mdl"]]></Description>
+	<EngineVersion>6</EngineVersion>
+	<JavaPackageName><![CDATA[awesome_model3]]></JavaPackageName>
+	<ModelTimeUnit><![CDATA[Month]]></ModelTimeUnit>
+	<ActiveObjectClasses>
+		<!--   =========   Active Object Class   ========  -->
+		<ActiveObjectClass>
+			<Id>1459641959759</Id>
+			<Name><![CDATA[Main]]></Name>
+			<Description><![CDATA[Main model class. Contains all system-dynamic variables and dependences]]></Description>
+			<ClientAreaTopLeft><X>0</X><Y>0</Y></ClientAreaTopLeft>
+			<PresentationTopGroupPersistent>true</PresentationTopGroupPersistent>
+			<IconTopGroupPersistent>true</IconTopGroupPersistent>
+			<Generic>false</Generic>
+			<GenericParameter>
+				<Id>1459641959758</Id>
+				<Name><![CDATA[1459641959758]]></Name>
+				<GenericParameterValue Class="CodeValue">
+					<Code><![CDATA[T extends Agent]]></Code>
+				</GenericParameterValue>
+				<GenericParameterLabel><![CDATA[Generic parameter:]]></GenericParameterLabel>
+			</GenericParameter>
+			<FlowChartsUsage>ENTITY</FlowChartsUsage>
+			<SamplesToKeep>6401</SamplesToKeep>
+			<LimitNumberOfArrayElements>false</LimitNumberOfArrayElements>
+			<ElementsLimitValue>100</ElementsLimitValue>
+			<MakeDefaultViewArea>true</MakeDefaultViewArea>
+			<SceneGridColor/>
+			<SceneBackgroundColor/>
+			<AgentProperties>
+	 			<SpaceType>CONTINUOUS</SpaceType>			
+				<EnvironmentDefinesInitialLocation>true</EnvironmentDefinesInitialLocation>
+				<RotateAnimationTowardsMovement>true</RotateAnimationTowardsMovement>
+				<RotateAnimationVertically>false</RotateAnimationVertically>
+				<VelocityCode Class="CodeUnitValue">
+					<Code><![CDATA[10]]></Code>
+					<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+				</VelocityCode>
+			</AgentProperties>
+			<EnvironmentProperties>
+					<EnableSteps>false</EnableSteps>
+					<StepDurationCode Class="CodeUnitValue">
+						<Code><![CDATA[1.0]]></Code>
+						<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
+					</StepDurationCode>
+					<SpaceType>CONTINUOUS</SpaceType>
+					<WidthCode><![CDATA[500]]></WidthCode>
+					<HeightCode><![CDATA[500]]></HeightCode>
+					<ZHeightCode><![CDATA[0]]></ZHeightCode>
+					<ColumnsCountCode><![CDATA[100]]></ColumnsCountCode>
+					<RowsCountCode><![CDATA[100]]></RowsCountCode>
+					<NeigborhoodType>MOORE</NeigborhoodType>
+					<LayoutType>USER_DEF</LayoutType>
+					<LayoutTypeApplyOnStartup>true</LayoutTypeApplyOnStartup>
+					<NetworkType>USER_DEF</NetworkType>
+					<NetworkTypeApplyOnStartup>true</NetworkTypeApplyOnStartup>
+					<ConnectionsPerAgentCode><![CDATA[2]]></ConnectionsPerAgentCode>
+					<ConnectionsRangeCode><![CDATA[50]]></ConnectionsRangeCode>
+					<NeighborLinkFractionCode><![CDATA[0.95]]></NeighborLinkFractionCode>
+					<MCode><![CDATA[10]]></MCode>
+			</EnvironmentProperties>
+			<DatasetsCreationProperties>
+				<AutoCreate>true</AutoCreate>
+					<OccurrenceAtTime>true</OccurrenceAtTime>
+					<OccurrenceDate>1459670400000</OccurrenceDate>
+					<OccurrenceTime Class="CodeUnitValue">
+						<Code><![CDATA[0]]></Code>
+						<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
+					</OccurrenceTime>
+					<RecurrenceCode Class="CodeUnitValue">
+						<Code><![CDATA[0.0078125]]></Code>
+						<Unit Class="TimeUnits"><![CDATA[MONTH]]></Unit>
+					</RecurrenceCode>
+			</DatasetsCreationProperties>
+			<ScaleRuler>
+				<Id>1459641959756</Id>
+				<Name><![CDATA[scale]]></Name>
+				<X>0</X><Y>-150</Y>
+				<PublicFlag>false</PublicFlag>
+				<PresentationFlag>false</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Length>100</Length>
+				<Rotation>0</Rotation>
+				<ScaleType>BASED_ON_LENGTH</ScaleType>
+				<ModelLength>10</ModelLength>
+				<LengthUnits>METER</LengthUnits>
+				<Scale>10</Scale>
+				<InheritedFromParentAgentType>true</InheritedFromParentAgentType>
+			</ScaleRuler>
+			<ConnectionsId>1459641959755</ConnectionsId>
+			<Variables>
+				<Variable Class="AuxVariable">
+					<Id>1459641959790</Id>
+					<Name><![CDATA[ÁtlagosProduktivitás]]></Name>
+					<Description><![CDATA[A good estimate of the average productivity on project work to date is 
+given by work believed to be done (tasks) divided by cumulative effort 
+(person-months).  In order to avoid division by 0 and a discontinuity in 
+average productivity, the average is set to actual productivity before 
+work starts.]]></Description>
+					<Unit>Task / (Month * Person)</Unit> 
+					<X>1610</X><Y>630</Y>
+					<Label><X>0</X><Y>-25</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[TeljesErőfeszítés > 0 ? VéltElvégzettMunka / TeljesErőfeszítés : 
+Produktivitás]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959791</Id>
+					<Name><![CDATA[Produktivitás]]></Name>
+					<Description><![CDATA[The number of tasks accomplished per month per person.  Some of this work 
+will contain errors.]]></Description>
+					<Unit>Task / (Person * Month)</Unit> 
+					<X>230</X><Y>380</Y>
+					<Label><X>10</X><Y>-15</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[KezdőMunkaerő / ÖsszesMunkaerő * 0.5 * NormálProducktivitás + TapasztaltMunkaerő / ÖsszesMunkaerő * 
+NormálProducktivitás * ( 1 - KezdőMunkaerő / ( 1 * ÖsszesMunkaerő ) )]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<Shadow>
+							<Id>1459641959927</Id>
+							<Name><![CDATA[<Produktivitás>]]></Name>
+							<X>1620</X><Y>670</Y>
+							<Label><X>-47</X><Y>16</Y></Label>
+							<PublicFlag>false</PublicFlag>
+							<PresentationFlag>true</PresentationFlag>
+							<ShowLabel>true</ShowLabel>
+						</Shadow>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959793</Id>
+					<Name><![CDATA[ElőirányozottKöltség]]></Name>
+					<Description><![CDATA[Managment's initial estimate for cost in person-months is given by initial 
+work to do divided by productivity.  As progress is made and fraction 
+complete increases, the estimate of effort remaining based on the budget 
+decreases.]]></Description>
+					<Unit>Person * Months</Unit> 
+					<X>1500</X><Y>440</Y>
+					<Label><X>-40</X><Y>20</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[( KezdetiElvégzendőMunka / NormálProducktivitás ) * ( 1 - VéltHaladás )]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959794</Id>
+					<Name><![CDATA[HaladásAlapúBecsültKöltség]]></Name>
+					<Description><![CDATA[Work to do divided by average productivity to date provides an estimate of 
+how many person-months of effort remain to complete the project.  Because 
+actual project scope (including the amount of rework) and actual 
+productivity are hard to determine early in the project, this estimate may 
+not accurately reflect true cost until the project has made some progress.]]></Description>
+					<Unit>Month * Person</Unit> 
+					<X>1600</X><Y>540</Y>
+					<Label><X>10</X><Y>-5</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[( ElvégzendőMunka / ÁtlagosProduktivitás ) * ProjektBefejezve]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959796</Id>
+					<Name><![CDATA[MunkavégzésiPotenciál]]></Name>
+					<Description><![CDATA[Maximum rate at which work can be accomplished.  Normally this equals 
+productivity multiplied by staff level.  However, in some cases the 
+available stock of work and the minimum time to perform a task can 
+constrain the maximum rate of progress.]]></Description>
+					<Unit>Task / Month</Unit> 
+					<X>340</X><Y>380</Y>
+					<Label><X>15</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[min( ÖsszesMunkaerő * Produktivitás, ElvégzendőMunka / SzükségesMinimumMunkavégzésiIdő )]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959799</Id>
+					<Name><![CDATA[MaximumMunkaerő]]></Name>
+					<Unit>People</Unit> 
+					<X>1490</X><Y>390</Y>
+					<Label><X>-49</X><Y>16</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="true" Array="false">
+						<Formula><![CDATA[0]]></Formula>
+						<Value><![CDATA[1e+006]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959800</Id>
+					<Name><![CDATA[FelmodásiIdő]]></Name>
+					<Unit>Month</Unit> 
+					<X>1420</X><Y>120</Y>
+					<Label><X>-35</X><Y>-15</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="true" Array="false">
+						<Formula><![CDATA[0]]></Formula>
+						<Value><![CDATA[4]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959802</Id>
+					<Name><![CDATA[HiányMunkaerő]]></Name>
+					<Unit>People</Unit> 
+					<X>1450</X><Y>350</Y>
+					<Label><X>-30</X><Y>-15</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[SzükségesMunkaerő - ÖsszesMunkaerő > 0 ? SzükségesMunkaerő < MaximumMunkaerő ? 
+SzükségesMunkaerő - ÖsszesMunkaerő : MaximumMunkaerő - ÖsszesMunkaerő : 0]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<Shadow>
+							<Id>1459641959940</Id>
+							<Name><![CDATA[<HiányMunkaerő>]]></Name>
+							<X>1022.188</X><Y>246.105</Y>
+							<Label><X>-39</X><Y>16</Y></Label>
+							<PublicFlag>false</PublicFlag>
+							<PresentationFlag>true</PresentationFlag>
+							<ShowLabel>true</ShowLabel>
+						</Shadow>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959804</Id>
+					<Name><![CDATA[AlkalmazásiIdő]]></Name>
+					<Description><![CDATA[Set to 4 months from problem statement]]></Description>
+					<Unit>Month</Unit> 
+					<X>1040</X><Y>140</Y>
+					<Label><X>-100</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="true" Array="false">
+						<Formula><![CDATA[0]]></Formula>
+						<Value><![CDATA[4]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959805</Id>
+					<Name><![CDATA[TöbbletMunkaerő]]></Name>
+					<Unit>People</Unit> 
+					<X>1550</X><Y>250</Y>
+					<Label><X>-39</X><Y>16</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[max( ÖsszesMunkaerő - SzükségesMunkaerő, 0 )]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<Shadow>
+							<Id>1459641959939</Id>
+							<Name><![CDATA[<TöbbletMunkaerő>]]></Name>
+							<X>1110.706</X><Y>71.947</Y>
+							<Label><X>-60.706</X><Y>-21.947</Y></Label>
+							<PublicFlag>false</PublicFlag>
+							<PresentationFlag>true</PresentationFlag>
+							<ShowLabel>true</ShowLabel>
+						</Shadow>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959806</Id>
+					<Name><![CDATA[SzükségesMunkaerő]]></Name>
+					<Description><![CDATA[How many people are required to complete the remaining work (estimated 
+cost to complete is person-months of effort) in the time remaining.]]></Description>
+					<Unit>People</Unit> 
+					<X>1600</X><Y>350</Y>
+					<Label><X>-50</X><Y>-20</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[BecsültKöltség / HátralevőIdő]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959807</Id>
+					<Name><![CDATA[NormálProducktivitás]]></Name>
+					<Unit>Task / (Person * Month)</Unit> 
+					<X>210</X><Y>430</Y>
+					<Label><X>-135</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="true" Array="false">
+						<Formula><![CDATA[0]]></Formula>
+						<Value><![CDATA[1]]></Value>
+						<Color/>
+						<Shadow>
+							<Id>1459641959945</Id>
+							<Name><![CDATA[<NormálProducktivitás>]]></Name>
+							<X>1400</X><Y>440</Y>
+							<Label><X>-150</X><Y>0</Y></Label>
+							<PublicFlag>false</PublicFlag>
+							<PresentationFlag>true</PresentationFlag>
+							<ShowLabel>true</ShowLabel>
+						</Shadow>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959810</Id>
+					<Name><![CDATA[Minőség]]></Name>
+					<Description><![CDATA[Fraction of work that is complete and correct.]]></Description>
+					<Unit>Fraction</Unit> 
+					<X>340</X><Y>230</Y>
+					<Label><X>15</X><Y>-10</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[KorábbiMinőségHatásaAMinőségre * ( KezdőMunkaerő / ÖsszesMunkaerő * 0.5 * 
+NormálMinőség + TapasztaltMunkaerő / ÖsszesMunkaerő * NormálMinőség * ( 1 - KezdőMunkaerő / ( 
+1 * ÖsszesMunkaerő ) ) )]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959811</Id>
+					<Name><![CDATA[TapasztalatiszerzésiIdő]]></Name>
+					<Description><![CDATA[Time it takes new staff to gain experience]]></Description>
+					<Unit>Month</Unit> 
+					<X>1300</X><Y>230</Y>
+					<Label><X>-35</X><Y>20</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="true" Array="false">
+						<Formula><![CDATA[0]]></Formula>
+						<Value><![CDATA[4]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959812</Id>
+					<Name><![CDATA[AlkalmazásiKedv]]></Name>
+					<Description><![CDATA[Multiplier reflecting management's willingness to hire new staff. 0 
+represents no desire and causes staff hired rate to be zero. 1 causes 
+staff hiring to be extra staff needed divided by hiring delay.]]></Description>
+					<Unit></Unit> 
+					<X>1040</X><Y>100</Y>
+					<Label><X>-110</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="true" Array="false">
+						<Formula><![CDATA[0]]></Formula>
+						<Value><![CDATA[1]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959813</Id>
+					<Name><![CDATA[ÖsszesMunkaerő]]></Name>
+					<Description><![CDATA[The number of people working on the project.]]></Description>
+					<Unit>People</Unit> 
+					<X>1350</X><Y>300</Y>
+					<Label><X>-35</X><Y>16</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[KezdőMunkaerő + TapasztaltMunkaerő]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<Shadow>
+							<Id>1459641959924</Id>
+							<Name><![CDATA[<ÖsszesMunkaerő>]]></Name>
+							<X>1320</X><Y>620</Y>
+							<Label><X>-120</X><Y>0</Y></Label>
+							<PublicFlag>false</PublicFlag>
+							<PresentationFlag>true</PresentationFlag>
+							<ShowLabel>true</ShowLabel>
+						</Shadow>
+						<Shadow>
+							<Id>1459641959943</Id>
+							<Name><![CDATA[<ÖsszesMunkaerő>]]></Name>
+							<X>310</X><Y>300</Y>
+							<Label><X>-100</X><Y>-20</Y></Label>
+							<PublicFlag>false</PublicFlag>
+							<PresentationFlag>true</PresentationFlag>
+							<ShowLabel>true</ShowLabel>
+						</Shadow>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959815</Id>
+					<Name><![CDATA[MinimumBefejezésiIdő]]></Name>
+					<Description><![CDATA[When the project is experiencing a schedule overrun, the minimum time to 
+finish the remaining work specifies, for staffing purposes, over what time 
+duration management would like to complete that remaining work.]]></Description>
+					<Unit>Month</Unit> 
+					<X>1700</X><Y>310</Y>
+					<Label><X>-60</X><Y>-20</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="true" Array="false">
+						<Formula><![CDATA[0]]></Formula>
+						<Value><![CDATA[1]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959816</Id>
+					<Name><![CDATA[BecsültKöltség]]></Name>
+					<Description><![CDATA[Estimated cost to complete is management's estimate of the person-months 
+of work remaining to complete the project.  Early in the project, 
+management bases its planning on the budget.  As progress is made, 
+however, and management can determine the true scope and productivity on 
+the project, the estimated cost to complete moves toward that based on 
+actual progress.]]></Description>
+					<Unit>Month * Person</Unit> 
+					<X>1600</X><Y>440</Y>
+					<Label><X>10</X><Y>10</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[ElőirányozottKöltség * ( 1 - HaladásiFontosság ) + 
+HaladásAlapúBecsültKöltség * HaladásiFontosság]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959817</Id>
+					<Name><![CDATA[TervezettBefejezésiIdő]]></Name>
+					<Unit>Month</Unit> 
+					<X>1690</X><Y>400</Y>
+					<Label><X>-40</X><Y>20</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="true" Array="false">
+						<Formula><![CDATA[0]]></Formula>
+						<Value><![CDATA[30]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959818</Id>
+					<Name><![CDATA[HaladásiFontosság]]></Name>
+					<Unit>Fraction</Unit> 
+					<X>1500</X><Y>500</Y>
+					<Label><X>-60</X><Y>20</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[HaladásAlapúBecsültKöltségTáblázat( VéltHaladás )]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<Shadow>
+							<Id>1459641959937</Id>
+							<Name><![CDATA[<HaladásiFontosság>]]></Name>
+							<X>1682.049</X><Y>237.811</Y>
+							<Label><X>-52</X><Y>16</Y></Label>
+							<PublicFlag>false</PublicFlag>
+							<PresentationFlag>true</PresentationFlag>
+							<ShowLabel>true</ShowLabel>
+						</Shadow>
+						<Shadow>
+							<Id>1459641959938</Id>
+							<Name><![CDATA[<HaladásiFontosság>]]></Name>
+							<X>1250</X><Y>70</Y>
+							<Label><X>10</X><Y>0</Y></Label>
+							<PublicFlag>false</PublicFlag>
+							<PresentationFlag>true</PresentationFlag>
+							<ShowLabel>true</ShowLabel>
+						</Shadow>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959819</Id>
+					<Name><![CDATA[HátralevőIdő]]></Name>
+					<Description><![CDATA[Time remaining to finish the work given scheduled completion date.  As 
+long as simulated time is less than scheduled completion time, time 
+remaining is simply scheduled completion date minus current simulated 
+time.  However, if the project overruns, time can exceed the schedule and 
+time remaining would be negative.  In this situation, management strives 
+to finish all remaining work in a small minimum time.]]></Description>
+					<Unit>Month</Unit> 
+					<X>1678.048</X><Y>352.188</Y>
+					<Label><X>11.952</X><Y>-2.188</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[max( MinimumBefejezésiIdő, TervezettBefejezésiIdő - time() )]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959820</Id>
+					<Name><![CDATA[KezdetiElvégzendőMunka]]></Name>
+					<Unit>Task</Unit> 
+					<X>230</X><Y>600</Y>
+					<Label><X>-105</X><Y>20</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="true" Array="false">
+						<Formula><![CDATA[0]]></Formula>
+						<Value><![CDATA[100]]></Value>
+						<Color/>
+						<Shadow>
+							<Id>1459641959931</Id>
+							<Name><![CDATA[<KezdetiElvégzendőMunka>]]></Name>
+							<X>1400</X><Y>410</Y>
+							<Label><X>-170</X><Y>0</Y></Label>
+							<PublicFlag>false</PublicFlag>
+							<PresentationFlag>true</PresentationFlag>
+							<ShowLabel>true</ShowLabel>
+						</Shadow>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959823</Id>
+					<Name><![CDATA[ÁtlagosMinőség]]></Name>
+					<Unit></Unit> 
+					<X>790</X><Y>280</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[xidz( ElvégzettMunka, VéltElvégzettMunka, 0.85 )]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959824</Id>
+					<Name><![CDATA[NormálMinőség]]></Name>
+					<Unit>Fraction</Unit> 
+					<X>330</X><Y>170</Y>
+					<Label><X>-40</X><Y>-20</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="true" Array="false">
+						<Formula><![CDATA[0]]></Formula>
+						<Value><![CDATA[0.85]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959825</Id>
+					<Name><![CDATA[KorábbiMinőségHatásaAMinőségre]]></Name>
+					<Unit></Unit> 
+					<X>600</X><Y>240</Y>
+					<Label><X>-25</X><Y>-25</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[KorábbiMinőségHatásaAMinőségreTáblázat( ÁtlagosMinőség )]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959826</Id>
+					<Name><![CDATA[VéltHaladás]]></Name>
+					<Unit></Unit> 
+					<X>520</X><Y>700</Y>
+					<Label><X>-69</X><Y>16</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[VéltElvégzettMunka / KezdetiElvégzendőMunka]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<Shadow>
+							<Id>1459641959930</Id>
+							<Name><![CDATA[<VéltHaladás>]]></Name>
+							<X>1400</X><Y>470</Y>
+							<Label><X>-90</X><Y>0</Y></Label>
+							<PublicFlag>false</PublicFlag>
+							<PresentationFlag>true</PresentationFlag>
+							<ShowLabel>true</ShowLabel>
+						</Shadow>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959827</Id>
+					<Name><![CDATA[VéltElvégzettMunka]]></Name>
+					<Unit>Task</Unit> 
+					<X>720</X><Y>400</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[ElvégzettHibásMunka + ElvégzettMunka]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<Shadow>
+							<Id>1459641959932</Id>
+							<Name><![CDATA[<VéltElvégzettMunka>]]></Name>
+							<X>1660</X><Y>640</Y>
+							<Label><X>10</X><Y>0</Y></Label>
+							<PublicFlag>false</PublicFlag>
+							<PresentationFlag>true</PresentationFlag>
+							<ShowLabel>true</ShowLabel>
+						</Shadow>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959829</Id>
+					<Name><![CDATA[HaladásHatás]]></Name>
+					<Unit></Unit> 
+					<X>530</X><Y>660</Y>
+					<Label><X>10</X><Y>-5</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[HaladásHatásTáblázat( VéltHaladás )]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959831</Id>
+					<Name><![CDATA[HibásMunkaFelfedezésiIdő]]></Name>
+					<Description><![CDATA[Average number of months required to discover rework.]]></Description>
+					<Unit>Month</Unit> 
+					<X>460</X><Y>630</Y>
+					<Label><X>15</X><Y>-10</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[NormálHibásMunkaFelfedezésiIdő * HaladásHatás]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959832</Id>
+					<Name><![CDATA[NormálHibásMunkaFelfedezésiIdő]]></Name>
+					<Unit>Month</Unit> 
+					<X>490</X><Y>590</Y>
+					<Label><X>15</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="true" Array="false">
+						<Formula><![CDATA[0]]></Formula>
+						<Value><![CDATA[12]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959833</Id>
+					<Name><![CDATA[SzükségesMinimumMunkavégzésiIdő]]></Name>
+					<Unit>Months</Unit> 
+					<X>580</X><Y>430</Y>
+					<Label><X>-80</X><Y>-15</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="true" Array="false">
+						<Formula><![CDATA[0]]></Formula>
+						<Value><![CDATA[0.25]]></Value>
+						<Color/>
+					</Properties>
+
+				</Variable>
+				<Variable Class="AuxVariable">
+					<Id>1459641959836</Id>
+					<Name><![CDATA[ProjektBefejezve]]></Name>
+					<Description><![CDATA[Sets a "switch" to 0 when work done exceeds 99 tasks.]]></Description>
+					<Unit></Unit> 
+					<X>520</X><Y>320</Y>
+					<Label><X>5</X><Y>15</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties External="false" Constant="false" Array="false">
+						<Formula><![CDATA[ElvégzettMunka > 99 ? 0 : 1]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<Shadow>
+							<Id>1459641959944</Id>
+							<Name><![CDATA[<ProjektBefejezve>]]></Name>
+							<X>1340</X><Y>580</Y>
+							<Label><X>-115</X><Y>0</Y></Label>
+							<PublicFlag>false</PublicFlag>
+							<PresentationFlag>true</PresentationFlag>
+							<ShowLabel>true</ShowLabel>
+						</Shadow>
+					</Properties>
+
+				</Variable>
+				<Variable Class="StockVariable">
+					<Id>1459641959801</Id>
+					<Name><![CDATA[TapasztaltMunkaerő]]></Name>
+					<Unit>People</Unit> 
+					<X>1440</X><Y>180</Y>
+					<Label><X>-55</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties Array="false">
+					<EquationStyle>classic</EquationStyle>
+					<Width>120</Width>
+					<Height>40</Height>
+						<Expression><![CDATA[Tapasztalatszerzés - Felmondás]]></Expression>
+						<InitialValue><![CDATA[4]]></InitialValue>
+						<Color/>
+						<Shadow>
+							<Id>1459641959942</Id>
+							<Name><![CDATA[<TapasztaltMunkaerő>]]></Name>
+							<X>120</X><Y>230</Y>
+							<Label><X>-65</X><Y>5</Y></Label>
+							<PublicFlag>false</PublicFlag>
+							<PresentationFlag>true</PresentationFlag>
+							<ShowLabel>true</ShowLabel>
+						</Shadow>
+					</Properties>
+				</Variable>
+				<Variable Class="StockVariable">
+					<Id>1459641959808</Id>
+					<Name><![CDATA[KezdőMunkaerő]]></Name>
+					<Unit>People</Unit> 
+					<X>1200</X><Y>180</Y>
+					<Label><X>-45</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties Array="false">
+					<EquationStyle>classic</EquationStyle>
+					<Width>120</Width>
+					<Height>40</Height>
+						<Expression><![CDATA[Alkalmazás - Tapasztalatszerzés - KezdőFelmondás]]></Expression>
+						<InitialValue><![CDATA[0]]></InitialValue>
+						<Color/>
+						<Shadow>
+							<Id>1459641959941</Id>
+							<Name><![CDATA[<KezdőMunkaerő>]]></Name>
+							<X>120</X><Y>380</Y>
+							<Label><X>-50</X><Y>5</Y></Label>
+							<PublicFlag>false</PublicFlag>
+							<PresentationFlag>true</PresentationFlag>
+							<ShowLabel>true</ShowLabel>
+						</Shadow>
+					</Properties>
+				</Variable>
+				<Variable Class="StockVariable">
+					<Id>1459641959821</Id>
+					<Name><![CDATA[TeljesErőfeszítés]]></Name>
+					<Unit>People * Month</Unit> 
+					<X>1470</X><Y>660</Y>
+					<Label><X>-45</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties Array="false">
+					<EquationStyle>classic</EquationStyle>
+					<Width>100</Width>
+					<Height>40</Height>
+						<Expression><![CDATA[Erőfeszítés]]></Expression>
+						<InitialValue><![CDATA[0]]></InitialValue>
+						<Color/>
+					</Properties>
+				</Variable>
+				<Variable Class="StockVariable">
+					<Id>1459641959835</Id>
+					<Name><![CDATA[ElvégzettÖsszesMunka]]></Name>
+					<Description><![CDATA[Cumulates the total amount of work done, counting rework as well as 
+original work.]]></Description>
+					<Unit>Tasks</Unit> 
+					<X>600</X><Y>300</Y>
+					<Label><X>-60</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties Array="false">
+					<EquationStyle>classic</EquationStyle>
+					<Width>130</Width>
+					<Height>40</Height>
+						<Expression><![CDATA[RateOfDoingWork]]></Expression>
+						<InitialValue><![CDATA[0]]></InitialValue>
+						<Color/>
+					</Properties>
+				</Variable>
+				<Variable Class="StockVariable">
+					<Id>1459641959838</Id>
+					<Name><![CDATA[ElvégzettHibásMunka]]></Name>
+					<Description><![CDATA[Work that contains errors which have not yet been discovered.]]></Description>
+					<Unit>Task</Unit> 
+					<X>590</X><Y>470</Y>
+					<Label><X>-55</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties Array="false">
+					<EquationStyle>classic</EquationStyle>
+					<Width>130</Width>
+					<Height>40</Height>
+						<Expression><![CDATA[ReworkGeneration - ReworkDiscovery]]></Expression>
+						<InitialValue><![CDATA[0]]></InitialValue>
+						<Color/>
+					</Properties>
+				</Variable>
+				<Variable Class="StockVariable">
+					<Id>1459641959839</Id>
+					<Name><![CDATA[ElvégzettMunka]]></Name>
+					<Description><![CDATA[Work completed correctly.]]></Description>
+					<Unit>Task</Unit> 
+					<X>590</X><Y>120</Y>
+					<Label><X>-40</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties Array="false">
+					<EquationStyle>classic</EquationStyle>
+					<Width>130</Width>
+					<Height>40</Height>
+						<Expression><![CDATA[WorkAccomplishment]]></Expression>
+						<InitialValue><![CDATA[0]]></InitialValue>
+						<Color/>
+					</Properties>
+				</Variable>
+				<Variable Class="StockVariable">
+					<Id>1459641959840</Id>
+					<Name><![CDATA[ElvégzendőMunka]]></Name>
+					<Description><![CDATA[Work that needs to be done for either the first time, or redone because it 
+contains errors]]></Description>
+					<Unit>Task</Unit> 
+					<X>280</X><Y>470</Y>
+					<Label><X>-45</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties Array="false">
+					<EquationStyle>classic</EquationStyle>
+					<Width>120</Width>
+					<Height>40</Height>
+						<Expression><![CDATA[ReworkDiscovery - ReworkGeneration - WorkAccomplishment]]></Expression>
+						<InitialValue><![CDATA[KezdetiElvégzendőMunka]]></InitialValue>
+						<Color/>
+						<Shadow>
+							<Id>1459641959928</Id>
+							<Name><![CDATA[<ElvégzendőMunka>]]></Name>
+							<X>1470</X><Y>590</Y>
+							<Label><X>-55</X><Y>5</Y></Label>
+							<PublicFlag>false</PublicFlag>
+							<PresentationFlag>true</PresentationFlag>
+							<ShowLabel>true</ShowLabel>
+						</Shadow>
+					</Properties>
+				</Variable>
+				<Variable Class="Flow">
+					<Id>1459641959916</Id>
+					<Name><![CDATA[Munkavégzés]]></Name>
+					<Description><![CDATA[Rate of work being done correctly.]]></Description>
+					<Unit>Task / Month</Unit> 
+					<X>280</X><Y>470</Y>
+					<Label><X>-40</X><Y>-25</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties SourceId="1459641959840" TargetId="1459641959839" External="false" Constant="false" Array="false">
+						<Formula><![CDATA[Minőség * MunkavégzésiPotenciál * ProjektBefejezve]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<ValveIndex>2</ValveIndex>
+						<Points>
+							<Point><X>0</X><Y>0</Y></Point>
+							<Point><X>0</X><Y>-350</Y></Point>
+							<Point><X>150</X><Y>-350</Y></Point>
+							<Point><X>310</X><Y>-350</Y></Point>
+						</Points>
+					</Properties>
+				</Variable>
+				<Variable Class="Flow">
+					<Id>1459641959917</Id>
+					<Name><![CDATA[HibásMunkavégzés]]></Name>
+					<Description><![CDATA[Rate of work being done incorrectly.]]></Description>
+					<Unit>Task / Month</Unit> 
+					<X>280</X><Y>470</Y>
+					<Label><X>-50</X><Y>25</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties SourceId="1459641959840" TargetId="1459641959838" External="false" Constant="false" Array="false">
+						<Formula><![CDATA[( 1 - Minőség ) * MunkavégzésiPotenciál * ProjektBefejezve]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<ValveIndex>1</ValveIndex>
+						<Points>
+							<Point><X>0</X><Y>0</Y></Point>
+							<Point><X>150</X><Y>0</Y></Point>
+							<Point><X>310</X><Y>0</Y></Point>
+						</Points>
+					</Properties>
+				</Variable>
+				<Variable Class="Flow">
+					<Id>1459641959918</Id>
+					<Name><![CDATA[HibásMunkaFelfedezés]]></Name>
+					<Description><![CDATA[The rate of discovering rework, using a first-order delay formulation.]]></Description>
+					<Unit>Task / Month</Unit> 
+					<X>590</X><Y>470</Y>
+					<Label><X>-140</X><Y>20</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties SourceId="1459641959838" TargetId="1459641959840" External="false" Constant="false" Array="false">
+						<Formula><![CDATA[ElvégzettHibásMunka 
+/ HibásMunkaFelfedezésiIdő]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<ValveIndex>2</ValveIndex>
+						<Points>
+							<Point><X>0</X><Y>0</Y></Point>
+							<Point><X>0</X><Y>90</Y></Point>
+							<Point><X>-170</X><Y>90</Y></Point>
+							<Point><X>-310</X><Y>90</Y></Point>
+							<Point><X>-310</X><Y>0</Y></Point>
+						</Points>
+					</Properties>
+				</Variable>
+				<Variable Class="Flow">
+					<Id>1459641959920</Id>
+					<Name><![CDATA[ÖsszesMunkavégzés]]></Name>
+					<Unit>Tasks / Month</Unit> 
+					<X>380</X><Y>300</Y>
+					<Label><X>-35</X><Y>30</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties TargetId="1459641959835" External="false" Constant="false" Array="false">
+						<Formula><![CDATA[Munkavégzés + HibásMunkavégzés]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<ValveIndex>1</ValveIndex>
+						<Points>
+							<Point><X>0</X><Y>0</Y></Point>
+							<Point><X>50</X><Y>0</Y></Point>
+							<Point><X>220</X><Y>0</Y></Point>
+						</Points>
+					</Properties>
+				</Variable>
+				<Variable Class="Flow">
+					<Id>1459641959925</Id>
+					<Name><![CDATA[Erőfeszítés]]></Name>
+					<Unit>People</Unit> 
+					<X>1280</X><Y>660</Y>
+					<Label><X>-30</X><Y>25</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties TargetId="1459641959821" External="false" Constant="false" Array="false">
+						<Formula><![CDATA[ÖsszesMunkaerő * ProjektBefejezve]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<ValveIndex>1</ValveIndex>
+						<Points>
+							<Point><X>0</X><Y>0</Y></Point>
+							<Point><X>70</X><Y>0</Y></Point>
+							<Point><X>190</X><Y>0</Y></Point>
+						</Points>
+					</Properties>
+				</Variable>
+				<Variable Class="Flow">
+					<Id>1459641959933</Id>
+					<Name><![CDATA[Alkalmazás]]></Name>
+					<Description><![CDATA[Rate at which new staff is hired. Controlled by Willingness to Hire 
+variable.]]></Description>
+					<Unit>People / Month</Unit> 
+					<X>1049.094</X><Y>179.466</Y>
+					<Label><X>-35</X><Y>30</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties TargetId="1459641959808" External="false" Constant="false" Array="false">
+						<Formula><![CDATA[AlkalmazásiKedv == 0 ? 0 : HiányMunkaerő / AlkalmazásiIdő]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<ValveIndex>1</ValveIndex>
+						<Points>
+							<Point><X>0</X><Y>0</Y></Point>
+							<Point><X>40</X><Y>0</Y></Point>
+							<Point><X>150</X><Y>0</Y></Point>
+						</Points>
+					</Properties>
+				</Variable>
+				<Variable Class="Flow">
+					<Id>1459641959934</Id>
+					<Name><![CDATA[Tapasztalatszerzés]]></Name>
+					<Unit>People / Month</Unit> 
+					<X>1199.271</X><Y>179.759</Y>
+					<Label><X>-49.271</X><Y>20.241</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties SourceId="1459641959808" TargetId="1459641959801" External="false" Constant="false" Array="false">
+						<Formula><![CDATA[KezdőMunkaerő / TapasztalatiszerzésiIdő]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<ValveIndex>1</ValveIndex>
+						<Points>
+							<Point><X>0</X><Y>0</Y></Point>
+							<Point><X>120</X><Y>0</Y></Point>
+							<Point><X>240</X><Y>0</Y></Point>
+						</Points>
+					</Properties>
+				</Variable>
+				<Variable Class="Flow">
+					<Id>1459641959935</Id>
+					<Name><![CDATA[Felmondás]]></Name>
+					<Unit>People / Month</Unit> 
+					<X>1439.542</X><Y>179.466</Y>
+					<Label><X>-29.542</X><Y>20.534</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties SourceId="1459641959801" External="false" Constant="false" Array="false">
+						<Formula><![CDATA[( 1 - HaladásiFontosság ) * min( TöbbletMunkaerő, KezdőMunkaerő ) / 
+FelmodásiIdő]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<ValveIndex>1</ValveIndex>
+						<Points>
+							<Point><X>0</X><Y>0</Y></Point>
+							<Point><X>120</X><Y>0</Y></Point>
+							<Point><X>180</X><Y>0</Y></Point>
+						</Points>
+					</Properties>
+				</Variable>
+				<Variable Class="Flow">
+					<Id>1459641959936</Id>
+					<Name><![CDATA[KezdőFelmondás]]></Name>
+					<X>1199.271</X><Y>179.759</Y>
+					<Label><X>10.729</X><Y>0.241</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Properties SourceId="1459641959808" External="false" Constant="false" Array="false">
+						<Formula><![CDATA[( 1 - HaladásiFontosság ) * min( TöbbletMunkaerő, KezdőMunkaerő ) / 
+FelmodásiIdő]]></Formula>
+						<Value><![CDATA[0]]></Value>
+						<Color/>
+						<ValveIndex>2</ValveIndex>
+						<Points>
+							<Point><X>0</X><Y>0</Y></Point>
+							<Point><X>0</X><Y>-56</Y></Point>
+							<Point><X>0</X><Y>-70</Y></Point>
+							<Point><X>-1</X><Y>-108</Y></Point>
+						</Points>
+					</Properties>
+				</Variable>
+			</Variables>
+			<Dependences>
+				<Link SourceId="1459641959810" TargetId="1459641959917" Polarity="null">
+					<Height>0.0</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>90</X><Y>240</Y></Direction>
+					<Id>1459641959858</Id>
+					<Name><![CDATA[Minőség - HibásMunkavégzés]]></Name>
+					<X>340</X><Y>230</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959791" TargetId="1459641959796" Polarity="null">
+					<Height>-12.994566547406635</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>110</X><Y>0</Y></Direction>
+					<Id>1459641959860</Id>
+					<Name><![CDATA[Produktivitás - MunkavégzésiPotenciál]]></Name>
+					<X>230</X><Y>380</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959796" TargetId="1459641959916" Polarity="null">
+					<Height>0.0</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>90</X><Y>-260</Y></Direction>
+					<Id>1459641959848</Id>
+					<Name><![CDATA[MunkavégzésiPotenciál - Munkavégzés]]></Name>
+					<X>340</X><Y>380</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959831" TargetId="1459641959918" Polarity="null">
+					<Height>16.012</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-40</X><Y>-70</Y></Direction>
+					<Id>1459641959913</Id>
+					<Name><![CDATA[HibásMunkaFelfedezésiIdő - HibásMunkaFelfedezés]]></Name>
+					<X>460</X><Y>630</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959838" TargetId="1459641959918" Polarity="null">
+					<Height>0.0</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-150</X><Y>150</Y></Direction>
+					<Id>1459641959912</Id>
+					<Name><![CDATA[ElvégzettHibásMunka - HibásMunkaFelfedezés]]></Name>
+					<X>590</X><Y>470</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959810" TargetId="1459641959916" Polarity="null">
+					<Height>0.0</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>90</X><Y>-110</Y></Direction>
+					<Id>1459641959849</Id>
+					<Name><![CDATA[Minőség - Munkavégzés]]></Name>
+					<X>340</X><Y>230</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959839" TargetId="1459641959836" Polarity="null">
+					<Height>-15.202</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-70</X><Y>200</Y></Direction>
+					<Id>1459641959911</Id>
+					<Name><![CDATA[ElvégzettMunka - ProjektBefejezve]]></Name>
+					<X>590</X><Y>120</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959836" TargetId="1459641959916" Polarity="null">
+					<Height>-25.067</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-90</X><Y>-200</Y></Direction>
+					<Id>1459641959850</Id>
+					<Name><![CDATA[ProjektBefejezve - Munkavégzés]]></Name>
+					<X>520</X><Y>320</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959836" TargetId="1459641959917" Polarity="null">
+					<Height>24.104</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-90</X><Y>150</Y></Direction>
+					<Id>1459641959859</Id>
+					<Name><![CDATA[ProjektBefejezve - HibásMunkavégzés]]></Name>
+					<X>520</X><Y>320</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959916" TargetId="1459641959920" Polarity="null">
+					<Height>0.0</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>10</X><Y>180</Y></Direction>
+					<Id>1459641959910</Id>
+					<Name><![CDATA[Munkavégzés - ÖsszesMunkavégzés]]></Name>
+					<X>430</X><Y>120</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959917" TargetId="1459641959920" Polarity="null">
+					<Height>0.0</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>10</X><Y>-170</Y></Direction>
+					<Id>1459641959909</Id>
+					<Name><![CDATA[HibásMunkavégzés - ÖsszesMunkavégzés]]></Name>
+					<X>430</X><Y>470</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959796" TargetId="1459641959917" Polarity="null">
+					<Height>0.0</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>90</X><Y>90</Y></Direction>
+					<Id>1459641959857</Id>
+					<Name><![CDATA[MunkavégzésiPotenciál - HibásMunkavégzés]]></Name>
+					<X>340</X><Y>380</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959833" TargetId="1459641959796" Polarity="null">
+					<Height>25.162961122664456</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-240</X><Y>-50</Y></Direction>
+					<Id>1459641959862</Id>
+					<Name><![CDATA[SzükségesMinimumMunkavégzésiIdő - MunkavégzésiPotenciál]]></Name>
+					<X>580</X><Y>430</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959840" TargetId="1459641959796" Polarity="null">
+					<Height>-21.99</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>60</X><Y>-90</Y></Direction>
+					<Id>1459641959861</Id>
+					<Name><![CDATA[ElvégzendőMunka - MunkavégzésiPotenciál]]></Name>
+					<X>280</X><Y>470</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959826" TargetId="1459641959829" Polarity="null">
+					<Height>-10.057</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>10</X><Y>-40</Y></Direction>
+					<Id>1459641959906</Id>
+					<Name><![CDATA[VéltHaladás - HaladásHatás]]></Name>
+					<X>520</X><Y>700</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959829" TargetId="1459641959831" Polarity="null">
+					<Height>-9.638</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-70</X><Y>-30</Y></Direction>
+					<Id>1459641959907</Id>
+					<Name><![CDATA[HaladásHatás - HibásMunkaFelfedezésiIdő]]></Name>
+					<X>530</X><Y>660</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959832" TargetId="1459641959831" Polarity="null">
+					<Height>-11.905</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-30</X><Y>40</Y></Direction>
+					<Id>1459641959908</Id>
+					<Name><![CDATA[NormálHibásMunkaFelfedezésiIdő - HibásMunkaFelfedezésiIdő]]></Name>
+					<X>490</X><Y>590</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959827" TargetId="1459641959826" Polarity="null">
+					<Height>112.392</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-200</X><Y>300</Y></Direction>
+					<Id>1459641959903</Id>
+					<Name><![CDATA[VéltElvégzettMunka - VéltHaladás]]></Name>
+					<X>720</X><Y>400</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959839" TargetId="1459641959827" Polarity="null">
+					<Height>23.083</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>130</X><Y>280</Y></Direction>
+					<Id>1459641959904</Id>
+					<Name><![CDATA[ElvégzettMunka - VéltElvégzettMunka]]></Name>
+					<X>590</X><Y>120</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959823" TargetId="1459641959825" Polarity="null">
+					<Height>-19.159</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-190</X><Y>-40</Y></Direction>
+					<Id>1459641959901</Id>
+					<Name><![CDATA[ÁtlagosMinőség - KorábbiMinőségHatásaAMinőségre]]></Name>
+					<X>790</X><Y>280</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959820" TargetId="1459641959826" Polarity="null">
+					<Height>-24.691</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>290</X><Y>100</Y></Direction>
+					<Id>1459641959902</Id>
+					<Name><![CDATA[KezdetiElvégzendőMunka - VéltHaladás]]></Name>
+					<X>230</X><Y>600</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959824" TargetId="1459641959810" Polarity="null">
+					<Height>2.7370365286245715</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>10</X><Y>60</Y></Direction>
+					<Id>1459641959884</Id>
+					<Name><![CDATA[NormálMinőség - Minőség]]></Name>
+					<X>330</X><Y>170</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959825" TargetId="1459641959810" Polarity="null">
+					<Height>15.918</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-260</X><Y>-10</Y></Direction>
+					<Id>1459641959888</Id>
+					<Name><![CDATA[KorábbiMinőségHatásaAMinőségre - Minőség]]></Name>
+					<X>600</X><Y>240</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959827" TargetId="1459641959823" Polarity="null">
+					<Height>-14.554</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>70</X><Y>-120</Y></Direction>
+					<Id>1459641959900</Id>
+					<Name><![CDATA[VéltElvégzettMunka - ÁtlagosMinőség]]></Name>
+					<X>720</X><Y>400</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959838" TargetId="1459641959827" Polarity="null">
+					<Height>-38.975</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>130</X><Y>-70</Y></Direction>
+					<Id>1459641959905</Id>
+					<Name><![CDATA[ElvégzettHibásMunka - VéltElvégzettMunka]]></Name>
+					<X>590</X><Y>470</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959807" TargetId="1459641959791" Polarity="null">
+					<Height>-11.437</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>20</X><Y>-50</Y></Direction>
+					<Id>1459641959845</Id>
+					<Name><![CDATA[NormálProducktivitás - Produktivitás]]></Name>
+					<X>210</X><Y>430</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959924" TargetId="1459641959925" Polarity="null">
+					<Height>4.994</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>30</X><Y>40</Y></Direction>
+					<Id>1459641959897</Id>
+					<Name><![CDATA[<ÖsszesMunkaerő> - Erőfeszítés]]></Name>
+					<X>1320</X><Y>620</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959927" TargetId="1459641959790" Polarity="null">
+					<Height>3.15010643052301</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-10</X><Y>-40</Y></Direction>
+					<Id>1459641959841</Id>
+					<Name><![CDATA[<Produktivitás> - ÁtlagosProduktivitás]]></Name>
+					<X>1620</X><Y>670</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959793" TargetId="1459641959816" Polarity="null">
+					<Height>0.8402752106840126</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>100</X><Y>0</Y></Direction>
+					<Id>1459641959891</Id>
+					<Name><![CDATA[ElőirányozottKöltség - BecsültKöltség]]></Name>
+					<X>1500</X><Y>440</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959794" TargetId="1459641959816" Polarity="null">
+					<Height>-14.421</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>0</X><Y>-100</Y></Direction>
+					<Id>1459641959892</Id>
+					<Name><![CDATA[HaladásAlapúBecsültKöltség - BecsültKöltség]]></Name>
+					<X>1600</X><Y>540</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959818" TargetId="1459641959816" Polarity="null">
+					<Height>-16.041</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>100</X><Y>-60</Y></Direction>
+					<Id>1459641959893</Id>
+					<Name><![CDATA[HaladásiFontosság - BecsültKöltség]]></Name>
+					<X>1500</X><Y>500</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959816" TargetId="1459641959806" Polarity="null">
+					<Height>-11.086837344183323</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>0</X><Y>-90</Y></Direction>
+					<Id>1459641959878</Id>
+					<Name><![CDATA[BecsültKöltség - SzükségesMunkaerő]]></Name>
+					<X>1600</X><Y>440</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959819" TargetId="1459641959806" Polarity="null">
+					<Height>-2.2615378381765368</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-78</X><Y>-2</Y></Direction>
+					<Id>1459641959879</Id>
+					<Name><![CDATA[HátralevőIdő - SzükségesMunkaerő]]></Name>
+					<X>1678</X><Y>352</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959815" TargetId="1459641959819" Polarity="null">
+					<Height>-2.065253370071332</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-22</X><Y>42</Y></Direction>
+					<Id>1459641959895</Id>
+					<Name><![CDATA[MinimumBefejezésiIdő - HátralevőIdő]]></Name>
+					<X>1700</X><Y>310</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959817" TargetId="1459641959819" Polarity="null">
+					<Height>5.0624155829115125</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-12</X><Y>-48</Y></Direction>
+					<Id>1459641959896</Id>
+					<Name><![CDATA[TervezettBefejezésiIdő - HátralevőIdő]]></Name>
+					<X>1690</X><Y>400</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959790" TargetId="1459641959794" Polarity="null">
+					<Height>1.948152950624035</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-10</X><Y>-90</Y></Direction>
+					<Id>1459641959855</Id>
+					<Name><![CDATA[ÁtlagosProduktivitás - HaladásAlapúBecsültKöltség]]></Name>
+					<X>1610</X><Y>630</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959928" TargetId="1459641959794" Polarity="null">
+					<Height>-22.462</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>130</X><Y>-50</Y></Direction>
+					<Id>1459641959854</Id>
+					<Name><![CDATA[<ElvégzendőMunka> - HaladásAlapúBecsültKöltség]]></Name>
+					<X>1470</X><Y>590</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959930" TargetId="1459641959793" Polarity="null">
+					<Height>3.218</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>100</X><Y>-30</Y></Direction>
+					<Id>1459641959853</Id>
+					<Name><![CDATA[<VéltHaladás> - ElőirányozottKöltség]]></Name>
+					<X>1400</X><Y>470</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959931" TargetId="1459641959793" Polarity="null">
+					<Height>-3.45</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>100</X><Y>30</Y></Direction>
+					<Id>1459641959851</Id>
+					<Name><![CDATA[<KezdetiElvégzendőMunka> - ElőirányozottKöltség]]></Name>
+					<X>1400</X><Y>410</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959932" TargetId="1459641959790" Polarity="null">
+					<Height>-7.654</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-50</X><Y>-10</Y></Direction>
+					<Id>1459641959843</Id>
+					<Name><![CDATA[<VéltElvégzettMunka> - ÁtlagosProduktivitás]]></Name>
+					<X>1660</X><Y>640</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959812" TargetId="1459641959933" Polarity="null">
+					<Height>27.875</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>49</X><Y>79</Y></Direction>
+					<Id>1459641959874</Id>
+					<Name><![CDATA[AlkalmazásiKedv - Alkalmazás]]></Name>
+					<X>1040</X><Y>100</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959804" TargetId="1459641959933" Polarity="null">
+					<Height>18.76521746619514</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>49</X><Y>39</Y></Direction>
+					<Id>1459641959873</Id>
+					<Name><![CDATA[AlkalmazásiIdő - Alkalmazás]]></Name>
+					<X>1040</X><Y>140</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959808" TargetId="1459641959813" Polarity="null">
+					<Height>-41.161</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>150</X><Y>120</Y></Direction>
+					<Id>1459641959889</Id>
+					<Name><![CDATA[KezdőMunkaerő - ÖsszesMunkaerő]]></Name>
+					<X>1200</X><Y>180</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959938" TargetId="1459641959936" Polarity="null">
+					<Height>-0.945</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-51</X><Y>39</Y></Direction>
+					<Id>1459641959883</Id>
+					<Name><![CDATA[<HaladásiFontosság> - KezdőFelmondás]]></Name>
+					<X>1250</X><Y>70</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959939" TargetId="1459641959936" Polarity="null">
+					<Height>-15.316</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>88</X><Y>24</Y></Direction>
+					<Id>1459641959881</Id>
+					<Name><![CDATA[<TöbbletMunkaerő> - KezdőFelmondás]]></Name>
+					<X>1110.706</X><Y>71.947</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959806" TargetId="1459641959805" Polarity="null">
+					<Height>-17.777158042238824</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-50</X><Y>-100</Y></Direction>
+					<Id>1459641959876</Id>
+					<Name><![CDATA[SzükségesMunkaerő - TöbbletMunkaerő]]></Name>
+					<X>1600</X><Y>350</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959813" TargetId="1459641959805" Polarity="null">
+					<Height>-9.443</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>200</X><Y>-50</Y></Direction>
+					<Id>1459641959877</Id>
+					<Name><![CDATA[ÖsszesMunkaerő - TöbbletMunkaerő]]></Name>
+					<X>1350</X><Y>300</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959805" TargetId="1459641959935" Polarity="null">
+					<Height>-6.436632252947163</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>9</X><Y>-71</Y></Direction>
+					<Id>1459641959865</Id>
+					<Name><![CDATA[TöbbletMunkaerő - Felmondás]]></Name>
+					<X>1550</X><Y>250</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959937" TargetId="1459641959935" Polarity="null">
+					<Height>-16.288382814395646</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-121</X><Y>-67</Y></Direction>
+					<Id>1459641959867</Id>
+					<Name><![CDATA[<HaladásiFontosság> - Felmondás]]></Name>
+					<X>1682.049</X><Y>237.811</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color>-16777216</Color>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959811" TargetId="1459641959934" Polarity="null">
+					<Height>-11.503</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>19</X><Y>-51</Y></Direction>
+					<Id>1459641959868</Id>
+					<Name><![CDATA[TapasztalatiszerzésiIdő - Tapasztalatszerzés]]></Name>
+					<X>1300</X><Y>230</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959800" TargetId="1459641959935" Polarity="null">
+					<Height>18.758</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>139</X><Y>59</Y></Direction>
+					<Id>1459641959864</Id>
+					<Name><![CDATA[FelmodásiIdő - Felmondás]]></Name>
+					<X>1420</X><Y>120</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959800" TargetId="1459641959936" Polarity="null">
+					<Height>14.409</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-221</X><Y>-11</Y></Direction>
+					<Id>1459641959880</Id>
+					<Name><![CDATA[FelmodásiIdő - KezdőFelmondás]]></Name>
+					<X>1420</X><Y>120</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959801" TargetId="1459641959813" Polarity="null">
+					<Height>20.0</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-90</X><Y>120</Y></Direction>
+					<Id>1459641959890</Id>
+					<Name><![CDATA[TapasztaltMunkaerő - ÖsszesMunkaerő]]></Name>
+					<X>1440</X><Y>180</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959813" TargetId="1459641959802" Polarity="null">
+					<Height>-29.478</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>100</X><Y>50</Y></Direction>
+					<Id>1459641959871</Id>
+					<Name><![CDATA[ÖsszesMunkaerő - HiányMunkaerő]]></Name>
+					<X>1350</X><Y>300</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959940" TargetId="1459641959933" Polarity="null">
+					<Height>-22.039983307324448</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>56</X><Y>-75</Y></Direction>
+					<Id>1459641959875</Id>
+					<Name><![CDATA[<HiányMunkaerő> - Alkalmazás]]></Name>
+					<X>1022.188</X><Y>246.105</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959799" TargetId="1459641959802" Polarity="null">
+					<Height>11.357</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-40</X><Y>-40</Y></Direction>
+					<Id>1459641959872</Id>
+					<Name><![CDATA[MaximumMunkaerő - HiányMunkaerő]]></Name>
+					<X>1490</X><Y>390</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959806" TargetId="1459641959802" Polarity="null">
+					<Height>10.890739991925557</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-150</X><Y>0</Y></Direction>
+					<Id>1459641959870</Id>
+					<Name><![CDATA[SzükségesMunkaerő - HiányMunkaerő]]></Name>
+					<X>1600</X><Y>350</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959941" TargetId="1459641959791" Polarity="null">
+					<Height>-4.001</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>110</X><Y>0</Y></Direction>
+					<Id>1459641959844</Id>
+					<Name><![CDATA[<KezdőMunkaerő> - Produktivitás]]></Name>
+					<X>120</X><Y>380</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959942" TargetId="1459641959791" Polarity="null">
+					<Height>-19.057</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>110</X><Y>150</Y></Direction>
+					<Id>1459641959847</Id>
+					<Name><![CDATA[<TapasztaltMunkaerő> - Produktivitás]]></Name>
+					<X>120</X><Y>230</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959941" TargetId="1459641959810" Polarity="null">
+					<Height>45.133</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>220</X><Y>-150</Y></Direction>
+					<Id>1459641959885</Id>
+					<Name><![CDATA[<KezdőMunkaerő> - Minőség]]></Name>
+					<X>120</X><Y>380</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959942" TargetId="1459641959810" Polarity="null">
+					<Height>23.359</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>220</X><Y>0</Y></Direction>
+					<Id>1459641959887</Id>
+					<Name><![CDATA[<TapasztaltMunkaerő> - Minőség]]></Name>
+					<X>120</X><Y>230</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959943" TargetId="1459641959810" Polarity="null">
+					<Height>-4.209</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>30</X><Y>-70</Y></Direction>
+					<Id>1459641959886</Id>
+					<Name><![CDATA[<ÖsszesMunkaerő> - Minőség]]></Name>
+					<X>310</X><Y>300</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959943" TargetId="1459641959791" Polarity="null">
+					<Height>-20.249</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-80</X><Y>80</Y></Direction>
+					<Id>1459641959846</Id>
+					<Name><![CDATA[<ÖsszesMunkaerő> - Produktivitás]]></Name>
+					<X>310</X><Y>300</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959943" TargetId="1459641959796" Polarity="null">
+					<Height>4.097</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>30</X><Y>80</Y></Direction>
+					<Id>1459641959863</Id>
+					<Name><![CDATA[<ÖsszesMunkaerő> - MunkavégzésiPotenciál]]></Name>
+					<X>310</X><Y>300</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959944" TargetId="1459641959794" Polarity="null">
+					<Height>14.316</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>260</X><Y>-40</Y></Direction>
+					<Id>1459641959856</Id>
+					<Name><![CDATA[<ProjektBefejezve> - HaladásAlapúBecsültKöltség]]></Name>
+					<X>1340</X><Y>580</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959945" TargetId="1459641959793" Polarity="null">
+					<Height>1.7751020860796416</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>100</X><Y>0</Y></Direction>
+					<Id>1459641959852</Id>
+					<Name><![CDATA[<NormálProducktivitás> - ElőirányozottKöltség]]></Name>
+					<X>1400</X><Y>440</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959808" TargetId="1459641959935" Polarity="null">
+					<Height>39.3203150262201</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>360</X><Y>-9</Y></Direction>
+					<Id>1459641959866</Id>
+					<Name><![CDATA[KezdőMunkaerő - Felmondás]]></Name>
+					<X>1200</X><Y>180</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959821" TargetId="1459641959790" Polarity="null">
+					<Height>-16.264</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>130</X><Y>-20</Y></Direction>
+					<Id>1459641959842</Id>
+					<Name><![CDATA[TeljesErőfeszítés - ÁtlagosProduktivitás]]></Name>
+					<X>1480</X><Y>650</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959808" TargetId="1459641959934" Polarity="null">
+					<Height>20.0</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>119</X><Y>-1</Y></Direction>
+					<Id>1459641959869</Id>
+					<Name><![CDATA[KezdőMunkaerő - Tapasztalatszerzés]]></Name>
+					<X>1200</X><Y>180</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959808" TargetId="1459641959936" Polarity="null">
+					<Height>20.0</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-2</X><Y>-84</Y></Direction>
+					<Id>1459641959882</Id>
+					<Name><![CDATA[KezdőMunkaerő - KezdőFelmondás]]></Name>
+					<X>1200</X><Y>180</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959839" TargetId="1459641959823" Polarity="null">
+					<Height>52.48</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>200</X><Y>160</Y></Direction>
+					<Id>1459643355143</Id>
+					<Name><![CDATA[ElvégzettMunka - ÁtlagosMinőség]]></Name>
+					<X>590</X><Y>120</Y>
+					<Label><X>40</X><Y>-50</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959820" TargetId="1459641959840" Polarity="null">
+					<Height>20.0</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>50</X><Y>-130</Y></Direction>
+					<Id>1459643413827</Id>
+					<Name><![CDATA[KezdetiElvégzendőMunka - ElvégzendőMunka]]></Name>
+					<X>230</X><Y>600</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959930" TargetId="1459641959818" Polarity="null">
+					<Height>-8.365</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>100</X><Y>30</Y></Direction>
+					<Id>1459646185304</Id>
+					<Name><![CDATA[<VéltHaladás> - HaladásiFontosság]]></Name>
+					<X>1400</X><Y>470</Y>
+					<Label><X>40</X><Y>-50</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1459641959944" TargetId="1459641959925" Polarity="null">
+					<Height>12.128</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>10</X><Y>80</Y></Direction>
+					<Id>1459646778102</Id>
+					<Name><![CDATA[<ProjektBefejezve> - Erőfeszítés]]></Name>
+					<X>1340</X><Y>580</Y>
+					<Label><X>40</X><Y>-50</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+			</Dependences>
+			<TableFunctions>
+				<TableFunction AccessType="public" StaticFunction="true">
+					<Id>1459641959814</Id>
+					<Name><![CDATA[HaladásAlapúBecsültKöltségTáblázat]]></Name>
+					<Description><![CDATA[Early in the project, management uses the original budget to estimate 
+effort remaining.  Therefore, the weight on estimates indicated by real 
+progess is 0.  As progress on the project occurs (fraction complete 
+increases), management progressively increases the weight applied to 
+effort remaining as given by tasks remaining and perceived productivity.]]></Description>
+					<Unit>Fraction</Unit> 
+					<X>1620</X><Y>550</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<InterpolationMethod>LINEAR</InterpolationMethod>
+					<OutOfRangeBehaviour>NEAREST</OutOfRangeBehaviour>
+					<OutOfRangeCustomValue><![CDATA[0.0]]></OutOfRangeCustomValue>
+					<ApproximationOrder><![CDATA[1]]></ApproximationOrder>
+					<LoadFromDatabase><![CDATA[false]]></LoadFromDatabase>
+					<ValuesQuery>
+						<TableReference>
+						</TableReference>
+							<ArgumentColumnReference>
+							</ArgumentColumnReference>
+							<ValueColumnReference>
+							</ValueColumnReference>
+					</ValuesQuery>
+// arguments and values
+					<Argument><![CDATA[0.0]]></Argument>
+					<Argument><![CDATA[0.1]]></Argument>
+					<Argument><![CDATA[0.2]]></Argument>
+					<Argument><![CDATA[0.3]]></Argument>
+					<Argument><![CDATA[0.4]]></Argument>
+					<Argument><![CDATA[0.5]]></Argument>
+					<Argument><![CDATA[0.6]]></Argument>
+					<Argument><![CDATA[0.7]]></Argument>
+					<Argument><![CDATA[0.8]]></Argument>
+					<Argument><![CDATA[0.9]]></Argument>
+					<Argument><![CDATA[1.0]]></Argument>
+					<Value><![CDATA[0.0]]></Value>
+					<Value><![CDATA[0.0]]></Value>
+					<Value><![CDATA[0.0]]></Value>
+					<Value><![CDATA[0.1]]></Value>
+					<Value><![CDATA[0.25]]></Value>
+					<Value><![CDATA[0.5]]></Value>
+					<Value><![CDATA[0.75]]></Value>
+					<Value><![CDATA[0.9]]></Value>
+					<Value><![CDATA[1.0]]></Value>
+					<Value><![CDATA[1.0]]></Value>
+					<Value><![CDATA[1.0]]></Value>
+				</TableFunction>
+				<TableFunction AccessType="public" StaticFunction="true">
+					<Id>1459641959828</Id>
+					<Name><![CDATA[KorábbiMinőségHatásaAMinőségreTáblázat]]></Name>
+					<Unit></Unit> 
+					<X>590</X><Y>190</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<InterpolationMethod>LINEAR</InterpolationMethod>
+					<OutOfRangeBehaviour>NEAREST</OutOfRangeBehaviour>
+					<OutOfRangeCustomValue><![CDATA[0.0]]></OutOfRangeCustomValue>
+					<ApproximationOrder><![CDATA[1]]></ApproximationOrder>
+					<LoadFromDatabase><![CDATA[false]]></LoadFromDatabase>
+					<ValuesQuery>
+						<TableReference>
+						</TableReference>
+							<ArgumentColumnReference>
+							</ArgumentColumnReference>
+							<ValueColumnReference>
+							</ValueColumnReference>
+					</ValuesQuery>
+// arguments and values
+					<Argument><![CDATA[0.0]]></Argument>
+					<Argument><![CDATA[0.1]]></Argument>
+					<Argument><![CDATA[0.2]]></Argument>
+					<Argument><![CDATA[0.3]]></Argument>
+					<Argument><![CDATA[0.4]]></Argument>
+					<Argument><![CDATA[0.5]]></Argument>
+					<Argument><![CDATA[0.6]]></Argument>
+					<Argument><![CDATA[0.7]]></Argument>
+					<Argument><![CDATA[0.8]]></Argument>
+					<Argument><![CDATA[0.9]]></Argument>
+					<Argument><![CDATA[1.0]]></Argument>
+					<Value><![CDATA[0.1]]></Value>
+					<Value><![CDATA[0.25]]></Value>
+					<Value><![CDATA[0.35]]></Value>
+					<Value><![CDATA[0.45]]></Value>
+					<Value><![CDATA[0.55]]></Value>
+					<Value><![CDATA[0.65]]></Value>
+					<Value><![CDATA[0.725]]></Value>
+					<Value><![CDATA[0.8]]></Value>
+					<Value><![CDATA[0.875]]></Value>
+					<Value><![CDATA[0.95]]></Value>
+					<Value><![CDATA[1.0]]></Value>
+				</TableFunction>
+				<TableFunction AccessType="public" StaticFunction="true">
+					<Id>1459641959830</Id>
+					<Name><![CDATA[HaladásHatásTáblázat]]></Name>
+					<Unit></Unit> 
+					<X>510</X><Y>670</Y>
+					<Label><X>-130</X><Y>-5</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<InterpolationMethod>LINEAR</InterpolationMethod>
+					<OutOfRangeBehaviour>NEAREST</OutOfRangeBehaviour>
+					<OutOfRangeCustomValue><![CDATA[0.0]]></OutOfRangeCustomValue>
+					<ApproximationOrder><![CDATA[1]]></ApproximationOrder>
+					<LoadFromDatabase><![CDATA[false]]></LoadFromDatabase>
+					<ValuesQuery>
+						<TableReference>
+						</TableReference>
+							<ArgumentColumnReference>
+							</ArgumentColumnReference>
+							<ValueColumnReference>
+							</ValueColumnReference>
+					</ValuesQuery>
+// arguments and values
+					<Argument><![CDATA[0.0]]></Argument>
+					<Argument><![CDATA[0.1]]></Argument>
+					<Argument><![CDATA[0.2]]></Argument>
+					<Argument><![CDATA[0.3]]></Argument>
+					<Argument><![CDATA[0.4]]></Argument>
+					<Argument><![CDATA[0.5]]></Argument>
+					<Argument><![CDATA[0.6]]></Argument>
+					<Argument><![CDATA[0.7]]></Argument>
+					<Argument><![CDATA[0.8]]></Argument>
+					<Argument><![CDATA[0.9]]></Argument>
+					<Argument><![CDATA[1.0]]></Argument>
+					<Value><![CDATA[1.0]]></Value>
+					<Value><![CDATA[1.0]]></Value>
+					<Value><![CDATA[1.0]]></Value>
+					<Value><![CDATA[1.0]]></Value>
+					<Value><![CDATA[1.0]]></Value>
+					<Value><![CDATA[1.0]]></Value>
+					<Value><![CDATA[0.95]]></Value>
+					<Value><![CDATA[0.8]]></Value>
+					<Value><![CDATA[0.45]]></Value>
+					<Value><![CDATA[0.2]]></Value>
+					<Value><![CDATA[0.1]]></Value>
+				</TableFunction>
+			</TableFunctions>
+			<AgentLinks>
+				<AgentLink>
+					<Id>1459641959755</Id>
+					<Name><![CDATA[connections]]></Name>
+					<X>50</X><Y>-50</Y>
+					<Label><X>15</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<HandleReceiveInConnections>false</HandleReceiveInConnections>
+					<AgentLinkType>COLLECTION_OF_LINKS</AgentLinkType>
+					<AgentLinkBidirectional>true</AgentLinkBidirectional>
+					<MessageType><![CDATA[Object]]></MessageType>
+					<LineStyle>SOLID</LineStyle>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineZOrder>UNDER_AGENTS</LineZOrder>
+					<LineArrow>NONE</LineArrow>
+					<LineArrowPosition>END</LineArrowPosition>
+				</AgentLink>
+			</AgentLinks>
+
+
+
+		</ActiveObjectClass>
+	</ActiveObjectClasses>	
+	<DifferentialEquationsMethod>EULER</DifferentialEquationsMethod>
+	<MixedEquationsMethod>RK45_NEWTON</MixedEquationsMethod>
+	<AlgebraicEquationsMethod>MODIFIED_NEWTON</AlgebraicEquationsMethod>
+	<AbsoluteAccuracy>1.0E-5</AbsoluteAccuracy>
+	<FixedTimeStep>0.01</FixedTimeStep>
+	<RelativeAccuracy>1.0E-5</RelativeAccuracy>
+	<TimeAccuracy>1.0E-5</TimeAccuracy>
+	<Database>
+		<Logging>false</Logging>
+		<AutoExport>false</AutoExport>
+		<ImportSettings>
+		</ImportSettings>
+		<ExportSettings>
+			<ExportExcelFilePath><![CDATA[]]></ExportExcelFilePath>
+		</ExportSettings>
+	</Database>	
+	<Experiments>	
+		<!--   =========   Simulation Experiment   ========  -->
+		<SimulationExperiment ActiveObjectClassId="1459641959759">
+			<Id>1459641959787</Id>
+			<Name><![CDATA[Simulation]]></Name>
+			<Description><![CDATA[Simulation experiment class. Used to run Main class of the model]]></Description>
+			<ClientAreaTopLeft><X>0</X><Y>0</Y></ClientAreaTopLeft>
+			<PresentationTopGroupPersistent>true</PresentationTopGroupPersistent>
+			<IconTopGroupPersistent>true</IconTopGroupPersistent>
+			<Frame>
+				<X>0</X>
+				<Y>0</Y>
+				<Width>2100</Width>
+				<Height>1300</Height>
+				<Maximized>false</Maximized>
+				<CloseConfirmation>false</CloseConfirmation>
+			</Frame>
+			<CommandLineArguments><![CDATA[]]></CommandLineArguments>
+			<MaximumMemory>256</MaximumMemory>
+			<RandomNumberGenerationType>fixedSeed</RandomNumberGenerationType>
+			<CustomGeneratorCode>new Random()</CustomGeneratorCode>
+			<SeedValue>1</SeedValue>
+			<SelectionModeForSimultaneousEvents>LIFO</SelectionModeForSimultaneousEvents>
+			<VmArgs><![CDATA[]]></VmArgs>
+			<LoadRootFromSnapshot>false</LoadRootFromSnapshot>
+			<SnapshotFile></SnapshotFile>
+
+			<Shapes>
+				<Text>
+					<Id>1459641959788</Id>
+					<Name><![CDATA[text]]></Name>
+					<X>40</X><Y>30</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<AsObject>true</AsObject>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Rotation>0.0</Rotation>
+					<Color>-12490271</Color>
+					<Text><![CDATA[awesome_model3]]></Text>
+					<Font>
+						<Name>SansSerif</Name>
+						<Size>24</Size>
+						<Style>0</Style>
+					</Font>
+					<Alignment>LEFT</Alignment>
+				</Text>
+			</Shapes>
+			<Controls>
+				<Control Type="Button">
+				 	<EmbeddedIcon>false</EmbeddedIcon>				
+					<Id>1459641959789</Id>
+					<Name><![CDATA[button]]></Name>
+					<X>40</X><Y>80</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<BasicProperties Width="100" Height="30" 
+				AsObject="true">
+                        <EmbeddedIcon>false</EmbeddedIcon>				
+						<FillColor/>
+						<TextColor/>
+						<Enabled>true</Enabled>
+						<ActionCode><![CDATA[if ( getState() == IDLE )
+	run();
+getPresentation().setPresentable( getEngine().getRoot() );]]></ActionCode>
+					</BasicProperties>
+					<ExtendedProperties>
+						<Font Name="Dialog" Size="11" Style="0"/>
+						<LabelText><![CDATA[Run]]></LabelText>
+						<LabelCode><![CDATA[getState() == IDLE ?
+	"Run" :
+	"Top level agent"]]></LabelCode>
+					</ExtendedProperties>
+				</Control>
+			</Controls>
+
+			<Parameters>			
+			</Parameters>			
+			<PresentationProperties 
+				EnableAdaptiveFrameManagement="true" 
+				EnableAntiAliasing="true"
+				EnableEnhancedModelElementsAnimation="true"
+				EnablePanning="true"
+				ToolbarCustomizableAtRuntime="true"
+				EnableZoom="true">
+				<ExecutionMode><![CDATA[virtualTime]]></ExecutionMode>
+				<CpuRatio><![CDATA[ratio_1_2]]></CpuRatio>	        
+				<Title><![CDATA[awesome_model3 : Simulation]]></Title>	
+				<FramesPerSecond><![CDATA[20.0]]></FramesPerSecond>
+				<RealTimeScale>1.0</RealTimeScale>
+				<UIProperty Name="Experiment Progress" Value="false"/>
+				<UIProperty Name="Simulation Progress" Value="true"/>
+				<UIProperty Name="Statusbar Events Per Second" Value="false"/>
+				<UIProperty Name="Statusbar Frames Per Second" Value="false"/>
+				<UIProperty Name="Statusbar Memory" Value="true"/>
+				<UIProperty Name="Statusbar Model Date" Value="true"/>
+				<UIProperty Name="Statusbar Model Step" Value="false"/>
+				<UIProperty Name="Statusbar Model Time" Value="true"/>
+				<UIProperty Name="Statusbar Real Time Of Simulation" Value="false"/>
+				<UIProperty Name="Statusbar Status" Value="true"/>
+				<UIProperty Name="Toolbar Animation setup" Value="false"/>
+				<UIProperty Name="Toolbar Execution control" Value="true"/>
+				<UIProperty Name="Toolbar File" Value="false"/>
+				<UIProperty Name="Toolbar Model navigation" Value="true"/>
+				<UIProperty Name="Toolbar Time scale setup" Value="true"/>
+				<UIProperty Name="Toolbar View" Value="false"/>
+			</PresentationProperties>
+			<ModelTimeProperties>
+				<StopOption><![CDATA[Stop at specified time]]></StopOption>
+				<InitialDate><![CDATA[1459641600000]]></InitialDate>	
+				<InitialTime><![CDATA[0.0]]></InitialTime>	
+				<FinalDate><![CDATA[1462233600000]]></FinalDate>	
+				<FinalTime><![CDATA[50.0]]></FinalTime>	
+			</ModelTimeProperties>
+		</SimulationExperiment>	
+	</Experiments>
+</Model>
+</AnyLogicWorkspace>

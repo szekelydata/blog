@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<head>
+  <meta name="robots" content="noindex">
+  <meta charset="utf-8">
+  <title>Régiósítás Székelydata módra</title>
+<style id="jsbin-css">
+html,
+body {
+  font-family: "Trebuchet MS", "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+table{
+  border-collapse:collapse;
+}
+div.tooltip {
+  line-height: 1;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 6px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 4px;
+  z-index:2000;
+  position:absolute;
+}
+</style>
+</head>
+
+<body>
+
+  <div id="chart" style="margin:0px; opacity:1;"></div>
+
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+<script id="jsbin-javascript">
+
+function sum( obj ) {
+  var sum = 0;
+  for( var el in obj ) {
+    if( obj.hasOwnProperty( el ) ) {
+      sum += parseFloat( obj[el] );
+    }
+  }
+  return sum;
+}
+
+var width = window.innerWidth,
+  height = window.innerHeight;
+radius = Math.min(height, width) / 2 - 10;
+
+var svg = d3.select("#chart").append("svg")
+  .attr("width", width)
+  .attr("height", height);
+
+var tiptext = "no data";
+
+// Define div for tooltips
+var tooltipdiv = d3.select("body")
+	.append("div")
+	.attr("class", "tooltip")
+	.style("visibility", "hidden");
+
+var format2Number = d3.format(",.2f"),
+    format2 = function(a) {
+        return format2Number(a);
+    };
+
+var colors={
+  'Maros':'#5e4fa2',
+  'Csík':'#3288bd',
+  'Kolozs':'#66c2a5',
+  'Temes':'#abdda4',
+  'Székely':'#e6f598',
+  'Bihar':'#ffffbf',
+  'Mező':'#fee08b',
+  'Szilágy':'#fdae61',
+  'Homoród':'#f46d43',
+  //'Felső':'pink',
+  //'Alsó':'seaGreen',
+  'Szász':'#d53e4f',
+  'Sepsi':'#9e0142',
+	'Szatmár':'#01665e',
+	'Vajda':'#8c510a',
+	//'Nagy':'seaGreen',
+	//'Kis':'seaGreen',
+	//'Magyar':'seaGreen',
+	'Aranyos':'#bf812d',
+	'Szamos':'#35978f',
+	'Kézdi':'#80cdc1',
+	//'Szent':'seaGreen',
+	'Puszta':'#bf812d',
+	'Havas':'#c7eae5',
+	'Avas':'#c7eae5',
+	//'Oláh':'seaGreen',
+	'Ér':'#dfc27d',
+	'Boros':'#f5f5f5',
+	'Gyergyó':'#c51b7d',
+	'Görgény':'#de77ae',
+	'Gyimes':'#f1b6da',
+	'Kővár':'#fde0ef',
+	'Nyárád':'#e6f5d0',
+	'Erdő':'#b8e186',
+	//'Fekete':'seaGreen',
+	'Torda':'#7fbc41',
+	'Vár':'#445577',
+	'Kraszna':'#772299',
+	'Néra':'#119933',
+	//'Hosszú':'seaGreen',
+	//'Új':'seaGreen',
+	'Körös':'#116688',
+	'Sajó':'#11ff55',
+	'Almás':'#000055'
+  };
+
+
+var tipshow=function(){
+            tooltipdiv.style("visibility", "visible");
+			tooltipdiv.html(function() {
+				var t='';
+
+        t='<table id="tt"><tr><td style="color:white;">';
+        t=t+tiptext.hun;
+        t=t+'</table>';
+
+        return t;
+			  });
+
+
+			var ttleft=Math.min(Math.max(0,(d3.event.pageX - 150)),width-420);
+			if ((d3.event.pageY + 300 + 30)>height)
+				var tttop=d3.event.pageY - 30 - document.getElementById('tt').offsetHeight;
+			else
+				var tttop=d3.event.pageY + 30;
+			tooltipdiv.style("left", ttleft + "px")
+				.style("top", tttop + "px");
+
+
+
+};
+
+var tiphide=function(){
+	tooltipdiv.style("visibility", "hidden");
+};
+
+
+var xlim=[20,26.5];
+var	ylim=[44.5,49];
+
+var dd=[];
+
+ svg.append("text")
+  .attr("x",width/2-radius/1.35+"px")
+  .attr("y",height/2-radius/1.14+"px")
+  .attr("fill","black")
+  .style("text-anchor","start")
+  .style("font-size",radius/10+"px")
+  .text("R");
+  svg.append("text")
+  .attr("x",width/2-radius/1.35+"px")
+  .attr("y",height/2-radius/1.28+"px")
+  .attr("fill","black")
+  .style("text-anchor","start")
+  .style("font-size",radius/10+"px")
+  .text("R");
+
+  svg.append("text")
+  .attr("x",width/2+radius/1.05+"px")
+  .attr("y",height/2-radius/1.05+"px")
+  .attr("fill","black")
+  .style("text-anchor","end")
+  .style("font-size",radius/28+"px")
+  .text("data: recensamantromania.ro");
+
+  svg.append("text")
+  .attr("x",width/2+radius/1.05+"px")
+  .attr("y",height/2-radius/1.12+"px")
+  .attr("fill","black")
+  .style("text-anchor","end")
+  .style("font-size",radius/28+"px")
+  .text("* Bucharest not to scale");
+
+   svg.append("text")
+  .attr("x",width/2+radius/1.05+"px")
+  .attr("y",height/2-radius/1.21+"px")
+  .attr("fill","black")
+  .style("text-anchor","end")
+  .style("font-size",radius/28+"px")
+  .text("@csaladenes");
+
+svg.append("image")
+ .attr("xlink:href","../tsne.png")
+.attr("x",width/2- radius /8  - radius/1.2 +"px")
+.attr("y",height/2- radius /8 - radius/1.2 +"px")
+.attr("width", radius /5.5 + "px")
+.attr("height", radius /5.5 + "px");
+
+  svg.append("rect")
+  .attr("x",width/2- radius /8 - radius/1.2 +"px")
+.attr("y",height/2- radius /8 - radius/1.2 +"px")
+.attr("width", radius /5.5 + "px")
+.attr("height", radius /5.5 + "px")
+  .attr("fill","none")
+  .attr("stroke-width","2px")
+  .attr("stroke","black");
+
+ svg.append("rect")
+  .attr("x",width/2- radius +"px")
+.attr("y",height/2- radius +"px")
+.attr("width", radius *2 + "px")
+.attr("height", radius *2 + "px")
+  .attr("fill","none")
+  .attr("stroke-width","2px")
+  .attr("stroke","black");
+
+var test=function(){
+	d3.json("pop.json", function(pop) {
+		d3.json("hun2.json", function(hun2) {
+			d3.json("coords2.json", function(coords2) {
+				var dd=[];
+				var dv={"coords":[],"hun":[]}; //voronoi
+				for (var i in hun2){
+					if(['HARGHITA','MURES','COVASNA','CLUJ','BRASOV','ARAD','ALBA','SALAJ','TIMIS','BISTRITA-NASAUD','MARAMURES','BIHOR','HUNEDOARA','CARAS-SEVERIN','SATU MARE','SIBIU'].indexOf(i) >= 0){
+
+						for (var j in hun2[i]){
+
+							if (Object.keys(coords2[i]).indexOf(j) >= 0) {
+								dd.push({"county":i,"city":j,"hun":hun2[i][j],"pop":pop[i][j],"coord":coords2[i][j]});
+							}
+						}
+					}
+				}
+			    dd.sort(function(a, b) {
+				    return b.pop-a.pop;
+			    });
+
+			    for (var i in dd){
+
+				for (prefixi in Object.keys(colors)){
+						var prefix=Object.keys(colors)[prefixi];
+						if (dd[i].hun.indexOf(prefix)>-1) {
+							dv.coords.push([width/2-radius*1.03+(radius*1.85*(dd[i].coord[0]-xlim[0])/
+							  (xlim[1]-xlim[0])),height/2-radius*1+(radius*1.72*(1.1-(dd[i].coord[1]-ylim[0])/
+							  (ylim[1]-ylim[0])))]);
+							dv.hun.push(dd[i].hun);
+						}
+					};
+				}
+
+				var voronoi = d3.geom.voronoi()
+					.clipExtent([[width/2-radius, height/2-radius], [width/2+radius, height/2+radius]]);
+
+				//Create the Voronoi grid
+				svg.selectAll("path")
+					.data(voronoi(dv.coords)) //Use vononoi() with your dataset inside
+					.enter().append("path")
+					.attr("d", function(d) {return "M" + d.join("L") + "Z"; })
+					.datum(function(d) { return d.point; })
+						//Give each cell a unique class where the unique part corresponds to the circle classes
+					//.attr("class", function(d,i) { return "voronoi " + d.city; })
+					.style("stroke", "#2074A0") //If you want to look at the cells
+					//.style("fill", function(d,i){console.log(dv.hun[i]); return "none"})
+					.style("fill",function(d,i){
+					for (prefixi in Object.keys(colors)){
+						var prefix=Object.keys(colors)[prefixi];
+						if (dv.hun[i].indexOf(prefix)>-1) return colors[prefix];
+					};
+					return "grey";
+				  })
+				  .style("opacity",1)
+
+				for (var i in dd){
+
+				var scaler=255*1.5;
+				svg
+				  .append("circle")
+				  .datum(dd[i])
+				.attr("cx", width/2-radius*1.03+(radius*1.85*(dd[i].coord[0]-xlim[0])/
+							  (xlim[1]-xlim[0])))
+				  .attr("cy", height/2-radius*1+(radius*1.72*(1.1-(dd[i].coord[1]-ylim[0])/
+							  (ylim[1]-ylim[0]))))
+				  .attr("r", function(){
+					return 2;
+					//return Math.pow(dd[i].pop/100,0.6)*radius/900+1.5
+					})
+				  .attr("fill",function(){
+					for (prefixi in Object.keys(colors)){
+						var prefix=Object.keys(colors)[prefixi];
+						if (dd[i].hun.indexOf(prefix)>-1) {
+							dv.coords.push([width/2-radius*1.03+(radius*1.85*(dd[i].coord[0]-xlim[0])/
+							  (xlim[1]-xlim[0])),height/2-radius*1+(radius*1.72*(1.1-(dd[i].coord[1]-ylim[0])/
+							  (ylim[1]-ylim[0])))]);
+							dv.hun.push(dd[i].hun);
+							return colors[prefix];
+						}
+					};
+					return "grey";
+				  })
+				  .attr("stroke","black")
+				  .attr("stroke-width","1")
+				  .style("opacity",function(){
+					for (prefixi in Object.keys(colors)){
+						var prefix=Object.keys(colors)[prefixi];
+						if (dd[i].hun.indexOf(prefix)>-1) return 0.7;
+					};
+					return 0.1;
+				  })
+
+				 .on("mouseover", function(e) {
+							tiptext = e;
+							tipshow();
+							return;
+						})
+				 .on("mouseout", tiphide);
+				}
+
+			});
+		});
+	});
+};
+
+test();
+</script>
+</body>
+
+</html>

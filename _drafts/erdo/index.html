@@ -1,0 +1,949 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Sustainable Energy Transitions Exploratorium #energy #SDG #sustainability #d3plus #dataviz #d3js @csaladenes" />
+    <meta name="keywords" content="csaladenes, d3.js, data visualization, infographic, d3plus, d3, data visualization, mit oec, mit, mit atlas, macro connections, set, system dynamics, sustainable energy transitions, renewable energy, energy return on energy invested, eroei, eroi, sgouris sgouridis, denes csala, ssgouridis, dcsala, science, nature, article, d3.js, ipython, ugo bardi, ugo, peak oil, hubbert curve, carbon cap, emissions cap, fossil fuels, co2 emissions greenhouse gas emissions" />
+    <meta property="og:image" content="http://netset.csaladen.es/netset_logo.png" />
+	<meta property="twitter:image" content="http://netset.csaladen.es/netset_logo.png" />
+    <meta property="og:description" content="Sustainable Energy Transitions Exploratorium #energy #SDG #sustainability #d3plus #dataviz #d3js @csaladenes" />
+	<meta property="twitter:description" content="Sustainable Energy Transitions Exploratorium #energy #SDG #sustainability #d3plus #dataviz #d3js @csaladenes" />
+    <meta property="og:title" content="Sustainable Energy Transitions Exploratorium" />
+	<meta property="twitter:title" content="Sustainable Energy Transitions Exploratorium" />
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+	<meta property="og:url" content="http://netset.csaladen.es"/>
+	<meta property="twitter:url" content="http://netset.csaladen.es"/>
+    <meta property="og:site_name" content="Sustainable Energy Transitions Exploratorium" />
+    <meta property="fb:admins" content="100943737036023614165" />
+	<link rel="shortcut icon" href="favicon.ico" />
+	<link rel="publisher" href="https://plus.google.com/106181965793093327960" />
+    <title>Sustainable Energy Transitions Exploratorium</title>
+	<style>
+@font-face {
+	font-family: "Righteous";
+	src: url(Righteous-Regular.ttf) format("truetype");
+}
+.logo, .viz, #social {
+ 	-webkit-transition: opacity 0.5s;
+	  -moz-transition: opacity 0.5s;
+	  -o-transition: opacity 0.5s;
+	  -ms-transition: opacity 0.5s;
+	  transition: opacity 0.5s;
+}
+.viz{
+	width: -moz-calc(100% - 200px);
+	width: -webkit-calc(100% - 200px);
+	width: calc(100% - 200px);
+}
+a{
+	font-family:Righteous;
+	text-decoration:none;
+}
+a:hover{
+	font-family:Righteous;
+	text-decoration:underline;
+}
+a:visited{
+	color: #444;
+}
+.logo:hover{
+	cursor:pointer;
+}
+#social {
+	text-decoration: none;
+	padding-top:1px;
+	white-space:nowrap;
+	overflow:hidden;
+}
+.socialico{
+	width:21px;
+	height:21px;
+}
+.rotmenu {
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+  transition: transform .8s ease-in-out;
+}
+.rotmenu:hover {
+  -webkit-transform: rotate(-360deg);
+  transform: rotate(-360deg);
+}
+</style>
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "505a26ad-d820-47bd-a500-7f49d04a30f5", doNotHash: false, doNotCopy: false, hashAddressBar: true,shorten:false});</script>
+
+</head>
+
+<!-- load D3js -->
+<script src="d3.js"></script>
+
+<!-- load D3plus after D3js -->
+<script src="d3plus.js"></script>
+
+<script src="jszip.min.js"></script>
+<script src="JSZipUtils.min.js"></script>
+<script src="svgexport.js"></script>
+
+<body link="#444">
+<!-- create container element for visualization -->
+<a id="pngdownload" href="" download="" style="visibility:hidden;display:none;position:fixed;top:0px;left:0px;width:0px;height:0px;"></a>
+
+
+<div style="position: fixed;
+    left: 50%;
+    top: 50%;
+    height: 150px;
+    margin-top: -168px;
+    width: 150px;
+    margin-left: -170px;" class="loading">
+<img style="position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 49;
+    height: 170px;
+	width: 170px;
+    margin-top: -45px;
+	margin-left: -10px;" src="b.gif"/>
+<img style="position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 50;
+    height: 100px;
+    width: 100px;
+	margin-top: 0px;
+	margin-left: 25px;
+    border:none" src="netset_logo.png"/>
+</div>
+
+<div style="position: fixed;
+    right: 20px;
+    top: 70px;
+    z-index: 101;
+	opacity: 0;
+    height: 100%
+	width:190px;" class="logo">
+	<img style="position: absolute;
+    right: 60px;
+    top:250px;
+    height: 52px;
+	border: solid 1px #888;
+    width: 52px;" src="stacked.png"
+	alt="Időfolyam"
+	title="Időfolyam"
+	onclick='show(1);'>
+	<img style="position: absolute;
+    right: 0px;
+    top: 250px;
+    height: 52px;
+	border: solid  1px #888;
+    width: 52px;" src="tree.png"
+	alt="Hierarchia"
+	title="Hierarchia"
+	onclick='show(2);'>
+	<img style="position: absolute;
+    right: 120px;
+    top: 250px;
+    height: 52px;
+	border: solid  1px #888;
+    width: 52px;" src="line.png"
+	alt="Vonal"
+	title="Vonal"
+	onclick='show(3);'>
+	<a href="http://netset.csaladen.es" target="_self">
+	<img class="rotmenu" style="position: absolute;
+    right: 40px;
+    top: 0px;
+	border: none;
+    width: 100px;height:100px;" src="netset_logo.png"
+	alt="Netset Logo">
+	<div style="position: absolute;
+    right: 60px;
+    top: 110px;
+    height: 22px;
+	color: #888;
+	font-size:20px;
+	font-family: Righteous;
+	text-align:center;
+	white-space: nowrap;
+    width: 100px;"/>Hol a fenyves ?</div></a>
+	<div style="position: absolute;
+    right: 0px;
+    top: 385px;
+    height: 2px;
+	background-color:#ccc;
+	width: 174px;"></div>
+	<div style="position: absolute;
+    right: 0px;
+    top: 230px;
+    height: 2px;
+	background-color:#ccc;
+	width: 174px;"></div>
+	<div id="social" style="z-index:102;position: absolute;
+    right: 0px;
+	height:35px;
+    top: 405px;">
+		<span class='st_facebook_custom'><img class="socialico" src="http://www.iconsdb.com/icons/download/silver/facebook-3-24.ico"></span>
+		<!--<span class='st_fblike'></span>-->
+		<span class='st_twitter_custom'><img class="socialico" src="http://www.iconsdb.com/icons/download/silver/twitter-3-24.ico"></span>
+		<span class='st_googleplus_custom'><img class="socialico" src="http://www.iconsdb.com/icons/download/silver/google-plus-3-24.ico"></span>
+		<span class='st_linkedin_custom'><img class="socialico" src="http://www.iconsdb.com/icons/download/silver/linkedin-3-24.ico"></span>
+		<!--<span class='st_tumblr_custom'><img class="socialico" src="http://www.iconsdb.com/icons/download/silver/tumblr-3-24.ico"></span>-->
+		<!--<span class='st_reddit_custom'><img class="socialico" src="reddit.png"></span>-->
+		<span class='st_email_custom'><img class="socialico" src="http://www.iconsdb.com/icons/download/silver/email-13-24.ico"></span>
+		<a href="" download="" id="csvdownload" ><span><img class="socialico" src="http://www.iconsdb.com/icons/download/silver/csv-24.ico"></span></a>
+		<span id="pngdownloadwrapper"><img class="socialico" src="http://www.iconsdb.com/icons/download/silver/png-24.ico"></span>
+	</div>
+
+
+<a href="http://set.csaladen.es" target="_blank">
+
+<img class="rotmenu" style="position: absolute;
+    right: 128px;
+    top: 155px;
+    height: 38px;
+    width: 38px; border:none" alt="leírás"
+	title="leírás" src="desc.png"/>
+	<div style="position: absolute;
+    right: 134px;
+    top: 200px;
+    height: 22px;
+	font-size:10px;
+	font-family: Righteous;
+	text-align:center;
+	white-space: nowrap;
+    width: 40px;"/>leírás</div></a>
+<a href="http://d3plus.org" target="_blank">
+<img class="rotmenu" style="position: absolute;
+    right: 41px;
+    top: 155px;
+    height: 38px;
+    width: 38px;" alt="D3plus"
+	title="D3plus" src="engine.png"/>
+	<div style="position: absolute;
+    right: 41px;
+    top: 200px;
+    height: 22px;
+	font-size:10px;
+	font-family: Righteous;
+	text-align:center;
+	white-space: nowrap;
+    width: 40px;"/>motor</div></a>
+<a href="http://www.csaladen.es" target="_blank">
+<img class="rotmenu" style="position: absolute;
+    right: 0px;
+    top: 155px;
+    height: 38px;
+    width: 38px;" alt="Denes Csala &copy; 2016"
+	title="Denes Csala &copy; 2016" src="credit.png"/>
+	<div style="position: absolute;
+    right: 0px;
+    top: 200px;
+    height: 22px;
+	font-size:10px;
+	font-family: Righteous;
+	text-align:center;
+	white-space: nowrap;
+    width: 40px;"/>készítette</div></a>
+<a href="http://www.who.int/healthinfo/mortality_data/en/" target="_blank">
+<img class="rotmenu" style="position: absolute;
+    right: 84px;
+    top: 155px;
+    height: 38px;
+    width: 38px;" alt="Data sources: EIA, BP, UNSD, WDI"
+	title="Data sources: EIA, BP, UNSD, WDI" src="netset_data.png"/>
+	<div style="position: absolute;
+    right: 84px;
+    top: 200px;
+    height: 22px;
+	font-size:10px;
+	font-family: Righteous;
+	text-align:center;
+	white-space: nowrap;
+    width: 40px;"/>adatok</div></a>
+	<div style="position: absolute;
+    right: 63px;
+    top: 308px;
+    height: 22px;
+	font-size:12px;
+	font-family: Righteous;
+	text-align:center;
+    width: 52px;"
+	alt="Időfolyam"
+	title="Időfolyam"
+	onclick='show(1);'>Időfolyam</div>
+	<div style="position: absolute;
+    right: 3px;
+    top: 308px;
+    height: 22px;
+	font-size:12px;
+	font-family: Righteous;
+	text-align:center;
+    width: 52px;"
+	alt="Hierarchia"
+	title="Hierarchia"
+	onclick='show(2);'>Hierarchia</div>
+	<div style="position: absolute;
+    right: 120px;
+    top: 308px;
+    height: 22px;
+	font-size:12px;
+	font-family: Righteous;
+	text-align:center;
+    width: 52px;"
+	alt="Vonal"
+	title="Vonal"
+	onclick='show(3);'>Vonal</div>
+
+	<div style="position: absolute;
+    right: -5px;
+    top: 330px;
+    alt="Válassz országot"
+	title="Válassz országot" id="countrylist"></div>
+
+</div>
+
+<div style="position: fixed; opacity:0;
+    left: 5;
+    top: 5;
+    z-index: 100;" id="viz1" class="viz"></div>
+<div style="position: fixed; opacity:0;
+    left: 5;
+    top: 5;
+    z-index: 99;" id="viz2" class="viz"></div>
+<div style="position: fixed; opacity:0;
+    left: 5;
+    top: 5;
+    z-index: 99;" id="viz3" class="viz"></div>
+<div style="position: fixed; opacity:0;
+    left: 5;
+    top: 5;
+    z-index: 100;" id="viz4" class="viz"></div>
+<div style="position: fixed; opacity:0;
+    left: 5;
+    top: 5;
+    z-index: 99;" id="viz5" class="viz"></div>
+<div style="position: fixed; opacity:0;
+    left: 5;
+    top: 5;
+    z-index: 99;" id="viz6" class="viz"></div>
+
+<script>
+  // sample data array
+
+  var initcountry='Románia';
+  var initviz=1;
+  var sca="linear";
+  var center="+";
+
+  function sethash(){
+	  scale=(sca=="linear")?0:1;
+	  window.location.hash="&viz_"+initviz+"&scale_"+scale+"&country_"+initcountry;
+  }
+  //hashing, startup, etc
+  var hash=window.location.hash;
+  if (hash==""){
+	sethash();
+  }
+  else {
+	if (hash.indexOf("&country_")>-1) {
+		var cloc=hash.search("&country_");
+		var cdummy=hash.slice(cloc+9)
+		var cloc=cdummy.search("&");
+		initcountry=(cloc>-1)?cdummy.slice(0,cloc):cdummy;
+	}
+	if (hash.indexOf("&viz")>-1) {
+		var cloc=hash.search("&viz_");
+		initviz=hash.slice(cloc+5,cloc+6)
+	}
+	if (hash.indexOf("&scale")>-1) {
+		var cloc=hash.search("&scale_");
+		scale=hash.slice(cloc+7,cloc+8)
+	}
+  }
+
+  sca=(scale==1)?"share":"linear";
+
+  setTimeout(function(){d3.selectAll(".logo").style("opacity",1)},1000)
+
+  var showd=[true,true,true,true,true,true];
+
+  var visualization = d3plus.viz().container("#viz1")
+  var visualization2 = d3plus.viz().container("#viz2")
+  var visualization3 = d3plus.viz().container("#viz3")
+  var visualization4 = d3plus.viz().container("#viz4")
+  var visualization5 = d3plus.viz().container("#viz5")
+  var visualization6 = d3plus.viz().container("#viz6")
+
+  var load=function(){};
+
+  function show(a){
+
+    initviz=a;
+    sethash();
+
+	d3.select("#viz1").style("opacity",0);
+	d3.select("#viz2").style("opacity",0);
+	d3.select("#viz3").style("opacity",0);
+	d3.select("#viz4").style("opacity",0);
+	d3.select("#viz5").style("opacity",0);
+	d3.select("#viz6").style("opacity",0);
+	d3.select("#viz1").style("z-index",99);
+	d3.select("#viz2").style("z-index",99);
+	d3.select("#viz3").style("z-index",99);
+	d3.select("#viz4").style("z-index",99);
+	d3.select("#viz5").style("z-index",99);
+	d3.select("#viz6").style("z-index",99);
+	
+	d3.select("#viz"+a).style("z-index",100);
+	d3.select("#viz"+a).style("opacity",1);
+
+	if (showd[a-1]) { //draw if on first clikc/load
+		load(initcountry,a);
+		showd[a-1]=false;
+	}
+  }
+
+  var path = "zips/" //default
+  
+  d3.json('cdict.json',function(cdict){
+  d3.json('hnames.json',function(hnames){
+  d3.json('countries.json',function(countries){
+  var countries1=[]
+  countries.forEach(function(d) {
+	cdict[hnames[d]]=cdict[d];
+	countries1.push(hnames[d]);
+  });
+  JSZipUtils.getBinaryContent(path+cdict[initcountry]+'.zip', function(err, rawdata) {
+	
+	var order={
+		'Particles':27,
+		 'Fibre and Plywood':28,
+		 'Roundwood':30,
+		 'Paper':26,
+		 'Sawnwood':29
+	  }
+	  
+	  var color={
+		'Particles':'#ec7014',
+		 'Fibre and Plywood':'#cc4c02',
+		 'Roundwood':'#662506',
+		 'Paper':'#fec44f',
+		 'Sawnwood':'#993404'
+	  }
+	  
+	  var group={
+		'Chips and Particles':'Particles',
+		 'Fibreboard':'Fibre and Plywood',
+		 'Forest Products':'Forest Products',
+		 'Ind Rwd Wir (C)':'Roundwood',
+		 'Ind Rwd Wir (NC) Other':'Roundwood',
+		 'Ind Rwd Wir (NC) Tropica':'Roundwood',
+		 'Newsprint':"Paper",
+		 'Paper+-Board Ex Newsprnt':"Paper",
+		 'Particle Board':'Particles',
+		 'Plywood':'Fibre and Plywood',
+		 'Sawnwood (C)':'Sawnwood',
+		 'Sawnwood (NC)':'Sawnwood',
+		 'Veneer Sheets':'Fibre and Plywood',
+		 'Wood Pulp':'Particles'
+	  }
+	
+	  function extend(rawdata){
+		  var zip = new JSZip(rawdata);
+		  var data=JSON.parse(zip.files['data.json'].asText());
+		  
+		  data.filter(function(d){return d["partner"]!=5009})
+		  .filter(function(d){return d["partner"]!=254})
+		  .filter(function(d){return d["partner"]!=252})
+		  .filter(function(d){return d["item"]!='Forest Products'}).forEach(function(d) {
+			
+			d["s"]=d["s"]*1000;
+			d["group"]=group[d["item"]];
+			d["order"]=(d["g"]=="m")?"f"+(40-order[d["group"]]):"f"+(40-order[d["group"]]); //set both to a for next to each other ordering
+			d["order2"]=(d["g"]=="m")?"f"+(40-order[d["group"]]):"b"+(order[d["group"]]); //set both to
+			//add genders and population (prod/cons)
+			d["s+"]=(d["g"]=="m")?d["s"]:-d["s"];
+			d["s"]=Math.abs(d["s+"])
+			
+			d[d["g"]]=d["s"];
+			d[d["g"]+"+"]=d["s+"];
+			d["partner"]=hnames[cdict[d["partner"]]]
+			d["color"]=color[d["group"]]
+			d["icon"]='img/'+d["group"].slice(0,3)+'.png'
+			
+			d["ps"]=d["p"]
+			d["p"+d["g"]]=d["ps"];
+			d["ps+"]=(d["g"]=="m")?d["p"]:-d["p"];
+			d["p"+d["g"]+"+"]=d["ps+"];
+			
+		  });
+		  
+		  //if (!(initcountry in pop)) console.log("No population data for:",initcountry,"all years");
+		  
+		  return data;
+	  }
+
+	  function cap1(string) {
+		return string.charAt(0).toUpperCase() + string.slice(1);
+	  }
+
+	  function textformatter(text, params) {
+			if (text === "t") {
+			  return "Év";
+			}
+			else if (text === "s+") {
+			  return "Termékek";
+			}
+			else if (text === "s") {
+			  return "Termékek";
+			}
+			else if (text === "f+") {
+			  return "Termékek";
+			}
+			else if (text === "f") {
+			  return "Termékek";
+			}
+			else if (text === "m+") {
+			  return "Termékek";
+			}
+			else if (text === "m") {
+			  return "Termékek";
+			}
+			else if (text === "Roundwood") {
+			  return "Rönkfa";
+			}
+			else if (text === "Sawnwood") {
+			  return "Fűrészáru";
+			}
+			else if (text === "Particles") {
+			  return "Törmelékfa";
+			}
+			else if (text === "Fibre and Plywood") {
+			  return "Lemezek";
+			}
+			else if (text === "Paper") {
+			  return "Papír";
+			}
+			else {
+			  return d3plus.string.title(text, params);
+			}
+	  };
+
+	  function numberformatter(number, params) {
+	    number=Math.abs(number);
+        var formatted = d3plus.number.format(number, params);
+		return formatted// + ((val=="")?" TWh":" W");
+      };
+
+	  function vfunc(val,gen,center) {
+		return val+gen+((sca=="share")?"":center);
+	  }
+	  
+	  data=extend(rawdata);
+	  var countrylist=[];
+	  countries1.sort().forEach(function(d,i) {
+		var dummy={"country":d};
+		countrylist.push(dummy);
+	  });
+	  
+	  var val="";
+	  var gen="s";
+	  var val3="";
+	  var gen3="s+";
+	  var val2="";
+	  var gen2="s";
+	  var v=1;
+	  var sub={"m":"Export","f":"Import"};
+	  var title={"font":{"size":20}};
+	  var font = {"family":"Righteous","size":15,"color":"#993404"};
+
+	  var countrydrop = d3plus.form()
+		.data(countrylist)
+		.container("#countrylist")
+		.font({"family":"Righteous","size":15,"align":"center","secondary":{"family":"Righteous"}})
+		.id("country")
+		.width(174)
+		.text("country")
+		.focus(initcountry,function(d){
+			showd=[true,true,true];
+			showd[initviz-1]=false;
+			load(d,initviz);
+		})
+		.type("drop")
+		.draw()
+
+	  d3.select("#pngdownloadwrapper")
+		.on("click",function(){
+			seturl();
+			setTimeout(function(){d3.select("#pngdownload").node().click();},500);
+		})
+
+	  function seturl(){
+		exportInlineSVG(d3.select("#viz"+initviz).select("#d3plus").node(), function(data) {
+			d3.select("#pngdownload").node().href=data;
+			d3.select("#pngdownload").node().download=initcountry+"_"+((initviz==1)?"Timeline":(initviz==2)?"Treemap":"Line_Plot")+".png";
+		});
+	  }
+
+	  function ylabeler() {
+		var v3=(sca=="share")?"Eloszlás":(val=="")?"Teljes érték [$]":"Mennyiség [m3]"
+		if (center=="+") v3="Import · · · · ·  · · · "+v3+" · · · · · · Export";
+		return v3;
+	  }
+	  
+	  function pickRandom(obj) {
+			var result;
+			var count = 0;
+			for (var prop in obj)
+				if (Math.random() < 1/++count)
+				   result = prop;
+			return result;
+		}
+	  
+	  visualization
+		.type("stacked")    // visualization type
+		.data({"value":data})
+		.id({"value":["g","group","partner","partner"]})//,"mute":["Women","Men"]})         // key for which our data is unique on
+		.depth(1)
+		.y({"value":"s"+((sca=="share")?"":center),"label":ylabeler(),"scale":sca})//,"range":[0,2*shifter]})         // key to use for y-axis
+		.x({"value":"year","label":"Év"})          // key to use for x-axis
+		.time({"value":"year"})
+		.color(function(d){
+			if (v<3	)
+				if (d.d3plus) 
+					if (d.d3plus.depth==1) return d["color"]
+					else if (d.d3plus.depth==3) return d["partner"]
+				else return d["color"];
+			if (d.d3plus) 
+				if (d.d3plus.depth==2) return d["color"]
+				else if (d.d3plus.depth==1) return d["partner"]
+			else return d["color"];
+			return d["color"];
+		})
+		.order({"value":((center=="+")&&(sca=="share"))?"order2":"order","sort":"asc"})
+		.margin("0px 30px 10px 20px")
+		.font(font)
+		.icon({"style":"knockout","value":function(d){
+			return d["icon"];
+		}})
+		.messages({"style":false,"branding":false})
+		.axes({"background": {"color": "#eee"}})
+		.shape({"interpolate": "basis"}) //basis or linear
+		.title({"value":hnames[initcountry],"sub":"Itt a fenyves, hol a fenyves? | Idővonal | " + ((center=="")?"Időfolyam":"Hegedű Plot")})
+		.title(title)
+		.ui({"font":{"size":12},"value":[
+		  {
+			"method" : function(value){
+				if (value==1) var vz=["g","group","partner","partner"]
+				else if (value==2) var vz=["g","item","partner","partner"]
+				else var vz=["g","partner","group","group"]
+				v=value
+			  visualization
+			  .id({"value":vz})
+			  .draw()
+			},
+			"value"  :[{"Csoport":1}, {"Termék":2}, {"Ország":3} ],
+			"label" : " "
+		  },
+		  //{
+			//"method" : "depth",
+			//"value"  :[1, 2],
+			//"label" : " "
+		  //},		  
+	      {
+			"method" : function(value){
+			  sca=value;
+			  sethash();
+			  visualization
+			  .order({"value":((center=="+")&&(sca=="share"))?"order2":"order"})
+			  .y(vfunc(val,gen,center))
+			  .y({"scale": value})
+			  .y({"label": ylabeler()})
+			  .draw()
+			},
+			"value"  : [ {"Értékek":"linear"},{"Eloszlás":"share"}],
+			"label" : " "
+		  },
+	      {
+			"method" : function(value){
+			  center=(value=="s")?"":"+";
+			  visualization
+			  .title({"sub":"Itt a fenyves, hol a fenyves? | Idővonal | " + ((center=="")?"Időfolyam":"Hegedű Plot")})
+			  .order({"value":((center=="+")&&(sca=="share"))?"order2":"order"})
+			  .y({"label": ylabeler()})
+			  .y(vfunc(val,gen,center))
+			  .draw()
+			},
+			"value"  : [ {"Hegedű":"g"}, {"Időfolyam":"s"}],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  val=(value=="s")?"":"p";
+			  visualization
+			  .y(vfunc(val,gen,center))
+			  .y({"label":ylabeler()})
+			  .draw();
+			},
+			"value"  :[{"Érték":"s"} , {"Mennyiség":"p"}],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  gen=value;
+			  visualization
+			  .y(vfunc(val,gen,center))
+			  .draw();
+			},
+			"value"  : [{"Mind":"s"},{"Export":"m"}, {"Import":"f"}],
+			"label" : " "
+		  }
+		]})
+		.tooltip({"sub":function(d){
+			//console.log(d);
+			if (d["g"]=="m")
+				visualization
+				.tooltip({"background":"#ededed"});
+			else	visualization
+				.tooltip({"background":"#dedede"});
+			return sub[d["g"]];
+		},"value":["t"]})
+		.format({
+		  "text": function(text, params) {
+			  return textformatter(text, params);
+		  },
+		  "number": function(number, params) {
+			  return numberformatter(number, params);
+          }
+		  })
+		//.draw()             // finally, draw the visualization!
+		
+		visualization3
+		.type("line")    // visualization type
+		.data({"value":data,"stroke":{"width":4}})
+		.id({"value":["g","group","partner"]})//,"mute":["Women","Men"]})         // key for which our data is unique on
+		.depth(1)
+		.y({"value":"s+","label":"Teljes érték [$]","scale":"linear"})  
+		.x({"value":"year","label":"Év"})          // key to use for x-axis
+		.time({"value":"year"})
+		.color(function(d){
+			if (v==1)
+				if (d.d3plus) 
+					if (d.d3plus.depth==1) return d["color"]
+					else if (d.d3plus.depth==2) return d["partner"]
+				else return d["color"];
+			if (d.d3plus) 
+				if (d.d3plus.depth==2) return d["color"]
+				else if (d.d3plus.depth==1) return d["partner"]
+			else return d["color"];
+			return d["color"];
+		})
+		.order({"value":((center=="+")&&(sca=="share"))?"order2":"order","sort":"asc"})
+		.margin("0px 30px 10px 20px")
+		.font(font)
+		.icon({"style":"knockout","value":function(d){
+			return d["icon"];
+		}})
+		.messages({"style":false,"branding":false})
+		.axes({"background": {"color": "#eee"}})
+		.shape({"interpolate": "basis"}) //basis or linear
+		.title({"value":hnames[initcountry],"sub":"Itt a fenyves, hol a fenyves? | Vonalgrafikon"})
+		.title(title)
+		.ui({"font":{"size":12},"value":[
+		  {
+			"method" : function(value){
+				if (value==1) var vz=["g","group","partner"]
+				else var vz=["g","partner","group"]
+				v=value
+			  visualization3
+			  .id({"value":vz})
+			  .draw()
+			},
+			"value"  :[{"Termékek":1}, {"Országok":2} ],
+			"label" : " "
+		  },
+		  //{
+			//"method" : "depth",
+			//"value"  :[1, 2],
+			//"label" : " "
+		  //},	
+		  {
+			"method" : function(value){
+			  var v3=(value=="s+")?"Teljes érték [$]":"Mennyiség [m3]"
+			  val3=(value=="s+")?"":"p";
+			  visualization3
+			  .y(vfunc(val3,gen3,""))
+			  .y({"label":v3})
+			  .draw();
+			},
+			"value"  :[{"Érték":"s+"} , {"Mennyiség":"p"}],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  gen3=value;
+			  visualization3
+			  .y(vfunc(val3,gen3,""))
+			  .draw();
+			},
+			"value"  : [{"Mind":"s+"},{"Export":"m"}, {"Import":"f"}],
+			"label" : " "
+		  }
+		]})
+		.tooltip({"sub":function(d){
+			//console.log(d);
+			if (d["g"]=="m")
+				visualization
+				.tooltip({"background":"#ededed"});
+			else	visualization
+				.tooltip({"background":"#dedede"});
+			return sub[d["g"]];
+		},"value":["t"]})
+		.format({
+		  "text": function(text, params) {
+			  return textformatter(text, params);
+		  },
+		  "number": function(number, params) {
+			  return numberformatter(number, params);
+          }
+		  })
+		//.draw()             // finally, draw the visualization!
+		
+		visualization2
+		.type("tree_map")    // visualization type
+		.data(data)
+		.id({"value":["group","group","partner"],"grouping": true })         // key for which our data is unique on
+		.depth(1)
+		.size({"value":"m"})         // key to use for y-axis
+		.time({"value":"year","solo":2014})
+		.color(function(d){
+			if (v==1)
+				if (d.d3plus) 
+					if (d.d3plus.depth==1) return d["color"]
+					else if (d.d3plus.depth==2) return d["color"]
+				else return d["color"];
+			if (d.d3plus) 
+				if (d.d3plus.depth==2) return d["color"]
+				else if (d.d3plus.depth==1) return d["partner"]
+			else return d["color"];
+			return d["color"];
+		})
+		.font(font)
+		.margin("0px 40px 10px 30px")
+		.icon({"style":"knockout","value":function(d){
+			return d["icon"];
+		}})
+		.legend({"filters":true,"size":30})
+		.messages({"style":false,"branding":false})
+		.title({"value":hnames[initcountry],"sub":"Itt a fenyves, hol a fenyves? | Hierarchiatérkép"})
+		.title(title)
+		.labels({"align": "left", "valign": "top","padding":20})
+		.ui({"font":{"size":12},"value":[
+		  {
+			"method" : "depth",
+			"value"  :[{"Összegzett":1}, {"Részletes":2} ],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+				if (value==1) var vz=["group","group","partner"]
+				else var vz=["partner","partner","group"]
+				v=value
+			  visualization2
+			  .id({"value":vz})
+			  .draw()
+			},
+			"value"  :[{"Termékek":1}, {"Országok":2} ],
+			"label" : " "
+		  },
+		  /*
+		  {
+			"method" : function(value){
+			  val2=(value=="s")?"":"p";
+			  visualization2
+			  .size(vfunc(gen2,val2,""))
+			  .draw();
+			},
+			"value"  :[{"Energy":"s"} , {"Power/Capita":"p"}],
+			"label" : " "
+		  },
+		  */
+		  {
+			"method" : function(value){
+			  var v2=(value=="s+")?"Teljes érték [$]":"Mennyiség [m3]"
+			  val2=(value=="s+")?"":"p";
+			  visualization2
+			  .size(vfunc(val2,gen2,""))
+			  .draw();
+			},
+			"value"  :[{"Érték":"s+"} , {"Mennyiség":"p"}],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  gen2=value;
+			  visualization2
+			  .size(vfunc(gen2,val2,""))
+			  .draw();
+			},
+			"value"  : [{"Export":"m"}, {"Import":"f"}],
+			"label" : " "
+		  }
+		]})
+		.tooltip({"sub":function(d){
+			if (d["g"]=="m")
+				visualization2
+				.tooltip({"background":"#ededed"});
+			else	visualization2
+				.tooltip({"background":"#dedede"});
+			return sub[d["g"]];
+		}})
+		.format({
+		  "text": function(text, params) {
+			 return textformatter(text, params);
+		  },
+		  "number":function(number, params) {
+			 return numberformatter(number, params);
+          }
+		  })
+	
+		firstrun=false;
+
+		load=function(country,viz) {
+		
+			  JSZipUtils.getBinaryContent(path+cdict[country]+'.zip', function(err, rawdata) {
+			
+			  if (firstrun){
+				initcountry=country;
+				data=extend(rawdata);
+			  }
+			
+			  d3.select("#csvdownload").node().href=path+country+'.zip';
+			  d3.select("#csvdownload").node().download=country+'.zip';
+			  d3.select("#pngdownload").node().download=cdict[country]+"_"+((initviz==1)?"Timeline":(initviz==2)?"Treemap":"Line_Plot")+".png";
+
+			  sethash();
+			  //seturl();
+			  ((viz==1) ? visualization : (viz==2) ? visualization2 : visualization3)
+				  .data(data)
+				  .title(country)
+				  .draw()
+
+			  firstrun=true;
+
+			  })
+		
+		};
+		
+		show(initviz); //initialize viz;
+		setTimeout(function(){seturl()},15000)
+  })
+  })
+  })
+  })
+</script>
+</body>
+</html>
