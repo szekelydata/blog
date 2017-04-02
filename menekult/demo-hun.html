@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<title>Európai menekülthisztéria - de mit mondanak az adatok?</title>
+    	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	
+	<link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div id="body" style="width:1500px;height:850px;margin-left:27%;">
+		<div id="chart"></div>
+		<div id="clickerWrapper">
+			<div id="progress"></div>
+			<div id="clicker">Kezdjük</div>
+		</div>
+		<div id="buttonWrapper">
+			<div id="buttonWrapperInner">
+				<div id="skip" class="sideButton">Átugrom</div>
+				<div id="reset" class="sideButton">Elölrõl</div>
+				<div id="link" class="sideButton"><a href="http://csaladenes.egologo.ro/?p=743" target="_blank">Leírás</a></div>
+			</div>
+		</div>
+		
+		<div id="author3" style="position:fixed;left:800px;z-index:100;font-size:34px;text-align:center;top:660px;color:#665;opacity:0;cursor:pointer;" onclick="window.parent.document.getElementById('content').src='parent-hun.html'" title="skip intro and enter app">
+	Belépés
+	
+</div>
+    </div>
+    
+    <script src="chords-hun.js"></script>
+	<script>
+	var rescale = function() {
+	//scale content
+	var scal = Math.min((document.getElementById("body").parentElement.offsetWidth) / document.getElementById("body").offsetWidth, (document.getElementById("body").parentElement.offsetHeight) / document.getElementById("body").offsetHeight)
+	document.getElementById("body").style.WebkitTransform = "scale(" + scal + ")";
+	document.getElementById("body").style.OTransform = "scale(" + scal + ")";
+	document.getElementById("body").style.MozTransform = "scale(" + scal + ")";
+	document.getElementById("body").style.msTransform = "scale(" + scal + ")";
+	document.getElementById("body").style.Transform = "scale(" + scal + ")";
+
+	document.getElementById("body").style.WebkitTransformOrigin = "0 0";
+	document.getElementById("body").style.OTransformOrigin = "0 0";
+	document.getElementById("body").style.MozTransformOrigin = "0 0";
+	document.getElementById("body").style.msTransformOrigin = "0 0";
+	document.getElementById("body").style.TransformOrigin = "0 0";
+
+	};
+
+	window.onresize = function() {
+	rescale();
+	}
+	//init content
+	rescale();
+	setTimeout(function(){
+		document.getElementById('author3').style.opacity=1;
+	},10000)
+	</script>
+   </body>
+</html>

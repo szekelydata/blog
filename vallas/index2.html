@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2015 by csaladenes (http://jsbin.com/xurasa/5/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Székelyföld vallásai</title>
+<style id="jsbin-css">
+html,
+body {
+  font-family: "Trebuchet MS", "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+table{
+  border-collapse:collapse;
+}
+div.tooltip {
+  line-height: 1;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 6px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 4px;
+  z-index:2000;
+  position:absolute;
+}
+</style>
+</head>
+
+<body>
+  
+  <object id="rgbwheel" style="position:fixed;float:left;top:0px;left:0px;opacity:1;z-index:-100;width:100%;height:100%;opacity:1;" data="RGB_color_wheel.svg" type="image/svg+xml"></object>
+  <svg id="rgbshadow" height="0" width="0" style="position:fixed;float:left;top:0px;left:0px;opacity:1;z-index:-99;">
+
+    <defs>
+      <radialgradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+        <stop offset="0%" style="stop-color:rgb(0,0,0);stop-opacity:1" />
+        <stop offset="100%" style="stop-color:rgb(0,0,0);stop-opacity:0" />
+      </radialgradient>
+    </defs>
+
+    <ellipse cx="50%" cy="50%" rx="42%" ry="42%" fill="url(#grad1)" />
+
+    
+
+    <circle cx="50%" cy="50%" r="21.2%" fill="none" stroke="black" stroke-width="2" stroke-dasharray="5,5" />
+    <circle cx="50%" cy="50%" r="29.7%" fill="none" stroke="black" stroke-width="2" stroke-dasharray="5,5" />
+    <circle cx="50%" cy="50%" r="12.8%" fill="none" stroke="black" stroke-width="2" stroke-dasharray="5,5" />
+    <circle cx="50%" cy="50%" r="42.5%" fill="none" stroke="black" stroke-width="2" stroke-dasharray="5,5" />
+    <circle cx="50%" cy="50%" r="49.4%" fill="none" stroke="black" stroke-width="2" />
+    
+  </svg>
+  <canvas id="myCanvas" style="position:fixed;float:left;top:0px;left:0px;width:100%;height:100%;opacity:1;z-index:-90;"></canvas>
+  <div id="chart" style="margin:0px; opacity:1;"></div>
+
+
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+<script id="jsbin-javascript">
+//rgb color wheel adapted from: http://upload.wikimedia.org/wikipedia/commons/c/c5/RGB_color_wheel_10.svg
+
+function sum( obj ) {
+  var sum = 0;
+  for( var el in obj ) {
+    if( obj.hasOwnProperty( el ) ) {
+      sum += parseFloat( obj[el] );
+    }
+  }
+  return sum;
+}
+
+var width = window.innerWidth,
+  height = window.innerHeight;
+radius = Math.min(height, width) / 2 - 10;
+
+var svg = d3.select("#chart").append("svg")
+  .attr("width", width)
+  .attr("height", height);
+
+var rgbs = d3.select("#rgbshadow")
+  .attr("width", radius * 2 + "px")
+  .attr("height", radius * 2 + "px")
+  .style("top", height / 2 - radius + "px")
+  .style("left", width / 2 - radius + "px");
+
+var tiptext = "no data";
+
+// Define div for tooltips
+var tooltipdiv = d3.select("body")
+	.append("div")  
+	.attr("class", "tooltip")            
+	.style("visibility", "hidden");
+
+var format2Number = d3.format(",.2f"),
+    format2 = function(a) {
+        return format2Number(a);
+    };
+
+var colors=['red','yellow','lime','violet','DodgerBlue','cyan'];
+
+var tipshow=function(){
+            tooltipdiv.style("visibility", "visible");
+    
+			tooltipdiv.html(function() {
+				var t='';
+        
+        t='<table><tr><td style="color:white;">';
+        
+        t=t+tiptext[1].key;
+        t=t+'</td><td colspan=2 style="color:white;font-size:16px;line-height:35px;">';
+        if (tiptext[0]!='') t=t+tiptext[0];
+        t=t+'</td></tr>';
+        var mycolor=0;
+        for (var i in tiptext[1]){
+          if(!(['sum','key','coord'].indexOf(i) >= 0)){
+            t=t+'<tr><td style="border:solid 1px white;width:150px;color:'+colors[mycolor]+'">'+i+'</td><td style="border:solid 1px white;"><table>';
+            for (var j in tiptext[1][i]){
+              t=t+'<tr><td style="width:150px;color:'+colors[mycolor]+'">'+j+'</td>';
+              t=t+'<td style="width:50px;color:'+colors[mycolor]+'">'+tiptext[1][i][j]+'</td>';
+              t=t+'<td style="width:50px;color:'+colors[mycolor]+'">'+format2(tiptext[1][i][j]/tiptext[1].sum*100)+' %</td></tr>';
+            };
+            t=t+'</table></td></tr>';
+          }
+          mycolor=mycolor+1;
+        }
+        t=t+'</table>';
+        return t;
+			  })	 
+				.style("left", Math.min(Math.max(0,(d3.event.pageX - 150)),width-420) + "px")			 
+				.style("top", (d3.event.pageY + 30) + "px");	
+  
+  
+ 			
+};	
+var tiphide=function(){
+	tooltipdiv.style("visibility", "hidden");
+};
+
+d3.select("#rgbshadow").selectAll("text")
+  .attr("font-size", 0.045 * radius);
+
+var rgbs = d3.select("#myCanvas")
+  .attr("width", width)
+  .attr("height", height);
+
+function drawTextAlongArc(context, str, centerX, centerY, radi, angle) {
+  var len = str.length,
+    s;
+  context.save();
+  context.translate(centerX, centerY);
+  context.rotate(-1 * angle / 2);
+  context.rotate(-1 * (angle / len) / 2);
+  for (var n = 0; n < len; n++) {
+    context.rotate(angle / len);
+    context.save();
+    context.translate(0, -1 * radi);
+    s = str[n];
+    context.fillText(s, 0, 0);
+    context.restore();
+  }
+  context.restore();
+}
+var canvas = document.getElementById('myCanvas');
+var context = canvas.getContext('2d');
+var centerX = width / 2;
+var centerY = height / 2;
+
+
+angle = Math.PI * 2;
+
+radi = radius * 0.88;
+context.font = 15 + radius / 20 + 'pt Trebuchet MS';
+context.fillStyle = 'black';
+context.strokeStyle = 'black';
+drawTextAlongArc(context, 'ista  Unitárius|Más protestáns  Reform átus   Katolikus    Ortodox   Adventista|Pünkösdista  Más|Ate', centerX, centerY, radi, angle);
+
+
+
+var hdirgb = function(a, b, c, d, e, f, cx, cy, cr) {
+  var x = cx;
+  var y = cy;
+
+  var l = a;//orto,red
+  var r = b;//kato,yellow
+  var y = c;//ref,green
+  var g = d;//mas prot,cyan
+  var v = e;//mas,blue
+  var b = f;//punkosd,violet
+
+  var minx = Math.min(l, r, y, g, v, b);
+  l = l - minx;
+  r = r - minx;
+  y = y - minx;
+  g = g - minx;
+  v = v - minx;
+  b = b - minx;
+
+  var rr = cr * 0.85;
+  x = cx + rr * 
+    (Math.sin(4 * Math.PI / 6) * l + 
+     Math.sin(6 * Math.PI / 6) * r + 
+     Math.sin(8 * Math.PI / 6) * y +
+     Math.sin(10 * Math.PI / 6) * g +
+     Math.sin(0 * Math.PI / 6) * v +
+     Math.sin(2 * Math.PI / 6) * b);
+  y = cy + rr * 
+    (Math.cos(4 * Math.PI / 6) * l + 
+     Math.cos(6 * Math.PI / 6) * r + 
+     Math.cos(8 * Math.PI / 6) * y +
+     Math.cos(10 * Math.PI / 6) * g +
+     Math.cos(0 * Math.PI / 6) * v +
+     Math.cos(2 * Math.PI / 6) * b);
+  return [x, y];
+};
+
+var dd=[];
+var religions={
+  'Ortodox':'Ortodox',
+  'Katolikus':'Katolikus',
+  'Református':'Református',
+  'Pünkösdista':'Adventista/Pünkösdista',
+  'Görög katolikus':'Más/Ateista',
+  'Baptista':'Más protestáns',
+  'Adventista':'Adventista/Pünkösdista',
+  'Muzulmán':'Más/Ateista',
+  'Unitárius':'Más protestáns',
+  'Jehova tanúja':'Más/Ateista',
+  'Lutheránus evangélikus':'Más protestáns',
+  'Ókatolikus':'Más/Ateista',
+  'Lutheránus':'Más protestáns',
+  'Szerb ortodox':'Más/Ateista',
+  'Evangélikus':'Más protestáns',
+  'Kálvinista':'Más protestáns',
+  'Zsidó':'Más/Ateista',
+  'Örmény':'Más/Ateista',
+  'Más':'Más/Ateista',
+  'Nem vallásos':'Más/Ateista',
+  'Ateista':'Más/Ateista',
+  'N/A':'Más/Ateista'};
+   
+  svg.append("path")
+    .attr("d","M "+
+          hdirgb(1,0,0,0,0,0, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(1,0,0,0,0,0, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(0,1,0,0,0,0, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(0,1,0,0,0,0, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(0,0,1,0,0,0, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(0,0,1,0,0,0, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(0,0,0,1,0,0, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(0,0,0,1,0,0, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(0,0,0,0,1,0, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(0,0,0,0,1,0, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(0,0,0,0,0,1, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(0,0,0,0,0,1, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(1,0,0,0,0,0, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(1,0,0,0,0,0, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(0,0,1,0,0,0, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(0,0,1,0,0,0, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(0,0,0,0,1,0, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(0,0,0,0,1,0, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(1,0,0,0,0,0, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(1,0,0,0,0,0, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(0,0,0,1,0,0, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(0,0,0,1,0,0, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(0,0,0,0,0,1, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(0,0,0,0,0,1, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(0,1,0,0,0,0, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(0,1,0,0,0,0, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(0,0,0,1,0,0, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(0,0,0,1,0,0, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(0,0,0,0,1,0, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(0,0,0,0,1,0, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(0,1,0,0,0,0, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(0,1,0,0,0,0, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(0,0,1,0,0,0, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(0,0,1,0,0,0, width / 2, height / 2, radius)[1]+" L "+
+          hdirgb(0,0,0,0,0,1, width / 2, height / 2, radius)[0]+" "+
+          hdirgb(0,0,0,0,0,1, width / 2, height / 2, radius)[1])
+          
+  .attr("fill","none")
+  .attr("stroke","black")
+  .attr("stroke-width","2");
+
+var test=function(){
+  
+  
+  d3.json("hun.json", function(hun) {
+   d3.json("non.json", function(non) {
+    d3.json("data.json", function(d) {
+      
+      for (var i in d){
+        if(['HARGHITA','MURES','COVASNA'].indexOf(i) >= 0){
+          for (var j in d[i]){
+            if (!(non.indexOf(j) >= 0)) {
+            //if (true){
+            var helper={};
+            for (var k in religions){
+              helper[religions[k]]={};
+            }
+            for (var k in d[i][j]){
+              helper[religions[k]][k]=d[i][j][k];
+            }
+            dd.push(helper);
+            dd[dd.length-1].sum=sum(d[i][j]);
+            dd[dd.length-1].key=j;
+          }
+          }
+        }
+      }
+      
+      dd.sort(function(a, b) {
+          return b.sum-a.sum;
+      });
+      
+      
+      for (var i in dd){
+        var rgbcoords=hdirgb(
+          sum(dd[i]['Ortodox'])/dd[i].sum,
+          sum(dd[i]['Katolikus'])/dd[i].sum,
+          sum(dd[i]['Református'])/dd[i].sum,
+          sum(dd[i]['Más protestáns'])/dd[i].sum,
+          sum(dd[i]['Más/Ateista'])/dd[i].sum,
+          sum(dd[i]['Adventista/Pünkösdista'])/dd[i].sum,
+          width / 2, height / 2, radius);
+        var scaler=255*1.5;
+        svg
+          .append("circle")
+          .datum(function(){
+            if (dd[i].key in hun){
+                return [hun[dd[i].key],dd[i]];
+              }  
+            else {
+                return ['',dd[i]];
+              }
+          })
+          .attr("cx", rgbcoords[0])
+          .attr("cy", rgbcoords[1])
+          .attr("r", Math.pow(dd[i].sum/100,0.6)*radius/500+3)
+          .attr("fill",function(){
+            return d3.rgb(
+              (sum(dd[i]['Ortodox'])/dd[i].sum
+              +sum(dd[i]['Katolikus'])/dd[i].sum
+              +sum(dd[i]['Adventista/Pünkösdista'])/dd[i].sum
+              )*scaler,
+              
+              (sum(dd[i]['Református'])/dd[i].sum
+              +sum(dd[i]['Katolikus'])/dd[i].sum
+              +sum(dd[i]['Más protestáns'])/dd[i].sum
+              )*scaler,
+              
+            (sum(dd[i]['Más/Ateista'])/dd[i].sum
+            +sum(dd[i]['Más protestáns'])/dd[i].sum
+            +sum(dd[i]['Adventista/Pünkösdista'])/dd[i].sum
+            )*scaler)
+        })
+          .attr("stroke","black")
+          .attr("stroke-width","2")
+          .style("opacity",0.8)
+         
+         .on("mouseover", function(e) {
+                    tiptext = e;
+                    tipshow();
+                    return;
+                })
+         .on("mouseout", tiphide);
+        
+      };
+    });
+    });
+    });
+    };
+    
+
+test();
+</script>
+</body>
+
+</html>

@@ -1,0 +1,106 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = no" />
+    <title>Nemzetközi menekültfolyam</title>
+    <link rel="stylesheet" href="css/foundation.css" />
+    <link rel="stylesheet" type="text/css" href="css/app.css">
+    <script src="js/modernizr.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/angular.min.js"></script>
+	<script src="js/dragdealer.js"></script>
+	<style>
+.orange-bar {
+	width: 8%;
+	height: 100%;
+	background: #777;
+	color: #eee;
+	font-size: 140%;
+	line-height: 160%;
+	padding-left:0.3%;
+	text-align: center;
+	font-weight: bold;
+}
+#tooltip {
+  background-color:rgba(210,210,210,0.75);
+  pointer-events: none;
+  font-size: 12px;
+  z-index: 1000;
+  color: #665;
+  position: fixed;
+  width: 450px;
+  border-radius: 6px;
+  border-color: #665;
+  opacity: 0;
+  bottom: 7%;
+  left: 15%;
+}
+</style>
+  </head>
+  <body ng-app="app" ng-cloak ng-controller="mainCntrl">
+
+    <div class="row left" style="position:relative;">
+
+      <div class="large-9 large-9 columns" role="content">
+        <article>
+          <chord-diagram></chord-diagram>
+        </article>
+      </div>
+	  
+		<div style="position:fixed;left:260px;z-index:-1;font-size:34px;color:#aaa">10 ezer - 5 millió</div>
+		<div id="total" style="position:fixed;left:225px;top:290px;z-index:-1;font-size:78px;color:#aaa;text-align:center;width:200px;opacity:0;"></div>
+		
+      <aside class="large-3 small-4" style="position:fixed;left:5px;">
+        &nbsp;
+		<button class="orange-bar" ng-click="idp = !(idp);" id="idp" style="margin:0px;padding:0px;top:28px;left:180px;width:60px; height:18px; position:absolute;line-height:20px;font-size:12px;" title="országon belüli menekültek">
+          IDPk be
+        </button>
+	  <div  id="sizefilter" title="Szűrés a minimum menekültszám szerint" class="dragdealer" style="top:5px;left:0px;width:115px; height:18px; position:absolute;background-color:#aaa;">
+	  
+		<div class="handle orange-bar" id="sizefilterhandle" style="height:18px;line-height:20px;font-size:12px;width:40px;">10000</div>
+		<div style="position:fixed;left:15px;z-index:-1;font-size:11px;color:#eee;margin-top:-17px;">min személy</div>
+	  </div>
+	  <div  id="sizefilter2" title="Szűrés a maximum menekültszám szerint" class="dragdealer" style="top:5px;left:120px;width:120px; height:18px; position:absolute;background-color:#aaa;">
+		<div class="handle orange-bar" id="sizefilterhandle2" style="height:18px;line-height:20px;font-size:12px;width:40px;">10000</div>
+		<div style="position:fixed;left:140px;z-index:-1;font-size:11px;color:#eee;margin-top:-17px;">max személy</div>
+	  </div>
+        <button class="orange-bar right" ng-click="filters = {}; hasFilters = false;" style="margin:0px;padding:0px;top:28px;left:120px;width:55px; height:18px; position:absolute;line-height:20px;font-size:12px;">
+          töröl
+        </button>
+        <div class="panel">
+          <div ng-if="hasFilters === false">
+            Katt országra
+          </div>
+          <ul class="side-nav" style="margin-top:-7px;">
+            <li ng-repeat="filter in filters">
+              <input ng-model="filter.hide" id="{{ filter.name }}" type="checkbox">
+              <label for="{{ filter.name }}">{{ filter.name }}</label>
+            </li>
+          </ul>
+        </div>
+      </aside>
+
+      <fieldset id="tooltip" class="row secondary">
+        <div class="large-12 small-12 columns">
+          <h6>{{ tooltip.tname }}i menekültek {{ tooltip.sname.slice(0,tooltip.sname.length-1) }}{{ tooltip.sname.slice(tooltip.sname.length-1)=="a"?"á":tooltip.sname.slice(tooltip.sname.length-1) }}{{tooltip.sname=="Magyarország"?"on":"ban"}} : {{ qFormat(tooltip.svalue) }}</h6>
+          {{ tooltip.sname }}iak {{ pFormat(tooltip.svalue/tooltip.stotal) }}-a ({{ qFormat(tooltip.stotal) }})
+          {{ pFormat(tooltip.svalue/tooltip.mtotal) }}-a megjelítettnek ({{ qFormat(tooltip.mtotal) }})
+        </div>
+        <div class="large-12 small-12 columns">
+          <h6>{{ tooltip.sname }}i menekültek {{ tooltip.tname.slice(0,tooltip.tname.length-1) }}{{ tooltip.tname.slice(tooltip.tname.length-1)=="a"?"á":tooltip.tname.slice(tooltip.tname.length-1) }}{{tooltip.tname=="Magyarország"?"on":"ban"}} : {{ qFormat(tooltip.tvalue) }}</h6>
+          {{ tooltip.tname }}iak {{ pFormat(tooltip.tvalue/tooltip.ttotal) }}-a ({{ qFormat(tooltip.ttotal) }})
+          {{ pFormat(tooltip.tvalue/tooltip.mtotal) }}-a megjelítettnek ({{ qFormat(tooltip.mtotal) }})
+        </div>
+      </fieldset>
+	 
+    <script src="js/d3.min.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script src="js/mainController-afg2.js"></script>
+    <script src="js/matrixFactory.js"></script>
+    <script src="js/chordDirective.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>

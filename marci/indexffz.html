@@ -1,0 +1,414 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Osztályozási és versenyzési kontrasztok a csíkszeredai Márton Áron Gimnáziumban #szekelydata @csaladenes" />
+    <meta name="keywords" content="csikszereda, csaladenes, marton aron, mag, marton aron gimnazium, Csíkszereda, Márton Áron Gimnázium, szekelydata, Székelydata, #szekelydata, @csaladenes" />
+	<meta property="og:image" content="snapshot.jpg" />
+    <meta property="og:description" content="Osztályozási és versenyzési kontrasztok a csíkszeredai Márton Áron Gimnáziumban #szekelydata @csaladenes" />
+    <meta property="og:title" content="Osztályozási és versenyzési kontrasztok a csíkszeredai Márton Áron Gimnáziumban" />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="csaladenes.egologo.ro" />
+    <meta property="fb:admins" content="100943737036023614165" />
+    <title>Osztályozási és versenyzési kontrasztok a csíkszeredai Márton Áron Gimnáziumban</title>
+	<link rel="shortcut icon" href="szekelydata.png" />
+<style>
+@font-face {
+    font-family: "Righteous";
+    src: url(Righteous-Regular.ttf) format("truetype");
+}
+html, body {
+	font-family: "Righteous","Trebuchet MS", "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	color:#888;
+	overflow:hidden;
+}
+div.tooltip {
+  line-height: 1;
+  font-size: 12px;
+  padding: 6px;
+  background: rgba(20, 20, 20, 0.8);
+  color: #fff;
+  border-radius: 4px;
+  z-index:2000;
+  position:absolute;
+}
+.control:hover {
+	cursor:pointer;
+	stroke:#888;
+}
+</style>
+
+<body>
+
+<script src="d3.v3.min.js"></script>
+	<table style="height:100%;width:100%">
+		<tr> 
+			<td style="text-align: center; vertical-align: top;" id="chart">
+			</td>
+			<script>
+			
+				var cc={"A":0,"A ":0,"B":1,"C":2,"D":3,"E":4,"e":4,"F":5,"G":5};
+				var dd={"9":9,"10":10,"11":11,"12":12,"IX":9,"X":10,"XI":11,"XII":12};
+				var dd2={"9":"IX","10":"X","11":"XI","12":"XII","IX":"IX","X":"X","XI":"XI","XII":"XII"};
+				var ee={"nyelvek":0,"társadalomtudományok":1,"matek-info":2,"természettudományok":3,"művészetek":4,"suli":5};
+				var hh={"0":0,"1":3,"2":2,"3":1,"D":0};
+				var rr={"országos":8,"régió":6,"helyi":4};
+				var pp={"országos":"országos","régió":"regionális","helyi":"helyi","iskolai":"évfolyam"};
+				
+				var color=["#222222","#222222","#222222","#222222","#999999","#999999","#999999","#999999","#000000","#000000","#000000","#000000","#555555","#555555","#555555","#555555","#dddddd","#dddddd","#dddddd","#dddddd"];
+				var tiptext = "no data";
+
+				var tooltipdiv = d3.select("body")
+					.append("div")  
+					.attr("class", "tooltip")            
+					.style("visibility", "hidden")
+					.on("mouseover",function(){
+						tooltipdiv.style("visibility", "visible");})
+					.on("mouseout",function(){
+						tooltipdiv.style("visibility", "hidden");})
+					.on("click",function(){
+						tooltipdiv.style("visibility", "hidden");});
+
+				var tipshow=function(){
+							tooltipdiv.style("visibility", "visible");
+							tooltipdiv.html(function() {
+								return '<table style="color:'+color[ee[tiptext[4]]*4+hh[tiptext[0]["hely"]]]+'"><tr><td>Név: </td><td>'+tiptext[0]["nev"]+'</td></tr><tr><td>Év: </td><td>'+tiptext[3]+'</td></tr><tr><td>Osztály: </td><td>'+dd2[tiptext[1]]+'. '+tiptext[2]+'</td></tr><tr><td>Tantárgy: </td><td>'+tiptext[0]["tantargy"]+'</td></tr><tr><td>Szint: </td><td>'+pp[tiptext[0]["szint"]]+'</td></tr><tr><td>Helyezés: </td><td>'+tiptext[0]["hely"]+'.</td></tr></table>';
+							  })	 
+								.style("left", (d3.event.pageX-70) + "px")			 
+								.style("top", Math.max(0,(d3.event.pageY - 150)) + "px");
+								
+							
+				};	
+				var tiphide=function(){
+					tooltipdiv.style("visibility", "hidden");
+				};				
+				
+				d3.json("data.json", function(data){
+					var years=Object.keys(data);
+					data.length=years.length;
+					
+					var rowsize=35;
+					var colsize=20;
+					var op=0.7;
+					
+					var svg = d3.select("#chart").append("svg")
+								.attr("width", colsize * 7 * 4 + rowsize*2)
+								.attr("height", rowsize*(data.length+4+2))
+								.style("border", "solid")
+								.append("g")
+					
+					var ev=["IX","X","XI","XII"];
+					var osztaly=["A","B","C","D","E","F"];
+				
+					//background
+					svg	.append("rect")
+							.attr("x", 0)
+							.attr("y", 0)
+							.attr("width", colsize * 7 * 4 + rowsize*2)
+							.attr("height", rowsize*(data.length+4+2))
+							.style("fill","#fff")
+							.style("opacity",1);
+							
+					for (var i=0;i<6*4;i++) {
+						svg	.append("rect")
+							.attr("x", (i+4)*colsize+rowsize)
+							.attr("y", rowsize*3)
+							.attr("width", colsize-0)
+							.attr("height", rowsize*data.length)
+							.style("fill","#fff")
+							.style("opacity",1);
+						svg .append("text")
+							.attr("x", (i+4)*colsize+colsize*0.1+rowsize)
+							.attr("y", rowsize*3)
+							.style("font-size",colsize*0.7)
+							.style("fill","#222")
+							.text(ev[i%4])
+					}
+					for (var i=0;i<7;i++) {
+						svg	.append("line")   //vertical
+							 .attr("x1", (i+1)*colsize*4-1+rowsize)
+							 .attr("y1", rowsize*3)
+							 .attr("x2", (i+1)*colsize*4-1+rowsize)
+							 .attr("y2", rowsize*(data.length+3))
+							 .style("stroke","#222")
+							 .style("stroke-width",2)
+							 .style("stroke-dasharray", ("3, 3"));
+						svg .append("text")
+							.attr("x", (i+1)*colsize*4+colsize+rowsize)
+							.attr("y", rowsize*3-colsize*0.9)
+							.style("font-size",rowsize*1.75)
+							.style("fill","#555")
+							.text(osztaly[i])					
+					}
+					svg .append("a")
+						.attr("xlink:href","http://csaladenes.egologo.ro/?p=685 ")
+						.append("text")
+						.attr("x", rowsize+colsize*4)
+						.attr("y", rowsize*0.8)
+						.attr("class","control")
+						.style("font-size",rowsize*0.65)
+						.style("fill","#555")
+						.text("A Márton Áron Gimnázium versenyző diákjai")
+					svg .append("a")
+						.attr("xlink:href","http://csaladenes.egologo.ro")
+						.attr("target","_blank")
+						.append("image")
+						.attr("x", rowsize+colsize)
+						.attr("y", 10)
+						.attr("height",20)
+						.attr("width",40)
+						.attr("xlink:href","szekelydata2ffz.png")
+					for (year in years)
+						svg .append("text")
+							.attr("x", rowsize+colsize*0.8)
+							.attr("y", rowsize*(parseInt(year)+3.8))
+							.style("font-size",rowsize*0.65)
+							.style("font-weight","bold")
+							.style("font-family","Trebuchet MS")
+							.style("fill","#555")
+							.text(years[year])
+					for (year in data) {
+						for (ev in data[year]){
+							for (osztaly in data[year][ev]){
+								for (tan in data[year][ev][osztaly]){
+									for (diak in data[year][ev][osztaly][tan]){
+										my=data[year][ev][osztaly][tan][diak];
+										if (hh[my["hely"]]==0) {
+											svg .append("circle")
+												.attr("cx", rowsize+colsize*(Math.random()+4*parseInt(cc[osztaly])+parseInt(dd[ev])-9+4))
+												.attr("cy", rowsize*(parseInt(year)-2002+3+Math.random()))
+												.attr("r",rr[my["szint"]])
+												.attr("class","vers veri"+ee[tan]+" helyezi"+hh[my["hely"]]+" szinti"+(rr[my["szint"]]/2-2))
+												.style("fill",color[ee[tan]*4+hh[my["hely"]]])
+												.style("opacity",op)
+												.datum([my,ev,osztaly,year,tan])
+												.on("mouseover", function(e) {
+														tiptext = e;
+														tipshow();
+														return;
+													  })
+												.on("mouseout", tiphide);
+										}
+										if (hh[my["hely"]]==1) {
+											var xs= rowsize+colsize*(Math.random()+4*parseInt(cc[osztaly])+parseInt(dd[ev])-9+4)
+											var ys= rowsize*(parseInt(year)-2002+3+Math.random())
+											var s=3+parseInt(parseInt(rr[my["szint"]])*2)
+											
+											svg .append("polygon")
+												.attr("points", xs+","+ys+" "+(xs+s/2)+","+(ys+s)+" "+(xs-s/2)+","+(ys+s))
+												.attr("class","vers veri"+ee[tan]+" helyezi"+hh[my["hely"]]+" szinti"+(rr[my["szint"]]/2-2))
+												.style("fill",color[ee[tan]*4+hh[my["hely"]]])
+												.style("opacity",op)
+												.datum([my,ev,osztaly,year,tan])
+												.on("mouseover", function(e) {
+														tiptext = e;
+														tipshow();
+														return;
+													  })
+												.on("mouseout", tiphide);
+										}
+										if (hh[my["hely"]]==2) {
+											var xs= rowsize+colsize*(Math.random()+4*parseInt(cc[osztaly])+parseInt(dd[ev])-9+4)
+											var ys= rowsize*(parseInt(year)-2002+3+Math.random())
+											var s=3+parseInt(parseInt(rr[my["szint"]])*1.5)
+											
+											svg .append("polygon")
+												.attr("points", xs+","+ys+" "+(xs)+","+(ys+s)+" "+(xs-s)+","+(ys+s)+" "+(xs-s)+","+(ys))
+												.attr("class","vers veri"+ee[tan]+" helyezi"+hh[my["hely"]]+" szinti"+(rr[my["szint"]]/2-2))
+												.style("fill",color[ee[tan]*4+hh[my["hely"]]])
+												.style("opacity",op)
+												.datum([my,ev,osztaly,year,tan])
+												.on("mouseover", function(e) {
+														tiptext = e;
+														tipshow();
+														return;
+													  })
+												.on("mouseout", tiphide);
+										}
+										if (hh[my["hely"]]==3) {
+											var xs= rowsize+colsize*(Math.random()+4*parseInt(cc[osztaly])+parseInt(dd[ev])-9+4)
+											var ys= rowsize*(parseInt(year)-2002+3+Math.random())
+											var s=3+parseInt(parseInt(rr[my["szint"]])*2.5)
+											
+											svg .append("polygon")
+												.attr("points", xs+","+ys+" "+(xs+s/3)+","+(ys+s/2)+" "+(xs+2*s/3)+","+(ys)+" "+(xs+s/3)+","+(ys-s/2))
+												.attr("class","vers veri"+ee[tan]+" helyezi"+hh[my["hely"]]+" szinti"+(rr[my["szint"]]/2-2))
+												.style("fill",color[ee[tan]*4+hh[my["hely"]]])
+												.style("opacity",op)
+												.datum([my,ev,osztaly,year,tan])
+												.on("mouseover", function(e) {
+														tiptext = e;
+														tipshow();
+														return;
+													  })
+												.on("mouseout", tiphide);
+										}
+									}
+								}
+							}
+						}
+					}
+					var p=["nyelvek","társadalomtudományok","matematika-informatika","természettudományok","művészetek"];
+					var r=["helyi verseny","regionális","országos"];
+					var veri=[true,true,true,true,true];
+					var helyezi=[true,true,true,true];
+					var szinti=[true,true,true];
+					var ver=true;
+					var filt=function(){
+						for (i in helyezi)
+							for (j in szinti)
+								for (k in veri)
+									if (ver) {
+										if (helyezi[i]&&szinti[j]&&veri[k])
+											d3  .selectAll(".vers")
+												.filter(".helyezi"+i)
+												.filter(".szinti"+j)
+												.filter(".veri"+k)
+												.style("visibility","visible");
+										else d3 .selectAll(".vers")
+												.filter((".helyezi"+i))
+												.filter((".szinti"+j))
+												.filter((".veri"+k))
+												.style("visibility","hidden");
+										d3.selectAll(".vers").filter(".control").style("visibility","visible");
+										d3.selectAll(".vers").filter(".control2").style("visibility","visible");
+										}
+										else d3.selectAll(".vers").style("visibility","hidden");
+					};
+					
+					for (var j=0;j<4;j++) {
+						for (var i=0;i<5;i++) {
+							if (j==0) {
+								svg .append("circle")
+									.attr("cx", rowsize+colsize+15*i)
+									.attr("cy", rowsize*(data.length+5)-15*j)
+									.attr("r",6)
+									.attr("class","vers control2")
+									.style("fill",color[i*4+j])
+									.style("opacity",op)
+							}
+							if (j==1) {
+								var xs= rowsize+colsize+15*i;
+								var ys= rowsize*(data.length+5)-15*j-5;
+								var s=3+parseInt(parseInt(4)*2)
+								
+								svg .append("polygon")
+									.attr("points", xs+","+ys+" "+(xs+s/2)+","+(ys+s)+" "+(xs-s/2)+","+(ys+s))
+									.attr("class","vers control2")
+									.style("fill",color[i*4+j])
+									.style("opacity",op)
+							}
+							if (j==2) {
+								var xs= rowsize+colsize+15*i+5;
+								var ys= rowsize*(data.length+5)-15*j-3;
+								var s=3+parseInt(parseInt(4)*1.5)
+								
+								svg .append("polygon")
+									.attr("points", xs+","+ys+" "+(xs)+","+(ys+s)+" "+(xs-s)+","+(ys+s)+" "+(xs-s)+","+(ys))
+									.attr("class","vers control2")
+									.style("fill",color[i*4+j])
+									.style("opacity",op)
+							}
+							if (j==3) {
+								var xs= rowsize+colsize+15*i-4;
+								var ys= rowsize*(data.length+5)-15*j;
+								var s=3+parseInt(parseInt(4)*2.5)
+								
+								svg .append("polygon")
+									.attr("points", xs+","+ys+" "+(xs+s/3)+","+(ys+s/2)+" "+(xs+2*s/3)+","+(ys)+" "+(xs+s/3)+","+(ys-s/2))
+									.attr("class","vers control2")
+									.style("fill",color[i*4+j])
+									.style("opacity",op)
+							}
+								
+							if (j==0) {
+								svg .append("circle")
+									.attr("cx", rowsize+colsize*9+15*5)
+									.attr("cy", rowsize*(data.length+5)-15*(6-i)+45)
+									.attr("r",6)
+									.attr("class","vers control2")
+									.style("fill",color[i*4+1])
+									.style("opacity",op)
+								svg .append("text")
+									.attr("x", rowsize+colsize*9+15*5+15)
+									.attr("y", rowsize*(data.length+5)-15*(6-i)+5+45)
+									.attr("class","vers control")
+									.style("font-size",14)
+									.style("fill","#555")
+									.text(p[i])
+									.datum(i)
+									.on("click",function(i){
+										if (veri[i]) {
+											veri[i]=false;
+										}
+										else {
+											veri[i]=true;
+										}
+										filt();
+										if (veri[i]) d3.select(this).style("fill", "#555" )
+										else d3.select(this).style("fill", "#222" );
+									})
+							}
+							if ((j==0)&&(i<3)) {
+								svg .append("circle")
+									.attr("cx", rowsize+colsize*19.5+15*5)
+									.attr("cy", rowsize*(data.length+5)-20*i)
+									.attr("r",(i+1)*3)
+									.attr("class","vers control2")
+									.style("fill","#888")
+									.style("opacity",op)
+								svg .append("text")
+									.attr("x", rowsize+colsize*19.5+15*5+15)
+									.attr("y", rowsize*(data.length+5)-20*i+5)
+									.attr("class","vers control")
+									.style("font-size",14)
+									.style("fill","#555")
+									.text(r[i])
+									.datum(i)
+									.on("click",function(i){
+										if (szinti[i]) {
+											szinti[i]=false;
+										}
+										else {
+											szinti[i]=true;
+										}
+										filt();
+										if (szinti[i]) d3.select(this).style("fill", "#555" )
+										else d3.select(this).style("fill", "#222" );
+									})
+							}
+						}
+						
+						var o=["dicséret/részvétel","harmadik helyezés","második helyezés","első helyezés"]
+						svg .append("text")
+							.attr("x", rowsize+colsize+15*5)
+							.attr("y", rowsize*(data.length+5)-15*j+5)
+							.attr("class","vers control")
+							.style("font-size",14)
+							.style("fill","#555")
+							.text(o[j])							
+							.datum(j)
+							.on("click",function(i){
+								if (helyezi[i]) {
+									helyezi[i]=false;
+								}
+								else {
+									helyezi[i]=true;
+								}
+								filt();
+								if (helyezi[i]) d3.select(this).style("fill", "#555" )
+								else d3.select(this).style("fill", "#222" );
+							})
+					}
+				})
+			</script>
+		</tr>  
+	</table>
+</body>

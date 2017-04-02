@@ -1,0 +1,139 @@
+	@font-face {
+    font-family: "Righteous";
+    src: url(css/Righteous-Regular.ttf) format("truetype");
+}
+html,body {
+    margin: 0px;
+    padding: 0px;
+	width: 100%;
+	height: 100%;
+}
+	body {
+		  overflow: hidden;
+		  margin: 0;
+		  background-color:none;
+		  font-size: 14px;
+		  color:#ddd;
+		  fill:#665; 
+		  font-family: "Righteous","Trebuchet MS", "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+  
+		}
+		#author3:hover {
+	text-decoration:underline;
+}
+#author3 {
+	-webkit-transition: opacity 0.5s;
+	  -moz-transition: opacity 0.5s;
+	  -o-transition: opacity 0.5s;
+	  -ms-transition: opacity 0.5s;       
+	  transition: opacity 0.5s;
+}
+
+		#clickerWrapper {
+		  top: 0;
+		  z-index: 1;
+		  display: block;
+		  position: relative;
+		  width: 640px;
+		  margin-left: 20px;
+		  /*padding-top: 5px;*/
+		  visibility: auto;
+		}
+
+		#clicker {
+		  z-index: 1;
+		  display: block;
+		  font-size: 36px;
+		  font-weight: 300;
+		  color: #665;
+		  position: relative;
+		  /*width: 80px;*/
+		  text-align: center;
+		  width: 30%;
+		  margin: 0 auto;
+		  border: 1px solid;
+		  border-color: #665;
+		  cursor: pointer;
+		}
+
+		#progress {
+		  z-index: 1;
+		  display: block;
+		  position: relative;
+		  width: 40%;
+		  height: 6px;
+		  margin: 10px auto;
+		  visibility: hidden;
+		}
+		
+		#buttonWrapper{
+		  z-index: 1;
+		  display: block;
+		  font-size: 20px;
+		  font-weight: 300;
+		  color: #665;
+		  position: relative;
+		  width: 680px;
+		  text-align: center;
+		  margin-top: 30px;	
+		  overflow: hidden;		  
+		}
+		
+		#buttonWrapperInner{
+			position: relative;
+			width: 300px;
+			height: 30px;
+			margin: 0 auto;
+		}
+		
+		
+		#skip{
+		  width: 100px;
+		  cursor: pointer;	
+		  float: left;	
+		  text-align: left;
+		}
+		
+		#reset{
+		  width: 100px;
+		  cursor: pointer;	
+		  float: left;			  
+		}
+
+		#link{
+		  width: 100px;
+		  cursor: pointer;	
+		  float: left;	
+		  text-align: right;
+		}
+		
+		line {
+		  stroke: #ddd;
+		  stroke-width: 1.px;
+		}
+
+		text {
+		  font-size: 14px;
+		}
+
+		.titles{
+		  font-size: 18px;
+		}
+
+		.explanation{
+		  font-size: 20px;
+		  font-weight: 300;
+		  text-align: center;
+		}
+		
+		path.chord {
+		  fill-opacity: .80;
+		}
+		
+		a {
+			text-decoration: none;
+			color: #665;
+		}
+		a:hover, #skip:hover, #reset:hover, #link:hover {
+			text-decoration: underline;
+		}

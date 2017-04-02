@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+<title>Európai menekülthisztéria - de mit mondanak az adatok?</title>
+<style>
+@font-face {
+    font-family: "Righteous";
+    src: url(css/Righteous-Regular.ttf) format("truetype");
+}
+  html,body {
+    margin: 0px;
+    padding: 0px;
+	width: 100%;
+	height: 100%;
+	overflow:hidden;
+    background-color: none;
+	font-family: "Righteous","Trebuchet MS", "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  }
+  iframe {
+	border:none;
+	position:fixed;
+	top:0;
+	left:0;
+	width:738px;
+	height:700px;
+		-webkit-transition: margin-left 1s;
+	  -moz-transition: margin-left 1s;
+	  -o-transition: margin-left 1s;
+	  -ms-transition: margin-left 1s;       
+	  transition: margin-left 1s;
+  }
+.dragdealer {
+	height: 5%;
+	background: #888;
+	z-index: 8;
+}
+.dragdealer .handle {
+	top: 0;
+	left: 0;
+	cursor: pointer;
+}
+.orange-bar {
+	width: 8%;
+	height: 100%;
+	background: #aaa;
+	color: #222;
+	font-size: 140%;
+	line-height: 160%;
+	padding-left:0.3%;
+	text-align: center;
+	font-weight: bold;
+}
+.orange-bar:hover {
+	background: #997
+}
+.dragdealer .disabled {
+	background: #898989
+}
+#reload:hover #arrows {
+	fill:#444;
+}
+#reload, #title, #bigyear, #bigyear2, #timeslider, #author, #author2, #author3 {
+	-webkit-transition: opacity 0.5s;
+	  -moz-transition: opacity 0.5s;
+	  -o-transition: opacity 0.5s;
+	  -ms-transition: opacity 0.5s;       
+	  transition: opacity 0.5s;
+}
+a {
+	cursor:pointer;
+	text-decoration:none;
+	font-size:10px;
+	color:#000;
+}
+a:hover, #author3:hover {
+	text-decoration:underline;
+}
+</style>
+<script src="js/dragdealer.js"></script>
+</head>
+
+<body>
+<div id="container" style="width:1272px;height:700px;margin:0px;">
+<div id="title" style="position:fixed;left:545px;z-index:-1;font-size:36px;text-align:center;margin-top:70px;color:#aaa;opacity:0;">afgán<br/>menekült<br/>folyam</div>
+<div id="bigyear" style="position:fixed;left:200px;z-index:100;font-size:400px;text-align:center;margin-top:110px;color:#000;opacity:0;visibility:hidden;">2014</div>
+<div id="author" style="position:fixed;left:585px;z-index:100;font-size:48px;text-align:center;margin-top:573px;color:#aaa;opacity:0;">
+	
+	<a href="http://blog.csaladen.es" target="_blank"><img src="szekelydata.png" alt="SZÉKELYDATA" title="SZÉKELYDATA" style="width:70px;height:70px;border:solid 1px #aaa;margin-top:5px;"/></a>
+</div>
+<div id="author2" style="position:fixed;left:5px;z-index:100;font-size:10px;text-align:center;margin-top:562px;color:#aaa;opacity:0;">
+	
+	<a href="http://www.delimited.io/blog/2014/11/18/interactive-chord-diagrams-in-d3" target="_blank" title="inspiráció"><div style="color:#665;">inspiráció</div>delimited.io</a><br>
+	<a href="http://www.visualcinnamon.com/2014/12/using-data-storytelling-with-chord.html" target="_blank" title="inspired by">v.cinnamon</a><br>
+	<a href="http://www.csaladen.es" target="_blank" title="készítette"><div style="color:#665;">készítette</div>csaladen.es</a><br>
+	<a href="http://csaladenes.egologo.ro/?p=743" target="_blank" title="blogbejegyzés"><div style="color:#665;">leírás</div></a>
+	<a href="http://popstats.unhcr.org/en/persons_of_concern" target="_blank" title="adatok"><div style="color:#665;">adatok</div></a>
+	
+</div>
+<div id="author3" style="position:fixed;right:10px;z-index:100;font-size:28px;text-align:center;margin-top:620px;color:#665;opacity:0;cursor:pointer;" onclick="window.parent.document.getElementById('content').src='demo-afg.html'" title="vissza a bevezetõhöz">
+	bevezetõ
+	
+</div>
+
+<iframe id="iframe1" style="margin-left:0px;" src="iframe1-afg.html"></iframe>
+<iframe id="iframe2" style="margin-left:611px;" src="iframe2-afg.html"></iframe>
+
+<svg version="1.1" x="0px" y="0px" width="50px" id="reload" onclick="trans();" height="50px" viewBox="0 0 400 400" style="position:fixed;float:left;top:230px;left:590px;z-index:100;opacity:0;" xml:space="preserve">
+	<circle  cx="240", cy="240", r="210" fill="rgba(50,50,50,0)" style="cursor:pointer;" >
+	<title>váltás forrás- és célország között</title></circle>
+  <path id="arrows" style="cursor:pointer;" fill="#aaa" d="M160.469,242.194c0-44.414,36.023-80.438,80.438-80.438c19.188,0,36.711,6.844,50.5,18.078L259.78,209.93l99.945,11.367
+  	l0.805-107.242l-30.766,29.289c-23.546-21.203-54.624-34.164-88.804-34.164c-73.469,0-133.023,59.562-133.023,133.016
+  	c0,2.742,0.242-2.266,0.414,0.445l53.68,7.555C161.03,245.108,160.469,247.562,160.469,242.194z M371.647,237.375l-53.681-7.555
+  	c1.017,5.086,1.556,2.617,1.556,7.992c0,44.414-36.008,80.431-80.43,80.431c-19.133,0-36.602-6.798-50.383-17.97l31.595-30.078
+  	l-99.93-11.366l-0.812,107.25l30.789-29.312c23.531,21.141,54.57,34.055,88.688,34.055c73.468,0,133.023-59.555,133.023-133.008
+  	C372.062,235.078,371.812,240.085,371.647,237.375z"/>
+</svg>
+
+</div>
+<div  id="bigyear2"  class="dragdealer" style="bottom:0px;left:0px;width:100%;position:fixed;opacity:0; background-color:#ddd;z-index:5000;"></div>
+<div  id="timeslider" title="görgõvel, nyilakkal vagy a csúszka mozgatásával változtathatod az évet" class="dragdealer" style="bottom:0px;left:0px;width:100%;position:fixed;opacity:0;">
+<div style="position:fixed;left:5%;z-index:-1;font-size:110%;color:#222;margin-top:0.4%;"><-  görgõvel, nyilakkal vagy a csúszka mozgatásával változtathatod az évet  -></div>
+<div class="handle orange-bar" id="timehandle">2014</div>
+</div>
+
+<script>
+
+function trans(){
+var a=document.getElementById('iframe1').style.marginLeft;
+document.getElementById('iframe1').style.marginLeft=document.getElementById('iframe2').style.marginLeft;
+document.getElementById('iframe2').style.marginLeft=a;
+document.getElementById('reload').style.opacity=0;
+setTimeout(function(){document.getElementById('reload').style.opacity=1;},500);
+document.getElementById('title').style.opacity=0;
+setTimeout(function(){document.getElementById('title').style.opacity=1;},500);
+document.getElementById('author').style.opacity=0;
+setTimeout(function(){document.getElementById('author').style.opacity=1;},500);
+}
+
+
+ var timedragdealer=new Dragdealer("timeslider", {
+		x: 1,
+		steps: 2014-1951+1,
+		animationCallback: function(a, b) {
+			document.getElementById('timehandle').innerHTML=Math.round(1951+ (2014-1951) * a);
+		},
+		callback: function(a, b) {
+			document.getElementById('iframe1').contentWindow.angular.element("body").scope().selected_year=Math.round(1951+ (2014-1951) * a);
+			document.getElementById('iframe1').contentWindow.angular.element("body").scope().update();
+			document.getElementById('iframe2').contentWindow.angular.element("body").scope().selected_year=Math.round(1951+ (2014-1951) * a);
+			document.getElementById('iframe2').contentWindow.angular.element("body").scope().update();
+			document.getElementById('bigyear').innerHTML=Math.round(1951+ (2014-1951) * a);
+			
+			setTimeout(function(){
+				setTimeout(function(){
+					document.getElementById('bigyear').style.opacity=0;
+					setTimeout(function(){
+						document.getElementById('bigyear').style.visibility='hidden';},
+						700);
+					},
+				700);
+				document.getElementById('bigyear').style.visibility='visible';
+				document.getElementById('bigyear').style.opacity=0.3;},
+			2100);
+		}
+	});
+	
+  document.addEventListener("keydown", function ( event ) {
+	if (( event.keyCode >= 33 && event.keyCode <= 34 ) || (event.keyCode >= 37 && event.keyCode <= 40)) {
+		switch( event.keyCode ) {
+			case 34: // pg up
+			case 37: // left
+			case 38: // up
+					timedragdealer.setValue((Math.max(document.getElementById('timehandle').innerHTML-1,1951)-1951) / (2014-1951), 0, false)
+					 break;
+			case 33: // pg down
+			case 39: // right
+			case 40: // down 
+					 timedragdealer.setValue((document.getElementById('timehandle').innerHTML-1951+1) / (2014-1951), 0, false)
+					 break;
+		}
+		
+		event.preventDefault();
+	}
+   }, false);
+   
+   document.addEventListener("mousewheel", function ( event ) {
+	if (event.wheelDelta<0) timedragdealer.setValue((Math.max(document.getElementById('timehandle').innerHTML-1,1951)-1951) / (2014-1951), 0, false)
+	else timedragdealer.setValue((Math.min(document.getElementById('timehandle').innerHTML-1+2,2014)-1951) / (2014-1951), 0, false)
+	//event.preventDefault();
+   }, false);
+   
+			
+	var rescale = function() {
+	//scale content
+	var scal = Math.min((document.getElementById("container").parentElement.offsetWidth) / document.getElementById("container").offsetWidth, (document.getElementById("container").parentElement.offsetHeight) / document.getElementById("container").offsetHeight)
+	document.getElementById("container").style.WebkitTransform = "scale(" + scal + ")";
+	document.getElementById("container").style.OTransform = "scale(" + scal + ")";
+	document.getElementById("container").style.MozTransform = "scale(" + scal + ")";
+	document.getElementById("container").style.msTransform = "scale(" + scal + ")";
+	document.getElementById("container").style.Transform = "scale(" + scal + ")";
+
+	document.getElementById("container").style.WebkitTransformOrigin = "0 0";
+	document.getElementById("container").style.OTransformOrigin = "0 0";
+	document.getElementById("container").style.MozTransformOrigin = "0 0";
+	document.getElementById("container").style.msTransformOrigin = "0 0";
+	document.getElementById("container").style.TransformOrigin = "0 0";
+
+	};
+
+	window.onresize = function() {
+	rescale();
+	}
+	//init content
+	rescale();
+	setTimeout(function(){
+		document.getElementById('timeslider').style.opacity=1;
+	},7000)
+	setTimeout(function(){
+				setTimeout(function(){
+					document.getElementById('bigyear').style.opacity=0;
+					document.getElementById('bigyear2').style.opacity=0;
+					setTimeout(function(){
+						document.getElementById('bigyear').style.visibility='hidden';
+						document.getElementById('bigyear2').style.visibility='hidden';},
+						700);
+					},
+				700);
+				document.getElementById('bigyear').style.visibility='visible';
+				document.getElementById('bigyear').style.opacity=0.3;
+				document.getElementById('bigyear2').style.visibility='visible';
+				document.getElementById('bigyear2').style.opacity=0.5;},
+			8100);
+	setTimeout(function(){
+		document.getElementById('title').style.opacity=1;
+	},10000)
+	setTimeout(function(){
+		document.getElementById('reload').style.opacity=1;
+	},11000)
+	setTimeout(function(){
+		document.getElementById('author').style.opacity=1;
+		document.getElementById('author2').style.opacity=1;
+		document.getElementById('author3').style.opacity=1;
+	},12000)
+</script>
+</body>
+
+</html>
