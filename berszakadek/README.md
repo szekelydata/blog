@@ -2,7 +2,7 @@
 ========
 [![Alt text](header.jpg "Optional title")](http://csaladenes.egologo.ro/noi-berszakadek-szekelyfoldon-es-erdelyben/)  
   
-Ez a mappa tartalmaz minden amire szükséged lehet, hogy reprodukáld a bejegyzésben beumutatottakat.  
+Ez a mappa tartalmaz mindent amire szükséged lehet, hogy reprodukáld a bejegyzésben beumutatottakat.  
 Olvasd el a teljes bejegyzést [itt](http://csaladenes.egologo.ro/noi-berszakadek-szekelyfoldon-es-erdelyben/).  
 A munkamenet általában a következő:
   - [Jupyter](http://jupyter.org)-ben [python](http://python.org) és [pandas](http://pandas.pydata.org) segítségével letöltjük és formázzuk az adatokat. Ehhez ez _.ipynb_ kiterjesztésű fájlt keressél a mappában.
