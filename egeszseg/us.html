@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Mitől halunk meg? - Globális Elhalálozási Időfolyam #szekelydata #who #d3plus @csaladenes" />
+    <meta name="keywords" content="csaladenes, d3.js, data visualization, infographic, szekelyland, székelyföld, adatvizualizáció, d3, who, COD, causes of death, mortality, halál, elhalálozás, betegség, death, disease" />
+    <meta property="og:image" content="http://csaladenes.egologo.ro/wp-content/uploads/2016/01/mitol-halunk-meg1.jpg" />
+    <meta property="og:description" content="Mitől halunk meg? - Globális Elhalálozási Időfolyam #szekelydata #who #d3plus @csaladenes" />
+    <meta property="og:title" content="Globális Elhalálozási Időfolyam" />
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+	<meta property="og:url" content="http://csaladenes.egologo.ro/?p=813"/>
+    <meta property="og:site_name" content="SZÉKELYDATA" />
+    <meta property="fb:admins" content="100943737036023614165" />
+	<link rel="shortcut icon" href="../szekelydata.png" />
+	<link rel="publisher" href="https://plus.google.com/106181965793093327960" />
+    <title>Globális Elhalálozási Időfolyam</title>
+	<style>
+@font-face {
+	font-family: "Righteous";
+	src: url(Righteous-Regular.ttf) format("truetype");
+}
+.logo, .viz {
+ 	-webkit-transition: opacity 0.5s;
+	  -moz-transition: opacity 0.5s;
+	  -o-transition: opacity 0.5s;
+	  -ms-transition: opacity 0.5s;       
+	  transition: opacity 0.5s;
+}
+a{
+	font-family:Righteous;
+	text-decoration:none;
+}
+a:hover{
+	font-family:Righteous;
+	text-decoration:underline;
+}
+a:visited{
+	color: #444;
+}
+.logo:hover{
+	cursor:pointer;
+}
+</style>
+</head>
+
+<!-- load D3js -->
+<script src="d3.js"></script>
+
+<!-- load D3plus after D3js -->
+<script src="d3plus.js"></script>
+
+<script src="jszip.min.js"></script>
+<script src="JSZipUtils.min.js"></script>
+<body link="#444">
+<!-- create container element for visualization -->
+<img style="position: fixed;
+    left: 50%;
+    top: 50%;
+    z-index: 50;
+    height: 150px;
+    margin-top: -75px;
+
+    width: 150px;
+    margin-left: -75px;  border:1px solid #b8371d;border-left:2px solid #b8371d;" class="loading" src="szekelydata.png"/>
+	
+<img style="position: fixed;
+    left: 50%;
+    top: 50%;
+    z-index: 51;
+    height: 30px;
+    margin-top: 25px;
+
+    width: 30px;
+    margin-left: -15px;" class="loading" src="b.gif"/>
+	
+<img style="position: fixed;
+    right: 63px;
+    top: 12px;
+	opacity: 0;
+    z-index: 101;
+    height: 40px;
+	border: solid 1px #888;
+    width: 40px;" " class="logo" src="stacked.png"
+	alt="Időfolyam"
+	title="Időfolyam"
+	onclick='show(1);'>
+<img style="position: fixed;
+    right: 18px;
+    top: 12px;
+	opacity: 0;
+    z-index: 101;
+    height: 40px;
+	border: solid  1px #888;
+    width: 40px;" " class="logo" src="tree.png"
+	alt="Hierarchiatérkép"
+	title="Hierarchiatérkép"
+	onclick='show(2);'>
+	
+<a style="position: fixed;
+    right: 110px;
+    top: 15px;
+	opacity: 0;
+	font-size:10px;
+    z-index: 101;" class="logo" target="_blank"
+	href="http://csaladenes.egologo.ro/?p=813">SZÉKELYDATA</a>
+<a style="position: fixed;
+    right: 110px;
+    top: 27px;
+	opacity: 0;
+	font-size:10px;
+    z-index: 101;" class="logo" target="_blank"
+	href="http://csaladen.es">csaladen.es</a>
+<a style="position: fixed;
+    right: 110px;
+    top: 39px;
+	opacity: 0;
+	font-size:10px;
+    z-index: 101;" class="logo" target="_blank"
+	href="http://www.who.int/healthinfo/mortality_data/en/">adatok</a>
+
+	
+<div style="position: fixed; opacity:1;
+    left: 5;
+    top: 5;
+    z-index: 100;" id="viz1" class="viz"></div>
+<div style="position: fixed; opacity:0;
+    left: 5;
+    top: 5;
+    z-index: 99;" id="viz2" class="viz"></div>
+
+<script>
+  // sample data array
+  
+  setTimeout(function(){d3.selectAll(".logo").style("opacity",1)},20000)
+  
+  function show(a){
+	var b = ((a==1) ? 2 : 1);
+	d3.select("#viz"+b).style("opacity",0);
+	d3.select("#viz"+a).style("z-index",100);
+	d3.select("#viz"+b).style("z-index",99);
+	d3.select("#viz"+a).style("opacity",1);
+  }
+  
+  var path="db2/";
+  
+  var initcountry='840'; //642 romania 348 hungaria 9998 szekelyland 9996 transylvania
+  
+  d3.json('cnames.json',function(cnames){
+  d3.json('hnames.json',function(hnames){
+  d3.json('countries.json',function(countries){
+  d3.json('icd.json',function(icd){
+  d3.json('pop.json',function(pop){
+  d3.json('hierarchy2.json',function(hierarchy){
+  JSZipUtils.getBinaryContent(path+initcountry+'.zip', function(err, rawdata) {
+	
+	  function extend(rawdata){
+		  var zip = new JSZip(rawdata);			  
+		  var data=JSON.parse(zip.files['data.json'].asText());
+		  
+		  data.forEach(function(d) {
+			d["icon"]="img/"+hierarchy[d["c"]]["group"]+".png";
+			d["group"]=icd[hierarchy[d["c"]]["group"]];
+			//d["cause2"]=icd[hierarchy[d["c"]]["cause2"]];
+			//d["parent"]=icd[hierarchy[d["c"]]["parent"]];
+			d["c"]=icd[d["c"]];
+			d[d["g"]]=d["s"];
+			
+			if (initcountry in pop)
+				if (d["t"] in pop[initcountry]) {
+					d["ps"]=d["s"]*100.0/pop[initcountry][d["t"]][d["g"]][d["a"]]; //percentage
+					d["p"+d["g"]]=d["ps"];
+				} //else console.log("No population data for:",initcountry,d["t"]);
+		  });
+		  return data;	  
+	  }
+	  
+	  function cap1(string) {
+		return string.charAt(0).toUpperCase() + string.slice(1);
+	  }
+	  
+	  function textformatter(text, params) {
+			
+			if (text === "s") {
+			  return "Esetek";
+			}
+			else if (text === "f") {
+			  return "Esetek";
+			}
+			else if (text === "m") {
+			  return "Esetek";
+			}
+			else if (text === "pf") {
+			  return "Esetek / Lakosság";
+			}
+			else if (text === "pm") {
+			  return "Esetek / Lakosság";
+			}
+			else if (text === "ps") {
+			  return "Esetek / Lakosság";
+			}
+			else {
+			  return d3plus.string.title(text, params);
+			}
+	  };
+	  
+	  function numberformatter(number, params) {
+        
+        var formatted = d3plus.number.format(number, params);
+        
+		if (params.key === "ps") {
+          return formatted + " %";
+        }
+		else if (params.key === "pf") {
+          return formatted + " %";
+        }
+		else if (params.key === "pm") {
+          return formatted + " %";
+        }
+        else {
+          return formatted;
+        }
+      };
+	  
+	  function vfunc(gen,val) {
+		return val+gen;
+	  }
+	  
+	  data=extend(rawdata);
+	  
+	  var countrylist=[];
+	  var hcountrylist=[];
+	  var hcountrydict=[];
+	  countries.forEach(function(d) {
+		var dummy={};
+		dummy[cnames[d]]=d;
+		countrylist.push(dummy);
+		dummy={};
+		dummy[hnames[cnames[d]]]=hnames[cnames[d]];
+		hcountrydict[hnames[cnames[d]]]=d;
+		hcountrylist.push(dummy);
+	  });
+	  
+	  var val="";
+	  var gen="s";
+	  var sca="share";
+	  var val2="";
+	  var gen2="s";
+	  var sub={"m":"Férfiak","f":"Nők"};
+	  var title={"font":{"size":20}};
+	  var font = {"family":"Righteous","size":15};
+	  
+	  var visualization = d3plus.viz()
+		.container("#viz1")  // container DIV to hold the visualization
+		.type("stacked")    // visualization type
+		.data(data)
+		.id({"value":["g","group","c"]})         // key for which our data is unique on
+		.aggs({"a": "mean"})
+		.depth(1)
+		.y({"value":"s","label":"Eloszlás","scale":"share"})         // key to use for y-axis
+		.x({"value":"a","label":"Életkor"})          // key to use for x-axis
+		.time({"value":"t","solo":[2012]}) 
+		.color("group")       // color legend
+		.order("group")
+		.font(font)
+		.icon({"style": "knockout","value": "icon"})
+		.legend({"filters":true})
+		.messages({"style":false,"branding":false})
+		.legend({"size":30})
+		.axes({"background": {"color": "#eee"}}) 
+		.shape({"interpolate": "basis"})
+		.title({"value":hnames[cnames[initcountry]],"sub":{"value":"Mitől halunk meg? - Globális Elhalálozási Időfolyam"}})
+		.title(title)
+		.ui({"font":{"size":12},"value":[
+		  {
+			"method" : "depth",
+			"value"  :[{"Főcsoport":1}, {"Betegség":2} ],
+			"label" : " "
+		  },
+	      {
+			"method" : function(value){
+			  sca=value;
+			  var v2="Eloszlás";
+			  if (value=="linear") v2="Esetek";
+			  visualization
+			  .y({"scale": value})
+			  .y({"label": v2})
+			  .draw()
+			},
+			"value"  : [ {"Eloszlás":"share"}, {"Értékek":"linear"} ],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  var v3=(sca=="share")?"Eloszlás":(value=="s")?"Esetek":"Esetek / Lakosság"
+			  val=(value=="s")?"":"p";
+			  visualization
+			  .y(vfunc(gen,val))
+			  .y({"label":v3})
+			  .draw();
+			},
+			"value"  :[{"Esetek":"s"} , {"Normalizált":"p"}],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  gen=value;
+			  visualization
+			  .y(vfunc(gen,val))
+			  .draw();
+			},
+			"value"  : [{"Mindenki":"s"},{"Nők":"f"}, {"Férfiak":"m"}],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  load(hcountrydict[value]);
+			},
+			"value"  : hcountrylist,
+			"width"  : 100,
+			"label" : " "
+		  }
+		]})
+		.tooltip({"sub":function(d){
+			if (d["g"]=="m") 
+				visualization
+				.tooltip({"background":"#ddddff"});
+			else	visualization
+				.tooltip({"background":"#ffdddd"});
+			return sub[d["g"]];
+		}})
+		.format({
+		  "text": function(text, params) {
+			  return textformatter(text, params);
+		  },
+		  "number": function(number, params) {
+			  return numberformatter(number, params);
+          }
+		  })
+		.draw()             // finally, draw the visualization!
+
+		
+		var visualization2 = d3plus.viz()
+		.container("#viz2")  // container DIV to hold the visualization
+		.type("tree_map")    // visualization type
+		.data(data)
+		.id({"value":["group","group","c"],"grouping": true })         // key for which our data is unique on
+		.aggs({"s":"sum"})
+		.depth(1)
+		.size({"value":"s"})         // key to use for y-axis
+		.time({"value":"t","solo":[2012]}) 
+		.color("group")       // color legend
+		.order("group")
+		.font(font)
+		.icon({"style": "knockout","value": "icon"})
+		.legend({"filters":true})
+		.messages({"style":false,"branding":false})
+		.legend({"size":30})
+		.title({"value":hnames[cnames[initcountry]],"sub":{"value":"Mitől halunk meg? - Globális Elhalálozási Hierarchiatérkép"}})
+		.title(title)
+		.ui({"font":{"size":12},"value":[
+		  {
+			"method" : "depth",
+			"value"  :[{"Főcsoport":1}, {"Betegség":2} ],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  val2=(value=="s")?"":"p";
+			  visualization2
+			  .size(vfunc(gen2,val2))
+			  .draw();
+			},
+			"value"  :[{"Esetek":"s"} , {"Normalizált":"p"}],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  gen2=value;
+			  visualization2
+			  .size(vfunc(gen2,val2))
+			  .draw();
+			},
+			"value"  : [{"Mindenki":"s"},{"Nők":"f"}, {"Férfiak":"m"}],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  load(hcountrydict[value]);
+			},
+			"value"  : hcountrylist,
+			"width"  : 100,
+			"label" : " "
+		  }
+		]})
+		.tooltip({"sub":function(d){
+			if (d["g"]=="m") 
+				visualization2
+				.tooltip({"background":"#ddddff"});
+			else	visualization2
+				.tooltip({"background":"#ffdddd"});
+			return sub[d["g"]];
+		}})
+		.format({
+		  "text": function(text, params) {
+			  return textformatter(text, params);
+		  },
+		  "number": function(number, params) {
+			  return numberformatter(number, params);
+          }
+		  })
+		.draw()
+		
+		function load(country) {
+		  
+		  // instantiate JSZip, load and unzip data
+		  JSZipUtils.getBinaryContent(path+country+'.zip', function(err, rawdata) {
+
+			  initcountry=country;
+		  
+			  data=extend(rawdata);
+			  
+			  visualization
+			  .data(data)
+			  .title(hnames[cnames[country]])
+			  .draw();
+			  visualization2
+			  .data(data)
+			  .title(hnames[cnames[country]])
+			  .draw();
+			  
+		  })
+		};	
+  
+  })
+  })
+  })
+  })
+  })
+  })
+  })
+</script>
+</body>
+</html>

@@ -1,0 +1,1241 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "import numpy as np, requests, zipfile, StringIO, pandas as pd, json, copy"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "#data source WHO Mortality database\n",
+    "#http://www.who.int/healthinfo/statistics/mortality_rawdata/en/"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 26,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "# you might want to skip this cell, depending on your system configuration\n",
+    "import sys  \n",
+    "reload(sys)  \n",
+    "sys.setdefaultencoding('utf8')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 27,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "#read country codes\n",
+    "z = zipfile.ZipFile('country_codes.zip') \n",
+    "cc = pd.read_csv(z.open('country_codes'),low_memory=False).set_index('country')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 28,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "#read data\n",
+    "z = zipfile.ZipFile('morticd10_part1.zip') \n",
+    "df = pd.read_csv(z.open('Morticd10_part1'),low_memory=False)\n",
+    "\n",
+    "#filter out non-country (subdivision) data\n",
+    "df = df[np.isnan(df['Admin1'])]\n",
+    "df = df[np.isnan(df['SubDiv'])]\n",
+    "df = df.drop(['Admin1','SubDiv'],axis=1)\n",
+    "\n",
+    "#filter out data after ICD10 classification\n",
+    "df = df[df['List']=='104']\n",
+    "df = df.drop(['List'],axis=1)\n",
+    "\n",
+    "#filter out non-detailed mortality\n",
+    "#df = df[df['Frmat']==1]\n",
+    "#df = df.drop(['Frmat'],axis=1)\n",
+    "\n",
+    "#filter out detailed infant mortality\n",
+    "#df = df[df['IM_Frmat']==8]\n",
+    "df = df.drop(['IM_Frmat'],axis=1)\n",
+    "\n",
+    "df=df.drop(['IM_Deaths1'],axis=1).\\\n",
+    "    drop(['IM_Deaths2'],axis=1).\\\n",
+    "    drop(['IM_Deaths3'],axis=1).\\\n",
+    "    drop(['IM_Deaths4'],axis=1)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 29,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "#read data\n",
+    "z = zipfile.ZipFile('morticd10_part2.zip') \n",
+    "df2 = pd.read_csv(z.open('Morticd10_part2'),low_memory=False)\n",
+    "\n",
+    "#filter out non-country (subdivision) data\n",
+    "df2 = df2[np.isnan(df2['Admin1'])]\n",
+    "df2 = df2[df2['SubDiv']!='A30']\n",
+    "df2 = df2.drop(['Admin1','SubDiv'],axis=1)\n",
+    "\n",
+    "#filter out data after ICD10 classification\n",
+    "df2 = df2[df2['List']=='104']\n",
+    "df2 = df2.drop(['List'],axis=1)\n",
+    "\n",
+    "#filter out non-detailed mortality\n",
+    "#df2 = df2[df2['Frmat']==1]\n",
+    "#df2 = df2.drop(['Frmat'],axis=1)\n",
+    "\n",
+    "#filter out detailed infant mortality\n",
+    "#df2 = df2[df2['IM_Frmat']==8]\n",
+    "df2 = df2.drop(['IM_Frmat'],axis=1)\n",
+    "\n",
+    "df2=df2.drop(['IM_Deaths1'],axis=1).\\\n",
+    "    drop(['IM_Deaths2'],axis=1).\\\n",
+    "    drop(['IM_Deaths3'],axis=1).\\\n",
+    "    drop(['IM_Deaths4'],axis=1)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 30,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "#merge the two dataframes\n",
+    "df = pd.concat([df,df2])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 31,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "#set index\n",
+    "df = df.set_index(['Frmat','Country','Year','Cause','Sex'])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 32,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "#set column names\n",
+    "df.columns=['Deaths1']+range(5)+list(np.arange(1,20)*5)+['Deaths26']"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 33,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "#normalize data\n",
+    "dg0=df.loc[0].copy()\n",
+    "dg1=df.loc[1].copy()\n",
+    "dg1[90]=df.loc[1][85]*3/10.0\n",
+    "dg1[95]=df.loc[1][85]*1/10.0\n",
+    "dg1[85]=df.loc[2][85]*6/10.0\n",
+    "dg2=df.loc[2].copy()\n",
+    "dg2[90]=df.loc[2][85]*3/10.0\n",
+    "dg2[95]=df.loc[2][85]*1/10.0\n",
+    "dg2[85]=df.loc[2][85]*6/10.0\n",
+    "dg2[2]=df.loc[2][1]*1/4.0\n",
+    "dg2[3]=df.loc[2][1]*1/4.0\n",
+    "dg2[4]=df.loc[2][1]*1/4.0\n",
+    "dg2[1]=df.loc[2][1]*1/4.0"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 34,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "df=pd.concat([dg0,dg1,dg2])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 35,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Country\n",
+       "Andorra                  20\n",
+       "United Arab Emirates    784\n",
+       "Afghanistan               4\n",
+       "Antigua and Barbuda      28\n",
+       "Anguilla                660\n",
+       "Name: ISONUM, dtype: int64"
+      ]
+     },
+     "execution_count": 35,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "countries=pd.read_html('http://www.geonames.org/countries/',header=0)[1]\n",
+    "countries.columns=['ISO2','ISO3','ISONUM','FIPS','Country','Capital','Area','Population','Continent']\n",
+    "countries.set_index('Country',drop=True,inplace=True)\n",
+    "countries=countries['ISONUM']\n",
+    "countries.head(5)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 36,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "ch={}\n",
+    "for i in countries.index:\n",
+    "    try: ch[countries.loc[i]]=i\n",
+    "    except: pass"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 37,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "for i in df.head().T.iteritems():\n",
+    "    print i[0][0],'country',cc.loc[i[0][0]][0]\n",
+    "    print i[0][1],'year'\n",
+    "    print i[0][2],'cause'\n",
+    "    print i[0][3],'sex'\n",
+    "    print i[1].values"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 38,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "def ccv(f):\n",
+    "    if f=='Russian Federation':return 'Russia'\n",
+    "    elif f=='Brunei Darussalam':return 'Brunei'\n",
+    "    elif f=='Reunion':return u'R\\xc3\\xa9union'\n",
+    "    elif f=='Saint Vincent and Grenadines':return 'Saint Vincent and the Grenadines'\n",
+    "    elif f=='United States of America':return 'United States'\n",
+    "    elif f=='Virgin Islands (USA)':return 'U.S. Virgin Islands'\n",
+    "    elif f=='Hong Kong SAR':return 'Hong Kong'\n",
+    "    elif f=='Republic of Korea':return 'South Korea'\n",
+    "    elif f=='Republic of Moldova':return 'Moldova'\n",
+    "    elif f=='Serbia and Montenegro, Former':return 'Serbia'\n",
+    "    else: return f\n",
+    "\n",
+    "todrop=set()\n",
+    "for i in list(df.index.levels[0]):\n",
+    "    if ccv(cc.loc[i][0]) not in list(countries.index):\n",
+    "        print cc.loc[i][0]\n",
+    "        todrop.add(i)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 39,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "#icd=pd.read_excel('icd.xlsx').set_index('code')\n",
+    "icd=pd.read_excel('icd_hun.xlsx',).set_index('code')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 41,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "igroup=[1000,\n",
+    "1001,\n",
+    "1026,\n",
+    "1048,\n",
+    "1051,\n",
+    "1055,\n",
+    "1058,\n",
+    "1062,\n",
+    "1063,\n",
+    "1064,\n",
+    "1072,\n",
+    "1078,\n",
+    "1082,\n",
+    "1083,\n",
+    "1084,\n",
+    "1087,\n",
+    "1092,\n",
+    "1093,\n",
+    "1094,\n",
+    "1095,\n",
+    "2000]#protector dummy"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 42,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "{'sub': {}}"
+      ]
+     },
+     "execution_count": 42,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "#create hierarchy of diseases\n",
+    "\n",
+    "#numbers first\n",
+    "hierarchy={}\n",
+    "currenti=0\n",
+    "for k in icd.T.iteritems():\n",
+    "    i=k[0]\n",
+    "    if i>igroup[currenti]: currenti+=1\n",
+    "    if igroup[currenti] not in hierarchy:\n",
+    "        hierarchy[igroup[currenti]]={'sub':{}}\n",
+    "    if i<igroup[currenti]:\n",
+    "        hierarchy[igroup[currenti-1]]['sub'][str(i)]={}\n",
+    "    if i not in hierarchy:hierarchy[i]={'parent':str(igroup[currenti-1])}\n",
+    "    hierarchy[i]['name']=k[1][1]\n",
+    "    hierarchy[i]['hun']=k[1][2]\n",
+    "        \n",
+    "hierarchy.pop(2000); #pop out protector dummy"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 43,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "# stringifiy all dictionary entries for JSON\n",
+    "for k in hierarchy.keys():\n",
+    "    hierarchy[str(k)]=hierarchy[k]\n",
+    "    hierarchy.pop(k);"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 44,
+   "metadata": {
+    "collapsed": false,
+    "scrolled": false
+   },
+   "outputs": [],
+   "source": [
+    "#characters after\n",
+    "for i in icd.T.iteritems():\n",
+    "    try: \n",
+    "        if np.isnan(i[1][0]): \n",
+    "            hierarchy['AAA']={'parent':'1000'}\n",
+    "            #hierarchy[1000]['sub']['AAA']={'m':0,'f':0}\n",
+    "            hierarchy['1000']['sub']['AAA']={}\n",
+    "    except: \n",
+    "        #only sub-groups, no major groups \n",
+    "        a=False\n",
+    "        b=False\n",
+    "        w=str(i[0])\n",
+    "        if 'sub' in hierarchy[w]:\n",
+    "            if hierarchy[w]['sub']=={}: a=True\n",
+    "        if 'parent' in hierarchy[w]:\n",
+    "            b=True\n",
+    "        if (a or b):\n",
+    "            groups=i[1][0].split(',')\n",
+    "            for g in groups:\n",
+    "                if '-' in g:\n",
+    "                    first=g[:g.find('-')].strip()\n",
+    "                    second=g[g.find('-')+1:].strip()\n",
+    "                    if first[:1]==second[:1]:\n",
+    "                        for k in range(int(first[1:]),int(second[1:])+1):\n",
+    "                            disease = first[:1]+str(k).zfill(2)\n",
+    "                            hierarchy[disease]={'parent':w}\n",
+    "                    else: \n",
+    "                        #character-break (A-B, X-Y etc) of category\n",
+    "                        for k in range(int(first[1:]),100):\n",
+    "                            disease = first[:1]+str(k).zfill(2)\n",
+    "                            hierarchy[disease]={'parent':w}\n",
+    "                        for k in range(1,int(second[1:])+1):\n",
+    "                            disease = second[:1]+str(k).zfill(2)\n",
+    "                            hierarchy[disease]={'parent':w}\n",
+    "                else:\n",
+    "                    hierarchy[g.strip()]={'parent':w}"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 45,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "#fill up the sub-hierarchies\n",
+    "for i in hierarchy:\n",
+    "    if 'parent' in hierarchy[i]:\n",
+    "        parent1=hierarchy[i]['parent']\n",
+    "        if 'parent' in hierarchy[parent1]:\n",
+    "            parent2=hierarchy[parent1]['parent']\n",
+    "            if 'sub' not in hierarchy[parent2]['sub'][parent1]:hierarchy[parent2]['sub'][parent1]['sub']={}\n",
+    "            hierarchy[parent2]['sub'][parent1]['sub'][i]={}\n",
+    "        else: \n",
+    "            hierarchy[parent1]['sub'][i]={}\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 46,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "#group_getter\n",
+    "def get_group(i):\n",
+    "    if 'parent' in hierarchy[i]:\n",
+    "        parent1=hierarchy[i]['parent']\n",
+    "        if 'parent' in hierarchy[parent1]:\n",
+    "            return hierarchy[parent1]['parent']\n",
+    "        else: return parent1\n",
+    "    else: return i"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 47,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "#parent_getter\n",
+    "def get_parent(i):\n",
+    "    if 'parent' in hierarchy[i]:\n",
+    "        return hierarchy[i]['parent']\n",
+    "    else: return i"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 48,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "#read data for population\n",
+    "z = zipfile.ZipFile('Pop.zip') \n",
+    "pop = pd.read_csv(z.open('pop'),low_memory=False)\n",
+    "pop = pop.set_index(['Frmat','Country','Year','Sex'])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 49,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "#filter out non-country (subdivision) data\n",
+    "pop = pop[np.isnan(pop['Admin1'])]\n",
+    "pop = pop[pop['SubDiv']!='A30']\n",
+    "pop = pop[pop['SubDiv']!='A20']\n",
+    "pop = pop[pop['SubDiv']!='A35']\n",
+    "pop = pop[pop['SubDiv']!='A41']\n",
+    "pop = pop[pop['SubDiv']!='A51']\n",
+    "pop = pop[pop['SubDiv']!='A70']\n",
+    "pop = pop.drop(['Admin1','SubDiv'],axis=1)\n",
+    "pop = pop.drop(['Pop1','Pop26','Lb'],axis=1)\n",
+    "pop.columns=range(5)+list(np.arange(1,20)*5) "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 50,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "#normalize formatting"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 51,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "dr0=pop.loc[0].copy()\n",
+    "dr1=pop.loc[1].copy()\n",
+    "dr1[90]=pop.loc[1][85]*3/10.0\n",
+    "dr1[95]=pop.loc[1][85]*1/10.0\n",
+    "dr1[85]=pop.loc[1][85]*6/10.0\n",
+    "dr2=pop.loc[2].copy()\n",
+    "dr2[90]=pop.loc[2][85]*3/10.0\n",
+    "dr2[95]=pop.loc[2][85]*1/10.0\n",
+    "dr2[85]=pop.loc[2][85]*6/10.0\n",
+    "dr2[2]=pop.loc[2][1]*1/4.0\n",
+    "dr2[3]=pop.loc[2][1]*1/4.0\n",
+    "dr2[4]=pop.loc[2][1]*1/4.0\n",
+    "dr2[1]=pop.loc[2][1]*1/4.0\n",
+    "dr3=pop.loc[3].copy()\n",
+    "dr3[90]=pop.loc[3][75]*1/121.0\n",
+    "dr3[95]=pop.loc[3][75]*3/121.0\n",
+    "dr3[85]=pop.loc[3][75]*9/121.0\n",
+    "dr3[80]=pop.loc[3][75]*27/121.0\n",
+    "dr3[75]=pop.loc[3][75]*81/121.0\n",
+    "dr4=pop.loc[4].copy()\n",
+    "dr4[90]=pop.loc[4][75]*1/121.0\n",
+    "dr4[95]=pop.loc[4][75]*3/121.0\n",
+    "dr4[85]=pop.loc[4][75]*9/121.0\n",
+    "dr4[80]=pop.loc[4][75]*27/121.0\n",
+    "dr4[75]=pop.loc[4][75]*81/121.0\n",
+    "dr4[2]=pop.loc[4][1]*1/4.0\n",
+    "dr4[3]=pop.loc[4][1]*1/4.0\n",
+    "dr4[4]=pop.loc[4][1]*1/4.0\n",
+    "dr4[1]=pop.loc[4][1]*1/4.0\n",
+    "dr5=pop.loc[5].copy()\n",
+    "dr5[90]=pop.loc[5][70]*1/364.0\n",
+    "dr5[95]=pop.loc[5][70]*3/364.0\n",
+    "dr5[85]=pop.loc[5][70]*9/364.0\n",
+    "dr5[80]=pop.loc[5][70]*27/364.0\n",
+    "dr5[75]=pop.loc[5][70]*81/364.0\n",
+    "dr5[70]=pop.loc[5][70]*243/364.0\n",
+    "dr5[2]=pop.loc[5][1]*1/4.0\n",
+    "dr5[3]=pop.loc[5][1]*1/4.0\n",
+    "dr5[4]=pop.loc[5][1]*1/4.0\n",
+    "dr5[1]=pop.loc[5][1]*1/4.0\n",
+    "dr6=pop.loc[6].copy()\n",
+    "dr6[90]=pop.loc[6][65]*1/1093.0\n",
+    "dr6[95]=pop.loc[6][65]*3/1093.0\n",
+    "dr6[85]=pop.loc[6][65]*9/1093.0\n",
+    "dr6[80]=pop.loc[6][65]*27/1093.0\n",
+    "dr6[75]=pop.loc[6][65]*81/1093.0\n",
+    "dr6[70]=pop.loc[6][65]*243/1093.0\n",
+    "dr6[65]=pop.loc[6][65]*729/1093.0\n",
+    "dr6[2]=pop.loc[6][1]*1/4.0\n",
+    "dr6[3]=pop.loc[6][1]*1/4.0\n",
+    "dr6[4]=pop.loc[6][1]*1/4.0\n",
+    "dr6[1]=pop.loc[6][1]*1/4.0\n",
+    "dr7=pop.loc[7].copy()\n",
+    "dr7[2]=pop.loc[7][1]*1/4.0\n",
+    "dr7[3]=pop.loc[7][1]*1/4.0\n",
+    "dr7[4]=pop.loc[7][1]*1/4.0\n",
+    "dr7[1]=pop.loc[7][1]*1/4.0\n",
+    "dr7[10]=(pop.loc[7][5]+pop.loc[7][15])/4.0\n",
+    "dr7[20]=(pop.loc[7][15]+pop.loc[7][25])/4.0\n",
+    "dr7[30]=(pop.loc[7][25]+pop.loc[7][35])/4.0\n",
+    "dr7[40]=(pop.loc[7][35]+pop.loc[7][45])/4.0\n",
+    "dr7[50]=(pop.loc[7][45]+pop.loc[7][55])/4.0\n",
+    "dr7[60]=(pop.loc[7][55]+pop.loc[7][65])/4.0\n",
+    "dr7[70]=(pop.loc[7][65])/2.0\n",
+    "dr7[5]=pop.loc[7][5]/2.0\n",
+    "dr7[15]=pop.loc[7][15]/2.0\n",
+    "dr7[25]=pop.loc[7][25]/2.0\n",
+    "dr7[35]=pop.loc[7][35]/2.0\n",
+    "dr7[45]=pop.loc[7][45]/2.0\n",
+    "dr7[55]=pop.loc[7][55]/2.0\n",
+    "dr7[65]=pop.loc[7][65]/2.0\n",
+    "dr7[90]=pop.loc[7][75]*1/121.0\n",
+    "dr7[95]=pop.loc[7][75]*3/121.0\n",
+    "dr7[85]=pop.loc[7][75]*9/121.0\n",
+    "dr7[80]=pop.loc[7][75]*27/121.0\n",
+    "dr7[75]=pop.loc[7][75]*81/121.0\n",
+    "dr8=pop.loc[8].copy()\n",
+    "dr8[2]=pop.loc[8][1]*1/4.0\n",
+    "dr8[3]=pop.loc[8][1]*1/4.0\n",
+    "dr8[4]=pop.loc[8][1]*1/4.0\n",
+    "dr8[1]=pop.loc[8][1]*1/4.0\n",
+    "dr8[10]=(pop.loc[8][5]+pop.loc[7][15])/4.0\n",
+    "dr8[20]=(pop.loc[8][15]+pop.loc[7][25])/4.0\n",
+    "dr8[30]=(pop.loc[8][25]+pop.loc[7][35])/4.0\n",
+    "dr8[40]=(pop.loc[8][35]+pop.loc[7][45])/4.0\n",
+    "dr8[50]=(pop.loc[8][45]+pop.loc[7][55])/4.0\n",
+    "dr8[60]=(pop.loc[8][55])/2.0\n",
+    "dr8[5]=pop.loc[8][5]/2.0\n",
+    "dr8[15]=pop.loc[8][15]/2.0\n",
+    "dr8[25]=pop.loc[8][25]/2.0\n",
+    "dr8[35]=pop.loc[8][35]/2.0\n",
+    "dr8[45]=pop.loc[8][45]/2.0\n",
+    "dr8[55]=pop.loc[8][55]/2.0\n",
+    "dr8[90]=pop.loc[8][65]*1/1093.0\n",
+    "dr8[95]=pop.loc[8][65]*3/1093.0\n",
+    "dr8[85]=pop.loc[8][65]*9/1093.0\n",
+    "dr8[80]=pop.loc[8][65]*27/1093.0\n",
+    "dr8[75]=pop.loc[8][65]*81/1093.0\n",
+    "dr8[70]=pop.loc[8][65]*243/1093.0\n",
+    "dr8[65]=pop.loc[8][65]*729/1093.0"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 52,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "pop=pd.concat([dr0,dr1,dr2,dr3,dr4,dr5,dr6,dr7,dr8])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 53,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "def ccw(c):\n",
+    "    if c=='Sao Tome and Principe':return u'S\\xc3\\xa3o Tom\\xc3\\xa9 and Pr\\xc3\\xadncipe'\n",
+    "    elif c=='Falkland Islands (Malvinas)':return 'Falkland Islands'\n",
+    "    elif c=='China: Province of Taiwan only':return 'Taiwan'\n",
+    "    elif c=='Iran (Islamic Republic of)':return 'Iran'\n",
+    "    elif c=='Syrian Arab Republic':return 'Syria'\n",
+    "    elif c=='TFYR Macedonia':return 'Macedonia' \n",
+    "    else:return c"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 54,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "pp={}\n",
+    "for p in pop.T.iteritems():\n",
+    "    try:\n",
+    "        country_id=countries.loc[ccw(ccv(cc.loc[p[0][0]][0]))]\n",
+    "        if str(country_id) not in pp: pp[str(country_id)]={}\n",
+    "        if p[0][1]>1985: #no mortality data before that\n",
+    "            if str(p[0][1]) not in pp[str(country_id)]:pp[str(country_id)][str(p[0][1])]={}\n",
+    "            if p[0][2]>1:g='f'\n",
+    "            else: g='m'\n",
+    "            if g not in pp[str(country_id)][str(p[0][1])]:pp[str(country_id)][str(p[0][1])][g]={}\n",
+    "            for j in pop.columns:\n",
+    "                v=p[1][j]\n",
+    "                if np.isnan(p[1][j]):v=0\n",
+    "                pp[str(country_id)][str(p[0][1])][g][str(j)]=str(v)\n",
+    "    except: pass"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 57,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "file('pop.json','w').write(json.dumps(pp))  #only do once ever, dont overwrite! "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 562,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "638 RÃ©union\n",
+      "660 Anguilla\n",
+      "28 Antigua and Barbuda\n",
+      "32 Argentina\n",
+      "533 Aruba\n",
+      "44 Bahamas\n",
+      "52 Barbados\n",
+      "84 Belize\n",
+      "60 Bermuda\n",
+      "68 Bolivia\n",
+      "76 Brazil\n",
+      "92 British Virgin Islands\n",
+      "136 Cayman Islands\n",
+      "152 Chile\n",
+      "170 Colombia\n",
+      "188 Costa Rica\n",
+      "192 Cuba\n",
+      "212 Dominica\n",
+      "214 Dominican Republic\n",
+      "218 Ecuador\n",
+      "222 El Salvador\n",
+      "254 French Guiana\n",
+      "308 Grenada\n",
+      "312 Guadeloupe\n",
+      "328 Guyana\n",
+      "332 Haiti\n",
+      "388 Jamaica\n",
+      "474 Martinique\n",
+      "484 Mexico\n",
+      "500 Montserrat\n",
+      "558 Nicaragua\n",
+      "591 Panama\n",
+      "600 Paraguay\n",
+      "604 Peru\n",
+      "630 Puerto Rico\n",
+      "659 Saint Kitts and Nevis\n",
+      "662 Saint Lucia\n",
+      "670 Saint Vincent and the Grenadines\n",
+      "740 Suriname\n",
+      "780 Trinidad and Tobago\n",
+      "796 Turks and Caicos Islands\n",
+      "840 United States\n",
+      "850 U.S. Virgin Islands\n",
+      "858 Uruguay\n",
+      "862 Venezuela\n",
+      "196 Cyprus\n",
+      "376 Israel\n",
+      "392 Japan\n",
+      "414 Kuwait\n",
+      "410 South Korea\n",
+      "40 Austria\n",
+      "56 Belgium\n",
+      "203 Czech Republic\n",
+      "208 Denmark\n",
+      "246 Finland\n",
+      "250 France\n",
+      "276 Germany\n",
+      "348 Hungary\n",
+      "352 Iceland\n",
+      "380 Italy\n",
+      "440 Lithuania\n",
+      "470 Malta\n",
+      "528 Netherlands\n",
+      "578 Norway\n",
+      "616 Poland\n",
+      "620 Portugal\n",
+      "642 Romania\n",
+      "724 Spain\n",
+      "752 Sweden\n",
+      "756 Switzerland\n",
+      "826 United Kingdom\n",
+      "688 Serbia\n",
+      "36 Australia\n",
+      "242 Fiji\n",
+      "296 Kiribati\n",
+      "554 New Zealand\n",
+      "480 Mauritius\n",
+      "175 Mayotte\n",
+      "504 Morocco\n",
+      "320 Guatemala\n",
+      "340 Honduras\n",
+      "666 Saint Pierre and Miquelon\n",
+      "344 Hong Kong\n",
+      "462 Maldives\n",
+      "512 Oman\n",
+      "682 Saudi Arabia\n",
+      "144 Sri Lanka\n",
+      "792 Turkey\n",
+      "191 Croatia\n",
+      "233 Estonia\n",
+      "372 Ireland\n",
+      "428 Latvia\n",
+      "442 Luxembourg\n",
+      "498 Moldova\n",
+      "703 Slovakia\n",
+      "124 Canada\n",
+      "608 Philippines\n",
+      "764 Thailand\n",
+      "268 Georgia\n",
+      "417 Kyrgyzstan\n",
+      "702 Singapore\n",
+      "788 Tunisia\n",
+      "400 Jordan\n"
+     ]
+    }
+   ],
+   "source": [
+    "hierarchy2={}\n",
+    "c={}\n",
+    "for country in df.index.get_level_values('Country').unique():\n",
+    "    if ccv(cc.loc[country][0]) not in ['Netherlands Antilles',\n",
+    "                                       'United Kingdom, England and Wales',\n",
+    "                                       'United Kingdom, Scotland',\n",
+    "                                       'United Kingdom, Northern Ireland',\n",
+    "                                       'Rodrigues']:\n",
+    "        \n",
+    "        try:\n",
+    "            country_id=countries.loc[ccv(cc.loc[country][0])]            \n",
+    "            print country_id,ccv(cc.loc[country][0])\n",
+    "            c[country_id]=cc.loc[country][0]\n",
+    "            \n",
+    "            data={}\n",
+    "            data3=[]\n",
+    "\n",
+    "            dk=df.loc[country].drop(['Deaths1','Deaths26'],axis=1)\n",
+    "            dk.columns=range(5)+list(np.arange(1,20)*5) \n",
+    "\n",
+    "            for i in dk.stack().iteritems():\n",
+    "                if i[0][2]>1:gender='f'\n",
+    "                else: gender='m'\n",
+    "                cause=i[0][1].strip()\n",
+    "                if cause not in 'AAA':\n",
+    "                    key='A'+str(i[0][3])+'C'+str(cause)+'T'+str(i[0][0])\n",
+    "                    if key not in data: data[key]={}\n",
+    "                    data[key]['a']=i[0][3]\n",
+    "                    data[key]['c']=cause\n",
+    "                    data[key]['t']=i[0][0]\n",
+    "                    data[key]['s']=i[1]\n",
+    "                    data[key]['g']=gender\n",
+    "                    if cause not in hierarchy2: hierarchy2[cause]={}\n",
+    "                    cause2=cause[:3]\n",
+    "                    hierarchy2[cause][\"cause2\"]=cause2\n",
+    "                    hierarchy2[cause][\"parent\"]=get_parent(cause2)\n",
+    "                    hierarchy2[cause][\"group\"]=get_group(cause2)\n",
+    "                    data3.append(data[key])\n",
+    "                        \n",
+    "            file('db/data.json','w').write(json.dumps(data3))  \n",
+    "            try:\n",
+    "                import zlib\n",
+    "                compression = zipfile.ZIP_DEFLATED\n",
+    "            except:\n",
+    "                compression = zipfile.ZIP_STORED\n",
+    "            zf = zipfile.ZipFile('db/'+str(country_id)+'.zip', mode='w')\n",
+    "            zf.write('db/data.json','data.json',compress_type=compression)\n",
+    "            zf.close()\n",
+    "            \n",
+    "        except: print 'error',country_id,ccv(cc.loc[country][0])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 563,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "file('hierarchy.json','w').write(json.dumps(hierarchy2))  #only do once ever, dont overwrite! "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 564,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "638 RÃ©union\n",
+      "660 Anguilla\n",
+      "28 Antigua and Barbuda\n",
+      "32 Argentina\n",
+      "533 Aruba\n",
+      "44 Bahamas\n",
+      "52 Barbados\n",
+      "84 Belize\n",
+      "60 Bermuda\n",
+      "68 Bolivia\n",
+      "76 Brazil\n",
+      "92 British Virgin Islands\n",
+      "136 Cayman Islands\n",
+      "152 Chile\n",
+      "170 Colombia\n",
+      "188 Costa Rica\n",
+      "192 Cuba\n",
+      "212 Dominica\n",
+      "214 Dominican Republic\n",
+      "218 Ecuador\n",
+      "222 El Salvador\n",
+      "254 French Guiana\n",
+      "308 Grenada\n",
+      "312 Guadeloupe\n",
+      "328 Guyana\n",
+      "332 Haiti\n",
+      "388 Jamaica\n",
+      "474 Martinique\n",
+      "484 Mexico\n",
+      "500 Montserrat\n",
+      "558 Nicaragua\n",
+      "591 Panama\n",
+      "600 Paraguay\n",
+      "604 Peru\n",
+      "630 Puerto Rico\n",
+      "659 Saint Kitts and Nevis\n",
+      "662 Saint Lucia\n",
+      "670 Saint Vincent and the Grenadines\n",
+      "740 Suriname\n",
+      "780 Trinidad and Tobago\n",
+      "796 Turks and Caicos Islands\n",
+      "840 United States\n",
+      "850 U.S. Virgin Islands\n",
+      "858 Uruguay\n",
+      "862 Venezuela\n",
+      "196 Cyprus\n",
+      "376 Israel\n",
+      "392 Japan\n",
+      "414 Kuwait\n",
+      "410 South Korea\n",
+      "40 Austria\n",
+      "56 Belgium\n",
+      "203 Czech Republic\n",
+      "208 Denmark\n",
+      "246 Finland\n",
+      "250 France\n",
+      "276 Germany\n",
+      "348 Hungary\n",
+      "352 Iceland\n",
+      "380 Italy\n",
+      "440 Lithuania\n",
+      "470 Malta\n",
+      "528 Netherlands\n",
+      "578 Norway\n",
+      "616 Poland\n",
+      "620 Portugal\n",
+      "642 Romania\n",
+      "724 Spain\n",
+      "752 Sweden\n",
+      "756 Switzerland\n",
+      "826 United Kingdom\n",
+      "688 Serbia\n",
+      "36 Australia\n",
+      "242 Fiji\n",
+      "296 Kiribati\n",
+      "554 New Zealand\n",
+      "480 Mauritius\n",
+      "175 Mayotte\n",
+      "504 Morocco\n",
+      "320 Guatemala\n",
+      "340 Honduras\n",
+      "666 Saint Pierre and Miquelon\n",
+      "344 Hong Kong\n",
+      "462 Maldives\n",
+      "512 Oman\n",
+      "682 Saudi Arabia\n",
+      "144 Sri Lanka\n",
+      "792 Turkey\n",
+      "191 Croatia\n",
+      "233 Estonia\n",
+      "372 Ireland\n",
+      "428 Latvia\n",
+      "442 Luxembourg\n",
+      "498 Moldova\n",
+      "703 Slovakia\n",
+      "124 Canada\n",
+      "608 Philippines\n",
+      "764 Thailand\n",
+      "268 Georgia\n",
+      "417 Kyrgyzstan\n",
+      "702 Singapore\n",
+      "788 Tunisia\n",
+      "400 Jordan\n"
+     ]
+    }
+   ],
+   "source": [
+    "hierarchy3={}\n",
+    "c={}\n",
+    "for country in df.index.get_level_values('Country').unique():\n",
+    "    if ccv(cc.loc[country][0]) not in ['Netherlands Antilles',\n",
+    "                                       'United Kingdom, England and Wales',\n",
+    "                                       'United Kingdom, Scotland',\n",
+    "                                       'United Kingdom, Northern Ireland',\n",
+    "                                       'Rodrigues']:\n",
+    "        \n",
+    "        try:\n",
+    "            country_id=countries.loc[ccv(cc.loc[country][0])]            \n",
+    "            print country_id,ccv(cc.loc[country][0])\n",
+    "            c[country_id]=cc.loc[country][0]\n",
+    "            \n",
+    "            data={}\n",
+    "            data3=[]\n",
+    "\n",
+    "            dk=df.loc[country].drop(['Deaths1','Deaths26'],axis=1)\n",
+    "            dk.columns=range(5)+list(np.arange(1,20)*5) \n",
+    "\n",
+    "            for i in dk.stack().iteritems():\n",
+    "                if i[0][2]>1:gender='f'\n",
+    "                else: gender='m'\n",
+    "                cause=i[0][1].strip()\n",
+    "                if cause not in 'AAA':\n",
+    "                    cause=get_parent(i[0][1].strip()[:3])\n",
+    "                    key='A'+str(i[0][3])+'C'+str(cause)+'T'+str(i[0][0])+'G'+gender\n",
+    "                    if key not in data: data[key]={}\n",
+    "                    data[key]['a']=i[0][3]\n",
+    "                    data[key]['c']=cause\n",
+    "                    data[key]['g']=gender\n",
+    "                    data[key]['t']=i[0][0]\n",
+    "                    if 's' not in data[key]:data[key]['s']=0\n",
+    "                    data[key]['s']+=i[1]\n",
+    "                    if cause not in hierarchy3: hierarchy3[cause]={}\n",
+    "                    cause2=cause\n",
+    "                    hierarchy3[cause][\"cause2\"]=cause\n",
+    "                    hierarchy3[cause][\"parent\"]=cause\n",
+    "                    hierarchy3[cause][\"group\"]=get_group(cause2)\n",
+    "            \n",
+    "            for key in data:\n",
+    "                data3.append(data[key])\n",
+    "                        \n",
+    "            file('db2/data.json','w').write(json.dumps(data3))  \n",
+    "            try:\n",
+    "                import zlib\n",
+    "                compression = zipfile.ZIP_DEFLATED\n",
+    "            except:\n",
+    "                compression = zipfile.ZIP_STORED\n",
+    "            zf = zipfile.ZipFile('db2/'+str(country_id)+'.zip', mode='w')\n",
+    "            zf.write('db2/data.json','data.json',compress_type=compression)\n",
+    "            zf.close()\n",
+    "            \n",
+    "        except: print 'error',country_id,ccv(cc.loc[country][0])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 565,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "file('hierarchy2.json','w').write(json.dumps(hierarchy3))  #only do once ever, dont overwrite! "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 566,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "#pretty country nams, EN+HUN\n",
+    "cnames=json.loads(file(\"../szekelyfold lakossag 2/cnames.json\").read())\n",
+    "hnames=json.loads(file(\"../szekelyfold lakossag 2/hnames.json\").read())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 567,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "u'R\\xc3\\xa9union'\n",
+      "'Anguilla'\n",
+      "'Antigua and Barbuda'\n",
+      "'Aruba'\n",
+      "'Bahamas'\n",
+      "'Barbados'\n",
+      "'Bermuda'\n",
+      "'British Virgin Islands'\n",
+      "'Cayman Islands'\n",
+      "'Dominica'\n",
+      "'French Guiana'\n",
+      "'Grenada'\n",
+      "'Guadeloupe'\n",
+      "'Martinique'\n",
+      "'Montserrat'\n",
+      "'Puerto Rico'\n",
+      "'Saint Kitts and Nevis'\n",
+      "'Saint Lucia'\n",
+      "'Saint Vincent and the Grenadines'\n",
+      "'Turks and Caicos Islands'\n",
+      "'U.S. Virgin Islands'\n",
+      "'Kiribati'\n",
+      "'Mayotte'\n",
+      "'Saint Pierre and Miquelon'\n"
+     ]
+    }
+   ],
+   "source": [
+    "#need ot run only once\n",
+    "def hun(c):\n",
+    "    if c=='Antigua and Barbuda': return u'Antigua és Barbuda'\n",
+    "    elif c=='Bahamas': return u'Bahamák'\n",
+    "    elif c=='British Virgin Islands': return u'Brit Virgin-szigetek'\n",
+    "    elif c=='Cayman Islands': return u'Kajmán-szigetek'\n",
+    "    elif c=='Dominica': return u'Dominika'\n",
+    "    elif c==u'R\\xc3\\xa9union': return u'Réunion'\n",
+    "    elif c=='French Guiana': return u'Francia Guyana'\n",
+    "    elif c=='Saint Kitts and Nevis': return u'Saint Kitts és Nevis'\n",
+    "    elif c=='Saint Vincent and the Grenadines': return u'Szent Vincent és a Grenadine-szigetek'\n",
+    "    elif c=='Turks and Caicos Islands': return u'Turks és Caicos-szigetek'\n",
+    "    elif c=='U.S. Virgin Islands': return u'U.S. Virgin-szigetek'\n",
+    "    elif c=='Saint Pierre and Miquelon': return u'Saint Pierre és Miquelon'\n",
+    "    else: return c\n",
+    "    \n",
+    "for country in df.index.get_level_values('Country').unique():\n",
+    "    try:\n",
+    "        country_id=countries.loc[ccv(cc.loc[country][0])]    \n",
+    "        if str(country_id) not in cnames:\n",
+    "            cnames[str(country_id)]=ccv(cc.loc[country][0])\n",
+    "        if ccv(cc.loc[country][0]) not in hnames:\n",
+    "            print repr(ccv(cc.loc[country][0]))\n",
+    "            hnames[ccv(cc.loc[country][0])]=hun(ccv(cc.loc[country][0]))\n",
+    "    except:pass\n",
+    "    \n",
+    "file('cnames.json','w').write(json.dumps(cnames))  \n",
+    "file('hnames.json','w').write(json.dumps(hnames))  "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 568,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "#pretty country nams, EN+HUN\n",
+    "cnames=json.loads(file(\"cnames.json\").read())\n",
+    "hnames=json.loads(file(\"hnames.json\").read())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 569,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "def hc(c):\n",
+    "    if c==\"Reunion\": return u'R\\xc3\\xa9union'\n",
+    "    if c=='Saint Vincent and Grenadines': return u'Saint Vincent and the Grenadines'\n",
+    "    if c=='Serbia and Montenegro, Former': return \"Serbia\"\n",
+    "    if c=='United States of America': return \"United States\"\n",
+    "    if c=='Virgin Islands (USA)': return 'U.S. Virgin Islands'\n",
+    "    if c=='Hong Kong SAR': return 'Hong Kong'\n",
+    "    if c=='Republic of Moldova': return 'Moldova'\n",
+    "    if c=='Republic of Korea': return 'South Korea'\n",
+    "    return c "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 570,
+   "metadata": {
+    "collapsed": false,
+    "scrolled": false
+   },
+   "outputs": [],
+   "source": [
+    "d=[]\n",
+    "for i in c:\n",
+    "    d.append([hnames[hc(c[i])],i])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 571,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "e=[]\n",
+    "for i in sorted(d):\n",
+    "    e.append(str(i[1]))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 572,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "file('countries.json','w').write(json.dumps(e))"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 2",
+   "language": "python",
+   "name": "python2"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 2
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython2",
+   "version": "2.7.11"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 0
+}

@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Mitől halunk meg? - Globális Elhalálozási Időfolyam #szekelydata #who #d3plus @csaladenes" />
+    <meta name="keywords" content="csaladenes, d3.js, data visualization, infographic, szekelyland, székelyföld, adatvizualizáció, d3, who, COD, causes of death, mortality, halál, elhalálozás, betegség, death, disease" />
+    <meta property="og:image" content="http://csaladenes.egologo.ro/wp-content/uploads/2016/01/mitol-halunk-meg1.jpg" />
+    <meta property="og:description" content="Mitől halunk meg? - Globális Elhalálozási Időfolyam #szekelydata #who #d3plus @csaladenes" />
+    <meta property="og:title" content="Globális Elhalálozási Időfolyam" />
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+	<meta property="og:url" content="http://csaladenes.egologo.ro/?p=813"/>
+    <meta property="og:site_name" content="SZÉKELYDATA" />
+    <meta property="fb:admins" content="100943737036023614165" />
+	<link rel="shortcut icon" href="../tsne.png" />
+	<link rel="publisher" href="https://plus.google.com/106181965793093327960" />
+    <title>Deadly Timeline</title>
+	<style>
+@font-face {
+	font-family: "Righteous";
+	src: url(Righteous-Regular.ttf) format("truetype");
+}
+.logo, .viz {
+ 	-webkit-transition: opacity 0.5s;
+	  -moz-transition: opacity 0.5s;
+	  -o-transition: opacity 0.5s;
+	  -ms-transition: opacity 0.5s;       
+	  transition: opacity 0.5s;
+}
+a{
+	font-family:Righteous;
+	text-decoration:none;
+}
+a:hover{
+	font-family:Righteous;
+	text-decoration:underline;
+}
+a:visited{
+	color: #444;
+}
+.logo:hover{
+	cursor:pointer;
+}
+</style>
+</head>
+
+<!-- load D3js -->
+<script src="d3.js"></script>
+
+<!-- load D3plus after D3js -->
+<script src="d3plusen.js"></script>
+
+<script src="jszip.min.js"></script>
+<script src="JSZipUtils.min.js"></script>
+<body link="#444">
+<!-- create container element for visualization -->
+<img style="position: fixed;
+    left: 50%;
+    top: 50%;
+    z-index: 50;
+    height: 150px;
+    margin-top: -168px;
+
+    width: 150px;
+    margin-left: -75px;  border:2px solid #b8371d; class="loading" src="tsne.png"/>
+	
+<a href="http://blog.csaladen.es" target="_blank">
+<img style="position: fixed;
+    left: 10px;
+    top: 10px;
+    z-index: 101;
+	opacity:0;
+    height: 20px;
+    width: 20px; border:1px solid #b8371d;" class="logo" alt="Description"
+	title="Description" src="tsne.png"/></a>
+<a href="http://d3plus.org" target="_blank">
+<img style="position: fixed;
+    left: 60px;
+    top: 12px;
+    z-index: 101;
+	opacity:0;
+    height: 20px;
+    width: 20px;" class="logo" alt="Created with D3plus"
+	title="Created with D3plus" src="http://www.csaladen.es/img/group5/d3plus.png"/></a>
+<a href="http://www.who.int" target="_blank">
+<img style="position: fixed;
+    left: 85px;
+    top: 11px;
+    z-index: 101;
+	opacity:0;
+    height: 20px;
+    width: 20px;" class="logo" alt="Data source: WHO"
+	title="Data source: WHO" src="http://www.who.int/sysmedia/media/resources/apple-touch-icon.png"/></a>
+<a href="http://csaladen.es" target="_blank">
+<img style="position: fixed;
+    left: 35px;
+    top: 13px;
+    z-index: 101;
+	opacity:0;
+    height: 20px;
+    width: 20px;" class="logo" alt="Created by Denes Csala &copy; 2016"
+	title="Created by Denes Csala &copy; 2016" src="http://www.csaladen.es/favicon.png"/></a>
+	
+<img style="position: fixed;
+    left: 50%;
+    top: 50%;
+    z-index: 51;
+    height: 30px;
+    margin-top: -58px;
+
+    width: 30px;
+    margin-left: -15px;" class="loading" src="b.gif"/>
+
+<!--
+<img style="position: fixed;
+    left: 50%;
+    top: 50%;
+    z-index: 51;
+    height: 30px;
+    margin-top: -145px;
+
+    width: 30px;
+    margin-left: -15px;" class="loading" src="c.gif"/>
+-->
+
+<img style="position: fixed;
+    right: 63px;
+    top: 12px;
+	opacity: 0;
+    z-index: 101;
+    height: 40px;
+	border: solid 1px #888;
+    width: 40px;" " class="logo" src="stacked.png"
+	alt="Timeline"
+	title="Timeline"
+	onclick='show(1);'>
+<img style="position: fixed;
+    right: 18px;
+    top: 12px;
+	opacity: 0;
+    z-index: 101;
+    height: 40px;
+	border: solid  1px #888;
+    width: 40px;" " class="logo" src="tree.png"
+	alt="Treemap"
+	title="Treemap"
+	onclick='show(2);'>
+<img style="position: fixed;
+    right: 108px;
+    top: 12px;
+	opacity: 0;
+    z-index: 101;
+    height: 40px;
+	border: solid  1px #888;
+    width: 40px;" " class="logo" src="line.png"
+	alt="Line Plot"
+	title="Line Plot"
+	onclick='show(3);'>
+	
+<a style="position: fixed;
+    right: 155px;
+    top: 15px;
+	opacity: 0;
+	font-size:10px;
+    z-index: 101;" class="logo" target="_blank"
+	href="http://blog.csaladen.es">description</a>
+<a style="position: fixed;
+    right: 155px;
+    top: 27px;
+	opacity: 0;
+	font-size:10px;
+    z-index: 101;" class="logo" target="_blank"
+	href="http://csaladen.es">csaladen.es</a>
+<a style="position: fixed;
+    right: 155px;
+    top: 39px;
+	opacity: 0;
+	font-size:10px;
+    z-index: 101;" class="logo" target="_blank"
+	href="http://www.who.int/healthinfo/mortality_data/en/">data</a>
+
+	
+<div style="position: fixed; opacity:0;
+    left: 5;
+    top: 5;
+    z-index: 100;" id="viz1" class="viz"></div>
+<div style="position: fixed; opacity:0;
+    left: 5;
+    top: 5;
+    z-index: 99;" id="viz2" class="viz"></div>
+<div style="position: fixed; opacity:0;
+    left: 5;
+    top: 5;
+    z-index: 99;" id="viz3" class="viz"></div>
+
+<script>
+  // sample data array
+  
+  setTimeout(function(){d3.selectAll(".logo").style("opacity",1)},1000)
+  
+  var showd=[true,true,true];
+  
+  var visualization = d3plus.viz().container("#viz1")
+  var visualization2 = d3plus.viz().container("#viz2")
+  var visualization3 = d3plus.viz().container("#viz3")
+  
+  var load=function(){};
+  
+  function show(a){
+  
+	d3.select("#viz1").style("opacity",0);
+	d3.select("#viz2").style("opacity",0);
+	d3.select("#viz3").style("opacity",0);
+	d3.select("#viz1").style("z-index",99);
+	d3.select("#viz2").style("z-index",99);
+	d3.select("#viz3").style("z-index",99);
+	d3.select("#viz3").style("z-index",99);
+	
+	d3.select("#viz"+a).style("z-index",100);
+	d3.select("#viz"+a).style("opacity",1);
+	
+	if (showd[a-1]) { //draw if on first clikc/load
+		var viz = ((a==1) ? visualization : (a==2) ? visualization2 : visualization3);
+		load(initcountry,viz);
+		showd[a-1]=false;
+	}
+  }
+  
+  var path="db2/";
+  
+  var initcountry='900'; //642 romania 348 hungary 9998 szekelyland 840 US
+  
+  d3.json('cnames.json',function(cnames){
+  d3.json('wcountries.json',function(countries){ //countries without w has Szekelyland and other historical regions of Romania
+  d3.json('icden.json',function(icd){ //for Hungarian nomenclature use icd.json
+  d3.json('wpop.json',function(pop){ //original was pop, but that has a lot of unnecessary intra-Romania data
+  d3.json('hierarchy2.json',function(hierarchy){
+  JSZipUtils.getBinaryContent(path+initcountry+'.zip', function(err, rawdata) {
+	
+	  function extend(rawdata){
+		  var zip = new JSZip(rawdata);			  
+		  var data=JSON.parse(zip.files['data.json'].asText());
+		  
+		  data.forEach(function(d) {
+			d["icon"]="img/"+hierarchy[d["c"]]["group"]+".png";
+			d["group"]=icd[hierarchy[d["c"]]["group"]];
+			//d["cause2"]=icd[hierarchy[d["c"]]["cause2"]];
+			//d["parent"]=icd[hierarchy[d["c"]]["parent"]];
+			d["c"]=icd[d["c"]];
+			d[d["g"]]=d["s"];
+			
+			if (initcountry in pop)
+				if (d["t"] in pop[initcountry]) {
+					d["ps"]=d["s"]*100.0/pop[initcountry][d["t"]][d["g"]][d["a"]]; //percentage
+					d["p"+d["g"]]=d["ps"];
+				} //else console.log("No population data for:",initcountry,d["t"]);
+		  });
+		  return data;	  
+	  }
+	  
+	  function cap1(string) {
+		return string.charAt(0).toUpperCase() + string.slice(1);
+	  }
+	  
+	  function textformatter(text, params) {
+			
+			if (text === "s") {
+			  return "Cases";
+			}
+			else if (text === "f") {
+			  return "Cases";
+			}
+			else if (text === "m") {
+			  return "Cases";
+			}
+			else if (text === "pf") {
+			  return "Cases / Population";
+			}
+			else if (text === "pm") {
+			  return "Cases / Population";
+			}
+			else if (text === "ps") {
+			  return "Cases / Population";
+			}
+			else if (text.indexOf("Diseases of") > -1) {
+			  var ntext=cap1(text.slice(16));
+			  if (ntext.indexOf(" system") > -1) return ntext.slice(0,ntext.search(" system"));
+			  else return ntext;
+			}
+			else if (text === "Neoplasms") {
+			  return "Cancer";
+			}
+			else if (text === "External causes of morbidity and mortality") {
+			  return "External";
+			}
+			else if (text === "Certain infectious and parasitic diseases") {
+			  return "Infectious and Parasitic";
+			}
+			else {
+			  return d3plus.string.title(text, params);
+			}
+	  };
+	  
+	  function numberformatter(number, params) {
+        
+        var formatted = d3plus.number.format(number, params);
+        
+		if (params.key === "ps") {
+          return formatted + " %";
+        }
+		else if (params.key === "pf") {
+          return formatted + " %";
+        }
+		else if (params.key === "pm") {
+          return formatted + " %";
+        }
+        else {
+          return formatted;
+        }
+      };
+	  
+	  function vfunc(gen,val) {
+		return val+gen;
+	  }
+	  
+	  data=extend(rawdata);
+	  
+	  var countrylist=[];
+	  var countrydict=[];
+	  countries.forEach(function(d) { 
+		var dummy={};
+		dummy[cnames[d]]=cnames[d];
+		countrydict[cnames[d]]=d;
+		countrylist.push(dummy);
+	  });
+	  
+	  var val="";
+	  var gen="s";
+	  var sca="share";
+	  var val3="";
+	  var gen3="s";
+	  var val2="";
+	  var gen2="s";
+	  var sub={"m":"Men","f":"Women"};
+	  var title={"font":{"size":20}};
+	  var font = {"family":"Righteous","size":15};
+	  
+	  visualization
+		.type("stacked")    // visualization type
+		.data(data)
+		.id({"value":["g","group","c"]})         // key for which our data is unique on
+		.aggs({"a": "mean"})
+		.depth(1)
+		.y({"value":"s","label":"Share","scale":"share"})         // key to use for y-axis
+		.x({"value":"a","label":"Age"})          // key to use for x-axis
+		.time({"value":"t","solo":[2012]}) 
+		.color("group")
+		.order("group")
+		.font(font)
+		.icon({"style": "knockout","value": "icon"})
+		.legend({"filters":true})
+		.messages({"style":false,"branding":false})
+		.legend({"size":30})
+		.axes({"background": {"color": "#eee"}}) 
+		.shape({"interpolate": "basis"})
+		.title({"value":cnames[initcountry],"sub":{"value":"Deadly Timeline | Global Causes of Death Visualization"}})
+		.title(title)
+		.ui({"font":{"size":12},"value":[
+		  {
+			"method" : "depth",
+			"value"  :[{"Group":1}, {"Cause":2} ],
+			"label" : " "
+		  },
+	      {
+			"method" : function(value){
+			  sca=value;
+			  var v3=(sca=="share")?"Share":(val=="")?"Cases (cumulative)":"Cases (cumulative) / Population"
+			  visualization
+			  .y({"scale": value})
+			  .y({"label": v3})
+			  .draw()
+			},
+			"value"  : [ {"Share":"share"}, {"Values":"linear"} ],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  val=(value=="s")?"":"p";
+			  var v3=(sca=="share")?"Share":(val=="")?"Cases (cumulative)":"Cases (cumulative) / Population"
+			  visualization
+			  .y(vfunc(gen,val))
+			  .y({"label":v3})
+			  .draw();
+			},
+			"value"  :[{"Cases":"s"} , {"Normalized":"p"}],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  gen=value;
+			  visualization
+			  .y(vfunc(gen,val))
+			  .draw();
+			},
+			"value"  : [{"Everyone":"s"},{"Women":"f"}, {"Men":"m"}],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  showd=[false,true,true];
+			  load(countrydict[value],visualization);
+			},
+			"value"  : countrylist,
+			"width"  : 100,
+			"label" : " "
+		  }
+		]})
+		.tooltip({"sub":function(d){
+			if (d["g"]=="m") 
+				visualization
+				.tooltip({"background":"#ddddff"});
+			else	visualization
+				.tooltip({"background":"#ffdddd"});
+			return sub[d["g"]];
+		}})
+		.format({
+		  "text": function(text, params) {
+			  return textformatter(text, params);
+		  },
+		  "number": function(number, params) {
+			  return numberformatter(number, params);
+          }
+		  })
+		//.draw()             // finally, draw the visualization!
+
+		visualization3
+		.type("line")    // visualization type
+		.data({"value":"data","stroke":{"width":4}})
+		.id({"value":["g","group","c"]})         // key for which our data is unique on
+		.aggs({"a": "mean"})
+		.depth(1)
+		.y({"value":"s","label":"Cases","scale":"linear"})         // key to use for y-axis
+		.x({"value":"a","label":"Age"})          // key to use for x-axis
+		.time({"value":"t","solo":[2012]}) 
+		.color("group")
+		.order("group")
+		.font(font)
+		.icon({"style": "knockout","value": "icon"})
+		.legend({"filters":true})
+		.messages({"style":false,"branding":false})
+		.legend({"size":30})
+		.axes({"background": {"color": "#eee"}}) 
+		.shape({"interpolate": "basis"})
+		.title({"value":cnames[initcountry],"sub":{"value":"Deadly Timeline | Global Causes of Death Visualization"}})
+		.title(title)
+		.ui({"font":{"size":12},"value":[
+		  {
+			"method" : "depth",
+			"value"  :[{"Group":1}, {"Cause":2} ],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  var v3=(value=="s")?"Cases":"Cases / Population"
+			  val3=(value=="s")?"":"p";
+			  visualization3
+			  .y(vfunc(gen3,val3))
+			  .y({"label":v3})
+			  .draw();
+			},
+			"value"  :[{"Cases":"s"} , {"Normalized":"p"}],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  gen3=value;
+			  visualization3
+			  .y(vfunc(gen3,val3))
+			  .draw();
+			},
+			"value"  : [{"Everyone":"s"},{"Women":"f"}, {"Men":"m"}],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  showd=[true,true,false];
+			  load(countrydict[value],visualization3);
+			},
+			"value"  : countrylist,
+			"width"  : 100,
+			"label" : " "
+		  }
+		]})
+		.tooltip({"sub":function(d){
+			if (d["g"]=="m") 
+				visualization3
+				.tooltip({"background":"#ddddff"});
+			else	visualization3
+				.tooltip({"background":"#ffdddd"});
+			return sub[d["g"]];
+		}})
+		.format({
+		  "text": function(text, params) {
+			  return textformatter(text, params);
+		  },
+		  "number": function(number, params) {
+			  return numberformatter(number, params);
+          }
+		  })
+		//.draw()             // finally, draw the visualization!
+
+		
+		visualization2
+		.type("tree_map")    // visualization type
+		.data(data)
+		.id({"value":["group","group","c"],"grouping": true })         // key for which our data is unique on
+		.aggs({"s":"sum"})
+		.depth(1)
+		.size({"value":"s"})         // key to use for y-axis
+		.time({"value":"t","solo":[2012]}) 
+		.color("group")       // color legend
+		.order("group")
+		.font(font)
+		.icon({"style": "knockout","value": "icon"})
+		.legend({"filters":true})
+		.messages({"style":false,"branding":false})
+		.legend({"size":30})
+		.title({"value":cnames[initcountry],"sub":{"value":"Deadly Timeline | Global Causes of Death Visualization"}})
+		.title(title)
+		.ui({"font":{"size":12},"value":[
+		  {
+			"method" : "depth",
+			"value"  :[{"Group":1}, {"Cause":2} ],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  val2=(value=="s")?"":"p";
+			  visualization2
+			  .size(vfunc(gen2,val2))
+			  .draw();
+			},
+			"value"  :[{"Cases":"s"} , {"Normalized":"p"}],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  gen2=value;
+			  visualization2
+			  .size(vfunc(gen2,val2))
+			  .draw();
+			},
+			"value"  : [{"Everyone":"s"},{"Women":"f"}, {"Men":"m"}],
+			"label" : " "
+		  },
+		  {
+			"method" : function(value){
+			  showd=[true,false,true];
+			  load(countrydict[value],visualization2);
+			},
+			"value"  : countrylist,
+			"width"  : 100,
+			"label" : " "
+		  }
+		]})
+		.tooltip({"sub":function(d){
+			if (d["g"]=="m") 
+				visualization2
+				.tooltip({"background":"#ddddff"});
+			else	visualization2
+				.tooltip({"background":"#ffdddd"});
+			return sub[d["g"]];
+		}})
+		.format({
+		  "text": function(text, params) {
+			 return textformatter(text, params);
+		  },
+		  "number":function(number, params) {
+			 return numberformatter(number, params);
+          }
+		  })
+		//.draw()
+		
+		load=function(country,viz) {
+		  
+		  // instantiate JSZip, load and unzip data
+		  JSZipUtils.getBinaryContent(path+country+'.zip', function(err, rawdata) {
+
+			  initcountry=country;
+		  
+			  data=extend(rawdata);
+			  
+			  viz
+			  .data(data)
+			  .title(cnames[country])
+			  .draw()
+			  
+		  })
+		};
+		
+		show(1); //initialize viz;
+		
+  })
+  })
+  })
+  })
+  })
+  })
+</script>
+</body>
+</html>
