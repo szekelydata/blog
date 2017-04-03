@@ -17,68 +17,91 @@
 		src: url(Righteous-Regular.ttf) format("truetype");
 	}
 </style>
-
 <script>
   // sample data array
-
-  d3.json("g_ro.json", function(error, data) {
-
-  var sampleData = [
-    {"a":"hcountry","b":"to","c":"from","d":"al"},
-    {"b":"hcountry","a":"to","c":"from","d":"al"},
-    {"c":"hcountry","b":"to","a":"from","d":"al"},
-    {"d":"hcountry","b":"to","c":"from","d":"al"}
-  ]
-  var toggles = d3plus.form()
-    .data(sampleData)
-    .focus("hcountry")
-    .id(["a","b","c","d"])
-    .title("Nested Toggle")
-    .type("toggle")
-    .draw()
-
-  // instantiate d3plus
-  var ids=["type","hcountry","to","from","al", "ap"];
+  var font={"family":"Righteous","size":15,"align":"center","secondary":{"family":"Righteous"}};
   var dep=1;
+  var ibs=["hcountry","to","from","al"];
+  var ifs=[{"Célország":"hcountry"},
+  {"Célváros":"to"},
+  {"Kiindulópont":"from"},
+  {"Légitársaság":"al"}];
+  var country="g_ro.json";  
+
   var visualization = d3plus.viz()
     .container("#viz")     // container DIV to hold the visualization
     .type("bubbles")       // visualization type
     .size("heti járatszám")         // key name to size bubbles
-    .color(function(d){
-    	return d[ids[d.d3plus.depth]];
-    })        // color by each group
-    .font({"family":"Righteous","size":15,"align":"center","secondary":{"family":"Righteous"}})
+    .font(font)
     .legend(false)
     .ui({"value":[
-    {
-    	"method" : function(value){
-    		dep=value;
-    		visualization
-    		.id(ids) // nesting keys
-		    .depth(dep)
-		    .draw()
-    	},
-    	"value"  :[{"Kevesebb":1}, {"Több":2} ],
-    	"label" : "Részletek"
+      {"method" : function(v){
+        country=v;
+        load(v);
+      },
+      "value"  :[{"Románia":"g_ro.json"},{"Magyarország":"g_hu.json",}],
+      "label" : " ",
+      "type" : "drop"
     },
-    {
-    	"method" : function(value){
-    		ids=JSON.parse(value);;
-    		visualization
-    		.id(ids) // nesting keys
-		    .depth(dep)
-		    .draw()
-    	},
-    	"value"  : [ {"Values":'["type","hcountry","to","from","al", "ap"]'},{"Share":'["type","hcountry","from","to","al", "ap"]'}],
-    	"label" : " "
-    }
-    ]})
+    {"method" : function(v){
+      dep=v;
+      load(country);
+    },
+    "value"  :[{"Normál":1}, {"Részletes":2} ],
+    "label" : " "
+  },
+  {"method" : function(v){
+    var k=ibs.indexOf(v);
+    var c=ibs[0];
+    ibs[0]=v;
+    ibs[k]=c;
+    load(country);
+  },
+  "value"  :ifs,
+  "label" : " ",
+  "type" : "drop"
+},
+{"method" : function(v){
+  var k=ibs.indexOf(v);
+  var c=ibs[1];
+  ibs[1]=v;
+  ibs[k]=c;
+  load(country);
+},
+"value"  :ifs,
+"label" : " ",
+"type" : "drop"
+},
+{"method" : function(v){
+  var k=ibs.indexOf(v);
+  var c=ibs[2];
+  ibs[2]=v;
+  ibs[k]=c;
+  load(country);
+},
+"value"  :ifs,
+"label" : " ",
+"type" : "drop"
+}]})
 
-  visualization
-  	.data(data)     // data to use with the visualization
-    .id(ids) // nesting keys
-    .depth(dep)
-    .draw()                // 0-based depth
-    
-})
-</script>
+    function load(file){
+      d3.json(file, function(error, data) {
+        function viz(ids){
+         visualization
+		  	.data(data)     // data to use with the visualization
+		    .id(ids) // nesting keys
+		    .depth(dep)
+		    .color(function(d){
+		    	return d[ids[d.d3plus.depth]];
+		    })
+		    .draw()
+      }
+
+      viz(["type"].concat(ibs,["ap"]));
+
+    })
+    }
+
+    load(country);
+
+  </script>
