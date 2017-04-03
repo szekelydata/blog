@@ -3,19 +3,19 @@
 <meta charset="utf-8">
 
 <!-- load D3js -->
-<script src="//d3plus.org/js/d3.js"></script>
+<script src="d3.js"></script>
 
 <!-- load D3plus after D3js -->
-<script src="//d3plus.org/js/d3plus.js"></script>
+<script src="d3plus.js"></script>
 
 <!-- create container element for visualization -->
 <div id="viz"></div>
 
 <style>
-	@font-face {
-		font-family: "Righteous";
-		src: url(Righteous-Regular.ttf) format("truetype");
-	}
+  @font-face {
+    font-family: "Righteous";
+    src: url(Righteous-Regular.ttf) format("truetype");
+  }
 </style>
 <script>
   // sample data array
@@ -88,13 +88,13 @@
       d3.json(file, function(error, data) {
         function viz(ids){
          visualization
-		  	.data(data)     // data to use with the visualization
-		    .id(ids) // nesting keys
-		    .depth(dep)
-		    .color(function(d){
-		    	return d[ids[d.d3plus.depth]];
-		    })
-		    .draw()
+        .data(data)     // data to use with the visualization
+        .id(ids) // nesting keys
+        .depth(dep)
+        .color(function(d){
+          return d[ids[d.d3plus.depth]];
+        })
+        .draw()
       }
 
       viz(["type"].concat(ibs,["ap"]));
