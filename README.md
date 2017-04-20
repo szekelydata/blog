@@ -13,6 +13,7 @@ Ezen a __GitHub__ webhelyen egy-egy önálló adatvizualizáció és hozzá tart
 
 - Az __[Issues](https://github.com/csaladenes/szekelydata/issues)__ oldalon találod a jelenlegi általános fejlesztéseket, illetve a már létező projektekhez befejezéséhez szükséges infomációkat és tennivalókat, címkék szerint rendezve. Maga a _SZÉKELYDATA iniciatíva_ is egy projektként szerepel, ami magában foglalja a blogot, a webes és közösségi média jelenlétet, illetve Székelyföld jövőjével kapcsolatos ötleteket. 
 - A __[Projects](https://github.com/csaladenes/szekelydata/projects)__ oldalon találod a jelenleg kutatás-fejlesztés alatt álló projektetket. Nevükre kattintva a részletes projekt-struktúrákat, illetve a tervezett, folyamatban levő és elvégzett feladatokat is megtekinteheted. 
+- A __[Wiki](https://github.com/csaladenes/szekelydata/wiki)__ oldalon megtalálod, hogyan járulhatsz hozzás a folyamatban levő prjketekhez, illetve hogyan javasolhatsz újakat. Ugyanitt részletes támogatási infókat is találsz. 
 - Számos projekt csak az odaadó __SZÉKELYDATA__ követők önkéntes munkájával valósulhat meg - amolyan __digitális kaláka__ (crowdsourcing) keretében. Adományozhatsz az idődből _kódolási_, _adatbeviteli_ és _ellenőrzési_ munkák elvégzésére. Ugyanakkor a székelyföldi _terepmunkában_ is nagy segítség lehetsz.
 
 Látogasd meg a __[SZÉKELYDATA](http://szekelydata.csaladen.es)__ blogot.  
