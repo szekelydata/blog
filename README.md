@@ -1,4 +1,4 @@
-[SZÉKELYDATA](http://csaladenes.egologo.ro/)
+[<img src="szekelydata.png" alt="favicon" height=26 width=26 />  SZÉKELYDATA](http://csaladenes.egologo.ro/)
 ========
 [![Alt text](header.jpg "Optional title")](http://csaladenes.egologo.ro/)  
   
