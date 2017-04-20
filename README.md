@@ -22,7 +22,8 @@ Személyes weboldalam itt találod: __[csaladen.es](http://csaladen.es)__
   
 Még több adatvarázslatért, kérlek __támogasd__ a munkámat:
   - __[Patreon](https://www.patreon.com/szekelydata)__
-  - __[Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LDXE7C6W7S85N)__
+  - __[Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LDXE7C6W7S85N)__, 2017
   
-
+Csala Dénes, 2017  
+http://csaladen.es
 
