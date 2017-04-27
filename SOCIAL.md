@@ -1,15 +1,16 @@
-Facebook page -> Facebook personal
-Path
-Pinterest personal
-Instagram
-Pocket personal
-Stumbelupon personal
-Google Plus page -> Google Plus personal
-Twitter personal
-Linkedin personal
-Patreon
-YouTube
-Tumblr
-Reddit
-(Medium)
+- [Facebook page](https://www.facebook.com/szekelydata/) -> [Facebook personal](https://www.facebook.com/csaladenes/)   
+- [Google Plus page](https://aboutme.google.com/b/101974607759220766833/) -> [Google Plus personal](https://plus.google.com/u/0/100943737036023614165)  
+- [Patreon](https://www.patreon.com/szekelydata) 
+- [Path](https://www.path.com/58e0f0559c359f5424ef5bda)  
+- [Instagram](https://www.instagram.com/szekely_data/)  
+- [GitHub](https://github.com/csaladenes/szekelydata)  
+- [YouTube](https://www.youtube.com/channel/UC1PeEccTBNsEJaB6jOjjQYQ)  
+- [Tumblr](https://www.tumblr.com/blog/szekleydata)  
+- [Reddit](https://www.reddit.com/domain/csaladenes.egologo.ro/)  
+- [Twitter personal](https://twitter.com/csaladenes)  
+- [Linkedin personal](https://www.linkedin.com/in/csaladenes/)  
+- [Pocket personal](https://getpocket.com/@683gfdx3p1fn2A35c5Td76bTGdAfpI74805Z65D918G7bzC666b99dy1Pe7Zxf54)  
+- [Stumbelupon personal](http://www.stumbleupon.com/stumbler/dcsala)  
+- [Pinterest personal](https://www.pinterest.com/csaladenes/)  
+- [Medium personal](https://medium.com/@csaladenes)  
 
