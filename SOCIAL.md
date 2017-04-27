@@ -1,15 +1,15 @@
-Facebook page -> Facebook personal
-Path
-Pinterest personal
-Instagram
-Pocket personal
-Stumbelupon personal
-Google Plus page -> Google Plus personal
-Twitter personal
-Linkedin personal
-Patreon
-YouTube
-Tumblr
-Reddit
-(Medium)
+- Facebook page -> Facebook personal   
+- Path  
+- Pinterest personal  
+- Instagram  
+- Pocket personal  
+- Stumbelupon personal  
+- Google Plus page -> Google Plus personal  
+- Twitter personal  
+- Linkedin personal  
+- Patreon  
+- YouTube  
+- Tumblr  
+- Reddit  
+- (Medium)  
 
