@@ -1,7 +1,7 @@
 <table>
 <tr><td colspan="3"><b>SZÉKELYDATA oldalak</b></td></tr><tr>
 <td><img height="30" src="https://cdn0.iconfinder.com/data/icons/social-media-square-4/1024/facebook-128.png"></td><td><a href="https://www.facebook.com/szekelydata/">Facebook</a></td><td> szekelydata.csaladen.es/social/facebook</td></tr><tr>
-<td><img height="30" src="https://cdn0.iconfinder.com/data/icons/social-media-square-4/1024/g-128.png"></td><td><a href="https://aboutme.google.com/b/101974607759220766833/">Google Plus</a></td><td> szekelydata.csaladen.es/social/g+</td></tr><tr>
+<td><img height="30" src="https://cdn0.iconfinder.com/data/icons/social-media-square-4/1024/g-128.png"></td><td><a href="https://plus.google.com/b/101974607759220766833/">Google Plus</a></td><td> szekelydata.csaladen.es/social/g+</td></tr><tr>
 <td><img height="30" src="https://cdn4.iconfinder.com/data/icons/square-logo-buttons/512/patreon-128.png"></td><td><a href="https://www.patreon.com/szekelydata">Patreon</a></td><td> szekelydata.csaladen.es/social/patreon</td></tr><tr>
 <td><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-flat-buttons-3/512/path-128.png"></td><td><a href="https://www.path.com/58e0f0559c359f5424ef5bda">Path</a></td><td> szekelydata.csaladen.es/social/path</td></tr><tr>
 <td><img height="30" src="https://cdn0.iconfinder.com/data/icons/social-media-square-4/1024/instagram-128.png"></td><td><a href="https://www.instagram.com/szekelydata/">Instagram</a></td><td> szekelydata.csaladen.es/social/instagram</td></tr><tr>
