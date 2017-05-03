@@ -1126,28 +1126,44 @@ a:visited{
 	                position: 'left',
 	              },
 	              {
-	                intro: 'Először lássuk a almenüt: minden vizualizációnak van almenüje. Ez általában 3 sorból áll:<br/><br/><ul><li>Ikonsor</li><li>Időszűrő</li><li>Kontrolgombok</li></ul>',
+	                element: document.querySelector('#data'),
+	                intro: 'A vizualizációs felületen az adatok egy hierarchikus struktúrában vannak megjelenítve. Egyes elemekre klikkelve beljebb lépünk egy szintet. Ez a vizualizáció két szintet tartalmaz: fa-termékek, illetve kereskedelmi partner-országok. A hierarchia-sorrendet az <i>almenü</i>-ből változtathatjuk.',
+	                position: 'right',
 	                
 	              },
 	              {
+	                element: document.querySelector('#key'),
+	                intro: 'Minden vizualizációnak van almenüje. Ez általában 3 sorból áll:<br/><br/><ul><li>Ikonsor</li><li>Időszűrő</li><li>Kontrolgombok</li></ul>',
+	                position: 'top',
+	                
+	              },
+	              {
+	                element: document.querySelector('#key'),
 	                intro: 'Ikonsor<br/><br/>Itt kiválaszthatod a vizualizáción megjelenített adatkategóriákat. Szűrheted, elkülönítheted, elrejtheted őket.',
+	                position: 'top',
 	                
 	              },
 	              {
-	                intro: 'Időszűrő<br/><br/>Itt választod ki a megjelenített éveket. A bal alsó sarokban levő Lejátszás gombbal animálhatod is a vizualizációt.',
+	                element: document.querySelector('#timeline'),
+	                intro: 'Időszűrő<br/><br/>Itt választod ki a megjelenített éveket. A bal oldalon levő ► gombbal animálhatod is a vizualizációt.',
+	                position: 'top',
 	                
 	              },
 	              {
-	                intro: 'Kontrolgombok<br/><br/>Itt állítod be a vizualizáció paramétereit.<br/><br/>A faipari termékek alapbeállításból csoportosítva vanak, az első gombbal beállíthatod, hogy az összes termék jelenjen meg. A termékek helyett országok szerint is rendezheted az adatokat.',
+	                element: document.querySelectorAll('.d3plus_drawer_ui')[0],
+	                intro: 'Kontrolgombok<br/><br/>Itt állítod be a vizualizáció paramétereit.<br/><br/>A faipari termékek alapbeállításból csoportosítva vanak, ezzel a gombbal beállíthatod, hogy az összes termék jelenjen meg. A termékek helyett országok szerint is rendezheted az adatokat.',
+	                position: 'top',
 	                
 	              },
 	              {
-	                intro: 'Kontrolgombok<br/><br/>Balról a 2. gombbal az Y tengely skáláját változtathatod meg. Az adatok több attribútumot is hordoznak magukban. Balról a 4. gombbal kiválszthatod, hogy a termékek érték vagy mennyiség szerint legyenek megjelenítve.',
-	                
+	                element: document.querySelectorAll('.d3plus_drawer_ui')[3],
+	                intro: 'Kontrolgombok<br/><br/>Az adatok több attribútumot is hordoznak magukban. Itt kiválszthatod, hogy a termékek érték vagy mennyiség szerint legyenek megjelenítve.',
+	                position: 'top',
 	              },
 	              {
-	                intro: 'Kontrolgombok<br/><br/>Ez a vizualizáció egy hegedű plot. Ez annyit tesz, hogy két idővonal típusú vizualizációt egymással tükörben helyezünk el egy tengely körül. A pozitív értékek így az exportot, a negatív értékek meg az importot jelölik.<br/><br/>A Hegedű/Időfolyam illeve a Mind/Export/Import gombokkal válthatunk hegedűplot és idővonal megjelenítés között.',
-	                
+	                element: document.querySelectorAll('.d3plus_drawer_ui')[2],
+	                intro: 'Kontrolgombok<br/><br/>Ez a vizualizáció egy hegedű plot. Ez annyit tesz, hogy két időfolyam típusú vizualizációt egymással tükörben helyezünk el az X tengely körül. A pozitív értékek így az exportot, a negatív értékek meg az importot jelölik. Az így keletkező ábra egy <i>lefektetett hegedűre</i> hasonlít.<br/><br/>A Hegedű/Időfolyam illeve a Mind/Export/Import gombokkal válthatunk hegedűplot és időfolyam megjelenítés között.',
+	                position: 'top',
 	              },
 	              {
 	                intro: '↑ Címsor ↑<br/><br/>A címsor (URL) dinamikus és API-ként is használható. Elmenti az országot és a vizualizáció típusát, a legtöbb beállításával együtt.',
@@ -1184,15 +1200,6 @@ a:visited{
 				  if (intro._currentStep==vk+2) show(3)
 				  if (intro._currentStep==vk+3) show(2)
 				  if (intro._currentStep==vk+4) show(1)
-				  if (intro._currentStep==vk+10) visualization
-			  										.y({"scale":"share"})
-			  										.draw()
-			  	  if (intro._currentStep==vk+11) visualization
-			  										.y({"scale":"linear"})
-			  										.draw()
-			  	  if (intro._currentStep==vk+9) visualization
-			  										.y({"scale":"linear"})
-			  										.draw()
       })}
 
 		show(initviz); //initialize viz;
