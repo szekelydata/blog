@@ -78,8 +78,6 @@ a:visited{
   transform: scale(1.2,1.2);
 }
 </style>
-<link href="css/introjs.css" rel="stylesheet">
-<link href="css/introjs-modern.css" rel="stylesheet">
 
 <script type="text/javascript">var switchTo5x=true;</script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
@@ -96,7 +94,6 @@ a:visited{
 <script src="js/jszip.min.js"></script>
 <script src="js/JSZipUtils.min.js"></script>
 <script src="js/svgexport.js"></script>
-<script src="js/intro.js"></script>
 
 <body link="#444">
 <!-- create container element for visualization -->
@@ -129,7 +126,7 @@ a:visited{
     border:none" src="img/netset_logo.png"/>
 </div>
 
-<div id="hline" style="position: fixed;
+<div style="position: fixed;
     right: 20px;
     top: 70px;
     z-index: 101;
@@ -163,19 +160,13 @@ a:visited{
 	alt="Vonal"
 	title="Vonal"
 	onclick='show(3);'>
-	<a href="http://csaladenes.egologo.ro/?p=1076" target="_blank"><img class="rotmenu2" style="position: absolute;
-    right: 50px;
-    top: 470px;
-	border: 1px solid #662506;
-    width: 70px;height:70px;" src="img/szekelydata2.png"
-	alt="SZÉKELYDATA"></a>
-	<div onclick="intro.start();">
+	<a href="http://csaladenes.egologo.ro/?p=1076" target="_blank">
 	<img class="rotmenu2" style="position: absolute;
     right: 40px;
     top: 0px;
 	border: none;
     width: 100px;height:100px;" src="img/netset_logo.png"
-	alt="Hol a fenyves?">
+	alt="Netset Logo">
 	<div style="position: absolute;
     right: 60px;
     top: 110px;
@@ -185,7 +176,7 @@ a:visited{
 	font-family: MyFont;
 	text-align:center;
 	white-space: nowrap;
-    width: 100px;"/>Hol a fenyves ?</div></div>
+    width: 100px;"/>Hol a fenyves ?</div></a>
 	<div style="position: absolute;
     right: 0px;
     top: 385px;
@@ -253,8 +244,8 @@ a:visited{
     right: 4px;
     top: 155px;
     height: 38px;
-    width: 38px;" alt="Denes Csala &copy; 2017"
-	title="Denes Csala &copy; 2017" src="img/credit.png"/>
+    width: 38px;" alt="Denes Csala &copy; 2016"
+	title="Denes Csala &copy; 2016" src="img/credit.png"/>
 	<div style="position: absolute;
     right: 4px;
     top: 200px;
@@ -265,7 +256,7 @@ a:visited{
 	white-space: nowrap;
     width: 40px;"/>készítette</div></a>
 <a href="http://www.fao.org/faostat/en/#data/FT" target="_blank">
-<img class="rotmenu" id="rlogo" style="position: absolute;
+<img class="rotmenu" style="position: absolute;
     right: 88px;
     top: 155px;
     height: 38px;
@@ -316,9 +307,9 @@ a:visited{
 
 	<div style="position: absolute;
     right: -5px;
-    top: 330px;"
+    top: 330px;
     alt="Válassz országot"
-	title="Válassz országot" id="countrylist1"></div>
+	title="Válassz országot" id="countrylist"></div>
 
 </div>
 
@@ -354,7 +345,6 @@ a:visited{
   var initviz=1;
   var sca="linear";
   var center="+";
-  var intro = introJs();
 
   function sethash(){
 	  scale=(sca=="linear")?0:1;
@@ -474,7 +464,7 @@ a:visited{
 		 'Veneer Sheets':'Fibre and Plywood',
 		 'Wood Pulp':'Particles',
 		 'Fa':'Fa',
-		 'Papír':'Paper',
+		 'Papír':'Papír',
 		 'Fenyő':'Fenyő',
 		 'Lombhullató':'Lombhullató'
 	  }
@@ -491,9 +481,6 @@ a:visited{
 			
 			d["s"]=d["s"]*1000;
 			d["group"]=group[d["item"]];
-			if (d["group"]=="Paper") d["p"]=d["p"]*0.691
-			//http://www.paperonweb.com/density.htm 0.691 tonne/m3
-			d["r"]=d["s"]/d["p"] //price - only for line plot
 			d["order"]=(d["g"]=="m")?"f"+(40-order[d["group"]]):"f"+(40-order[d["group"]]); //set both to a for next to each other ordering
 			d["order2"]=(d["g"]=="m")?"f"+(40-order[d["group"]]):"b"+(order[d["group"]]); //set both to
 			//add genders and population (prod/cons)
@@ -515,11 +502,6 @@ a:visited{
 			d["p"+d["g"]]=d["ps"];
 			d["ps+"]=(d["g"]=="m")?d["p"]:-d["p"];
 			d["p"+d["g"]+"+"]=d["ps+"];
-
-			d["rs"]=d["r"]
-			d["r"+d["g"]]=d["rs"];
-			d["rs+"]=(d["g"]=="m")?d["r"]:-d["r"];
-			d["r"+d["g"]+"+"]=d["rs+"];
 			
 		  });
 		  
@@ -580,30 +562,6 @@ a:visited{
 			}
 			else if (text === "pm") {
 			  return "Mennyiség (m3)";
-			}
-			else if (text === "r+") {
-			  return "Ár ($/m3)";
-			}
-			else if (text === "r") {
-			  return "Ár ($/m3)";
-			}
-			else if (text === "rs+") {
-			  return "Ár ($/m3)";
-			}
-			else if (text === "rs") {
-			  return "Ár ($/m3)";
-			}
-			else if (text === "rf+") {
-			  return "Ár ($/m3)";
-			}
-			else if (text === "rf") {
-			  return "Ár ($/m3)";
-			}
-			else if (text === "rm+") {
-			  return "Ár ($/m3)";
-			}
-			else if (text === "rm") {
-			  return "Ár ($/m3)";
 			}
 			else if (text === "Roundwood") {
 			  return "Rönkfa";
@@ -675,14 +633,14 @@ a:visited{
 	  }
 	  
 	  data=extend(rawdata);
-	  var countrylist=[{"country":'Románia'},{"country":'Románia (megyék)'},{"country":'Románia (kitermelés)'},{"country":'Székelyföld (becsült)'},{"country":'Székelyföld (skálázott)'}];
+	  var countrylist=[{"country":'Románia'},{"country":'Románia (megyék)'},{"country":'Románia (kitermelés)'},{"country":'Székelyföld'}];
 	  countries1.sort().forEach(function(d,i) {
 	  	var dummy={"country":d};
-	  	if (d!='Székelyföld (becsült)')
-	  	if (d!='Székelyföld (skálázott)')
+	  	if (d!='Székelyföld')
 	  	if (d!='Románia (megyék)')
 	  	if (d!='Románia')
 	  	if (d!='Románia (kitermelés)')
+	  	if (d!='Székelyföld')
 			countrylist.push(dummy);
 	  });
 	  
@@ -699,13 +657,13 @@ a:visited{
 
 	  var countrydrop = d3plus.form()
 		.data(countrylist)
-		.container("#countrylist1")
+		.container("#countrylist")
 		.font({"family":"MyFont","size":15,"align":"center","secondary":{"family":"MyFont"}})
 		.id("country")
 		.width(174)
 		.text("country")
 		.focus(initcountry,function(d){
-			showd=[true,true,true,true,true,true,true,true,true];
+			showd=[true,true,true];
 			showd[initviz-1]=false;
 			load(d,initviz);
 		})
@@ -868,7 +826,6 @@ a:visited{
 		.y({"value":"s+","label":"Teljes érték [$]","scale":"linear"})  
 		.x({"value":"year","label":"Év"})          // key to use for x-axis
 		.legend({"filters":true,"size":30})
-		.aggs({"rm":"median","rm+":"median","rf":"median","rf+":"median","rs":"median","rs+":"median","r":"median","r+":"median"})
 		.time({"value":"year"})
 		.color(function(d){
 			if (v==1)
@@ -913,14 +870,14 @@ a:visited{
 		  //},	
 		  {
 			"method" : function(value){
-			  var v3=(value=="s+")?"Teljes érték ($)":(value=="r")?"Ár ($/m3)":"Mennyiség (m3)"
-			  val3=(value=="s+")?"":(value=="r")?"r":"p";
+			  var v3=(value=="s+")?"Teljes érték [$]":"Mennyiség [m3]"
+			  val3=(value=="s+")?"":"p";
 			  visualization3
 			  .y(vfunc(val3,gen3,""))
 			  .y({"label":v3})
 			  .draw();
 			},
-			"value"  :[{"Érték":"s+"} , {"Mennyiség":"p"},  {"Ár":"r"}],
+			"value"  :[{"Érték":"s+"} , {"Mennyiség":"p"}],
 			"label" : " "
 		  },
 		  {
@@ -1078,142 +1035,13 @@ a:visited{
 			  })
 		
 		};
-
-		function startIntro(){
-	          intro.setOptions({
-	            steps: [
-	              { 
-	                intro: "Üdvözöllek az <b>Itt a fenyves, hol a fenyves?</b> interaktív adat-felfedező-felületen (adat-exploratóriumban)!<br/><br/>Ez a rövid bemutató segít körbejárni az oldal elemeit.<br/><br/>Olvasd el a <a href='http://csaladenes.egologo.ro/?p=1076' target='_blank'>blogbejgyzést</a>."
-	              },
-	              {
-	                element: document.querySelectorAll('.rotmenu2')[1],
-	                intro: "Bármikor erre a fenyőfára kattintva újra elő tudod hozni ezt a segédbemutatót.",
-	                position: 'left',
-	              },{
-	                element: document.querySelectorAll('.rotmenu')[3],
-	                intro: "Itt a képernyő jobb oldalán találod a <i>főmenüt</i>. A főmenüben választhatod ki a vizualizáció típusát és az országot.<br/><br/>Amint kiválasztassz egy vizualizációtípust, a képernyő alján található sávban megjelenik az <i>almenü</i> ↓ Ez minden vizualizációtípus esetében más és más.",
-	                position: 'left',
-	              },
-	              {
-	                element: document.querySelectorAll('.rotmenu')[2],
-	                intro: "Ebben az exploratóriumban a világ összes országának a fa-kereskedelmét jelenítjük meg, az import és export adatfolyamokat egyaránt. 3 vizualizációtípusból tudsz válogatni. ",
-	                position: 'left',
-	              },
-	              {
-	                element: countrylist1,
-	                intro: "Itt választhatsz országot. A világ összes országa szerepel. Ezen felül megtalálod Székelyföldet, valamint Romániát, több verzióban. Olvasd el a <a href='http://csaladenes.egologo.ro/?p=1076' target='_blank'>blogbejgyzést</a> a leírásukért.",
-	                position: 'left',
-	              },
-	              {
-	                element: document.querySelectorAll('.rotmenu')[2],
-	                intro: "Vonaldiagram<br/><br/>Ez a legalkalmasabb különböző termékek vagy országok értékeinek egymáshoz viszonyításához.<br/><br/>Például össze tudod hasonlítani a rönkfa és a fűrészárú árainak változását, export célországok szerint, 1997 és 2014 között.",
-	                position: 'left',
-	              },
-	              {
-	                element: document.querySelectorAll('.rotmenu')[1],
-	                intro: "Hierarchiadiagram<br/>(fa-térkép)<br/><br/>Ez eloszlások vizualizására alkalmas.<br/><br/>Itt például meg tudod jeleníteni, hogy egy adott évben mennyi volt az exportból származó bevételben a részesedése a különböző fatermékeknek, vagy akár az export célországoknak.",
-	                position: 'left',
-	              },
-	              {
-	                element: document.querySelectorAll('.rotmenu')[0],
-	                intro: "Idővonal<br/>Hegedű Plot<br/><br/>Ez a vizualizációtípus egy picit öszetetteb, mint az előbbiek. Ellenben egy kis böngészés után nagyon hatékonyan használható információ-kihámozásra.",
-	                position: 'left',
-	              },
-	              {
-	                element: document.querySelectorAll('.rotmenu')[0],
-	                intro: "Legfőképpen eloszlások időbeni változására vizualizására alkalmas.<br/><br/>Ez ennek az adat-felfedező-felületnek a legfontosabb komponense: nézzük meg részletesebben!",
-	                position: 'left',
-	              },
-	              {
-	                intro: 'Először lássuk a almenüt: minden vizualizációnak van almenüje. Ez általában 3 sorból áll:<br/><br/><ul><li>Ikonsor</li><li>Időszűrő</li><li>Kontrolgombok</li></ul>',
-	                
-	              },
-	              {
-	                intro: 'Ikonsor<br/><br/>Itt kiválaszthatod a vizualizáción megjelenített adatkategóriákat. Szűrheted, elkülönítheted, elrejtheted őket.',
-	                
-	              },
-	              {
-	                intro: 'Időszűrő<br/><br/>Itt választod ki a megjelenített éveket. A bal alsó sarokban levő Lejátszás gombbal animálhatod is a vizualizációt.',
-	                
-	              },
-	              {
-	                intro: 'Kontrolgombok<br/><br/>Itt állítod be a vizualizáció paramétereit.<br/><br/>A faipari termékek alapbeállításból csoportosítva vanak, az első gombbal beállíthatod, hogy az összes termék jelenjen meg. A termékek helyett országok szerint is rendezheted az adatokat.',
-	                
-	              },
-	              {
-	                intro: 'Kontrolgombok<br/><br/>Balról a 2. gombbal az Y tengely skáláját változtathatod meg. Az adatok több attribútumot is hordoznak magukban. Balról a 4. gombbal kiválszthatod, hogy a termékek érték vagy mennyiség szerint legyenek megjelenítve.',
-	                
-	              },
-	              {
-	                intro: 'Kontrolgombok<br/><br/>Ez a vizualizáció egy hegedű plot. Ez annyit tesz, hogy két idővonal típusú vizualizációt egymással tükörben helyezünk el egy tengely körül. A pozitív értékek így az exportot, a negatív értékek meg az importot jelölik.<br/><br/>A Hegedű/Időfolyam illeve a Mind/Export/Import gombokkal válthatunk hegedűplot és idővonal megjelenítés között.',
-	                
-	              },
-	              {
-	                intro: '↑ Címsor ↑<br/><br/>A címsor (URL) dinamikus és API-ként is használható. Elmenti az országot és a vizualizáció típusát, a legtöbb beállításával együtt.',
-	                
-	              },
-	              {
-	                element: document.querySelectorAll('.rotmenu')[6],
-	                intro: "Az adatok forrásai az ENSZ Élelmezésügyi és Mezőgazdasági Világszervezetének az erdészeti adatbázisa (<a href='http://www.fao.org/faostat/en/#data/FT' target='_blank'>FAOSTAT</a>), illetve a Román Nemzeti Statisztikai Hivatal (<a href='http://www.insse.ro' target='_blank'>INSEE</a>) kereskedelmi adatbázisa voltak.",
-	                position: 'left',
-	              },
-	              {
-	                element: document.querySelectorAll('.rotmenu')[4],
-	                intro: "Ezzel készült: <a href='http://d3plus.org' target='_blank'>D3plus</a>",
-	                position: 'left',
-	              },
-	              {
-	                element: '#social',
-	                intro: "Ha tetszik az oldal, innen megoszhatod.<br/><br/>PNG és CSV formátumban elmentheted a vizualizációt és az adatokat.<br/><br/>Még több adatvarázslatért <a href='https://www.patreon.com/szekelydata' target='_blank'>támogasd</a> a SZÉKELYDATÁ-t!<br/><br/>Jó felfedezést!",
-	                position: 'left'
-	              }
-	            ]
-	          });
-
-	          intro.start()//.goToStep(5);
-	          var vk=3;
-	          intro.onchange(function(targetElement) {
-				  //if (intro._currentStep==vk) if (countrydrop.focus()!="Románia") countrydrop.focus("Románia").draw()
-				  //if (intro._currentStep==vk+1) if (countrydrop.focus()!="Székelyföld (becsült)") countrydrop.focus("Székelyföld (becsült)").draw()
-				  //if (intro._currentStep==vk+2) if (countrydrop.focus()!="Románia") countrydrop.focus("Románia").draw()
-				  if (intro._currentStep==vk+1) show(1)
-				  if (intro._currentStep==vk+2) show(3)
-				  if (intro._currentStep==vk+3) show(2)
-				  if (intro._currentStep==vk+4) show(1)
-				  if (intro._currentStep==vk+10) visualization
-			  										.y({"scale":"share"})
-			  										.draw()
-			  	  if (intro._currentStep==vk+11) visualization
-			  										.y({"scale":"linear"})
-			  										.draw()
-			  	  if (intro._currentStep==vk+9) visualization
-			  										.y({"scale":"linear"})
-			  										.draw()
-      })}
-
+		
 		show(initviz); //initialize viz;
-		setTimeout(function(){
-			startIntro();
-			visualization3.draw()
-			showd[2]=false;
-		},6000)
-		setTimeout(function(){
-			seturl();
-			visualization2.draw()
-			showd[1]=false;
-		},12000)
-
-
+		setTimeout(function(){seturl()},15000)
   })
   })
   })
   })
 </script>
-<!-- intro-->
-<script type="text/javascript">
-      
-
-    </script>
-
 </body>
 </html>
