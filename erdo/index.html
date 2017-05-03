@@ -169,7 +169,7 @@ a:visited{
 	border: 1px solid #662506;
     width: 70px;height:70px;" src="img/szekelydata2.png"
 	alt="SZÉKELYDATA"></a>
-	<div onclick="intro.start();">
+	<div onclick="intro.goToStepNumber(introstep).start();">
 	<img class="rotmenu2" style="position: absolute;
     right: 40px;
     top: 0px;
@@ -355,6 +355,7 @@ a:visited{
   var sca="linear";
   var center="+";
   var intro = introJs();
+  var introstep=0;
 
   function sethash(){
 	  scale=(sca=="linear")?0:1;
@@ -1170,12 +1171,15 @@ a:visited{
 	            ]
 	          });
 
-	          intro.start()//.goToStep(5);
+	          //intro.goToStepNumber(5).start();
+	          intro.start();
+	          
 	          var vk=3;
 	          intro.onchange(function(targetElement) {
 				  //if (intro._currentStep==vk) if (countrydrop.focus()!="Románia") countrydrop.focus("Románia").draw()
 				  //if (intro._currentStep==vk+1) if (countrydrop.focus()!="Székelyföld (becsült)") countrydrop.focus("Székelyföld (becsült)").draw()
 				  //if (intro._currentStep==vk+2) if (countrydrop.focus()!="Románia") countrydrop.focus("Románia").draw()
+				  introstep=intro._currentStep;
 				  if (intro._currentStep==vk+1) show(1)
 				  if (intro._currentStep==vk+2) show(3)
 				  if (intro._currentStep==vk+3) show(2)
