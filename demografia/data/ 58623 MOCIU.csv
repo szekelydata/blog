@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,108
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,103
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,94
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,90
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,92
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,85
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,83
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,84
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,81
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,138
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,122
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,116
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,113
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,108
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,106
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,103
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,97
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,94
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,96
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,101
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,110
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,118
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,113
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,113
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,106
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,96
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,92
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,89
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,94
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,98
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,107
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,118
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,134
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,124
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,124
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,130
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,145
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,125
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,108
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,98
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,97
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,103
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,107
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,120
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,138
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,134
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,125
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,104
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,103
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,88
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,92
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,101
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,111
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,122
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,186
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,175
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,167
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,155
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,144
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,144
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,129
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,117
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,114
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,184
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,173
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,156
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,143
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,148
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,135
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,128
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,106
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,105
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,226
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,225
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,224
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,212
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,192
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,184
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,173
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,164
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,159
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,163
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,169
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,178
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,173
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,158
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,155
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,151
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,153
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,147
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,130
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,135
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,138
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,159
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,176
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,179
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,189
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,196
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,192
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,67
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,68
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,90
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,101
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,107
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,123
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,134
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,135
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,145
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,127
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,116
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,104
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,108
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,99
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,106
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,117
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,128
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,152
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,76
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,64
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,60
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,55
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,61
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,58
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,56
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,80
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,97
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,83
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,92
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,105
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,96
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,109
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,110
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,100
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,95
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,103
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,80
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,71
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,67
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,73
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,69
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,74
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,70
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,66
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,62
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,98
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,95
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,86
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,83
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,78
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,78
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,91
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,108
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,102
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,113
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,105
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,99
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,98
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,91
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,83
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,74
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,72
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,77
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,100
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,101
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,103
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,100
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,105
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,101
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,91
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,84
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,86
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,102
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,111
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,112
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,113
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,112
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,114
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,109
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,101
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,100
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,125
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,115
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,106
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,108
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,93
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,90
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,96
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,100
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,101
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,143
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,119
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,113
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,105
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,97
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,98
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,106
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,111
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,113
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,141
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,132
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,128
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,122
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,131
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,117
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,107
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,97
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,100
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,145
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,156
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,163
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,161
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,154
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,138
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,116
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,107
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,102
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,142
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,144
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,141
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,134
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,118
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,125
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,118
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,118
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,115
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,172
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,165
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,148
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,144
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,140
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,133
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,144
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,150
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,151
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,99
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,95
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,105
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,122
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,130
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,122
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,121
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,120
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,116
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,154
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,161
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,164
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,149
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,150
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,157
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,151
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,138
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,129
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,69
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,82
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,90
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,78
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,80
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,85
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,80
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,89
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,102
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,94
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,103
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,119
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,123
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,135
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,135
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,139
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,135
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,130
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,62
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,58
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,45
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,42
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,45
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,45
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,55
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,61
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,55
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,61
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,56
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,47
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,61
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,62
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,67
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,75
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,82
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,90
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,39
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,36
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,41
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,38
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,36
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,35
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,34
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,26
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,24
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,46
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,43
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,46
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,44
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,41
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,39
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,39
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,34
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,35
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,13
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,22
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,21
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,19
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,21
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,20
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,19
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,27
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,27
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,18
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,19
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,18
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,18
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,21
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,20
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,26
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,28
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,29
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,87
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,96
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,96
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,104
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,94
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,93
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,91
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,86
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,97
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,91
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,88
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,91
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,95
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,89
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,92
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,92
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,92
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,88
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,88
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,79
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,78
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,87
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,94
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,92
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,123
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,118
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,109
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,102
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,95
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,93
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,87
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,86
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,142
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,131
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,122
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,105
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,92
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,87
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,85
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,87
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,138
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,145
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,134
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,137
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,134
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,123
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,116
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,100
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,115
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,113
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,126
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,124
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,135
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,132
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,120
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,112
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,96
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,96
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,111
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,116
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,128
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,140
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,139
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,124
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,148
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,150
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,131
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,127
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,120
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,119
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,118
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,128
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,145
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,136
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,127
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,106
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,104
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,90
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,92
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,113
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,186
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,172
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,168
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,158
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,162
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,147
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,148
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,131
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,143
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,140
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,146
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,138
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,128
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,135
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,126
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,117
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,157
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,172
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,173
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,178
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,174
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,168
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,158
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,157
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,111
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,127
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,135
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,130
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,135
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,134
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,134
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,136
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,96
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,103
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,112
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,126
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,144
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,150
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,167
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,165
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,67
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,58
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,64
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,92
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,101
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,107
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,119
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,126
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,113
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,114
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,108
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,94
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,98
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,89
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,95
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,106
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,71
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,75
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,73
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,64
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,63
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,70
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,59
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,67
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,87
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,87
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,99
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,112
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,106
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,118
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,118
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,115
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,95
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,86
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,78
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,79
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,80
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,68
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,77
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,77
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,103
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,97
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,93
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,96
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,93
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,86
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,86
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,95
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,115
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,114
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,113
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,101
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,98
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,94
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,85
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,79
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,92
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,93
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,99
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,99
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,97
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,99
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,93
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,94
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,100
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,99
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,107
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,113
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,113
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,114
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,112
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,107
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,124
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,112
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,103
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,93
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,96
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,89
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,95
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,96
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,143
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,135
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,117
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,107
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,101
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,99
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,102
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,107
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,112
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,117
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,111
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,110
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,107
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,114
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,100
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,92
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,124
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,120
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,131
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,140
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,143
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,137
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,127
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,109
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,101
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,102
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,103
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,104
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,104
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,95
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,101
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,93
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,134
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,140
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,134
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,118
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,108
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,101
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,102
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,117
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,65
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,68
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,65
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,70
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,76
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,77
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,83
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,82
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,98
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,97
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,102
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,111
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,100
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,109
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,110
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,108
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,27
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,26
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,35
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,35
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,31
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,38
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,37
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,40
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,38
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,40
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,39
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,48
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,58
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,60
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,60
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,69
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,27
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,26
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,23
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,19
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,19
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,20
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,16
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,18
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,27
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,31
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,34
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,30
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,34
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,31
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,32
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,28
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,92
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,105
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,94
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,81
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,83
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,81
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,74
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,70
+ 58623 MOCIU,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,80
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,94
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,87
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,93
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,82
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,75
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,68
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,77
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,67
+ 58623 MOCIU,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,75
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,101
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,87
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,87
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,86
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,87
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,87
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,103
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,98
+ 58623 MOCIU,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,87
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,89
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,93
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,88
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,89
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,91
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,92
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,82
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,91
+ 58623 MOCIU,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,77
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,79
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,73
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,87
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,85
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,87
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,93
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,84
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,85
+ 58623 MOCIU,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,87
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,96
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,87
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,89
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,84
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,85
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,90
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,89
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,88
+ 58623 MOCIU,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,91
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,105
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,94
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,88
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,89
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,90
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,81
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,78
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,80
+ 58623 MOCIU,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,85
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,131
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,126
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,112
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,102
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,94
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,92
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,88
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,89
+ 58623 MOCIU,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,91
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,130
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,135
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,132
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,121
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,116
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,112
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,103
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,93
+ 58623 MOCIU,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,90
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,113
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,119
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,128
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,126
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,128
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,128
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,127
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,108
+ 58623 MOCIU,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,103
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,131
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,123
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,124
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,117
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,126
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,118
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,121
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,123
+ 58623 MOCIU,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,118
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,109
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,100
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,85
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,88
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,96
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,93
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,104
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,118
+ 58623 MOCIU,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,119
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,147
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,153
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,138
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,136
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,120
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,121
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,115
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,114
+ 58623 MOCIU,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,104
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,134
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,124
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,125
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,120
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,114
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,103
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,92
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,82
+ 58623 MOCIU,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,88
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,164
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,149
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,149
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,145
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,147
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,134
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,132
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,121
+ 58623 MOCIU,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,129
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,123
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,133
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,128
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,124
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,119
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,117
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,109
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,113
+ 58623 MOCIU,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,108
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,125
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,141
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,144
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,158
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,156
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,159
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,145
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,148
+ 58623 MOCIU,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,147
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,99
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,109
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,119
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,128
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,134
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,128
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,130
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,127
+ 58623 MOCIU,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,121
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,103
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,105
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,95
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,96
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,104
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,123
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,141
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,143
+ 58623 MOCIU,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,161
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,70
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,68
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,75
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,67
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,77
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,102
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,111
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,114
+ 58623 MOCIU,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,125
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,110
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,109
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,122
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,125
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,121
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,104
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,103
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,93
+ 58623 MOCIU,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,91
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,82
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,79
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,67
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,79
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,84
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,75
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,74
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,83
+ 58623 MOCIU,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,70
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,95
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,94
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,85
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,83
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,96
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,106
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,108
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,117
+ 58623 MOCIU,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,121
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,92
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,93
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,90
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,83
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,79
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,80
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,78
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,68
+ 58623 MOCIU,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,86
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,94
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,90
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,102
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,95
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,96
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,95
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,89
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,85
+ 58623 MOCIU,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,78
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,111
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,113
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,109
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,105
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,104
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,93
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,94
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,90
+ 58623 MOCIU,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,80
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,88
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,92
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,83
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,86
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,87
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,88
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,87
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,95
+ 58623 MOCIU,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,86
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,99
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,97
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,97
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,98
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,103
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,104
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,106
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,102
+ 58623 MOCIU,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,102
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,93
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,86
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,92
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,81
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,82
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,74
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,74
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,70
+ 58623 MOCIU,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,74
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,129
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,131
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,124
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,116
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,104
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,91
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,90
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,94
+ 58623 MOCIU,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,90
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,78
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,81
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,75
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,73
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,61
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,66
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,64
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,64
+ 58623 MOCIU,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,56
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,90
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,83
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,85
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,84
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,100
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,114
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,116
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,109
+ 58623 MOCIU,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,106
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,45
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,49
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,47
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,52
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,52
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,53
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,57
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,55
+ 58623 MOCIU,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,54
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,78
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,75
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,75
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,82
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,75
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,65
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,64
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,66
+ 58623 MOCIU,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,70
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,23
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,21
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,23
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,25
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,24
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,26
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,24
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,26
+ 58623 MOCIU,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,32
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,33
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,37
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,36
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,40
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,47
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,45
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,44
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,47
+ 58623 MOCIU,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,51

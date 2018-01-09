@@ -1,0 +1,61 @@
+<!doctype html>
+<meta charset="utf-8">
+
+<script src="d3.js"></script>
+<script src="d3plus.js"></script>
+
+<div id="viz" style="position:fixed;float:left;left:0px;top:100px;"></div>
+<div id="drop" style="position:fixed;float:left;right:40px;top:28px;"></div>
+
+<script>
+	var init=" 64773 RECI";
+ 	d3.json("hun.json",function(hun){
+ 	d3.json("hun2.json",function(hun2){
+ 	d3.json("locs.json",function(rawdata){
+ 		hun3=[]
+ 		Object.keys(hun).forEach(function(d){
+ 				hun3[d]=hun[d]
+ 			})
+ 		Object.keys(hun2).forEach(function(d){
+ 			Object.keys(hun2[d]).forEach(function(e){
+ 				hun3[e]=hun2[d][e]
+ 			})
+ 		})
+ 		
+  		data=[]
+  		rawdata.forEach(function(d){
+  			var z=d.trim().slice(d.trim().search(' ')+1)
+  			var zz=z.replace('MUNICIPIUL ','').replace('ORAS ','');
+  			if (Object.keys(hun3).indexOf(z)>1)
+  				data.push({"id":d,"rom":z,"hun":hun3[z]})
+  			else if (Object.keys(hun3).indexOf(zz)>1)
+  				data.push({"id":d,"rom":z,"hun":hun3[zz]})
+  			else console.log(z)
+  		})
+  		console.log(data)
+  		var drop = d3plus.form()
+  			.container("#drop")
+	    	.data(data)
+	    	.id("id")
+	    	.text("hun")
+	    	.focus(init,function(d){
+	    		viz.data("data/"+d+".csv").draw()
+	    	})
+	    	.draw()
+	    var viz = d3plus.viz()
+  			.container("#viz")
+  			.data("data/"+init+".csv")
+  			.type("bar")
+  			.id(" Sexe")
+  			.x("Varste si grupe de varsta")
+  			.y(" Valoare")
+  			.time(" Ani")
+  			//.margin("0 0 0 15")
+		    //.width(600)
+		    .height(490)
+  			.draw()
+  		
+	})
+ 	})
+    })
+</script>

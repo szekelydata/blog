@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2009, Numar persoane,78
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2010, Numar persoane,66
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2011, Numar persoane,57
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2012, Numar persoane,58
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2013, Numar persoane,65
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2014, Numar persoane,68
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2015, Numar persoane,70
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2016, Numar persoane,74
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2017, Numar persoane,74
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2009, Numar persoane,67
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2010, Numar persoane,77
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2011, Numar persoane,76
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2012, Numar persoane,79
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2013, Numar persoane,82
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2014, Numar persoane,80
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2015, Numar persoane,68
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2016, Numar persoane,62
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2017, Numar persoane,60
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2009, Numar persoane,100
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2010, Numar persoane,100
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2011, Numar persoane,99
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2012, Numar persoane,93
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2013, Numar persoane,79
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2014, Numar persoane,75
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2015, Numar persoane,82
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2016, Numar persoane,80
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2017, Numar persoane,78
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2009, Numar persoane,67
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2010, Numar persoane,71
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2011, Numar persoane,73
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2012, Numar persoane,78
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2013, Numar persoane,91
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2014, Numar persoane,102
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2015, Numar persoane,103
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2016, Numar persoane,96
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2017, Numar persoane,95
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2009, Numar persoane,98
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2010, Numar persoane,99
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2011, Numar persoane,98
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2012, Numar persoane,90
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2013, Numar persoane,78
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2014, Numar persoane,68
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2015, Numar persoane,67
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2016, Numar persoane,73
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2017, Numar persoane,77
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2009, Numar persoane,111
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2010, Numar persoane,101
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2011, Numar persoane,96
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2012, Numar persoane,101
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2013, Numar persoane,99
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2014, Numar persoane,98
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2015, Numar persoane,96
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2016, Numar persoane,96
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2017, Numar persoane,87
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2009, Numar persoane,98
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2010, Numar persoane,112
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2011, Numar persoane,109
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2012, Numar persoane,105
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2013, Numar persoane,114
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2014, Numar persoane,113
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2015, Numar persoane,106
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2016, Numar persoane,97
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2017, Numar persoane,97
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2009, Numar persoane,112
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2010, Numar persoane,107
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2011, Numar persoane,110
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2012, Numar persoane,110
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2013, Numar persoane,110
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2014, Numar persoane,102
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2015, Numar persoane,110
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2016, Numar persoane,113
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2017, Numar persoane,107
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2009, Numar persoane,85
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2010, Numar persoane,98
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2011, Numar persoane,102
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2012, Numar persoane,113
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2013, Numar persoane,107
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2014, Numar persoane,114
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2015, Numar persoane,111
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2016, Numar persoane,112
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2017, Numar persoane,110
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2009, Numar persoane,78
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2010, Numar persoane,75
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2011, Numar persoane,84
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2012, Numar persoane,80
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2013, Numar persoane,81
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2014, Numar persoane,87
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2015, Numar persoane,100
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2016, Numar persoane,100
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2017, Numar persoane,110
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2009, Numar persoane,73
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2010, Numar persoane,73
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2011, Numar persoane,70
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2012, Numar persoane,68
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2013, Numar persoane,80
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2014, Numar persoane,78
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2015, Numar persoane,71
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2016, Numar persoane,82
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2017, Numar persoane,81
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2009, Numar persoane,76
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2010, Numar persoane,74
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2011, Numar persoane,72
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2012, Numar persoane,79
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2013, Numar persoane,76
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2014, Numar persoane,71
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2015, Numar persoane,73
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2016, Numar persoane,67
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2017, Numar persoane,62
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2009, Numar persoane,82
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2010, Numar persoane,77
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2011, Numar persoane,78
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2012, Numar persoane,72
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2013, Numar persoane,75
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2014, Numar persoane,68
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2015, Numar persoane,70
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2016, Numar persoane,69
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2017, Numar persoane,73
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2009, Numar persoane,59
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2010, Numar persoane,68
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2011, Numar persoane,71
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2012, Numar persoane,79
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2013, Numar persoane,73
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2014, Numar persoane,77
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2015, Numar persoane,70
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2016, Numar persoane,69
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2017, Numar persoane,60
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2009, Numar persoane,52
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2010, Numar persoane,52
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2011, Numar persoane,49
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2012, Numar persoane,44
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2013, Numar persoane,49
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2014, Numar persoane,50
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2015, Numar persoane,55
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2016, Numar persoane,59
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2017, Numar persoane,67
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2009, Numar persoane,36
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2010, Numar persoane,33
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2011, Numar persoane,30
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2012, Numar persoane,32
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2013, Numar persoane,29
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2014, Numar persoane,32
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2015, Numar persoane,35
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2016, Numar persoane,35
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2017, Numar persoane,31
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2009, Numar persoane,17
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2010, Numar persoane,20
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2011, Numar persoane,25
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2012, Numar persoane,23
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2013, Numar persoane,19
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2014, Numar persoane,21
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2015, Numar persoane,16
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2016, Numar persoane,14
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2017, Numar persoane,18
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2009, Numar persoane,16
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2010, Numar persoane,14
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2011, Numar persoane,9
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2012, Numar persoane,10
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2013, Numar persoane,12
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2014, Numar persoane,10
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2015, Numar persoane,12
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2016, Numar persoane,14
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2017, Numar persoane,12
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 1992, Numar persoane,212
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 1993, Numar persoane,202
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 1994, Numar persoane,199
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 1995, Numar persoane,173
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 1996, Numar persoane,175
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 1997, Numar persoane,173
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 1998, Numar persoane,185
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 1999, Numar persoane,197
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2000, Numar persoane,198
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2001, Numar persoane,203
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2002, Numar persoane,219
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2003, Numar persoane,199
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2004, Numar persoane,182
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2005, Numar persoane,71
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2006, Numar persoane,70
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2007, Numar persoane,75
+ 85680 SANCRAIENI,0- 4 ani, Masculin, Harghita, Anul 2008, Numar persoane,76
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 1992, Numar persoane,235
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 1993, Numar persoane,227
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 1994, Numar persoane,214
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 1995, Numar persoane,222
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 1996, Numar persoane,208
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 1997, Numar persoane,203
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 1998, Numar persoane,194
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 1999, Numar persoane,185
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2000, Numar persoane,166
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2001, Numar persoane,167
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2002, Numar persoane,172
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2003, Numar persoane,190
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2004, Numar persoane,208
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2005, Numar persoane,91
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2006, Numar persoane,91
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2007, Numar persoane,84
+ 85680 SANCRAIENI,5- 9 ani, Masculin, Harghita, Anul 2008, Numar persoane,76
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 1992, Numar persoane,295
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 1993, Numar persoane,287
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 1994, Numar persoane,271
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 1995, Numar persoane,256
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 1996, Numar persoane,241
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 1997, Numar persoane,238
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 1998, Numar persoane,235
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 1999, Numar persoane,223
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2000, Numar persoane,236
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2001, Numar persoane,226
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2002, Numar persoane,216
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2003, Numar persoane,204
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2004, Numar persoane,192
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2005, Numar persoane,70
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2006, Numar persoane,71
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2007, Numar persoane,70
+ 85680 SANCRAIENI,10-14 ani, Masculin, Harghita, Anul 2008, Numar persoane,84
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 1992, Numar persoane,253
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 1993, Numar persoane,253
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 1994, Numar persoane,251
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 1995, Numar persoane,276
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 1996, Numar persoane,293
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 1997, Numar persoane,294
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 1998, Numar persoane,290
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 1999, Numar persoane,287
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2000, Numar persoane,263
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2001, Numar persoane,259
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2002, Numar persoane,259
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2003, Numar persoane,253
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2004, Numar persoane,238
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2005, Numar persoane,98
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2006, Numar persoane,98
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2007, Numar persoane,88
+ 85680 SANCRAIENI,15-19 ani, Masculin, Harghita, Anul 2008, Numar persoane,75
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 1992, Numar persoane,235
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 1993, Numar persoane,244
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 1994, Numar persoane,263
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 1995, Numar persoane,251
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 1996, Numar persoane,246
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 1997, Numar persoane,240
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 1998, Numar persoane,248
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 1999, Numar persoane,251
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2000, Numar persoane,279
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2001, Numar persoane,296
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2002, Numar persoane,297
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2003, Numar persoane,303
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2004, Numar persoane,304
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2005, Numar persoane,100
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2006, Numar persoane,94
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2007, Numar persoane,99
+ 85680 SANCRAIENI,20-24 ani, Masculin, Harghita, Anul 2008, Numar persoane,95
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 1992, Numar persoane,183
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 1993, Numar persoane,179
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 1994, Numar persoane,177
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 1995, Numar persoane,198
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 1996, Numar persoane,209
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 1997, Numar persoane,231
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 1998, Numar persoane,244
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 1999, Numar persoane,259
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2000, Numar persoane,241
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2001, Numar persoane,241
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2002, Numar persoane,242
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2003, Numar persoane,248
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2004, Numar persoane,251
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2005, Numar persoane,111
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2006, Numar persoane,110
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2007, Numar persoane,104
+ 85680 SANCRAIENI,25-29 ani, Masculin, Harghita, Anul 2008, Numar persoane,113
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 1992, Numar persoane,188
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 1993, Numar persoane,184
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 1994, Numar persoane,190
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 1995, Numar persoane,186
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 1996, Numar persoane,190
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 1997, Numar persoane,182
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 1998, Numar persoane,179
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 1999, Numar persoane,179
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2000, Numar persoane,203
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2001, Numar persoane,205
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2002, Numar persoane,227
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2003, Numar persoane,237
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2004, Numar persoane,255
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2005, Numar persoane,103
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2006, Numar persoane,105
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2007, Numar persoane,109
+ 85680 SANCRAIENI,30-34 ani, Masculin, Harghita, Anul 2008, Numar persoane,109
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 1992, Numar persoane,241
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 1993, Numar persoane,223
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 1994, Numar persoane,201
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 1995, Numar persoane,204
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 1996, Numar persoane,195
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 1997, Numar persoane,179
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 1998, Numar persoane,185
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 1999, Numar persoane,190
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2000, Numar persoane,183
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2001, Numar persoane,192
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2002, Numar persoane,181
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2003, Numar persoane,174
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2004, Numar persoane,182
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2005, Numar persoane,94
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2006, Numar persoane,94
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2007, Numar persoane,103
+ 85680 SANCRAIENI,35-39 ani, Masculin, Harghita, Anul 2008, Numar persoane,103
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 1992, Numar persoane,208
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 1993, Numar persoane,218
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 1994, Numar persoane,226
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 1995, Numar persoane,218
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 1996, Numar persoane,202
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 1997, Numar persoane,219
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 1998, Numar persoane,212
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 1999, Numar persoane,197
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2000, Numar persoane,208
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2001, Numar persoane,203
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2002, Numar persoane,186
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2003, Numar persoane,195
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2004, Numar persoane,197
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2005, Numar persoane,76
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2006, Numar persoane,85
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2007, Numar persoane,79
+ 85680 SANCRAIENI,40-44 ani, Masculin, Harghita, Anul 2008, Numar persoane,77
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 1992, Numar persoane,247
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 1993, Numar persoane,239
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 1994, Numar persoane,225
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 1995, Numar persoane,201
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 1996, Numar persoane,206
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 1997, Numar persoane,198
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 1998, Numar persoane,202
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 1999, Numar persoane,212
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2000, Numar persoane,203
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2001, Numar persoane,200
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2002, Numar persoane,218
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2003, Numar persoane,217
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2004, Numar persoane,201
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2005, Numar persoane,80
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2006, Numar persoane,76
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2007, Numar persoane,71
+ 85680 SANCRAIENI,45-49 ani, Masculin, Harghita, Anul 2008, Numar persoane,78
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 1992, Numar persoane,183
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 1993, Numar persoane,196
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 1994, Numar persoane,201
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 1995, Numar persoane,230
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 1996, Numar persoane,238
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 1997, Numar persoane,236
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 1998, Numar persoane,230
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 1999, Numar persoane,213
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2000, Numar persoane,191
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2001, Numar persoane,193
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2002, Numar persoane,194
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2003, Numar persoane,198
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2004, Numar persoane,207
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2005, Numar persoane,76
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2006, Numar persoane,73
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2007, Numar persoane,78
+ 85680 SANCRAIENI,50-54 ani, Masculin, Harghita, Anul 2008, Numar persoane,77
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 1992, Numar persoane,156
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 1993, Numar persoane,157
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 1994, Numar persoane,164
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 1995, Numar persoane,160
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 1996, Numar persoane,162
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 1997, Numar persoane,175
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 1998, Numar persoane,181
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 1999, Numar persoane,187
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2000, Numar persoane,216
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2001, Numar persoane,226
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2002, Numar persoane,224
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2003, Numar persoane,211
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2004, Numar persoane,201
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2005, Numar persoane,83
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2006, Numar persoane,81
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2007, Numar persoane,74
+ 85680 SANCRAIENI,55-59 ani, Masculin, Harghita, Anul 2008, Numar persoane,77
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 1992, Numar persoane,171
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 1993, Numar persoane,157
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 1994, Numar persoane,154
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 1995, Numar persoane,157
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 1996, Numar persoane,140
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 1997, Numar persoane,140
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 1998, Numar persoane,142
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 1999, Numar persoane,145
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2000, Numar persoane,146
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2001, Numar persoane,148
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2002, Numar persoane,152
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2003, Numar persoane,170
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2004, Numar persoane,180
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2005, Numar persoane,82
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2006, Numar persoane,85
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2007, Numar persoane,92
+ 85680 SANCRAIENI,60-64 ani, Masculin, Harghita, Anul 2008, Numar persoane,84
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 1992, Numar persoane,154
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 1993, Numar persoane,161
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 1994, Numar persoane,148
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 1995, Numar persoane,148
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 1996, Numar persoane,160
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 1997, Numar persoane,154
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 1998, Numar persoane,139
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 1999, Numar persoane,139
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2000, Numar persoane,138
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2001, Numar persoane,123
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2002, Numar persoane,126
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2003, Numar persoane,125
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2004, Numar persoane,132
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2005, Numar persoane,65
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2006, Numar persoane,58
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2007, Numar persoane,62
+ 85680 SANCRAIENI,65-69 ani, Masculin, Harghita, Anul 2008, Numar persoane,60
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 1992, Numar persoane,112
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 1993, Numar persoane,124
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 1994, Numar persoane,143
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 1995, Numar persoane,134
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 1996, Numar persoane,131
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 1997, Numar persoane,126
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 1998, Numar persoane,132
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 1999, Numar persoane,126
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2000, Numar persoane,121
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2001, Numar persoane,133
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2002, Numar persoane,121
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2003, Numar persoane,110
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2004, Numar persoane,106
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2005, Numar persoane,48
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2006, Numar persoane,50
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2007, Numar persoane,54
+ 85680 SANCRAIENI,70-74 ani, Masculin, Harghita, Anul 2008, Numar persoane,51
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 1992, Numar persoane,92
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 1993, Numar persoane,70
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 1994, Numar persoane,63
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 1995, Numar persoane,65
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 1996, Numar persoane,72
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 1997, Numar persoane,76
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 1998, Numar persoane,86
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 1999, Numar persoane,99
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2000, Numar persoane,98
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2001, Numar persoane,92
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2002, Numar persoane,84
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2003, Numar persoane,90
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2004, Numar persoane,84
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2005, Numar persoane,29
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2006, Numar persoane,34
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2007, Numar persoane,32
+ 85680 SANCRAIENI,75-79 ani, Masculin, Harghita, Anul 2008, Numar persoane,32
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 1992, Numar persoane,47
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 1993, Numar persoane,56
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 1994, Numar persoane,55
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 1995, Numar persoane,58
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 1996, Numar persoane,59
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 1997, Numar persoane,54
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 1998, Numar persoane,49
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 1999, Numar persoane,45
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2000, Numar persoane,39
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2001, Numar persoane,39
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2002, Numar persoane,45
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2003, Numar persoane,47
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2004, Numar persoane,53
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2005, Numar persoane,27
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2006, Numar persoane,26
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2007, Numar persoane,24
+ 85680 SANCRAIENI,80-84 ani, Masculin, Harghita, Anul 2008, Numar persoane,23
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 1992, Numar persoane,29
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 1993, Numar persoane,27
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 1994, Numar persoane,27
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 1995, Numar persoane,24
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 1996, Numar persoane,26
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 1997, Numar persoane,21
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 1998, Numar persoane,25
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 1999, Numar persoane,28
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2000, Numar persoane,29
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2001, Numar persoane,33
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2002, Numar persoane,36
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2003, Numar persoane,36
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2004, Numar persoane,32
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2005, Numar persoane,10
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2006, Numar persoane,6
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2007, Numar persoane,8
+ 85680 SANCRAIENI,85 ani si peste, Masculin, Harghita, Anul 2008, Numar persoane,12
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 1992, Numar persoane,199
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 1993, Numar persoane,198
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 1994, Numar persoane,179
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 1995, Numar persoane,169
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 1996, Numar persoane,156
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 1997, Numar persoane,170
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 1998, Numar persoane,167
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 1999, Numar persoane,166
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2000, Numar persoane,181
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2001, Numar persoane,183
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2002, Numar persoane,175
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2003, Numar persoane,183
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2004, Numar persoane,187
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2005, Numar persoane,70
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2006, Numar persoane,68
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 1992, Numar persoane,193
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 1993, Numar persoane,200
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 1994, Numar persoane,214
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 1995, Numar persoane,220
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 1996, Numar persoane,208
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 1997, Numar persoane,199
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 1998, Numar persoane,202
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 1999, Numar persoane,187
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2000, Numar persoane,176
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2001, Numar persoane,159
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2002, Numar persoane,180
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2003, Numar persoane,177
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2004, Numar persoane,180
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2005, Numar persoane,82
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2006, Numar persoane,83
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 1992, Numar persoane,234
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 1993, Numar persoane,212
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 1994, Numar persoane,204
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 1995, Numar persoane,190
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 1996, Numar persoane,185
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 1997, Numar persoane,193
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 1998, Numar persoane,204
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 1999, Numar persoane,220
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2000, Numar persoane,226
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2001, Numar persoane,224
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2002, Numar persoane,208
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2003, Numar persoane,213
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2004, Numar persoane,198
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2005, Numar persoane,78
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2006, Numar persoane,73
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 1992, Numar persoane,275
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 1993, Numar persoane,273
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 1994, Numar persoane,268
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 1995, Numar persoane,266
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 1996, Numar persoane,252
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 1997, Numar persoane,234
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 1998, Numar persoane,218
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 1999, Numar persoane,209
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2000, Numar persoane,192
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2001, Numar persoane,190
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2002, Numar persoane,194
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2003, Numar persoane,203
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2004, Numar persoane,228
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2005, Numar persoane,82
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2006, Numar persoane,81
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 1992, Numar persoane,294
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 1993, Numar persoane,278
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 1994, Numar persoane,257
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 1995, Numar persoane,249
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 1996, Numar persoane,253
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 1997, Numar persoane,261
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 1998, Numar persoane,265
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 1999, Numar persoane,265
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2000, Numar persoane,259
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2001, Numar persoane,256
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2002, Numar persoane,225
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2003, Numar persoane,214
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2004, Numar persoane,198
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2005, Numar persoane,81
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2006, Numar persoane,76
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 1992, Numar persoane,121
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 1993, Numar persoane,157
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 1994, Numar persoane,206
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 1995, Numar persoane,231
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 1996, Numar persoane,255
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 1997, Numar persoane,271
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 1998, Numar persoane,253
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 1999, Numar persoane,226
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2000, Numar persoane,228
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2001, Numar persoane,240
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2002, Numar persoane,247
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2003, Numar persoane,244
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2004, Numar persoane,250
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2005, Numar persoane,93
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2006, Numar persoane,94
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 1992, Numar persoane,152
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 1993, Numar persoane,142
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 1994, Numar persoane,119
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 1995, Numar persoane,115
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 1996, Numar persoane,115
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 1997, Numar persoane,120
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 1998, Numar persoane,165
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 1999, Numar persoane,212
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2000, Numar persoane,234
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2001, Numar persoane,245
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2002, Numar persoane,257
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2003, Numar persoane,242
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2004, Numar persoane,218
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2005, Numar persoane,112
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2006, Numar persoane,109
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 1992, Numar persoane,194
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 1993, Numar persoane,184
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 1994, Numar persoane,184
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 1995, Numar persoane,178
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 1996, Numar persoane,166
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 1997, Numar persoane,151
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 1998, Numar persoane,140
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 1999, Numar persoane,119
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2000, Numar persoane,118
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2001, Numar persoane,134
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2002, Numar persoane,143
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2003, Numar persoane,174
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2004, Numar persoane,223
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2005, Numar persoane,104
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2006, Numar persoane,116
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 1992, Numar persoane,220
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 1993, Numar persoane,239
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 1994, Numar persoane,233
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 1995, Numar persoane,224
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 1996, Numar persoane,199
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 1997, Numar persoane,184
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 1998, Numar persoane,183
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 1999, Numar persoane,184
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2000, Numar persoane,183
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2001, Numar persoane,172
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2002, Numar persoane,154
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2003, Numar persoane,144
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2004, Numar persoane,125
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2005, Numar persoane,55
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2006, Numar persoane,57
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 1992, Numar persoane,206
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 1993, Numar persoane,177
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 1994, Numar persoane,177
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 1995, Numar persoane,173
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 1996, Numar persoane,202
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 1997, Numar persoane,216
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 1998, Numar persoane,235
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 1999, Numar persoane,228
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2000, Numar persoane,219
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2001, Numar persoane,205
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2002, Numar persoane,193
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2003, Numar persoane,196
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2004, Numar persoane,199
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2005, Numar persoane,68
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2006, Numar persoane,66
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 1992, Numar persoane,169
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 1993, Numar persoane,176
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 1994, Numar persoane,178
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 1995, Numar persoane,195
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 1996, Numar persoane,183
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 1997, Numar persoane,197
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 1998, Numar persoane,173
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 1999, Numar persoane,173
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2000, Numar persoane,174
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2001, Numar persoane,201
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2002, Numar persoane,217
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2003, Numar persoane,233
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2004, Numar persoane,231
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2005, Numar persoane,100
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2006, Numar persoane,83
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 1992, Numar persoane,164
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 1993, Numar persoane,162
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 1994, Numar persoane,166
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 1995, Numar persoane,158
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 1996, Numar persoane,161
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 1997, Numar persoane,164
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 1998, Numar persoane,173
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 1999, Numar persoane,170
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2000, Numar persoane,188
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2001, Numar persoane,177
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2002, Numar persoane,195
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2003, Numar persoane,174
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2004, Numar persoane,174
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2005, Numar persoane,81
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2006, Numar persoane,98
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 1992, Numar persoane,179
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 1993, Numar persoane,174
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 1994, Numar persoane,176
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 1995, Numar persoane,177
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 1996, Numar persoane,168
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 1997, Numar persoane,158
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 1998, Numar persoane,158
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 1999, Numar persoane,165
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2000, Numar persoane,154
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2001, Numar persoane,155
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2002, Numar persoane,156
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2003, Numar persoane,166
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2004, Numar persoane,167
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2005, Numar persoane,82
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2006, Numar persoane,72
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 1992, Numar persoane,190
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 1993, Numar persoane,176
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 1994, Numar persoane,172
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 1995, Numar persoane,166
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 1996, Numar persoane,165
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 1997, Numar persoane,163
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 1998, Numar persoane,157
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 1999, Numar persoane,159
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2000, Numar persoane,164
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2001, Numar persoane,159
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2002, Numar persoane,147
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2003, Numar persoane,149
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2004, Numar persoane,157
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2005, Numar persoane,59
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2006, Numar persoane,66
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 1992, Numar persoane,103
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 1993, Numar persoane,133
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 1994, Numar persoane,142
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 1995, Numar persoane,150
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 1996, Numar persoane,165
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 1997, Numar persoane,170
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 1998, Numar persoane,161
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 1999, Numar persoane,153
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2000, Numar persoane,143
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2001, Numar persoane,147
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2002, Numar persoane,147
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2003, Numar persoane,141
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2004, Numar persoane,144
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2005, Numar persoane,65
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2006, Numar persoane,61
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 1992, Numar persoane,100
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 1993, Numar persoane,88
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 1994, Numar persoane,75
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 1995, Numar persoane,79
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 1996, Numar persoane,77
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 1997, Numar persoane,83
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 1998, Numar persoane,107
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 1999, Numar persoane,114
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2000, Numar persoane,123
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2001, Numar persoane,133
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2002, Numar persoane,136
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2003, Numar persoane,126
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2004, Numar persoane,127
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2005, Numar persoane,54
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2006, Numar persoane,51
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 1992, Numar persoane,93
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 1993, Numar persoane,88
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 1994, Numar persoane,92
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 1995, Numar persoane,79
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 1996, Numar persoane,73
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 1997, Numar persoane,65
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 1998, Numar persoane,61
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 1999, Numar persoane,48
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2000, Numar persoane,54
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2001, Numar persoane,54
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2002, Numar persoane,56
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2003, Numar persoane,76
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2004, Numar persoane,80
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2005, Numar persoane,36
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2006, Numar persoane,39
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 1992, Numar persoane,26
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 1993, Numar persoane,34
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 1994, Numar persoane,31
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 1995, Numar persoane,38
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 1996, Numar persoane,43
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 1997, Numar persoane,48
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 1998, Numar persoane,48
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 1999, Numar persoane,55
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2000, Numar persoane,53
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2001, Numar persoane,55
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2002, Numar persoane,51
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2003, Numar persoane,41
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2004, Numar persoane,38
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2005, Numar persoane,15
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2006, Numar persoane,17
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2007, Numar persoane,60
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2008, Numar persoane,65
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2009, Numar persoane,72
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2010, Numar persoane,81
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2011, Numar persoane,74
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2012, Numar persoane,72
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2013, Numar persoane,66
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2014, Numar persoane,68
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2015, Numar persoane,63
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2016, Numar persoane,68
+ 85680 SANCRAIENI,0- 4 ani, Feminin, Harghita, Anul 2017, Numar persoane,78
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2007, Numar persoane,79
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2008, Numar persoane,81
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2009, Numar persoane,73
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2010, Numar persoane,71
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2011, Numar persoane,70
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2012, Numar persoane,65
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2013, Numar persoane,69
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2014, Numar persoane,72
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2015, Numar persoane,78
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2016, Numar persoane,73
+ 85680 SANCRAIENI,5- 9 ani, Feminin, Harghita, Anul 2017, Numar persoane,68
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2007, Numar persoane,84
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2008, Numar persoane,77
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2009, Numar persoane,83
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2010, Numar persoane,80
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2011, Numar persoane,84
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2012, Numar persoane,83
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2013, Numar persoane,84
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2014, Numar persoane,72
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2015, Numar persoane,69
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2016, Numar persoane,74
+ 85680 SANCRAIENI,10-14 ani, Feminin, Harghita, Anul 2017, Numar persoane,70
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2007, Numar persoane,71
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2008, Numar persoane,80
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2009, Numar persoane,71
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2010, Numar persoane,68
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2011, Numar persoane,66
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2012, Numar persoane,77
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2013, Numar persoane,77
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2014, Numar persoane,83
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2015, Numar persoane,83
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2016, Numar persoane,87
+ 85680 SANCRAIENI,15-19 ani, Feminin, Harghita, Anul 2017, Numar persoane,84
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2007, Numar persoane,80
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2008, Numar persoane,79
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2009, Numar persoane,81
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2010, Numar persoane,81
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2011, Numar persoane,75
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2012, Numar persoane,69
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2013, Numar persoane,77
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2014, Numar persoane,65
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2015, Numar persoane,64
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2016, Numar persoane,64
+ 85680 SANCRAIENI,20-24 ani, Feminin, Harghita, Anul 2017, Numar persoane,77
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2007, Numar persoane,79
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2008, Numar persoane,82
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2009, Numar persoane,93
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2010, Numar persoane,99
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2011, Numar persoane,85
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2012, Numar persoane,89
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2013, Numar persoane,83
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2014, Numar persoane,82
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2015, Numar persoane,79
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2016, Numar persoane,76
+ 85680 SANCRAIENI,25-29 ani, Feminin, Harghita, Anul 2017, Numar persoane,72
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2007, Numar persoane,110
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2008, Numar persoane,97
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2009, Numar persoane,95
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2010, Numar persoane,85
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2011, Numar persoane,94
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2012, Numar persoane,85
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2013, Numar persoane,88
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2014, Numar persoane,97
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2015, Numar persoane,96
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2016, Numar persoane,84
+ 85680 SANCRAIENI,30-34 ani, Feminin, Harghita, Anul 2017, Numar persoane,85
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2007, Numar persoane,122
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2008, Numar persoane,122
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2009, Numar persoane,111
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2010, Numar persoane,116
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2011, Numar persoane,117
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2012, Numar persoane,116
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2013, Numar persoane,101
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2014, Numar persoane,101
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2015, Numar persoane,91
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2016, Numar persoane,92
+ 85680 SANCRAIENI,35-39 ani, Feminin, Harghita, Anul 2017, Numar persoane,81
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2007, Numar persoane,64
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2008, Numar persoane,77
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2009, Numar persoane,94
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2010, Numar persoane,102
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2011, Numar persoane,119
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2012, Numar persoane,129
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2013, Numar persoane,125
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2014, Numar persoane,114
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2015, Numar persoane,120
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2016, Numar persoane,117
+ 85680 SANCRAIENI,40-44 ani, Feminin, Harghita, Anul 2017, Numar persoane,118
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2007, Numar persoane,53
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2008, Numar persoane,52
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2009, Numar persoane,55
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2010, Numar persoane,58
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2011, Numar persoane,57
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2012, Numar persoane,62
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2013, Numar persoane,79
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2014, Numar persoane,94
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2015, Numar persoane,99
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2016, Numar persoane,118
+ 85680 SANCRAIENI,45-49 ani, Feminin, Harghita, Anul 2017, Numar persoane,128
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2007, Numar persoane,76
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2008, Numar persoane,71
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2009, Numar persoane,72
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2010, Numar persoane,70
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2011, Numar persoane,65
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2012, Numar persoane,55
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2013, Numar persoane,48
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2014, Numar persoane,52
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2015, Numar persoane,56
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2016, Numar persoane,57
+ 85680 SANCRAIENI,50-54 ani, Feminin, Harghita, Anul 2017, Numar persoane,62
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2007, Numar persoane,105
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2008, Numar persoane,112
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2009, Numar persoane,103
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2010, Numar persoane,95
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2011, Numar persoane,83
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2012, Numar persoane,79
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2013, Numar persoane,75
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2014, Numar persoane,72
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2015, Numar persoane,71
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2016, Numar persoane,67
+ 85680 SANCRAIENI,55-59 ani, Feminin, Harghita, Anul 2017, Numar persoane,55
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2007, Numar persoane,85
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2008, Numar persoane,76
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2009, Numar persoane,77
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2010, Numar persoane,81
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2011, Numar persoane,93
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2012, Numar persoane,98
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2013, Numar persoane,106
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2014, Numar persoane,102
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2015, Numar persoane,92
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2016, Numar persoane,81
+ 85680 SANCRAIENI,60-64 ani, Feminin, Harghita, Anul 2017, Numar persoane,74
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2007, Numar persoane,65
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2008, Numar persoane,71
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2009, Numar persoane,70
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2010, Numar persoane,76
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2011, Numar persoane,65
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2012, Numar persoane,77
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2013, Numar persoane,68
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2014, Numar persoane,65
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2015, Numar persoane,70
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2016, Numar persoane,89
+ 85680 SANCRAIENI,65-69 ani, Feminin, Harghita, Anul 2017, Numar persoane,94
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2007, Numar persoane,53
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2008, Numar persoane,52
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2009, Numar persoane,56
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2010, Numar persoane,51
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2011, Numar persoane,60
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2012, Numar persoane,62
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2013, Numar persoane,67
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2014, Numar persoane,64
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2015, Numar persoane,68
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2016, Numar persoane,60
+ 85680 SANCRAIENI,70-74 ani, Feminin, Harghita, Anul 2017, Numar persoane,71
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2007, Numar persoane,46
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2008, Numar persoane,47
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2009, Numar persoane,44
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2010, Numar persoane,48
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2011, Numar persoane,44
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2012, Numar persoane,44
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2013, Numar persoane,47
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2014, Numar persoane,52
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2015, Numar persoane,47
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2016, Numar persoane,52
+ 85680 SANCRAIENI,75-79 ani, Feminin, Harghita, Anul 2017, Numar persoane,53
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2007, Numar persoane,43
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2008, Numar persoane,39
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2009, Numar persoane,39
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2010, Numar persoane,37
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2011, Numar persoane,33
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2012, Numar persoane,28
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2013, Numar persoane,27
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2014, Numar persoane,30
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2015, Numar persoane,32
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2016, Numar persoane,30
+ 85680 SANCRAIENI,80-84 ani, Feminin, Harghita, Anul 2017, Numar persoane,32
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2007, Numar persoane,19
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2008, Numar persoane,22
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2009, Numar persoane,24
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2010, Numar persoane,23
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2011, Numar persoane,27
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2012, Numar persoane,29
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2013, Numar persoane,24
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2014, Numar persoane,21
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2015, Numar persoane,21
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2016, Numar persoane,18
+ 85680 SANCRAIENI,85 ani si peste, Feminin, Harghita, Anul 2017, Numar persoane,21

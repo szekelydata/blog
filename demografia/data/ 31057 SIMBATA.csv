@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,35
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,37
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,37
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,33
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,30
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,30
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,33
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,31
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,23
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,21
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,28
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,28
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,34
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,39
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,45
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,43
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,21
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,20
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,25
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,34
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,38
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,33
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,34
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,34
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,24
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,29
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,24
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,26
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,22
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,21
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,18
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,22
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,49
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,48
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,38
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,39
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,33
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,27
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,26
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,29
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,35
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,31
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,27
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,24
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,28
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,24
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,28
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,25
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,58
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,50
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,53
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,46
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,47
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,47
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,47
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,42
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,53
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,53
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,51
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,46
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,42
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,38
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,35
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,31
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,82
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,79
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,73
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,67
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,57
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,60
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,51
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,49
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,54
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,48
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,43
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,48
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,44
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,46
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,52
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,49
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,32
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,40
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,49
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,58
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,69
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,75
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,83
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,71
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,25
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,28
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,35
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,36
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,42
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,50
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,46
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,45
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,31
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,29
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,21
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,21
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,22
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,26
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,33
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,50
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,14
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,18
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,18
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,20
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,21
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,21
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,25
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,33
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,22
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,23
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,25
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,26
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,30
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,30
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,29
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,21
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,32
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,22
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,15
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,14
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,10
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,13
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,15
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,16
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,39
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,34
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,25
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,21
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,20
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,20
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,21
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,23
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,59
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,61
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,48
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,44
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,40
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,31
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,21
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,16
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,48
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,45
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,54
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,52
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,50
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,39
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,37
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,26
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,68
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,65
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,81
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,76
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,80
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,67
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,67
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,51
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,74
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,62
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,54
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,44
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,45
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,49
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,45
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,52
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,83
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,81
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,73
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,72
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,61
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,69
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,69
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,83
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,82
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,84
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,79
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,79
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,70
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,69
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,63
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,54
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,91
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,81
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,88
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,85
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,83
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,85
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,85
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,78
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,90
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,87
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,85
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,88
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,86
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,74
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,74
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,75
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,115
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,120
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,93
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,91
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,96
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,87
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,77
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,83
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,78
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,73
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,81
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,73
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,78
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,82
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,80
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,76
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,96
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,90
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,109
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,101
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,106
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,103
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,112
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,89
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,55
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,67
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,69
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,66
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,58
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,62
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,62
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,68
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,78
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,88
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,94
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,95
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,82
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,81
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,76
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,89
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,40
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,31
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,24
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,32
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,41
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,44
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,50
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,50
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,37
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,27
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,26
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,33
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,42
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,60
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,66
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,69
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,23
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,30
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,33
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,34
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,30
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,25
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,18
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,13
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,23
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,27
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,22
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,22
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,22
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,17
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,14
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,14
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,3
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,5
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,6
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,4
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,3
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,6
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,12
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,15
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,13
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,8
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,11
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,11
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,9
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,11
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,12
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,11
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,32
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,39
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,48
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,50
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,47
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,49
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,40
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,44
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,53
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,48
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,47
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,47
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,35
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,26
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,33
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,32
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,34
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,32
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,34
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,36
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,47
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,28
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,32
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,37
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,43
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,45
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,48
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,55
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,33
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,34
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,31
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,35
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,33
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,32
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,32
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,27
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,25
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,21
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,20
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,23
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,27
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,31
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,42
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,35
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,28
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,26
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,28
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,31
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,32
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,28
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,30
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,29
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,30
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,25
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,28
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,28
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,46
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,48
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,50
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,51
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,44
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,45
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,35
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,53
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,46
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,46
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,33
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,33
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,30
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,29
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,71
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,60
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,60
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,48
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,51
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,46
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,49
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,49
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,50
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,51
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,55
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,56
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,53
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,52
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,63
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,74
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,77
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,79
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,72
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,72
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,61
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,37
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,45
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,51
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,45
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,42
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,44
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,45
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,20
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,22
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,27
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,32
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,48
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,61
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,71
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,19
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,20
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,21
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,25
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,33
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,38
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,45
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,27
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,33
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,32
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,30
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,24
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,24
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,24
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,14
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,11
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,13
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,14
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,18
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,23
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,24
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,22
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,19
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,19
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,19
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,29
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,34
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,38
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,48
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,43
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,34
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,24
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,20
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,21
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,15
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,51
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,49
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,38
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,34
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,27
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,21
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,18
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,79
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,82
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,68
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,68
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,55
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,50
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,47
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,44
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,48
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,50
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,49
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,51
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,45
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,42
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,76
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,66
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,70
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,68
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,80
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,78
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,84
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,78
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,66
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,66
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,57
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,52
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,43
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,39
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,81
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,82
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,80
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,79
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,69
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,66
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,59
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,76
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,78
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,69
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,65
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,65
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,69
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,56
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,87
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,85
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,80
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,74
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,79
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,77
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,69
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,60
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,63
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,62
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,67
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,63
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,63
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,69
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,90
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,100
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,94
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,95
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,74
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,72
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,78
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,50
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,45
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,54
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,42
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,40
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,38
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,44
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,65
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,56
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,57
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,54
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,65
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,66
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,69
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,17
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,23
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,23
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,30
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,31
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,29
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,26
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,16
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,24
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,32
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,33
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,30
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,28
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,26
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,18
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,16
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,14
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,8
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,6
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,8
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,8
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,9
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,9
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,6
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,7
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,7
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,9
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,10
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,29
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,24
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,22
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,26
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,24
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,32
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,29
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,30
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,22
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,27
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,27
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,27
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,56
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,55
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,48
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,48
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,38
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,26
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,49
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,45
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,44
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,36
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,28
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,30
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,33
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,36
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,39
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,36
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,49
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,52
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,39
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,44
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,48
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,46
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,53
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,47
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,30
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,33
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,31
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,28
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,31
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,37
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,26
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,22
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,24
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,29
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,30
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,40
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,28
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,26
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,31
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,36
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,36
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,34
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,27
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,29
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,24
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,29
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,29
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,22
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,52
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,48
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,39
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,38
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,29
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,28
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,48
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,38
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,35
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,29
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,30
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,28
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,60
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,51
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,52
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,42
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,45
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,43
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,50
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,56
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,60
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,54
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,51
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,45
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,76
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,77
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,71
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,73
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,60
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,60
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,49
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,44
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,41
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,45
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,45
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,49
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,27
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,32
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,46
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,57
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,69
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,72
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,24
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,30
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,35
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,40
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,45
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,51
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,39
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,40
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,31
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,25
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,24
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,28
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,16
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,18
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,20
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,23
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,25
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,23
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,16
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,19
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,24
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,32
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,37
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,36
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,40
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,30
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,24
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,22
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,17
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,19
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,31
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,32
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,23
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,18
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,20
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,21
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,70
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,73
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,58
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,51
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,49
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,44
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,41
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,40
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,46
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,43
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,42
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,33
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,68
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,66
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,81
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,81
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,85
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,73
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,57
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,51
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,45
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,37
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,35
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,39
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,72
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,74
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,66
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,63
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,56
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,62
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,61
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,56
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,59
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,56
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,48
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,46
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,67
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,64
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,67
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,65
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,60
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,61
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,46
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,50
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,45
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,48
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,55
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,51
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,68
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,70
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,57
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,58
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,59
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,52
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,28
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,24
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,24
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,24
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,27
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,28
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,28
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,29
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,41
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,40
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,43
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,47
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,6
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,11
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,13
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,11
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,11
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,15
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,14
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,14
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,16
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,18
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,17
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,23
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,28
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,30
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,25
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,21
+ 31057 SIMBATA,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,18
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,26
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,25
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,22
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,24
+ 31057 SIMBATA,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,19
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,22
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,20
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,28
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,27
+ 31057 SIMBATA,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,37
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,30
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,21
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,28
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,30
+ 31057 SIMBATA,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,27
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,51
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,48
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,48
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,40
+ 31057 SIMBATA,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,29
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,41
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,43
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,36
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,30
+ 31057 SIMBATA,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,35
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,42
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,45
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,42
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,47
+ 31057 SIMBATA,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,52
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,47
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,46
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,47
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,55
+ 31057 SIMBATA,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,47
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,35
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,34
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,33
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,36
+ 31057 SIMBATA,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,40
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,23
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,23
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,27
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,25
+ 31057 SIMBATA,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,36
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,30
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,36
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,42
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,41
+ 31057 SIMBATA,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,39
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,25
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,24
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,26
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,24
+ 31057 SIMBATA,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,22
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,44
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,35
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,38
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,36
+ 31057 SIMBATA,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,31
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,40
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,38
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,37
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,37
+ 31057 SIMBATA,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,34
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,48
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,51
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,42
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,47
+ 31057 SIMBATA,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,51
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,55
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,60
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,53
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,48
+ 31057 SIMBATA,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,43
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,78
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,69
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,72
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,58
+ 31057 SIMBATA,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,59
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,43
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,39
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,42
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,43
+ 31057 SIMBATA,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,49
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,34
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,48
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,60
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,75
+ 31057 SIMBATA,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,75
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,29
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,35
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,44
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,49
+ 31057 SIMBATA,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,52
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,39
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,30
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,24
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,23
+ 31057 SIMBATA,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,30
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,19
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,23
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,25
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,27
+ 31057 SIMBATA,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,25
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,21
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,28
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,34
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,40
+ 31057 SIMBATA,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,34
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,31
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,27
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,25
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,21
+ 31057 SIMBATA,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,25
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,31
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,24
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,22
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,21
+ 31057 SIMBATA,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,20
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,75
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,62
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,55
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,51
+ 31057 SIMBATA,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,46
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,42
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,45
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,41
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,41
+ 31057 SIMBATA,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,36
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,63
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,77
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,77
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,81
+ 31057 SIMBATA,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,70
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,41
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,36
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,32
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,29
+ 31057 SIMBATA,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,32
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,63
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,51
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,50
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,47
+ 31057 SIMBATA,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,56
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,48
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,49
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,49
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,41
+ 31057 SIMBATA,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,38
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,53
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,56
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,55
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,47
+ 31057 SIMBATA,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,51
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,35
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,32
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,34
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,31
+ 31057 SIMBATA,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,31
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,45
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,36
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,34
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,37
+ 31057 SIMBATA,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,34
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,13
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,14
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,13
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,16
+ 31057 SIMBATA,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,17
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,19
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,21
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,22
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,20
+ 31057 SIMBATA,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,24

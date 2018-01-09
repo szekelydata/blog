@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 1992, Numar persoane,74
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 1993, Numar persoane,68
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 1994, Numar persoane,49
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 1995, Numar persoane,46
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 1996, Numar persoane,46
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 1997, Numar persoane,43
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 1998, Numar persoane,35
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 1992, Numar persoane,81
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 1993, Numar persoane,68
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 1994, Numar persoane,58
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 1995, Numar persoane,42
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 1996, Numar persoane,48
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 1997, Numar persoane,42
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 1998, Numar persoane,46
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 1992, Numar persoane,69
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 1993, Numar persoane,79
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 1994, Numar persoane,86
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 1995, Numar persoane,80
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 1996, Numar persoane,80
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 1997, Numar persoane,69
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 1998, Numar persoane,64
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 1992, Numar persoane,72
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 1993, Numar persoane,67
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 1994, Numar persoane,71
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 1995, Numar persoane,79
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 1996, Numar persoane,74
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 1997, Numar persoane,72
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 1998, Numar persoane,65
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 1992, Numar persoane,111
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 1993, Numar persoane,90
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 1994, Numar persoane,81
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 1995, Numar persoane,82
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 1996, Numar persoane,69
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 1997, Numar persoane,69
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 1998, Numar persoane,77
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 1992, Numar persoane,77
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 1993, Numar persoane,82
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 1994, Numar persoane,72
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 1995, Numar persoane,67
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 1996, Numar persoane,67
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 1997, Numar persoane,68
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 1998, Numar persoane,62
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 1992, Numar persoane,105
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 1993, Numar persoane,117
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 1994, Numar persoane,115
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 1995, Numar persoane,104
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 1996, Numar persoane,104
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 1997, Numar persoane,111
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 1998, Numar persoane,93
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 1992, Numar persoane,94
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 1993, Numar persoane,87
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 1994, Numar persoane,88
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 1995, Numar persoane,80
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 1996, Numar persoane,76
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 1997, Numar persoane,77
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 1998, Numar persoane,80
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 1992, Numar persoane,132
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 1993, Numar persoane,125
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 1994, Numar persoane,118
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 1995, Numar persoane,101
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 1996, Numar persoane,112
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 1997, Numar persoane,103
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 1998, Numar persoane,113
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 1992, Numar persoane,121
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 1993, Numar persoane,113
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 1994, Numar persoane,101
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 1995, Numar persoane,103
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 1996, Numar persoane,104
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 1997, Numar persoane,90
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 1998, Numar persoane,86
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 1992, Numar persoane,75
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 1993, Numar persoane,80
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 1994, Numar persoane,88
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 1995, Numar persoane,107
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 1996, Numar persoane,106
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 1997, Numar persoane,108
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 1998, Numar persoane,105
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 1992, Numar persoane,67
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 1993, Numar persoane,76
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 1994, Numar persoane,90
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 1995, Numar persoane,93
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 1996, Numar persoane,89
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 1997, Numar persoane,104
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 1998, Numar persoane,97
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 1992, Numar persoane,78
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 1993, Numar persoane,73
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 1994, Numar persoane,56
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 1995, Numar persoane,62
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 1996, Numar persoane,64
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 1997, Numar persoane,67
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 1998, Numar persoane,71
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 1992, Numar persoane,77
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 1993, Numar persoane,77
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 1994, Numar persoane,70
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 1995, Numar persoane,65
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 1996, Numar persoane,74
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 1997, Numar persoane,62
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 1998, Numar persoane,69
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 1992, Numar persoane,98
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 1993, Numar persoane,101
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 1994, Numar persoane,103
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 1995, Numar persoane,85
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 1996, Numar persoane,81
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 1997, Numar persoane,71
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 1998, Numar persoane,65
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 1992, Numar persoane,81
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 1993, Numar persoane,86
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 1994, Numar persoane,92
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 1995, Numar persoane,92
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 1996, Numar persoane,75
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 1997, Numar persoane,81
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 1998, Numar persoane,80
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 1992, Numar persoane,96
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 1993, Numar persoane,94
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 1994, Numar persoane,77
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 1995, Numar persoane,85
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 1996, Numar persoane,83
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 1997, Numar persoane,100
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 1998, Numar persoane,103
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 1992, Numar persoane,102
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 1993, Numar persoane,96
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 1994, Numar persoane,90
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 1995, Numar persoane,91
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 1996, Numar persoane,90
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 1997, Numar persoane,79
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 1998, Numar persoane,86
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 1992, Numar persoane,86
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 1993, Numar persoane,82
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 1994, Numar persoane,92
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 1995, Numar persoane,94
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 1996, Numar persoane,90
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 1997, Numar persoane,87
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 1998, Numar persoane,85
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 1992, Numar persoane,78
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 1993, Numar persoane,82
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 1994, Numar persoane,88
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 1995, Numar persoane,87
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 1996, Numar persoane,99
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 1997, Numar persoane,94
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 1998, Numar persoane,92
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 1992, Numar persoane,95
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 1993, Numar persoane,95
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 1994, Numar persoane,85
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 1995, Numar persoane,70
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 1996, Numar persoane,69
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 1997, Numar persoane,72
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 1998, Numar persoane,76
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 1992, Numar persoane,102
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 1993, Numar persoane,96
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 1994, Numar persoane,78
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 1995, Numar persoane,74
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 1996, Numar persoane,71
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 1997, Numar persoane,73
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 1998, Numar persoane,73
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 1992, Numar persoane,80
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 1993, Numar persoane,74
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 1994, Numar persoane,83
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 1995, Numar persoane,87
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 1996, Numar persoane,89
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 1997, Numar persoane,77
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 1998, Numar persoane,75
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 1992, Numar persoane,87
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 1993, Numar persoane,85
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 1994, Numar persoane,98
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 1995, Numar persoane,92
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 1996, Numar persoane,86
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 1997, Numar persoane,85
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 1998, Numar persoane,83
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 1992, Numar persoane,78
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 1993, Numar persoane,83
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 1994, Numar persoane,84
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 1995, Numar persoane,80
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 1996, Numar persoane,70
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 1997, Numar persoane,67
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 1998, Numar persoane,62
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 1992, Numar persoane,87
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 1993, Numar persoane,91
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 1994, Numar persoane,85
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 1995, Numar persoane,84
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 1996, Numar persoane,89
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 1997, Numar persoane,83
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 1998, Numar persoane,80
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 1992, Numar persoane,76
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 1993, Numar persoane,72
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 1994, Numar persoane,65
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 1995, Numar persoane,68
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 1996, Numar persoane,56
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 1997, Numar persoane,64
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 1998, Numar persoane,66
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 1992, Numar persoane,108
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 1993, Numar persoane,95
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 1994, Numar persoane,85
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 1995, Numar persoane,89
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 1996, Numar persoane,81
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 1997, Numar persoane,75
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 1998, Numar persoane,81
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 1992, Numar persoane,31
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 1993, Numar persoane,35
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 1994, Numar persoane,42
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 1995, Numar persoane,50
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 1996, Numar persoane,66
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 1997, Numar persoane,58
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 1998, Numar persoane,52
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 1992, Numar persoane,60
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 1993, Numar persoane,70
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 1994, Numar persoane,86
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 1995, Numar persoane,88
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 1996, Numar persoane,88
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 1997, Numar persoane,92
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 1998, Numar persoane,75
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 1992, Numar persoane,23
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 1993, Numar persoane,21
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 1994, Numar persoane,20
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 1995, Numar persoane,14
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 1996, Numar persoane,15
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 1997, Numar persoane,22
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 1998, Numar persoane,27
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 1992, Numar persoane,47
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 1993, Numar persoane,36
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 1994, Numar persoane,34
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 1995, Numar persoane,36
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 1996, Numar persoane,36
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 1997, Numar persoane,47
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 1998, Numar persoane,56
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 1992, Numar persoane,22
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 1993, Numar persoane,16
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 1994, Numar persoane,13
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 1995, Numar persoane,18
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 1996, Numar persoane,15
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 1997, Numar persoane,10
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 1998, Numar persoane,10
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 1992, Numar persoane,33
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 1993, Numar persoane,36
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 1994, Numar persoane,30
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 1995, Numar persoane,37
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 1996, Numar persoane,38
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 1997, Numar persoane,31
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 1998, Numar persoane,26
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 1992, Numar persoane,12
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 1993, Numar persoane,11
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 1994, Numar persoane,7
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 1995, Numar persoane,6
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 1996, Numar persoane,9
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 1997, Numar persoane,9
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 1998, Numar persoane,8
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 1992, Numar persoane,18
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 1993, Numar persoane,22
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 1994, Numar persoane,25
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 1995, Numar persoane,17
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 1996, Numar persoane,18
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 1997, Numar persoane,18
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 1998, Numar persoane,21
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 1999, Numar persoane,35
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2000, Numar persoane,38
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2001, Numar persoane,38
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2002, Numar persoane,41
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2003, Numar persoane,46
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2004, Numar persoane,43
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,36
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,47
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 1999, Numar persoane,46
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2000, Numar persoane,49
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2001, Numar persoane,42
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2002, Numar persoane,40
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2003, Numar persoane,37
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2004, Numar persoane,34
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,36
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,37
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 1999, Numar persoane,51
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2000, Numar persoane,53
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2001, Numar persoane,53
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2002, Numar persoane,50
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2003, Numar persoane,39
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2004, Numar persoane,39
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,40
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,41
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 1999, Numar persoane,60
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2000, Numar persoane,46
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2001, Numar persoane,58
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2002, Numar persoane,48
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2003, Numar persoane,52
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2004, Numar persoane,53
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,52
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,47
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 1999, Numar persoane,84
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2000, Numar persoane,85
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2001, Numar persoane,87
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2002, Numar persoane,73
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2003, Numar persoane,73
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2004, Numar persoane,62
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,61
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,59
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 1999, Numar persoane,68
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2000, Numar persoane,81
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2001, Numar persoane,80
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2002, Numar persoane,83
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2003, Numar persoane,77
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2004, Numar persoane,68
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,56
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,63
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 1999, Numar persoane,80
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2000, Numar persoane,82
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2001, Numar persoane,71
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2002, Numar persoane,74
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2003, Numar persoane,82
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2004, Numar persoane,92
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,95
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,110
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 1999, Numar persoane,75
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2000, Numar persoane,73
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2001, Numar persoane,72
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2002, Numar persoane,71
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2003, Numar persoane,64
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2004, Numar persoane,73
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,84
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,85
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 1999, Numar persoane,119
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2000, Numar persoane,107
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2001, Numar persoane,110
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2002, Numar persoane,113
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2003, Numar persoane,89
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2004, Numar persoane,84
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,88
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,85
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 1999, Numar persoane,93
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2000, Numar persoane,82
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2001, Numar persoane,81
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2002, Numar persoane,81
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2003, Numar persoane,87
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2004, Numar persoane,83
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,76
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,88
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 1999, Numar persoane,103
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2000, Numar persoane,96
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2001, Numar persoane,115
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2002, Numar persoane,110
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2003, Numar persoane,115
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2004, Numar persoane,119
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,113
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,120
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 1999, Numar persoane,94
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2000, Numar persoane,103
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2001, Numar persoane,102
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2002, Numar persoane,91
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2003, Numar persoane,95
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2004, Numar persoane,98
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,99
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,107
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 1999, Numar persoane,82
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2000, Numar persoane,99
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2001, Numar persoane,106
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2002, Numar persoane,111
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2003, Numar persoane,117
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2004, Numar persoane,118
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,115
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,133
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 1999, Numar persoane,84
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2000, Numar persoane,95
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2001, Numar persoane,96
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2002, Numar persoane,114
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2003, Numar persoane,102
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2004, Numar persoane,101
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,116
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,123
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 1999, Numar persoane,62
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2000, Numar persoane,68
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2001, Numar persoane,67
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2002, Numar persoane,74
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2003, Numar persoane,79
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2004, Numar persoane,91
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,112
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,121
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 1999, Numar persoane,78
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2000, Numar persoane,78
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2001, Numar persoane,85
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2002, Numar persoane,74
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2003, Numar persoane,89
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2004, Numar persoane,98
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,112
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,123
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 1999, Numar persoane,106
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2000, Numar persoane,86
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2001, Numar persoane,90
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2002, Numar persoane,83
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2003, Numar persoane,79
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2004, Numar persoane,73
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,82
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,92
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 1999, Numar persoane,97
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2000, Numar persoane,96
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2001, Numar persoane,86
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2002, Numar persoane,88
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2003, Numar persoane,89
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2004, Numar persoane,93
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,99
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,111
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 1999, Numar persoane,82
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2000, Numar persoane,91
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2001, Numar persoane,90
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2002, Numar persoane,101
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2003, Numar persoane,108
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2004, Numar persoane,121
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,113
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,112
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 1999, Numar persoane,87
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2000, Numar persoane,93
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2001, Numar persoane,97
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2002, Numar persoane,90
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2003, Numar persoane,95
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2004, Numar persoane,106
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,113
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,106
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 1999, Numar persoane,82
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2000, Numar persoane,88
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2001, Numar persoane,88
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2002, Numar persoane,85
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2003, Numar persoane,93
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2004, Numar persoane,88
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,94
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,108
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 1999, Numar persoane,80
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2000, Numar persoane,81
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2001, Numar persoane,90
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2002, Numar persoane,95
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2003, Numar persoane,100
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2004, Numar persoane,103
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,108
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,111
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 1999, Numar persoane,77
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2000, Numar persoane,64
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2001, Numar persoane,67
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2002, Numar persoane,70
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2003, Numar persoane,74
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2004, Numar persoane,80
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,99
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,95
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 1999, Numar persoane,72
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2000, Numar persoane,65
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2001, Numar persoane,68
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2002, Numar persoane,70
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2003, Numar persoane,75
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2004, Numar persoane,80
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,86
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,109
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 1999, Numar persoane,63
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2000, Numar persoane,73
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2001, Numar persoane,78
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2002, Numar persoane,72
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2003, Numar persoane,73
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2004, Numar persoane,77
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,64
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,71
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 1999, Numar persoane,88
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2000, Numar persoane,85
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2001, Numar persoane,78
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2002, Numar persoane,78
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2003, Numar persoane,76
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2004, Numar persoane,71
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,70
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,75
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 1999, Numar persoane,69
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2000, Numar persoane,64
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2001, Numar persoane,55
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2002, Numar persoane,52
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2003, Numar persoane,49
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2004, Numar persoane,60
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,70
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,75
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 1999, Numar persoane,75
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2000, Numar persoane,79
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2001, Numar persoane,78
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2002, Numar persoane,73
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2003, Numar persoane,73
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2004, Numar persoane,77
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,69
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,69
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 1999, Numar persoane,46
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2000, Numar persoane,53
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2001, Numar persoane,46
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2002, Numar persoane,51
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2003, Numar persoane,53
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2004, Numar persoane,52
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,50
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,43
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 1999, Numar persoane,66
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2000, Numar persoane,66
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2001, Numar persoane,63
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2002, Numar persoane,58
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2003, Numar persoane,66
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2004, Numar persoane,60
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,66
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,61
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 1999, Numar persoane,32
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2000, Numar persoane,31
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2001, Numar persoane,42
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2002, Numar persoane,39
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2003, Numar persoane,35
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2004, Numar persoane,32
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,34
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,25
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 1999, Numar persoane,69
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2000, Numar persoane,71
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2001, Numar persoane,70
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2002, Numar persoane,71
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2003, Numar persoane,58
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2004, Numar persoane,57
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,55
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,57
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 1999, Numar persoane,9
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2000, Numar persoane,10
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2001, Numar persoane,12
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2002, Numar persoane,12
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2003, Numar persoane,19
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2004, Numar persoane,20
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,17
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,29
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 1999, Numar persoane,25
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2000, Numar persoane,24
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2001, Numar persoane,23
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2002, Numar persoane,31
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2003, Numar persoane,40
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2004, Numar persoane,48
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,45
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,41
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 1999, Numar persoane,8
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2000, Numar persoane,10
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2001, Numar persoane,8
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2002, Numar persoane,9
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2003, Numar persoane,5
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2004, Numar persoane,6
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,9
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,6
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 1999, Numar persoane,19
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2000, Numar persoane,21
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2001, Numar persoane,23
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2002, Numar persoane,21
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2003, Numar persoane,16
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2004, Numar persoane,17
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,19
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,21
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,65
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,77
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,106
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,145
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,171
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,191
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,62
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,71
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,80
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,120
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,145
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,158
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,45
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,55
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,61
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,66
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,111
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,139
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,58
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,52
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,52
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,74
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,95
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,139
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,59
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,57
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,60
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,74
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,82
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,96
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,65
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,71
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,88
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,81
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,97
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,101
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,108
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,108
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,107
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,110
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,120
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,123
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,97
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,104
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,101
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,117
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,141
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,135
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,92
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,109
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,132
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,140
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,161
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,153
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,93
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,90
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,120
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,139
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,155
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,181
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,132
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,142
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,145
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,167
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,169
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,186
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,123
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,152
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,166
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,190
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,218
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,211
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,150
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,168
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,200
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,216
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,242
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,270
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,139
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,165
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,201
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,234
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,262
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,306
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,143
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,175
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,193
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,235
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,287
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,317
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,165
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,167
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,191
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,239
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,284
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,313
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,98
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,119
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,157
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,214
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,267
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,315
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,110
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,142
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,171
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,217
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,264
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,312
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,111
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,105
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,119
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,142
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,153
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,171
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,117
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,127
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,148
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,165
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,179
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,185
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,123
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,146
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,169
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,169
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,176
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,175
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,116
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,147
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,161
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,174
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,163
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,179
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,106
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,113
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,107
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,119
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,150
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,177
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,119
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,132
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,145
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,164
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,185
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,190
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,80
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,93
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,109
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,129
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,131
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,143
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,85
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,89
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,103
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,118
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,155
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,166
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,70
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,73
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,83
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,78
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,89
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,94
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,76
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,87
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,79
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,88
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,97
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,112
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,46
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,44
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,52
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,69
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,76
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,75
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,62
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,64
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,72
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,71
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,71
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,76
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,31
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,37
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,41
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,37
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,30
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,30
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,49
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,52
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,54
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,58
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,57
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,62
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,24
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,25
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,22
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,24
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,22
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,25
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,49
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,42
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,44
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,45
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,50
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,42
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,10
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,11
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,15
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,14
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,22
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,21
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,24
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,31
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,36
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,35
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,30
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,38
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,225
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,230
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,256
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,294
+ 155261 DUMBRAVITA,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,338
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,201
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,231
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,244
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,289
+ 155261 DUMBRAVITA,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,319
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,179
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,227
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,273
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,301
+ 155261 DUMBRAVITA,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,336
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,164
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,191
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,230
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,252
+ 155261 DUMBRAVITA,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,288
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,107
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,133
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,144
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,188
+ 155261 DUMBRAVITA,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,229
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,129
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,138
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,169
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,203
+ 155261 DUMBRAVITA,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,250
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,123
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,128
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,137
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,158
+ 155261 DUMBRAVITA,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,194
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,133
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,150
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,148
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,167
+ 155261 DUMBRAVITA,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,196
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,156
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,156
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,151
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,153
+ 155261 DUMBRAVITA,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,165
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,183
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,176
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,164
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,181
+ 155261 DUMBRAVITA,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,189
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,202
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,241
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,257
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,256
+ 155261 DUMBRAVITA,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,286
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,240
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,269
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,311
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,341
+ 155261 DUMBRAVITA,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,405
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,295
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,307
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,340
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,381
+ 155261 DUMBRAVITA,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,433
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,363
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,387
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,415
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,463
+ 155261 DUMBRAVITA,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,485
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,376
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,419
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,430
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,500
+ 155261 DUMBRAVITA,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,561
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,359
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,414
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,446
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,531
+ 155261 DUMBRAVITA,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,616
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,336
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,371
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,401
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,433
+ 155261 DUMBRAVITA,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,487
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,327
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,340
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,381
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,427
+ 155261 DUMBRAVITA,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,488
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,209
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,257
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,324
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,402
+ 155261 DUMBRAVITA,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,462
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,227
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,275
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,317
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,376
+ 155261 DUMBRAVITA,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,427
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,163
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,187
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,196
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,193
+ 155261 DUMBRAVITA,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,217
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,186
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,198
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,214
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,228
+ 155261 DUMBRAVITA,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,240
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,212
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,224
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,213
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,224
+ 155261 DUMBRAVITA,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,215
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,215
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,224
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,234
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,225
+ 155261 DUMBRAVITA,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,235
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,147
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,143
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,158
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,174
+ 155261 DUMBRAVITA,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,221
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,177
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,191
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,206
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,236
+ 155261 DUMBRAVITA,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,274
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,108
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,127
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,147
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,154
+ 155261 DUMBRAVITA,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,172
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,125
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,138
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,146
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,172
+ 155261 DUMBRAVITA,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,191
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,78
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,85
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,81
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,90
+ 155261 DUMBRAVITA,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,98
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,86
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,87
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,106
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,116
+ 155261 DUMBRAVITA,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,130
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,31
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,41
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,57
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,64
+ 155261 DUMBRAVITA,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,70
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,61
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,68
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,68
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,74
+ 155261 DUMBRAVITA,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,78
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,28
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,26
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,20
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,16
+ 155261 DUMBRAVITA,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,20
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,50
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,57
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,55
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,55
+ 155261 DUMBRAVITA,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,56
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,25
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,24
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,22
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,21
+ 155261 DUMBRAVITA,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,23
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,36
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,39
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,43
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,45
+ 155261 DUMBRAVITA,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,41

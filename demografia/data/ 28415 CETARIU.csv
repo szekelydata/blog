@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,86
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,86
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,85
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,85
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,80
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,80
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,67
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,77
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,87
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,91
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,84
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,89
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,82
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,80
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,79
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,84
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,107
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,104
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,105
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,90
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,95
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,79
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,86
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,91
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,68
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,68
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,69
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,71
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,79
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,85
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,93
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,91
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,136
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,125
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,114
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,115
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,105
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,102
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,99
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,107
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,124
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,104
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,102
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,102
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,82
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,65
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,67
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,78
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,153
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,160
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,165
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,151
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,142
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,137
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,126
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,113
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,135
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,137
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,130
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,108
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,125
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,121
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,103
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,104
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,198
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,176
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,156
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,156
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,152
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,149
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,154
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,159
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,148
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,138
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,132
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,136
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,118
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,119
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,128
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,114
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,97
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,116
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,140
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,151
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,169
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,172
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,161
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,142
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,64
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,67
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,78
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,91
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,108
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,116
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,115
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,127
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,89
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,79
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,75
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,77
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,73
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,88
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,111
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,135
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,96
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,85
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,68
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,56
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,54
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,51
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,56
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,73
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,147
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,136
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,123
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,112
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,111
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,86
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,75
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,75
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,98
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,104
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,108
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,105
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,99
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,91
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,82
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,71
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,114
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,118
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,121
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,126
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,112
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,135
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,128
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,123
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,131
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,127
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,117
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,119
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,111
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,99
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,103
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,111
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,128
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,124
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,119
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,114
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,114
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,105
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,110
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,117
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,109
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,105
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,116
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,120
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,124
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,128
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,127
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,119
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,128
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,129
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,128
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,127
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,123
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,121
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,117
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,111
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,161
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,153
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,133
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,119
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,109
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,106
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,102
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,115
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,138
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,116
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,114
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,116
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,119
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,112
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,115
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,122
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,174
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,163
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,169
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,161
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,160
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,156
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,150
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,128
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,156
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,160
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,151
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,138
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,134
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,125
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,98
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,92
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,196
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,203
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,187
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,192
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,178
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,166
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,156
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,160
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,162
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,146
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,132
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,122
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,121
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,118
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,129
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,121
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,175
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,169
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,166
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,167
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,165
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,177
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,188
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,166
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,96
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,101
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,115
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,122
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,115
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,119
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,111
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,98
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,120
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,130
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,149
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,148
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,149
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,140
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,134
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,134
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,68
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,61
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,55
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,49
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,54
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,53
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,56
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,70
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,91
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,80
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,71
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,70
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,76
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,91
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,91
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,110
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,39
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,43
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,46
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,52
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,42
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,32
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,25
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,28
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,68
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,68
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,62
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,64
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,58
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,50
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,52
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,48
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,14
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,13
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,8
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,10
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,12
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,12
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,13
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,11
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,27
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,28
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,33
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,36
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,32
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,34
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,29
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,25
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,78
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,78
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,86
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,97
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,40
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,40
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,41
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,80
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,84
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,81
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,77
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,28
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,25
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,31
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,92
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,86
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,93
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,78
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,54
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,52
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,47
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,95
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,86
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,86
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,78
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,41
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,36
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,32
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,101
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,101
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,87
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,94
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,50
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,58
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,59
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,81
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,88
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,95
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,100
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,52
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,54
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,51
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,119
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,113
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,112
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,114
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,69
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,64
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,64
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,103
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,86
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,70
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,73
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,42
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,51
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,53
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,149
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,147
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,136
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,128
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,66
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,67
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,64
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,94
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,108
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,114
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,104
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,49
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,55
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,49
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,146
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,141
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,147
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,163
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,86
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,85
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,86
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,137
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,122
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,117
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,130
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,71
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,59
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,65
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,152
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,166
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,171
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,163
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,85
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,86
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,84
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,95
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,113
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,131
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,127
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,76
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,85
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,76
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,77
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,77
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,89
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,118
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,91
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,104
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,109
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,62
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,59
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,58
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,66
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,49
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,60
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,76
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,110
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,111
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,91
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,84
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,54
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,52
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,55
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,111
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,109
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,106
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,104
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,48
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,47
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,40
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,135
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,120
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,142
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,136
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,72
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,68
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,72
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,122
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,116
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,106
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,118
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,70
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,68
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,68
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,105
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,107
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,100
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,116
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,70
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,86
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,69
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,121
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,125
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,127
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,128
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,70
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,72
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,66
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,119
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,121
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,115
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,113
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,67
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,63
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,67
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,116
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,108
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,109
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,107
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,80
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,81
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,84
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,100
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,103
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,101
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,109
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,71
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,66
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,68
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,156
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,155
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,149
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,141
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,86
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,78
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,70
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,108
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,106
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,101
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,90
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,55
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,58
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,60
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,169
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,164
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,152
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,145
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,95
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,93
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,92
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,94
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,89
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,92
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,95
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,54
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,54
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,54
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,132
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,141
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,148
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,157
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,84
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,86
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,85
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,72
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,73
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,79
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,78
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,46
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,37
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,36
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,102
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,97
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,93
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,87
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,59
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,52
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,58
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,23
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,21
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,22
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,24
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,18
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,22
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,23
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,44
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,43
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,46
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,50
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,30
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,34
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,35
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,18
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,17
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,16
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,14
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,7
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,10
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,9
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,23
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,28
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,23
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,16
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,11
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,15
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,13
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,37
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,34
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,34
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,36
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,36
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,41
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,38
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,44
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,47
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,53
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,52
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,51
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,48
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,49
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,41
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,40
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,41
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,34
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,29
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,26
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,27
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,25
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,33
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,41
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,63
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,56
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,56
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,54
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,50
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,51
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,49
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,48
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,39
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,37
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,33
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,37
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,57
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,58
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,60
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,66
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,68
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,78
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,56
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,60
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,61
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,56
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,58
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,58
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,62
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,63
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,68
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,67
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,70
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,71
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,44
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,42
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,40
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,55
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,59
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,60
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,78
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,69
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,66
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,66
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,70
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,69
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,71
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,65
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,63
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,60
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,51
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,43
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,88
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,94
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,90
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,83
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,87
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,87
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,67
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,77
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,74
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,60
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,75
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,82
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,114
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,108
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,92
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,88
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,95
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,95
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,86
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,81
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,84
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,92
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,92
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,83
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,64
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,76
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,101
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,111
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,113
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,120
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,39
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,48
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,58
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,65
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,74
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,89
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,60
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,60
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,57
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,55
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,56
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,63
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,65
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,65
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,55
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,52
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,48
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,47
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,80
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,75
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,74
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,66
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,68
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,56
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,66
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,67
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,77
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,72
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,75
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,71
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,66
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,71
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,78
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,88
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,70
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,76
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,80
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,74
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,71
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,74
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,72
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,71
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,64
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,65
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,67
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,59
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,66
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,65
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,67
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,69
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,78
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,86
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,85
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,86
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,63
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,67
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,68
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,61
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,59
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,54
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,94
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,90
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,80
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,70
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,70
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,67
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,56
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,49
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,46
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,50
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,53
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,55
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,75
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,70
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,79
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,76
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,76
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,78
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,32
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,42
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,40
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,43
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,44
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,42
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,63
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,66
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,54
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,64
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,62
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,58
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,25
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,26
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,28
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,20
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,17
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,15
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,34
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,30
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,39
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,39
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,39
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,42
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,9
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,7
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,9
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,12
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,11
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,16
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,16
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,18
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,16
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,18
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,19
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,22
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,48
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,50
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,51
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,56
+ 28415 CETARIU,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,50
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,54
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,53
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,54
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,48
+ 28415 CETARIU,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,36
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,34
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,37
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,39
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,39
+ 28415 CETARIU,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,47
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,46
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,51
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,57
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,61
+ 28415 CETARIU,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,65
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,50
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,47
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,38
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,41
+ 28415 CETARIU,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,36
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,31
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,34
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,39
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,39
+ 28415 CETARIU,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,44
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,70
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,65
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,66
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,59
+ 28415 CETARIU,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,61
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,58
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,53
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,49
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,45
+ 28415 CETARIU,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,42
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,71
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,76
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,74
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,71
+ 28415 CETARIU,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,75
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,62
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,59
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,58
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,65
+ 28415 CETARIU,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,60
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,65
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,75
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,78
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,73
+ 28415 CETARIU,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,69
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,45
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,46
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,56
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,51
+ 28415 CETARIU,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,58
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,86
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,84
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,74
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,74
+ 28415 CETARIU,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,77
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,80
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,75
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,67
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,64
+ 28415 CETARIU,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,53
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,99
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,94
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,97
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,99
+ 28415 CETARIU,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,100
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,85
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,87
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,79
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,83
+ 28415 CETARIU,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,90
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,114
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,101
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,98
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,97
+ 28415 CETARIU,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,99
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,89
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,88
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,99
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,94
+ 28415 CETARIU,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,85
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,80
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,105
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,121
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,118
+ 28415 CETARIU,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,118
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,52
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,61
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,66
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,77
+ 28415 CETARIU,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,93
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,54
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,55
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,51
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,56
+ 28415 CETARIU,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,62
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,68
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,57
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,59
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,52
+ 28415 CETARIU,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,50
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,70
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,63
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,59
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,64
+ 28415 CETARIU,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,54
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,73
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,79
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,74
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,75
+ 28415 CETARIU,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,74
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,71
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,72
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,79
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,67
+ 28415 CETARIU,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,68
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,79
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,67
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,68
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,72
+ 28415 CETARIU,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,67
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,48
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,55
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,51
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,48
+ 28415 CETARIU,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,53
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,67
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,78
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,83
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,76
+ 28415 CETARIU,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,77
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,54
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,47
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,40
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,42
+ 28415 CETARIU,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,40
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,80
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,70
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,62
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,64
+ 28415 CETARIU,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,65
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,34
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,29
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,33
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,38
+ 28415 CETARIU,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,34
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,53
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,57
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,57
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,56
+ 28415 CETARIU,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,62
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,21
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,21
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,21
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,22
+ 28415 CETARIU,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,27
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,47
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,39
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,41
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,42
+ 28415 CETARIU,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,37
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,15
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,16
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,13
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,13
+ 28415 CETARIU,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,13
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,26
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,26
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,23
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,27
+ 28415 CETARIU,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,33

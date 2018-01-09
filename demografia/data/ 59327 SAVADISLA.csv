@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,135
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,135
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,125
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,114
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,95
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,85
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,77
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,81
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,74
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,126
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,122
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,111
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,95
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,86
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,78
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,70
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,71
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,76
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,124
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,116
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,122
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,133
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,140
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,134
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,140
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,122
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,115
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,102
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,102
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,104
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,110
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,116
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,121
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,118
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,112
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,97
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,142
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,131
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,128
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,126
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,125
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,124
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,124
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,133
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,138
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,125
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,125
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,122
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,126
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,122
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,100
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,104
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,106
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,114
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,165
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,168
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,150
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,141
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,140
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,141
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,128
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,127
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,130
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,155
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,135
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,136
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,124
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,124
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,122
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,122
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,122
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,126
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,205
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,197
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,189
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,175
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,165
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,153
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,160
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,145
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,139
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,189
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,160
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,146
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,138
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,137
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,141
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,138
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,132
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,122
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,154
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,145
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,166
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,173
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,183
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,179
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,175
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,164
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,157
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,117
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,138
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,156
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,162
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,165
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,154
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,138
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,134
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,139
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,155
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,154
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,142
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,128
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,121
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,129
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,135
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,155
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,164
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,127
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,120
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,104
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,92
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,97
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,107
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,131
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,148
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,155
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,159
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,142
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,143
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,152
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,150
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,145
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,149
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,141
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,127
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,119
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,114
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,121
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,119
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,117
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,117
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,117
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,101
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,95
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,136
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,152
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,145
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,146
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,141
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,142
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,132
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,139
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,153
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,123
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,131
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,122
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,122
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,114
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,109
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,105
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,119
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,120
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,135
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,127
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,129
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,129
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,139
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,129
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,144
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,135
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,139
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,150
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,128
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,127
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,121
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,121
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,117
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,129
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,119
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,119
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,147
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,141
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,126
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,116
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,114
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,125
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,115
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,121
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,117
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,180
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,174
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,163
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,157
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,151
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,140
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,125
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,127
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,120
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,166
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,149
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,149
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,147
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,133
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,130
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,132
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,118
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,113
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,204
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,191
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,182
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,173
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,173
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,167
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,164
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,153
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,151
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,204
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,208
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,206
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,194
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,184
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,152
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,133
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,135
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,136
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,222
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,214
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,213
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,211
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,197
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,197
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,185
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,177
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,161
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,173
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,165
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,155
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,159
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,159
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,178
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,185
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,183
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,169
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,176
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,179
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,187
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,191
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,204
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,208
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,200
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,195
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,190
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,91
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,113
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,132
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,129
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,134
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,130
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,125
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,113
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,121
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,130
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,151
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,155
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,149
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,152
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,152
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,157
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,160
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,162
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,61
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,48
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,43
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,58
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,57
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,65
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,78
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,90
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,84
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,119
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,97
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,90
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,76
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,77
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,94
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,115
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,121
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,120
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,56
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,55
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,55
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,53
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,51
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,42
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,33
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,26
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,28
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,79
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,88
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,81
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,87
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,79
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,71
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,59
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,53
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,52
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,16
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,16
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,17
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,16
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,18
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,21
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,24
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,25
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,25
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,27
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,35
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,41
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,50
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,43
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,43
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,42
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,40
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,44
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,72
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,80
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,73
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,67
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,64
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,68
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,75
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,85
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,80
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,87
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,86
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,81
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,79
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,80
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,79
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,83
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,96
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,88
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,78
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,82
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,86
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,83
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,80
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,76
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,86
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,78
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,71
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,72
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,78
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,82
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,86
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,85
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,144
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,139
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,139
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,121
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,118
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,100
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,99
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,97
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,117
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,124
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,118
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,111
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,96
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,84
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,76
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,70
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,132
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,130
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,130
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,135
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,143
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,141
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,129
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,132
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,122
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,103
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,105
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,104
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,113
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,111
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,116
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,111
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,140
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,144
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,135
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,135
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,134
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,139
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,136
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,140
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,119
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,121
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,121
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,122
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,126
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,119
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,101
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,99
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,153
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,144
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,153
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,148
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,146
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,147
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,148
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,138
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,142
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,142
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,133
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,133
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,129
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,132
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,128
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,126
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,174
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,174
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,172
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,171
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,170
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,160
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,146
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,154
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,152
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,153
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,146
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,143
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,149
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,156
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,158
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,154
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,121
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,130
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,133
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,152
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,174
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,190
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,191
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,192
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,105
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,112
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,126
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,146
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,161
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,164
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,167
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,162
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,153
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,148
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,146
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,145
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,136
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,130
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,137
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,141
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,119
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,121
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,119
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,109
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,105
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,105
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,111
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,127
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,139
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,142
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,137
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,145
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,151
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,150
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,150
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,155
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,116
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,111
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,107
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,121
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,128
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,132
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,134
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,130
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,125
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,126
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,138
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,135
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,140
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,138
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,138
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,134
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,125
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,123
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,135
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,129
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,132
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,128
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,121
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,118
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,110
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,111
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,97
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,103
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,109
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,119
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,121
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,141
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,156
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,151
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,134
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,136
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,130
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,129
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,132
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,148
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,125
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,122
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,120
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,105
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,98
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,91
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,97
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,89
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,158
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,158
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,157
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,154
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,155
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,151
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,147
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,135
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,159
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,127
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,114
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,121
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,119
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,109
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,111
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,107
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,181
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,179
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,168
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,165
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,155
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,158
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,152
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,149
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,128
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,147
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,145
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,143
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,136
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,126
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,105
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,99
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,170
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,177
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,176
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,167
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,166
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,161
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,156
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,147
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,91
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,84
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,85
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,83
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,87
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,97
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,106
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,112
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,129
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,123
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,125
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,133
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,132
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,141
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,144
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,146
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,27
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,36
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,47
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,51
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,48
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,53
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,54
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,58
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,51
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,63
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,78
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,78
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,80
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,80
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,78
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,81
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,26
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,25
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,21
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,21
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,23
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,25
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,24
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,26
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,39
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,37
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,32
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,31
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,36
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,34
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,39
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,49
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,84
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,84
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,88
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,87
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,89
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,88
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,80
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,74
+ 59327 SAVADISLA,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,75
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,77
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,85
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,81
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,75
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,81
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,87
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,85
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,82
+ 59327 SAVADISLA,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,81
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,75
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,76
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,85
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,87
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,89
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,85
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,88
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,93
+ 59327 SAVADISLA,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,91
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,83
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,77
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,82
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,87
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,92
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,82
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,88
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,87
+ 59327 SAVADISLA,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,82
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,94
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,87
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,95
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,84
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,79
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,86
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,84
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,84
+ 59327 SAVADISLA,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,82
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,75
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,81
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,83
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,93
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,92
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,94
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,90
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,85
+ 59327 SAVADISLA,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,100
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,125
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,125
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,113
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,117
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,113
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,110
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,108
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,106
+ 59327 SAVADISLA,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,95
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,108
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,96
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,91
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,86
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,84
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,84
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,91
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,102
+ 59327 SAVADISLA,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,108
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,143
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,146
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,147
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,135
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,134
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,126
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,122
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,113
+ 59327 SAVADISLA,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,121
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,104
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,115
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,113
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,119
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,118
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,111
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,99
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,94
+ 59327 SAVADISLA,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,85
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,134
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,135
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,136
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,146
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,148
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,152
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,150
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,146
+ 59327 SAVADISLA,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,133
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,125
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,126
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,118
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,107
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,106
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,107
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,114
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,116
+ 59327 SAVADISLA,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,120
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,148
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,153
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,154
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,149
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,133
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,134
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,134
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,144
+ 59327 SAVADISLA,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,154
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,145
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,137
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,149
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,151
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,150
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,150
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,141
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,126
+ 59327 SAVADISLA,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,113
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,181
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,172
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,167
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,154
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,161
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,157
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,157
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,157
+ 59327 SAVADISLA,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,150
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,153
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,155
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,162
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,163
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,162
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,157
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,159
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,165
+ 59327 SAVADISLA,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,161
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,159
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,177
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,190
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,199
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,197
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,190
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,182
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,174
+ 59327 SAVADISLA,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,164
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,151
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,164
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,167
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,172
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,169
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,160
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,161
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,167
+ 59327 SAVADISLA,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,166
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,148
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,132
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,131
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,137
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,145
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,161
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,177
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,192
+ 59327 SAVADISLA,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,199
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,113
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,108
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,101
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,106
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,129
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,153
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,160
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,164
+ 59327 SAVADISLA,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,178
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,141
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,148
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,155
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,155
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,150
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,148
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,137
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,131
+ 59327 SAVADISLA,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,135
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,127
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,128
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,129
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,134
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,129
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,115
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,111
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,108
+ 59327 SAVADISLA,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,109
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,136
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,138
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,143
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,139
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,137
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,140
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,148
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,155
+ 59327 SAVADISLA,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,154
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,139
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,135
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,135
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,124
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,122
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,134
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,129
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,137
+ 59327 SAVADISLA,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,143
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,100
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,104
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,118
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,123
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,137
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,129
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,137
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,130
+ 59327 SAVADISLA,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,127
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,137
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,132
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,135
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,138
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,153
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,144
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,148
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,136
+ 59327 SAVADISLA,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,127
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,92
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,89
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,84
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,92
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,83
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,95
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,96
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,111
+ 59327 SAVADISLA,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,115
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,141
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,145
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,143
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,141
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,132
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,133
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,130
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,134
+ 59327 SAVADISLA,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,138
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,108
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,105
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,96
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,96
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,94
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,80
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,76
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,72
+ 59327 SAVADISLA,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,78
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,151
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,141
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,144
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,139
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,135
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,128
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,130
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,129
+ 59327 SAVADISLA,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,126
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,108
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,102
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,97
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,86
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,73
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,74
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,75
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,75
+ 59327 SAVADISLA,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,82
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,134
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,138
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,135
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,132
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,125
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,129
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,121
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,124
+ 59327 SAVADISLA,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,129
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,54
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,63
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,71
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,72
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,74
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,68
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,63
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,58
+ 59327 SAVADISLA,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,48
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,89
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,93
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,92
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,93
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,95
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,89
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,101
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,100
+ 59327 SAVADISLA,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,93
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,31
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,30
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,33
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,39
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,36
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,36
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,36
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,43
+ 59327 SAVADISLA,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,40
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,59
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,58
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,56
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,62
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,63
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,68
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,66
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,62
+ 59327 SAVADISLA,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,63

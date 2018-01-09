@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 1992, Numar persoane,73
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 1993, Numar persoane,73
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 1994, Numar persoane,67
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 1995, Numar persoane,59
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 1996, Numar persoane,55
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 1997, Numar persoane,57
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 1998, Numar persoane,54
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 1999, Numar persoane,51
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2000, Numar persoane,58
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2001, Numar persoane,64
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2002, Numar persoane,63
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2003, Numar persoane,63
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2004, Numar persoane,64
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 1992, Numar persoane,57
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 1993, Numar persoane,57
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 1994, Numar persoane,51
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 1995, Numar persoane,61
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 1996, Numar persoane,59
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 1997, Numar persoane,57
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 1998, Numar persoane,54
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 1999, Numar persoane,52
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2000, Numar persoane,48
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2001, Numar persoane,50
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2002, Numar persoane,50
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2003, Numar persoane,62
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2004, Numar persoane,65
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 1992, Numar persoane,79
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 1993, Numar persoane,78
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 1994, Numar persoane,80
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 1995, Numar persoane,77
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 1996, Numar persoane,84
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 1997, Numar persoane,77
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 1998, Numar persoane,75
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 1999, Numar persoane,71
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2000, Numar persoane,70
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2001, Numar persoane,63
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2002, Numar persoane,59
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2003, Numar persoane,54
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2004, Numar persoane,54
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 1992, Numar persoane,50
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 1993, Numar persoane,49
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 1994, Numar persoane,56
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 1995, Numar persoane,51
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 1996, Numar persoane,55
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 1997, Numar persoane,64
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 1998, Numar persoane,64
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 1999, Numar persoane,61
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2000, Numar persoane,73
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2001, Numar persoane,67
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2002, Numar persoane,63
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2003, Numar persoane,61
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2004, Numar persoane,58
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 1992, Numar persoane,80
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 1993, Numar persoane,64
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 1994, Numar persoane,56
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 1995, Numar persoane,66
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 1996, Numar persoane,65
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 1997, Numar persoane,81
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 1998, Numar persoane,85
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 1999, Numar persoane,93
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2000, Numar persoane,93
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2001, Numar persoane,87
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2002, Numar persoane,82
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2003, Numar persoane,74
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2004, Numar persoane,70
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 1992, Numar persoane,56
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 1993, Numar persoane,53
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 1994, Numar persoane,52
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 1995, Numar persoane,50
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 1996, Numar persoane,54
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 1997, Numar persoane,54
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 1998, Numar persoane,58
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 1999, Numar persoane,66
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2000, Numar persoane,61
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2001, Numar persoane,64
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2002, Numar persoane,66
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2003, Numar persoane,64
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2004, Numar persoane,62
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 1992, Numar persoane,95
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 1993, Numar persoane,90
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 1994, Numar persoane,91
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 1995, Numar persoane,95
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 1996, Numar persoane,86
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 1997, Numar persoane,83
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 1998, Numar persoane,70
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 1999, Numar persoane,63
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2000, Numar persoane,74
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2001, Numar persoane,69
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2002, Numar persoane,88
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2003, Numar persoane,92
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2004, Numar persoane,101
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 1992, Numar persoane,79
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 1993, Numar persoane,72
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 1994, Numar persoane,61
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 1995, Numar persoane,58
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 1996, Numar persoane,48
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 1997, Numar persoane,50
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 1998, Numar persoane,51
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 1999, Numar persoane,50
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2000, Numar persoane,57
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2001, Numar persoane,60
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2002, Numar persoane,63
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2003, Numar persoane,64
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2004, Numar persoane,69
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 1992, Numar persoane,111
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 1993, Numar persoane,111
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 1994, Numar persoane,111
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 1995, Numar persoane,105
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 1996, Numar persoane,101
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 1997, Numar persoane,94
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 1998, Numar persoane,91
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 1999, Numar persoane,101
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2000, Numar persoane,99
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2001, Numar persoane,93
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2002, Numar persoane,83
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2003, Numar persoane,74
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2004, Numar persoane,64
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 1992, Numar persoane,65
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 1993, Numar persoane,62
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 1994, Numar persoane,62
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 1995, Numar persoane,64
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 1996, Numar persoane,69
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 1997, Numar persoane,71
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 1998, Numar persoane,67
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 1999, Numar persoane,64
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2000, Numar persoane,60
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2001, Numar persoane,53
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2002, Numar persoane,52
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2003, Numar persoane,62
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2004, Numar persoane,61
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 1992, Numar persoane,52
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 1993, Numar persoane,64
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 1994, Numar persoane,65
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 1995, Numar persoane,71
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 1996, Numar persoane,82
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 1997, Numar persoane,98
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 1998, Numar persoane,108
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 1999, Numar persoane,106
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2000, Numar persoane,99
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2001, Numar persoane,96
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2002, Numar persoane,91
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2003, Numar persoane,91
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2004, Numar persoane,107
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 1992, Numar persoane,42
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 1993, Numar persoane,48
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 1994, Numar persoane,48
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 1995, Numar persoane,56
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 1996, Numar persoane,66
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 1997, Numar persoane,65
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 1998, Numar persoane,58
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 1999, Numar persoane,63
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2000, Numar persoane,73
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2001, Numar persoane,66
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2002, Numar persoane,71
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2003, Numar persoane,63
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2004, Numar persoane,63
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 1992, Numar persoane,57
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 1993, Numar persoane,40
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 1994, Numar persoane,43
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 1995, Numar persoane,43
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 1996, Numar persoane,48
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 1997, Numar persoane,47
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 1998, Numar persoane,57
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 1999, Numar persoane,56
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2000, Numar persoane,67
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2001, Numar persoane,80
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2002, Numar persoane,93
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2003, Numar persoane,96
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2004, Numar persoane,93
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 1992, Numar persoane,47
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 1993, Numar persoane,33
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 1994, Numar persoane,35
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 1995, Numar persoane,34
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 1996, Numar persoane,36
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 1997, Numar persoane,41
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 1998, Numar persoane,54
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 1999, Numar persoane,55
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2000, Numar persoane,56
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2001, Numar persoane,66
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2002, Numar persoane,68
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2003, Numar persoane,59
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2004, Numar persoane,68
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 1992, Numar persoane,70
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 1993, Numar persoane,67
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 1994, Numar persoane,58
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 1995, Numar persoane,57
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 1996, Numar persoane,55
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 1997, Numar persoane,49
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 1998, Numar persoane,42
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 1999, Numar persoane,46
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2000, Numar persoane,42
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2001, Numar persoane,42
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2002, Numar persoane,42
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2003, Numar persoane,55
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2004, Numar persoane,55
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 1992, Numar persoane,68
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 1993, Numar persoane,69
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 1994, Numar persoane,62
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 1995, Numar persoane,53
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 1996, Numar persoane,42
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 1997, Numar persoane,41
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 1998, Numar persoane,34
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 1999, Numar persoane,36
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2000, Numar persoane,39
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2001, Numar persoane,43
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2002, Numar persoane,47
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2003, Numar persoane,58
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2004, Numar persoane,61
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 1992, Numar persoane,80
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 1993, Numar persoane,74
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 1994, Numar persoane,74
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 1995, Numar persoane,75
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 1996, Numar persoane,76
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 1997, Numar persoane,67
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 1998, Numar persoane,67
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 1999, Numar persoane,59
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2000, Numar persoane,61
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2001, Numar persoane,60
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2002, Numar persoane,55
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2003, Numar persoane,54
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2004, Numar persoane,51
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 1992, Numar persoane,75
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 1993, Numar persoane,68
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 1994, Numar persoane,69
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 1995, Numar persoane,69
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 1996, Numar persoane,75
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 1997, Numar persoane,66
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 1998, Numar persoane,69
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 1999, Numar persoane,64
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2000, Numar persoane,59
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2001, Numar persoane,43
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2002, Numar persoane,43
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2003, Numar persoane,35
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2004, Numar persoane,37
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 1992, Numar persoane,46
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 1993, Numar persoane,48
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 1994, Numar persoane,56
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 1995, Numar persoane,61
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 1996, Numar persoane,66
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 1997, Numar persoane,74
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 1998, Numar persoane,73
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 1999, Numar persoane,72
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2000, Numar persoane,69
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2001, Numar persoane,69
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2002, Numar persoane,64
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2003, Numar persoane,65
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2004, Numar persoane,66
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 1992, Numar persoane,59
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 1993, Numar persoane,63
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 1994, Numar persoane,65
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 1995, Numar persoane,71
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 1996, Numar persoane,70
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 1997, Numar persoane,69
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 1998, Numar persoane,57
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 1999, Numar persoane,58
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2000, Numar persoane,66
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2001, Numar persoane,74
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2002, Numar persoane,69
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2003, Numar persoane,73
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2004, Numar persoane,73
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 1992, Numar persoane,56
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 1993, Numar persoane,53
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 1994, Numar persoane,53
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 1995, Numar persoane,43
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 1996, Numar persoane,42
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 1997, Numar persoane,45
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 1998, Numar persoane,46
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 1999, Numar persoane,54
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2000, Numar persoane,62
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2001, Numar persoane,67
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2002, Numar persoane,76
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2003, Numar persoane,75
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2004, Numar persoane,75
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 1992, Numar persoane,65
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 1993, Numar persoane,63
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 1994, Numar persoane,47
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 1995, Numar persoane,48
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 1996, Numar persoane,45
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 1997, Numar persoane,53
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 1998, Numar persoane,62
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 1999, Numar persoane,63
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2000, Numar persoane,68
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2001, Numar persoane,65
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2002, Numar persoane,67
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2003, Numar persoane,61
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2004, Numar persoane,66
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 1992, Numar persoane,64
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 1993, Numar persoane,65
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 1994, Numar persoane,59
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 1995, Numar persoane,67
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 1996, Numar persoane,58
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 1997, Numar persoane,54
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 1998, Numar persoane,50
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 1999, Numar persoane,48
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2000, Numar persoane,43
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2001, Numar persoane,41
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2002, Numar persoane,44
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2003, Numar persoane,46
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2004, Numar persoane,59
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 1992, Numar persoane,91
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 1993, Numar persoane,82
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 1994, Numar persoane,92
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 1995, Numar persoane,77
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 1996, Numar persoane,70
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 1997, Numar persoane,61
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 1998, Numar persoane,56
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 1999, Numar persoane,43
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2000, Numar persoane,48
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2001, Numar persoane,48
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2002, Numar persoane,55
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2003, Numar persoane,65
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2004, Numar persoane,70
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 1992, Numar persoane,82
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 1993, Numar persoane,71
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 1994, Numar persoane,65
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 1995, Numar persoane,59
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 1996, Numar persoane,50
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 1997, Numar persoane,55
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 1998, Numar persoane,61
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 1999, Numar persoane,56
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2000, Numar persoane,61
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2001, Numar persoane,53
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2002, Numar persoane,49
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2003, Numar persoane,47
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2004, Numar persoane,46
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 1992, Numar persoane,82
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 1993, Numar persoane,85
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 1994, Numar persoane,83
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 1995, Numar persoane,85
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 1996, Numar persoane,84
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 1997, Numar persoane,88
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 1998, Numar persoane,80
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 1999, Numar persoane,84
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2000, Numar persoane,72
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2001, Numar persoane,67
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2002, Numar persoane,58
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2003, Numar persoane,57
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2004, Numar persoane,46
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 1992, Numar persoane,70
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 1993, Numar persoane,67
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 1994, Numar persoane,68
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 1995, Numar persoane,74
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 1996, Numar persoane,73
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 1997, Numar persoane,70
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 1998, Numar persoane,59
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 1999, Numar persoane,55
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2000, Numar persoane,48
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2001, Numar persoane,44
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2002, Numar persoane,49
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2003, Numar persoane,53
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2004, Numar persoane,48
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 1992, Numar persoane,105
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 1993, Numar persoane,93
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 1994, Numar persoane,97
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 1995, Numar persoane,92
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 1996, Numar persoane,85
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 1997, Numar persoane,75
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 1998, Numar persoane,79
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 1999, Numar persoane,77
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2000, Numar persoane,79
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2001, Numar persoane,81
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2002, Numar persoane,87
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2003, Numar persoane,74
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2004, Numar persoane,83
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 1992, Numar persoane,36
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 1993, Numar persoane,52
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 1994, Numar persoane,62
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 1995, Numar persoane,57
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 1996, Numar persoane,59
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 1997, Numar persoane,53
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 1998, Numar persoane,54
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 1999, Numar persoane,49
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2000, Numar persoane,52
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2001, Numar persoane,57
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2002, Numar persoane,52
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2003, Numar persoane,42
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2004, Numar persoane,47
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 1992, Numar persoane,64
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 1993, Numar persoane,81
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 1994, Numar persoane,81
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 1995, Numar persoane,96
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 1996, Numar persoane,95
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 1997, Numar persoane,86
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 1998, Numar persoane,82
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 1999, Numar persoane,83
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2000, Numar persoane,75
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2001, Numar persoane,68
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2002, Numar persoane,62
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2003, Numar persoane,72
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2004, Numar persoane,70
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 1992, Numar persoane,29
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 1993, Numar persoane,23
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 1994, Numar persoane,20
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 1995, Numar persoane,15
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 1996, Numar persoane,17
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 1997, Numar persoane,23
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 1998, Numar persoane,32
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 1999, Numar persoane,40
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2000, Numar persoane,39
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2001, Numar persoane,41
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2002, Numar persoane,41
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2003, Numar persoane,43
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2004, Numar persoane,33
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 1992, Numar persoane,38
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 1993, Numar persoane,25
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 1994, Numar persoane,24
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 1995, Numar persoane,19
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 1996, Numar persoane,34
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 1997, Numar persoane,53
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 1998, Numar persoane,62
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 1999, Numar persoane,59
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2000, Numar persoane,72
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2001, Numar persoane,71
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2002, Numar persoane,71
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2003, Numar persoane,67
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2004, Numar persoane,65
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 1992, Numar persoane,26
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 1993, Numar persoane,22
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 1994, Numar persoane,20
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 1995, Numar persoane,21
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 1996, Numar persoane,18
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 1997, Numar persoane,13
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 1998, Numar persoane,12
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 1999, Numar persoane,9
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2000, Numar persoane,8
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2001, Numar persoane,6
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2002, Numar persoane,12
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2003, Numar persoane,20
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2004, Numar persoane,26
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 1992, Numar persoane,31
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 1993, Numar persoane,31
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 1994, Numar persoane,28
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 1995, Numar persoane,34
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 1996, Numar persoane,27
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 1997, Numar persoane,21
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 1998, Numar persoane,11
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 1999, Numar persoane,13
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2000, Numar persoane,12
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2001, Numar persoane,18
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2002, Numar persoane,29
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2003, Numar persoane,37
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2004, Numar persoane,35
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 1992, Numar persoane,11
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 1993, Numar persoane,9
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 1994, Numar persoane,9
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 1995, Numar persoane,8
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 1996, Numar persoane,9
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 1997, Numar persoane,6
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 1998, Numar persoane,6
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 1999, Numar persoane,6
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2000, Numar persoane,6
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2001, Numar persoane,7
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2002, Numar persoane,7
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2003, Numar persoane,7
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2004, Numar persoane,8
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 1992, Numar persoane,12
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 1993, Numar persoane,13
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 1994, Numar persoane,12
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 1995, Numar persoane,12
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 1996, Numar persoane,15
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 1997, Numar persoane,14
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 1998, Numar persoane,19
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 1999, Numar persoane,14
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2000, Numar persoane,13
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2001, Numar persoane,10
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2002, Numar persoane,9
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2003, Numar persoane,6
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2004, Numar persoane,8
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2005, Numar persoane,60
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2006, Numar persoane,61
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2007, Numar persoane,64
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2008, Numar persoane,71
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2009, Numar persoane,76
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2010, Numar persoane,80
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2011, Numar persoane,79
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2012, Numar persoane,79
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2013, Numar persoane,76
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2014, Numar persoane,73
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2015, Numar persoane,70
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2016, Numar persoane,63
+ 42101 UCEA,0- 4 ani, Masculin, Brasov, Anul 2017, Numar persoane,70
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2005, Numar persoane,66
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2006, Numar persoane,64
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2007, Numar persoane,60
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2008, Numar persoane,47
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2009, Numar persoane,52
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2010, Numar persoane,52
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2011, Numar persoane,57
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2012, Numar persoane,65
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2013, Numar persoane,70
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2014, Numar persoane,76
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2015, Numar persoane,75
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2016, Numar persoane,77
+ 42101 UCEA,0- 4 ani, Feminin, Brasov, Anul 2017, Numar persoane,80
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2005, Numar persoane,57
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2006, Numar persoane,59
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2007, Numar persoane,58
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2008, Numar persoane,63
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2009, Numar persoane,64
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2010, Numar persoane,63
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2011, Numar persoane,68
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2012, Numar persoane,68
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2013, Numar persoane,76
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2014, Numar persoane,84
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2015, Numar persoane,84
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2016, Numar persoane,83
+ 42101 UCEA,5- 9 ani, Masculin, Brasov, Anul 2017, Numar persoane,82
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2005, Numar persoane,52
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2006, Numar persoane,53
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2007, Numar persoane,49
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2008, Numar persoane,64
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2009, Numar persoane,64
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2010, Numar persoane,67
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2011, Numar persoane,64
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2012, Numar persoane,62
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2013, Numar persoane,53
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2014, Numar persoane,54
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2015, Numar persoane,57
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2016, Numar persoane,58
+ 42101 UCEA,5- 9 ani, Feminin, Brasov, Anul 2017, Numar persoane,65
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2005, Numar persoane,67
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2006, Numar persoane,68
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2007, Numar persoane,61
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2008, Numar persoane,57
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2009, Numar persoane,55
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2010, Numar persoane,57
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2011, Numar persoane,58
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2012, Numar persoane,61
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2013, Numar persoane,71
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2014, Numar persoane,68
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2015, Numar persoane,62
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2016, Numar persoane,68
+ 42101 UCEA,10-14 ani, Masculin, Brasov, Anul 2017, Numar persoane,66
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2005, Numar persoane,70
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2006, Numar persoane,66
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2007, Numar persoane,68
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2008, Numar persoane,63
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2009, Numar persoane,61
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2010, Numar persoane,53
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2011, Numar persoane,60
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2012, Numar persoane,61
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2013, Numar persoane,68
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2014, Numar persoane,62
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2015, Numar persoane,60
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2016, Numar persoane,57
+ 42101 UCEA,10-14 ani, Feminin, Brasov, Anul 2017, Numar persoane,58
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2005, Numar persoane,95
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2006, Numar persoane,94
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2007, Numar persoane,81
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2008, Numar persoane,79
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2009, Numar persoane,78
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2010, Numar persoane,77
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2011, Numar persoane,81
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2012, Numar persoane,77
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2013, Numar persoane,73
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2014, Numar persoane,76
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2015, Numar persoane,74
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2016, Numar persoane,69
+ 42101 UCEA,15-19 ani, Masculin, Brasov, Anul 2017, Numar persoane,72
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2005, Numar persoane,63
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2006, Numar persoane,71
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2007, Numar persoane,71
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2008, Numar persoane,68
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2009, Numar persoane,65
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2010, Numar persoane,73
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2011, Numar persoane,71
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2012, Numar persoane,71
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2013, Numar persoane,69
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2014, Numar persoane,70
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2015, Numar persoane,61
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2016, Numar persoane,66
+ 42101 UCEA,15-19 ani, Feminin, Brasov, Anul 2017, Numar persoane,64
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2005, Numar persoane,78
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2006, Numar persoane,76
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2007, Numar persoane,95
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2008, Numar persoane,98
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2009, Numar persoane,106
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2010, Numar persoane,97
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2011, Numar persoane,96
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2012, Numar persoane,87
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2013, Numar persoane,85
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2014, Numar persoane,79
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2015, Numar persoane,83
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2016, Numar persoane,88
+ 42101 UCEA,20-24 ani, Masculin, Brasov, Anul 2017, Numar persoane,79
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2005, Numar persoane,67
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2006, Numar persoane,67
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2007, Numar persoane,70
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2008, Numar persoane,72
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2009, Numar persoane,71
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2010, Numar persoane,71
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2011, Numar persoane,76
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2012, Numar persoane,74
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2013, Numar persoane,74
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2014, Numar persoane,71
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2015, Numar persoane,72
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2016, Numar persoane,69
+ 42101 UCEA,20-24 ani, Feminin, Brasov, Anul 2017, Numar persoane,67
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2005, Numar persoane,109
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2006, Numar persoane,101
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2007, Numar persoane,90
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2008, Numar persoane,90
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2009, Numar persoane,86
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2010, Numar persoane,92
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2011, Numar persoane,85
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2012, Numar persoane,94
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2013, Numar persoane,95
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2014, Numar persoane,102
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2015, Numar persoane,95
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2016, Numar persoane,98
+ 42101 UCEA,25-29 ani, Masculin, Brasov, Anul 2017, Numar persoane,86
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2005, Numar persoane,62
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2006, Numar persoane,61
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2007, Numar persoane,66
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2008, Numar persoane,75
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2009, Numar persoane,67
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2010, Numar persoane,72
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2011, Numar persoane,66
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2012, Numar persoane,70
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2013, Numar persoane,71
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2014, Numar persoane,66
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2015, Numar persoane,72
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2016, Numar persoane,72
+ 42101 UCEA,25-29 ani, Feminin, Brasov, Anul 2017, Numar persoane,70
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2005, Numar persoane,93
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2006, Numar persoane,96
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2007, Numar persoane,94
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2008, Numar persoane,95
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2009, Numar persoane,106
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2010, Numar persoane,107
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2011, Numar persoane,98
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2012, Numar persoane,93
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2013, Numar persoane,91
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2014, Numar persoane,89
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2015, Numar persoane,93
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2016, Numar persoane,84
+ 42101 UCEA,30-34 ani, Masculin, Brasov, Anul 2017, Numar persoane,92
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2005, Numar persoane,70
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2006, Numar persoane,66
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2007, Numar persoane,71
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2008, Numar persoane,70
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2009, Numar persoane,78
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2010, Numar persoane,71
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2011, Numar persoane,76
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2012, Numar persoane,72
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2013, Numar persoane,79
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2014, Numar persoane,74
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2015, Numar persoane,73
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2016, Numar persoane,65
+ 42101 UCEA,30-34 ani, Feminin, Brasov, Anul 2017, Numar persoane,68
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2005, Numar persoane,71
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2006, Numar persoane,79
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2007, Numar persoane,96
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2008, Numar persoane,94
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2009, Numar persoane,94
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2010, Numar persoane,96
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2011, Numar persoane,105
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2012, Numar persoane,100
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2013, Numar persoane,101
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2014, Numar persoane,104
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2015, Numar persoane,109
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2016, Numar persoane,107
+ 42101 UCEA,35-39 ani, Masculin, Brasov, Anul 2017, Numar persoane,100
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2005, Numar persoane,62
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2006, Numar persoane,70
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2007, Numar persoane,66
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2008, Numar persoane,63
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2009, Numar persoane,71
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2010, Numar persoane,79
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2011, Numar persoane,78
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2012, Numar persoane,88
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2013, Numar persoane,93
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2014, Numar persoane,94
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2015, Numar persoane,87
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2016, Numar persoane,89
+ 42101 UCEA,35-39 ani, Feminin, Brasov, Anul 2017, Numar persoane,81
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2005, Numar persoane,47
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2006, Numar persoane,46
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2007, Numar persoane,44
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2008, Numar persoane,62
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2009, Numar persoane,65
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2010, Numar persoane,78
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2011, Numar persoane,79
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2012, Numar persoane,95
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2013, Numar persoane,97
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2014, Numar persoane,92
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2015, Numar persoane,95
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2016, Numar persoane,106
+ 42101 UCEA,40-44 ani, Masculin, Brasov, Anul 2017, Numar persoane,102
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2005, Numar persoane,38
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2006, Numar persoane,45
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2007, Numar persoane,46
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2008, Numar persoane,55
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2009, Numar persoane,61
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2010, Numar persoane,63
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2011, Numar persoane,71
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2012, Numar persoane,71
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2013, Numar persoane,70
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2014, Numar persoane,74
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2015, Numar persoane,81
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2016, Numar persoane,83
+ 42101 UCEA,40-44 ani, Feminin, Brasov, Anul 2017, Numar persoane,94
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2005, Numar persoane,67
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2006, Numar persoane,63
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2007, Numar persoane,60
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2008, Numar persoane,54
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2009, Numar persoane,60
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2010, Numar persoane,55
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2011, Numar persoane,49
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2012, Numar persoane,48
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2013, Numar persoane,62
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2014, Numar persoane,66
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2015, Numar persoane,74
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2016, Numar persoane,76
+ 42101 UCEA,45-49 ani, Masculin, Brasov, Anul 2017, Numar persoane,92
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2005, Numar persoane,68
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2006, Numar persoane,54
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2007, Numar persoane,56
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2008, Numar persoane,44
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2009, Numar persoane,42
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2010, Numar persoane,43
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2011, Numar persoane,50
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2012, Numar persoane,51
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2013, Numar persoane,61
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2014, Numar persoane,65
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2015, Numar persoane,68
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2016, Numar persoane,72
+ 42101 UCEA,45-49 ani, Feminin, Brasov, Anul 2017, Numar persoane,74
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2005, Numar persoane,77
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2006, Numar persoane,75
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2007, Numar persoane,67
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2008, Numar persoane,69
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2009, Numar persoane,71
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2010, Numar persoane,69
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2011, Numar persoane,67
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2012, Numar persoane,64
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2013, Numar persoane,57
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2014, Numar persoane,58
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2015, Numar persoane,54
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2016, Numar persoane,50
+ 42101 UCEA,50-54 ani, Masculin, Brasov, Anul 2017, Numar persoane,49
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2005, Numar persoane,71
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2006, Numar persoane,84
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2007, Numar persoane,78
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2008, Numar persoane,85
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2009, Numar persoane,84
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2010, Numar persoane,77
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2011, Numar persoane,58
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2012, Numar persoane,59
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2013, Numar persoane,49
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2014, Numar persoane,47
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2015, Numar persoane,47
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2016, Numar persoane,50
+ 42101 UCEA,50-54 ani, Feminin, Brasov, Anul 2017, Numar persoane,50
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2005, Numar persoane,65
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2006, Numar persoane,74
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2007, Numar persoane,82
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2008, Numar persoane,85
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2009, Numar persoane,85
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2010, Numar persoane,80
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2011, Numar persoane,81
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2012, Numar persoane,73
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2013, Numar persoane,71
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2014, Numar persoane,68
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2015, Numar persoane,66
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2016, Numar persoane,65
+ 42101 UCEA,55-59 ani, Masculin, Brasov, Anul 2017, Numar persoane,61
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2005, Numar persoane,75
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2006, Numar persoane,74
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2007, Numar persoane,76
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2008, Numar persoane,68
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2009, Numar persoane,73
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2010, Numar persoane,75
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2011, Numar persoane,83
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2012, Numar persoane,76
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2013, Numar persoane,85
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2014, Numar persoane,81
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2015, Numar persoane,73
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2016, Numar persoane,64
+ 42101 UCEA,55-59 ani, Feminin, Brasov, Anul 2017, Numar persoane,60
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2005, Numar persoane,40
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2006, Numar persoane,38
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2007, Numar persoane,42
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2008, Numar persoane,45
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2009, Numar persoane,61
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2010, Numar persoane,74
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2011, Numar persoane,84
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2012, Numar persoane,91
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2013, Numar persoane,87
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2014, Numar persoane,85
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2015, Numar persoane,80
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2016, Numar persoane,77
+ 42101 UCEA,60-64 ani, Masculin, Brasov, Anul 2017, Numar persoane,71
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2005, Numar persoane,51
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2006, Numar persoane,52
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2007, Numar persoane,59
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2008, Numar persoane,70
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2009, Numar persoane,74
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2010, Numar persoane,78
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2011, Numar persoane,77
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2012, Numar persoane,76
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2013, Numar persoane,68
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2014, Numar persoane,71
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2015, Numar persoane,79
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2016, Numar persoane,87
+ 42101 UCEA,60-64 ani, Feminin, Brasov, Anul 2017, Numar persoane,77
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2005, Numar persoane,54
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2006, Numar persoane,51
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2007, Numar persoane,48
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2008, Numar persoane,46
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2009, Numar persoane,43
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2010, Numar persoane,38
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2011, Numar persoane,38
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2012, Numar persoane,40
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2013, Numar persoane,46
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2014, Numar persoane,60
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2015, Numar persoane,72
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2016, Numar persoane,78
+ 42101 UCEA,65-69 ani, Masculin, Brasov, Anul 2017, Numar persoane,81
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2005, Numar persoane,70
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2006, Numar persoane,66
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2007, Numar persoane,59
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2008, Numar persoane,58
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2009, Numar persoane,49
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2010, Numar persoane,54
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2011, Numar persoane,54
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2012, Numar persoane,54
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2013, Numar persoane,63
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2014, Numar persoane,67
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2015, Numar persoane,69
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2016, Numar persoane,70
+ 42101 UCEA,65-69 ani, Feminin, Brasov, Anul 2017, Numar persoane,72
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2005, Numar persoane,43
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2006, Numar persoane,37
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2007, Numar persoane,40
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2008, Numar persoane,47
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2009, Numar persoane,43
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2010, Numar persoane,51
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2011, Numar persoane,47
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2012, Numar persoane,40
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2013, Numar persoane,40
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2014, Numar persoane,34
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2015, Numar persoane,29
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2016, Numar persoane,28
+ 42101 UCEA,70-74 ani, Masculin, Brasov, Anul 2017, Numar persoane,32
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2005, Numar persoane,77
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2006, Numar persoane,76
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2007, Numar persoane,82
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2008, Numar persoane,73
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2009, Numar persoane,84
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2010, Numar persoane,70
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2011, Numar persoane,64
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2012, Numar persoane,60
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2013, Numar persoane,58
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2014, Numar persoane,43
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2015, Numar persoane,44
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2016, Numar persoane,43
+ 42101 UCEA,70-74 ani, Feminin, Brasov, Anul 2017, Numar persoane,48
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2005, Numar persoane,38
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2006, Numar persoane,39
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2007, Numar persoane,35
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2008, Numar persoane,26
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2009, Numar persoane,27
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2010, Numar persoane,26
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2011, Numar persoane,24
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2012, Numar persoane,32
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2013, Numar persoane,38
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2014, Numar persoane,37
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2015, Numar persoane,42
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2016, Numar persoane,37
+ 42101 UCEA,75-79 ani, Masculin, Brasov, Anul 2017, Numar persoane,31
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2005, Numar persoane,59
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2006, Numar persoane,55
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2007, Numar persoane,51
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2008, Numar persoane,61
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2009, Numar persoane,57
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2010, Numar persoane,67
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2011, Numar persoane,71
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2012, Numar persoane,69
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2013, Numar persoane,65
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2014, Numar persoane,72
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2015, Numar persoane,65
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2016, Numar persoane,57
+ 42101 UCEA,75-79 ani, Feminin, Brasov, Anul 2017, Numar persoane,53
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2005, Numar persoane,24
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2006, Numar persoane,26
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2007, Numar persoane,25
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2008, Numar persoane,23
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2009, Numar persoane,21
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2010, Numar persoane,20
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2011, Numar persoane,17
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2012, Numar persoane,16
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2013, Numar persoane,14
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2014, Numar persoane,15
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2015, Numar persoane,16
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2016, Numar persoane,16
+ 42101 UCEA,80-84 ani, Masculin, Brasov, Anul 2017, Numar persoane,22
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2005, Numar persoane,43
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2006, Numar persoane,44
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2007, Numar persoane,40
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2008, Numar persoane,40
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2009, Numar persoane,44
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2010, Numar persoane,36
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2011, Numar persoane,34
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2012, Numar persoane,35
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2013, Numar persoane,44
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2014, Numar persoane,39
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2015, Numar persoane,44
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2016, Numar persoane,48
+ 42101 UCEA,80-84 ani, Feminin, Brasov, Anul 2017, Numar persoane,47
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2005, Numar persoane,7
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2006, Numar persoane,6
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2007, Numar persoane,8
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2008, Numar persoane,10
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2009, Numar persoane,12
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2010, Numar persoane,9
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2011, Numar persoane,13
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2012, Numar persoane,14
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2013, Numar persoane,13
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2014, Numar persoane,15
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2015, Numar persoane,12
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2016, Numar persoane,16
+ 42101 UCEA,85 ani si peste, Masculin, Brasov, Anul 2017, Numar persoane,15
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2005, Numar persoane,10
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2006, Numar persoane,15
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2007, Numar persoane,18
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2008, Numar persoane,18
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2009, Numar persoane,18
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2010, Numar persoane,19
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2011, Numar persoane,24
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2012, Numar persoane,25
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2013, Numar persoane,28
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2014, Numar persoane,27
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2015, Numar persoane,26
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2016, Numar persoane,24
+ 42101 UCEA,85 ani si peste, Feminin, Brasov, Anul 2017, Numar persoane,23

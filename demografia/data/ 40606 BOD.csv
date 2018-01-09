@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 1992, Numar persoane,110
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 1993, Numar persoane,115
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 1994, Numar persoane,112
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 1995, Numar persoane,106
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 1996, Numar persoane,101
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 1997, Numar persoane,76
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 1998, Numar persoane,72
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 1999, Numar persoane,81
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2000, Numar persoane,75
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2001, Numar persoane,84
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2002, Numar persoane,94
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2003, Numar persoane,92
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2004, Numar persoane,102
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 1992, Numar persoane,87
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 1993, Numar persoane,77
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 1994, Numar persoane,89
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 1995, Numar persoane,70
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 1996, Numar persoane,70
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 1997, Numar persoane,66
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 1998, Numar persoane,73
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 1999, Numar persoane,70
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2000, Numar persoane,79
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2001, Numar persoane,76
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2002, Numar persoane,87
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2003, Numar persoane,79
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2004, Numar persoane,74
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 1992, Numar persoane,127
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 1993, Numar persoane,132
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 1994, Numar persoane,130
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 1995, Numar persoane,135
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 1996, Numar persoane,128
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 1997, Numar persoane,130
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 1998, Numar persoane,126
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 1999, Numar persoane,125
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2000, Numar persoane,119
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2001, Numar persoane,119
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2002, Numar persoane,93
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2003, Numar persoane,87
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2004, Numar persoane,83
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 1992, Numar persoane,113
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 1993, Numar persoane,118
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 1994, Numar persoane,126
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 1995, Numar persoane,136
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 1996, Numar persoane,138
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 1997, Numar persoane,114
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 1998, Numar persoane,104
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 1999, Numar persoane,100
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2000, Numar persoane,81
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2001, Numar persoane,84
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2002, Numar persoane,75
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2003, Numar persoane,83
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2004, Numar persoane,77
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 1992, Numar persoane,125
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 1993, Numar persoane,119
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 1994, Numar persoane,133
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 1995, Numar persoane,142
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 1996, Numar persoane,140
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 1997, Numar persoane,149
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 1998, Numar persoane,154
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 1999, Numar persoane,146
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2000, Numar persoane,146
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2001, Numar persoane,138
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2002, Numar persoane,144
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2003, Numar persoane,138
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2004, Numar persoane,137
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 1992, Numar persoane,122
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 1993, Numar persoane,117
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 1994, Numar persoane,117
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 1995, Numar persoane,127
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 1996, Numar persoane,126
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 1997, Numar persoane,130
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 1998, Numar persoane,138
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 1999, Numar persoane,142
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2000, Numar persoane,159
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2001, Numar persoane,163
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2002, Numar persoane,141
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2003, Numar persoane,122
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2004, Numar persoane,117
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 1992, Numar persoane,150
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 1993, Numar persoane,145
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 1994, Numar persoane,144
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 1995, Numar persoane,146
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 1996, Numar persoane,144
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 1997, Numar persoane,135
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 1998, Numar persoane,134
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 1999, Numar persoane,150
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2000, Numar persoane,157
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2001, Numar persoane,158
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2002, Numar persoane,157
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2003, Numar persoane,163
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2004, Numar persoane,155
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 1992, Numar persoane,127
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 1993, Numar persoane,131
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 1994, Numar persoane,137
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 1995, Numar persoane,130
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 1996, Numar persoane,125
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 1997, Numar persoane,140
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 1998, Numar persoane,131
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 1999, Numar persoane,131
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2000, Numar persoane,133
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2001, Numar persoane,135
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2002, Numar persoane,146
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2003, Numar persoane,146
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2004, Numar persoane,151
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 1992, Numar persoane,182
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 1993, Numar persoane,172
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 1994, Numar persoane,167
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 1995, Numar persoane,152
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 1996, Numar persoane,152
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 1997, Numar persoane,159
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 1998, Numar persoane,152
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 1999, Numar persoane,151
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2000, Numar persoane,155
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2001, Numar persoane,155
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2002, Numar persoane,151
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2003, Numar persoane,147
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2004, Numar persoane,162
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 1992, Numar persoane,158
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 1993, Numar persoane,150
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 1994, Numar persoane,141
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 1995, Numar persoane,146
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 1996, Numar persoane,137
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 1997, Numar persoane,134
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 1998, Numar persoane,148
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 1999, Numar persoane,147
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2000, Numar persoane,142
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2001, Numar persoane,142
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2002, Numar persoane,164
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2003, Numar persoane,151
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2004, Numar persoane,149
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 1992, Numar persoane,71
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 1993, Numar persoane,102
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 1994, Numar persoane,130
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 1995, Numar persoane,154
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 1996, Numar persoane,177
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 1997, Numar persoane,197
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 1998, Numar persoane,199
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 1999, Numar persoane,186
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2000, Numar persoane,173
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2001, Numar persoane,166
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2002, Numar persoane,170
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2003, Numar persoane,158
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2004, Numar persoane,156
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 1992, Numar persoane,76
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 1993, Numar persoane,98
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 1994, Numar persoane,133
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 1995, Numar persoane,142
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 1996, Numar persoane,157
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 1997, Numar persoane,157
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 1998, Numar persoane,144
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 1999, Numar persoane,144
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2000, Numar persoane,155
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2001, Numar persoane,159
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2002, Numar persoane,156
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2003, Numar persoane,176
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2004, Numar persoane,166
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 1992, Numar persoane,114
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 1993, Numar persoane,100
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 1994, Numar persoane,86
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 1995, Numar persoane,97
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 1996, Numar persoane,98
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 1997, Numar persoane,94
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 1998, Numar persoane,121
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 1999, Numar persoane,149
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2000, Numar persoane,171
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2001, Numar persoane,201
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2002, Numar persoane,219
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2003, Numar persoane,209
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2004, Numar persoane,193
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 1992, Numar persoane,110
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 1993, Numar persoane,102
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 1994, Numar persoane,97
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 1995, Numar persoane,90
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 1996, Numar persoane,88
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 1997, Numar persoane,91
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 1998, Numar persoane,116
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 1999, Numar persoane,141
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2000, Numar persoane,156
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2001, Numar persoane,157
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2002, Numar persoane,163
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2003, Numar persoane,154
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2004, Numar persoane,164
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 1992, Numar persoane,113
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 1993, Numar persoane,127
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 1994, Numar persoane,141
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 1995, Numar persoane,140
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 1996, Numar persoane,130
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 1997, Numar persoane,122
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 1998, Numar persoane,112
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 1999, Numar persoane,100
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2000, Numar persoane,107
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2001, Numar persoane,109
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2002, Numar persoane,100
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2003, Numar persoane,135
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2004, Numar persoane,157
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 1992, Numar persoane,106
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 1993, Numar persoane,100
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 1994, Numar persoane,107
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 1995, Numar persoane,128
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 1996, Numar persoane,135
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 1997, Numar persoane,132
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 1998, Numar persoane,126
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 1999, Numar persoane,118
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2000, Numar persoane,105
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2001, Numar persoane,101
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2002, Numar persoane,109
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2003, Numar persoane,124
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2004, Numar persoane,148
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 1992, Numar persoane,105
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 1993, Numar persoane,106
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 1994, Numar persoane,113
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 1995, Numar persoane,109
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 1996, Numar persoane,115
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 1997, Numar persoane,122
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 1998, Numar persoane,140
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 1999, Numar persoane,151
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2000, Numar persoane,150
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2001, Numar persoane,136
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2002, Numar persoane,132
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2003, Numar persoane,116
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2004, Numar persoane,106
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 1992, Numar persoane,105
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 1993, Numar persoane,113
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 1994, Numar persoane,105
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 1995, Numar persoane,102
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 1996, Numar persoane,116
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 1997, Numar persoane,116
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 1998, Numar persoane,116
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 1999, Numar persoane,121
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2000, Numar persoane,136
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2001, Numar persoane,140
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2002, Numar persoane,139
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2003, Numar persoane,140
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2004, Numar persoane,132
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 1992, Numar persoane,74
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 1993, Numar persoane,83
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 1994, Numar persoane,77
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 1995, Numar persoane,98
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 1996, Numar persoane,112
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 1997, Numar persoane,113
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 1998, Numar persoane,108
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 1999, Numar persoane,122
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2000, Numar persoane,117
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2001, Numar persoane,123
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2002, Numar persoane,132
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2003, Numar persoane,142
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2004, Numar persoane,155
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 1992, Numar persoane,96
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 1993, Numar persoane,93
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 1994, Numar persoane,100
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 1995, Numar persoane,99
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 1996, Numar persoane,95
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 1997, Numar persoane,104
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 1998, Numar persoane,116
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 1999, Numar persoane,123
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2000, Numar persoane,121
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2001, Numar persoane,134
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2002, Numar persoane,129
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2003, Numar persoane,122
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2004, Numar persoane,122
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 1992, Numar persoane,113
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 1993, Numar persoane,108
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 1994, Numar persoane,106
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 1995, Numar persoane,102
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 1996, Numar persoane,94
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 1997, Numar persoane,80
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 1998, Numar persoane,89
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 1999, Numar persoane,88
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2000, Numar persoane,97
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2001, Numar persoane,108
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2002, Numar persoane,114
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2003, Numar persoane,114
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2004, Numar persoane,120
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 1992, Numar persoane,106
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 1993, Numar persoane,105
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 1994, Numar persoane,97
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 1995, Numar persoane,96
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 1996, Numar persoane,93
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 1997, Numar persoane,99
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 1998, Numar persoane,97
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 1999, Numar persoane,105
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2000, Numar persoane,108
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2001, Numar persoane,105
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2002, Numar persoane,115
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2003, Numar persoane,131
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2004, Numar persoane,134
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 1992, Numar persoane,117
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 1993, Numar persoane,106
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 1994, Numar persoane,105
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 1995, Numar persoane,94
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 1996, Numar persoane,94
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 1997, Numar persoane,96
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 1998, Numar persoane,97
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 1999, Numar persoane,97
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2000, Numar persoane,95
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2001, Numar persoane,92
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2002, Numar persoane,82
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2003, Numar persoane,95
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2004, Numar persoane,94
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 1992, Numar persoane,104
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 1993, Numar persoane,114
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 1994, Numar persoane,112
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 1995, Numar persoane,113
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 1996, Numar persoane,110
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 1997, Numar persoane,106
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 1998, Numar persoane,102
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 1999, Numar persoane,99
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2000, Numar persoane,99
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2001, Numar persoane,101
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2002, Numar persoane,107
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2003, Numar persoane,103
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2004, Numar persoane,112
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 1992, Numar persoane,90
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 1993, Numar persoane,95
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 1994, Numar persoane,101
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 1995, Numar persoane,104
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 1996, Numar persoane,104
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 1997, Numar persoane,99
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 1998, Numar persoane,89
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 1999, Numar persoane,90
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2000, Numar persoane,87
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2001, Numar persoane,86
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2002, Numar persoane,91
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2003, Numar persoane,86
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2004, Numar persoane,87
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 1992, Numar persoane,119
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 1993, Numar persoane,107
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 1994, Numar persoane,108
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 1995, Numar persoane,100
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 1996, Numar persoane,102
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 1997, Numar persoane,96
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 1998, Numar persoane,103
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 1999, Numar persoane,104
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2000, Numar persoane,107
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2001, Numar persoane,108
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2002, Numar persoane,102
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2003, Numar persoane,103
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2004, Numar persoane,104
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 1992, Numar persoane,70
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 1993, Numar persoane,63
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 1994, Numar persoane,65
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 1995, Numar persoane,65
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 1996, Numar persoane,68
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 1997, Numar persoane,73
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 1998, Numar persoane,81
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 1999, Numar persoane,81
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2000, Numar persoane,86
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2001, Numar persoane,86
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2002, Numar persoane,82
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2003, Numar persoane,76
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2004, Numar persoane,77
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 1992, Numar persoane,89
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 1993, Numar persoane,93
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 1994, Numar persoane,89
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 1995, Numar persoane,103
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 1996, Numar persoane,104
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 1997, Numar persoane,106
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 1998, Numar persoane,102
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 1999, Numar persoane,102
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2000, Numar persoane,92
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2001, Numar persoane,90
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2002, Numar persoane,88
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2003, Numar persoane,96
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2004, Numar persoane,97
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 1992, Numar persoane,39
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 1993, Numar persoane,51
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 1994, Numar persoane,50
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 1995, Numar persoane,51
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 1996, Numar persoane,54
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 1997, Numar persoane,50
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 1998, Numar persoane,41
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 1999, Numar persoane,42
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2000, Numar persoane,44
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2001, Numar persoane,51
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2002, Numar persoane,56
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2003, Numar persoane,70
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2004, Numar persoane,69
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 1992, Numar persoane,55
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 1993, Numar persoane,58
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 1994, Numar persoane,72
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 1995, Numar persoane,73
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 1996, Numar persoane,70
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 1997, Numar persoane,71
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 1998, Numar persoane,80
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 1999, Numar persoane,77
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2000, Numar persoane,92
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2001, Numar persoane,94
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2002, Numar persoane,100
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2003, Numar persoane,95
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2004, Numar persoane,94
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 1992, Numar persoane,26
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 1993, Numar persoane,25
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 1994, Numar persoane,20
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 1995, Numar persoane,16
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 1996, Numar persoane,13
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 1997, Numar persoane,24
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 1998, Numar persoane,32
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 1999, Numar persoane,32
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2000, Numar persoane,35
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2001, Numar persoane,29
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2002, Numar persoane,32
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2003, Numar persoane,23
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2004, Numar persoane,29
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 1992, Numar persoane,28
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 1993, Numar persoane,27
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 1994, Numar persoane,27
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 1995, Numar persoane,31
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 1996, Numar persoane,34
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 1997, Numar persoane,37
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 1998, Numar persoane,40
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 1999, Numar persoane,55
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2000, Numar persoane,53
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2001, Numar persoane,52
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2002, Numar persoane,54
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2003, Numar persoane,61
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2004, Numar persoane,61
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 1992, Numar persoane,26
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 1993, Numar persoane,23
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 1994, Numar persoane,27
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 1995, Numar persoane,29
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 1996, Numar persoane,22
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 1997, Numar persoane,12
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 1998, Numar persoane,10
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 1999, Numar persoane,8
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2000, Numar persoane,7
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2001, Numar persoane,9
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2002, Numar persoane,11
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2003, Numar persoane,18
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2004, Numar persoane,18
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 1992, Numar persoane,27
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 1993, Numar persoane,21
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 1994, Numar persoane,19
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 1995, Numar persoane,22
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 1996, Numar persoane,18
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 1997, Numar persoane,14
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 1998, Numar persoane,10
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 1999, Numar persoane,13
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2000, Numar persoane,17
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2001, Numar persoane,23
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2002, Numar persoane,25
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2003, Numar persoane,28
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2004, Numar persoane,40
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 1992, Numar persoane,3
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 1993, Numar persoane,5
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 1994, Numar persoane,5
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 1995, Numar persoane,6
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 1996, Numar persoane,10
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 1997, Numar persoane,13
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 1998, Numar persoane,12
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 1999, Numar persoane,13
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2000, Numar persoane,13
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2001, Numar persoane,9
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2002, Numar persoane,9
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2003, Numar persoane,7
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2004, Numar persoane,5
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 1992, Numar persoane,7
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 1993, Numar persoane,10
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 1994, Numar persoane,8
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 1995, Numar persoane,10
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 1996, Numar persoane,13
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 1997, Numar persoane,14
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 1998, Numar persoane,13
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 1999, Numar persoane,10
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2000, Numar persoane,11
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2001, Numar persoane,9
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2002, Numar persoane,11
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2003, Numar persoane,8
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2004, Numar persoane,7
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2005, Numar persoane,96
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2006, Numar persoane,91
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2007, Numar persoane,86
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2008, Numar persoane,89
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2009, Numar persoane,104
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2010, Numar persoane,115
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2011, Numar persoane,119
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2012, Numar persoane,117
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2013, Numar persoane,110
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2014, Numar persoane,111
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2015, Numar persoane,111
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2016, Numar persoane,112
+ 40606 BOD,0- 4 ani, Masculin, Brasov, Anul 2017, Numar persoane,111
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2005, Numar persoane,84
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2006, Numar persoane,87
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2007, Numar persoane,97
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2008, Numar persoane,109
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2009, Numar persoane,133
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2010, Numar persoane,129
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2011, Numar persoane,129
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2012, Numar persoane,121
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2013, Numar persoane,130
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2014, Numar persoane,114
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2015, Numar persoane,117
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2016, Numar persoane,104
+ 40606 BOD,0- 4 ani, Feminin, Brasov, Anul 2017, Numar persoane,110
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2005, Numar persoane,78
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2006, Numar persoane,83
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2007, Numar persoane,93
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2008, Numar persoane,89
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2009, Numar persoane,99
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2010, Numar persoane,100
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2011, Numar persoane,103
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2012, Numar persoane,108
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2013, Numar persoane,108
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2014, Numar persoane,116
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2015, Numar persoane,125
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2016, Numar persoane,127
+ 40606 BOD,5- 9 ani, Masculin, Brasov, Anul 2017, Numar persoane,120
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2005, Numar persoane,79
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2006, Numar persoane,75
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2007, Numar persoane,83
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2008, Numar persoane,79
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2009, Numar persoane,85
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2010, Numar persoane,98
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2011, Numar persoane,102
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2012, Numar persoane,108
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2013, Numar persoane,118
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2014, Numar persoane,129
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2015, Numar persoane,121
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2016, Numar persoane,128
+ 40606 BOD,5- 9 ani, Feminin, Brasov, Anul 2017, Numar persoane,121
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2005, Numar persoane,124
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2006, Numar persoane,113
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2007, Numar persoane,95
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2008, Numar persoane,94
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2009, Numar persoane,92
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2010, Numar persoane,92
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2011, Numar persoane,107
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2012, Numar persoane,101
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2013, Numar persoane,101
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2014, Numar persoane,112
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2015, Numar persoane,114
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2016, Numar persoane,115
+ 40606 BOD,10-14 ani, Masculin, Brasov, Anul 2017, Numar persoane,124
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2005, Numar persoane,88
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2006, Numar persoane,91
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2007, Numar persoane,79
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2008, Numar persoane,86
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2009, Numar persoane,78
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2010, Numar persoane,89
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2011, Numar persoane,101
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2012, Numar persoane,105
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2013, Numar persoane,95
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2014, Numar persoane,102
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2015, Numar persoane,109
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2016, Numar persoane,108
+ 40606 BOD,10-14 ani, Feminin, Brasov, Anul 2017, Numar persoane,117
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2005, Numar persoane,157
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2006, Numar persoane,151
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2007, Numar persoane,154
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2008, Numar persoane,156
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2009, Numar persoane,166
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2010, Numar persoane,150
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2011, Numar persoane,146
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2012, Numar persoane,139
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2013, Numar persoane,134
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2014, Numar persoane,119
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2015, Numar persoane,116
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2016, Numar persoane,124
+ 40606 BOD,15-19 ani, Masculin, Brasov, Anul 2017, Numar persoane,126
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2005, Numar persoane,177
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2006, Numar persoane,186
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2007, Numar persoane,168
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2008, Numar persoane,153
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2009, Numar persoane,147
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2010, Numar persoane,111
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2011, Numar persoane,111
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2012, Numar persoane,99
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2013, Numar persoane,109
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2014, Numar persoane,107
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2015, Numar persoane,118
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2016, Numar persoane,117
+ 40606 BOD,15-19 ani, Feminin, Brasov, Anul 2017, Numar persoane,128
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2005, Numar persoane,174
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2006, Numar persoane,168
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2007, Numar persoane,165
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2008, Numar persoane,179
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2009, Numar persoane,180
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2010, Numar persoane,180
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2011, Numar persoane,183
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2012, Numar persoane,182
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2013, Numar persoane,178
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2014, Numar persoane,170
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2015, Numar persoane,155
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2016, Numar persoane,148
+ 40606 BOD,20-24 ani, Masculin, Brasov, Anul 2017, Numar persoane,140
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2005, Numar persoane,146
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2006, Numar persoane,145
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2007, Numar persoane,156
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2008, Numar persoane,161
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2009, Numar persoane,177
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2010, Numar persoane,199
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2011, Numar persoane,204
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2012, Numar persoane,189
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2013, Numar persoane,168
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2014, Numar persoane,153
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2015, Numar persoane,119
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2016, Numar persoane,117
+ 40606 BOD,20-24 ani, Feminin, Brasov, Anul 2017, Numar persoane,105
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2005, Numar persoane,151
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2006, Numar persoane,159
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2007, Numar persoane,159
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2008, Numar persoane,165
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2009, Numar persoane,183
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2010, Numar persoane,189
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2011, Numar persoane,185
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2012, Numar persoane,179
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2013, Numar persoane,192
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2014, Numar persoane,190
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2015, Numar persoane,197
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2016, Numar persoane,192
+ 40606 BOD,25-29 ani, Masculin, Brasov, Anul 2017, Numar persoane,196
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2005, Numar persoane,156
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2006, Numar persoane,155
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2007, Numar persoane,165
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2008, Numar persoane,166
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2009, Numar persoane,165
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2010, Numar persoane,165
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2011, Numar persoane,177
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2012, Numar persoane,168
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2013, Numar persoane,163
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2014, Numar persoane,174
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2015, Numar persoane,200
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2016, Numar persoane,203
+ 40606 BOD,25-29 ani, Feminin, Brasov, Anul 2017, Numar persoane,183
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2005, Numar persoane,179
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2006, Numar persoane,173
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2007, Numar persoane,181
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2008, Numar persoane,170
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2009, Numar persoane,174
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2010, Numar persoane,173
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2011, Numar persoane,188
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2012, Numar persoane,194
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2013, Numar persoane,194
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2014, Numar persoane,205
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2015, Numar persoane,209
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2016, Numar persoane,203
+ 40606 BOD,30-34 ani, Masculin, Brasov, Anul 2017, Numar persoane,195
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2005, Numar persoane,172
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2006, Numar persoane,171
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2007, Numar persoane,175
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2008, Numar persoane,183
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2009, Numar persoane,185
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2010, Numar persoane,175
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2011, Numar persoane,175
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2012, Numar persoane,190
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2013, Numar persoane,192
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2014, Numar persoane,180
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2015, Numar persoane,178
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2016, Numar persoane,178
+ 40606 BOD,30-34 ani, Feminin, Brasov, Anul 2017, Numar persoane,174
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2005, Numar persoane,179
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2006, Numar persoane,204
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2007, Numar persoane,222
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2008, Numar persoane,213
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2009, Numar persoane,207
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2010, Numar persoane,198
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2011, Numar persoane,195
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2012, Numar persoane,205
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2013, Numar persoane,208
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2014, Numar persoane,210
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2015, Numar persoane,208
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2016, Numar persoane,210
+ 40606 BOD,35-39 ani, Masculin, Brasov, Anul 2017, Numar persoane,223
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2005, Numar persoane,167
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2006, Numar persoane,170
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2007, Numar persoane,178
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2008, Numar persoane,170
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2009, Numar persoane,182
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2010, Numar persoane,192
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2011, Numar persoane,193
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2012, Numar persoane,194
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2013, Numar persoane,202
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2014, Numar persoane,197
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2015, Numar persoane,192
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2016, Numar persoane,186
+ 40606 BOD,35-39 ani, Feminin, Brasov, Anul 2017, Numar persoane,207
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2005, Numar persoane,114
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2006, Numar persoane,117
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2007, Numar persoane,106
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2008, Numar persoane,143
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2009, Numar persoane,164
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2010, Numar persoane,188
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2011, Numar persoane,215
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2012, Numar persoane,233
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2013, Numar persoane,225
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2014, Numar persoane,214
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2015, Numar persoane,214
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2016, Numar persoane,208
+ 40606 BOD,40-44 ani, Masculin, Brasov, Anul 2017, Numar persoane,228
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2005, Numar persoane,107
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2006, Numar persoane,107
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2007, Numar persoane,108
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2008, Numar persoane,133
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2009, Numar persoane,161
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2010, Numar persoane,177
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2011, Numar persoane,184
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2012, Numar persoane,187
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2013, Numar persoane,179
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2014, Numar persoane,186
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2015, Numar persoane,197
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2016, Numar persoane,202
+ 40606 BOD,40-44 ani, Feminin, Brasov, Anul 2017, Numar persoane,210
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2005, Numar persoane,155
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2006, Numar persoane,150
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2007, Numar persoane,145
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2008, Numar persoane,122
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2009, Numar persoane,126
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2010, Numar persoane,129
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2011, Numar persoane,125
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2012, Numar persoane,119
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2013, Numar persoane,157
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2014, Numar persoane,172
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2015, Numar persoane,194
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2016, Numar persoane,218
+ 40606 BOD,45-49 ani, Masculin, Brasov, Anul 2017, Numar persoane,235
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2005, Numar persoane,144
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2006, Numar persoane,146
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2007, Numar persoane,146
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2008, Numar persoane,142
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2009, Numar persoane,144
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2010, Numar persoane,122
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2011, Numar persoane,120
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2012, Numar persoane,119
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2013, Numar persoane,145
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2014, Numar persoane,164
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2015, Numar persoane,176
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2016, Numar persoane,184
+ 40606 BOD,45-49 ani, Feminin, Brasov, Anul 2017, Numar persoane,198
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2005, Numar persoane,117
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2006, Numar persoane,124
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2007, Numar persoane,136
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2008, Numar persoane,151
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2009, Numar persoane,163
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2010, Numar persoane,164
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2011, Numar persoane,161
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2012, Numar persoane,153
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2013, Numar persoane,128
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2014, Numar persoane,130
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2015, Numar persoane,128
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2016, Numar persoane,127
+ 40606 BOD,50-54 ani, Masculin, Brasov, Anul 2017, Numar persoane,119
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2005, Numar persoane,132
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2006, Numar persoane,145
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2007, Numar persoane,137
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2008, Numar persoane,135
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2009, Numar persoane,145
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2010, Numar persoane,157
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2011, Numar persoane,162
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2012, Numar persoane,160
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2013, Numar persoane,153
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2014, Numar persoane,148
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2015, Numar persoane,127
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2016, Numar persoane,127
+ 40606 BOD,50-54 ani, Feminin, Brasov, Anul 2017, Numar persoane,120
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2005, Numar persoane,105
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2006, Numar persoane,115
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2007, Numar persoane,121
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2008, Numar persoane,121
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2009, Numar persoane,133
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2010, Numar persoane,127
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2011, Numar persoane,130
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2012, Numar persoane,144
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2013, Numar persoane,157
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2014, Numar persoane,163
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2015, Numar persoane,161
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2016, Numar persoane,163
+ 40606 BOD,55-59 ani, Masculin, Brasov, Anul 2017, Numar persoane,157
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2005, Numar persoane,115
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2006, Numar persoane,115
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2007, Numar persoane,127
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2008, Numar persoane,133
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2009, Numar persoane,140
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2010, Numar persoane,144
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2011, Numar persoane,152
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2012, Numar persoane,152
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2013, Numar persoane,143
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2014, Numar persoane,148
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2015, Numar persoane,161
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2016, Numar persoane,166
+ 40606 BOD,55-59 ani, Feminin, Brasov, Anul 2017, Numar persoane,169
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2005, Numar persoane,88
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2006, Numar persoane,82
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2007, Numar persoane,83
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2008, Numar persoane,90
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2009, Numar persoane,92
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2010, Numar persoane,99
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2011, Numar persoane,110
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2012, Numar persoane,119
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2013, Numar persoane,120
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2014, Numar persoane,121
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2015, Numar persoane,113
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2016, Numar persoane,115
+ 40606 BOD,60-64 ani, Masculin, Brasov, Anul 2017, Numar persoane,132
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2005, Numar persoane,97
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2006, Numar persoane,103
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2007, Numar persoane,107
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2008, Numar persoane,107
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2009, Numar persoane,113
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2010, Numar persoane,115
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2011, Numar persoane,120
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2012, Numar persoane,128
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2013, Numar persoane,143
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2014, Numar persoane,144
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2015, Numar persoane,147
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2016, Numar persoane,147
+ 40606 BOD,60-64 ani, Feminin, Brasov, Anul 2017, Numar persoane,153
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2005, Numar persoane,70
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2006, Numar persoane,74
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2007, Numar persoane,79
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2008, Numar persoane,81
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2009, Numar persoane,76
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2010, Numar persoane,80
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2011, Numar persoane,80
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2012, Numar persoane,81
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2013, Numar persoane,85
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2014, Numar persoane,88
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2015, Numar persoane,99
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2016, Numar persoane,106
+ 40606 BOD,65-69 ani, Masculin, Brasov, Anul 2017, Numar persoane,111
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2005, Numar persoane,102
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2006, Numar persoane,101
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2007, Numar persoane,94
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2008, Numar persoane,96
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2009, Numar persoane,93
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2010, Numar persoane,95
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2011, Numar persoane,96
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2012, Numar persoane,104
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2013, Numar persoane,109
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2014, Numar persoane,117
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2015, Numar persoane,117
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2016, Numar persoane,121
+ 40606 BOD,65-69 ani, Feminin, Brasov, Anul 2017, Numar persoane,123
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2005, Numar persoane,74
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2006, Numar persoane,74
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2007, Numar persoane,66
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2008, Numar persoane,62
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2009, Numar persoane,71
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2010, Numar persoane,62
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2011, Numar persoane,66
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2012, Numar persoane,66
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2013, Numar persoane,69
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2014, Numar persoane,67
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2015, Numar persoane,72
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2016, Numar persoane,72
+ 40606 BOD,70-74 ani, Masculin, Brasov, Anul 2017, Numar persoane,68
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2005, Numar persoane,87
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2006, Numar persoane,85
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2007, Numar persoane,82
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2008, Numar persoane,90
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2009, Numar persoane,96
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2010, Numar persoane,96
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2011, Numar persoane,94
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2012, Numar persoane,94
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2013, Numar persoane,93
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2014, Numar persoane,81
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2015, Numar persoane,81
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2016, Numar persoane,90
+ 40606 BOD,70-74 ani, Feminin, Brasov, Anul 2017, Numar persoane,100
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2005, Numar persoane,31
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2006, Numar persoane,38
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2007, Numar persoane,44
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2008, Numar persoane,53
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2009, Numar persoane,57
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2010, Numar persoane,63
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2011, Numar persoane,59
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2012, Numar persoane,56
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2013, Numar persoane,49
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2014, Numar persoane,53
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2015, Numar persoane,47
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2016, Numar persoane,52
+ 40606 BOD,75-79 ani, Masculin, Brasov, Anul 2017, Numar persoane,55
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2005, Numar persoane,78
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2006, Numar persoane,78
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2007, Numar persoane,83
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2008, Numar persoane,86
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2009, Numar persoane,87
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2010, Numar persoane,79
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2011, Numar persoane,83
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2012, Numar persoane,76
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2013, Numar persoane,81
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2014, Numar persoane,86
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2015, Numar persoane,86
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2016, Numar persoane,80
+ 40606 BOD,75-79 ani, Feminin, Brasov, Anul 2017, Numar persoane,80
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2005, Numar persoane,18
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2006, Numar persoane,14
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2007, Numar persoane,15
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2008, Numar persoane,10
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2009, Numar persoane,11
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2010, Numar persoane,19
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2011, Numar persoane,26
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2012, Numar persoane,32
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2013, Numar persoane,42
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2014, Numar persoane,43
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2015, Numar persoane,43
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2016, Numar persoane,37
+ 40606 BOD,80-84 ani, Masculin, Brasov, Anul 2017, Numar persoane,36
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2005, Numar persoane,36
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2006, Numar persoane,37
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2007, Numar persoane,41
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2008, Numar persoane,46
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2009, Numar persoane,43
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2010, Numar persoane,56
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2011, Numar persoane,59
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2012, Numar persoane,65
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2013, Numar persoane,67
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2014, Numar persoane,65
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2015, Numar persoane,62
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2016, Numar persoane,68
+ 40606 BOD,80-84 ani, Feminin, Brasov, Anul 2017, Numar persoane,56
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2005, Numar persoane,3
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2006, Numar persoane,4
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2007, Numar persoane,7
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2008, Numar persoane,13
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2009, Numar persoane,13
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2010, Numar persoane,12
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2011, Numar persoane,10
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2012, Numar persoane,11
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2013, Numar persoane,12
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2014, Numar persoane,14
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2015, Numar persoane,17
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2016, Numar persoane,21
+ 40606 BOD,85 ani si peste, Masculin, Brasov, Anul 2017, Numar persoane,27
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2005, Numar persoane,12
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2006, Numar persoane,11
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2007, Numar persoane,16
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2008, Numar persoane,18
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2009, Numar persoane,31
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2010, Numar persoane,33
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2011, Numar persoane,35
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2012, Numar persoane,35
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2013, Numar persoane,36
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2014, Numar persoane,43
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2015, Numar persoane,42
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2016, Numar persoane,41
+ 40606 BOD,85 ani si peste, Feminin, Brasov, Anul 2017, Numar persoane,51

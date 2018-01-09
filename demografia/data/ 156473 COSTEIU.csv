@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 1992, Numar persoane,118
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 1993, Numar persoane,108
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 1994, Numar persoane,102
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 1995, Numar persoane,88
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 1996, Numar persoane,92
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 1997, Numar persoane,90
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 1998, Numar persoane,86
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 1992, Numar persoane,95
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 1993, Numar persoane,85
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 1994, Numar persoane,76
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 1995, Numar persoane,79
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 1996, Numar persoane,88
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 1997, Numar persoane,76
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 1998, Numar persoane,77
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 1992, Numar persoane,86
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 1993, Numar persoane,103
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 1994, Numar persoane,114
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 1995, Numar persoane,123
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 1996, Numar persoane,128
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 1997, Numar persoane,125
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 1998, Numar persoane,108
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 1992, Numar persoane,104
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 1993, Numar persoane,108
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 1994, Numar persoane,116
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 1995, Numar persoane,111
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 1996, Numar persoane,104
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 1997, Numar persoane,96
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 1998, Numar persoane,89
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 1992, Numar persoane,98
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 1993, Numar persoane,89
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 1994, Numar persoane,77
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 1995, Numar persoane,89
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 1996, Numar persoane,89
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 1997, Numar persoane,91
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 1998, Numar persoane,107
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 1992, Numar persoane,112
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 1993, Numar persoane,100
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 1994, Numar persoane,103
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 1995, Numar persoane,105
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 1996, Numar persoane,102
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 1997, Numar persoane,110
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 1998, Numar persoane,117
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 1992, Numar persoane,106
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 1993, Numar persoane,110
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 1994, Numar persoane,116
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 1995, Numar persoane,108
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 1996, Numar persoane,101
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 1997, Numar persoane,102
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 1998, Numar persoane,95
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 1992, Numar persoane,124
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 1993, Numar persoane,126
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 1994, Numar persoane,115
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 1995, Numar persoane,108
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 1996, Numar persoane,119
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 1997, Numar persoane,126
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 1998, Numar persoane,109
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 1992, Numar persoane,150
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 1993, Numar persoane,148
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 1994, Numar persoane,134
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 1995, Numar persoane,121
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 1996, Numar persoane,121
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 1997, Numar persoane,110
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 1998, Numar persoane,113
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 1992, Numar persoane,148
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 1993, Numar persoane,146
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 1994, Numar persoane,138
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 1995, Numar persoane,127
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 1996, Numar persoane,126
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 1997, Numar persoane,113
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 1998, Numar persoane,122
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 1992, Numar persoane,79
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 1993, Numar persoane,97
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 1994, Numar persoane,118
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 1995, Numar persoane,130
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 1996, Numar persoane,141
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 1997, Numar persoane,155
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 1998, Numar persoane,150
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 1992, Numar persoane,61
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 1993, Numar persoane,78
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 1994, Numar persoane,109
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 1995, Numar persoane,134
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 1996, Numar persoane,142
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 1997, Numar persoane,148
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 1998, Numar persoane,145
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 1992, Numar persoane,89
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 1993, Numar persoane,82
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 1994, Numar persoane,83
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 1995, Numar persoane,87
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 1996, Numar persoane,75
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 1997, Numar persoane,84
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 1998, Numar persoane,99
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 1992, Numar persoane,76
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 1993, Numar persoane,75
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 1994, Numar persoane,66
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 1995, Numar persoane,59
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 1996, Numar persoane,64
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 1997, Numar persoane,69
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 1998, Numar persoane,85
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 1992, Numar persoane,109
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 1993, Numar persoane,117
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 1994, Numar persoane,112
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 1995, Numar persoane,106
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 1996, Numar persoane,110
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 1997, Numar persoane,95
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 1998, Numar persoane,85
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 1992, Numar persoane,120
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 1993, Numar persoane,111
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 1994, Numar persoane,108
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 1995, Numar persoane,112
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 1996, Numar persoane,99
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 1997, Numar persoane,91
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 1998, Numar persoane,85
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 1992, Numar persoane,132
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 1993, Numar persoane,123
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 1994, Numar persoane,120
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 1995, Numar persoane,110
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 1996, Numar persoane,116
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 1997, Numar persoane,120
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 1998, Numar persoane,122
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 1992, Numar persoane,121
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 1993, Numar persoane,128
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 1994, Numar persoane,126
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 1995, Numar persoane,116
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 1996, Numar persoane,113
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 1997, Numar persoane,120
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 1998, Numar persoane,116
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 1992, Numar persoane,94
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 1993, Numar persoane,105
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 1994, Numar persoane,114
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 1995, Numar persoane,127
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 1996, Numar persoane,128
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 1997, Numar persoane,125
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 1998, Numar persoane,116
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 1992, Numar persoane,105
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 1993, Numar persoane,105
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 1994, Numar persoane,112
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 1995, Numar persoane,123
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 1996, Numar persoane,129
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 1997, Numar persoane,120
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 1998, Numar persoane,127
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 1992, Numar persoane,124
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 1993, Numar persoane,114
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 1994, Numar persoane,100
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 1995, Numar persoane,97
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 1996, Numar persoane,94
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 1997, Numar persoane,98
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 1998, Numar persoane,107
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 1992, Numar persoane,148
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 1993, Numar persoane,136
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 1994, Numar persoane,118
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 1995, Numar persoane,102
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 1996, Numar persoane,96
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 1997, Numar persoane,104
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 1998, Numar persoane,104
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 1992, Numar persoane,122
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 1993, Numar persoane,136
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 1994, Numar persoane,137
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 1995, Numar persoane,127
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 1996, Numar persoane,121
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 1997, Numar persoane,104
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 1998, Numar persoane,97
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 1992, Numar persoane,128
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 1993, Numar persoane,135
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 1994, Numar persoane,144
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 1995, Numar persoane,145
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 1996, Numar persoane,155
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 1997, Numar persoane,143
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 1998, Numar persoane,128
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 1992, Numar persoane,132
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 1993, Numar persoane,126
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 1994, Numar persoane,113
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 1995, Numar persoane,108
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 1996, Numar persoane,105
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 1997, Numar persoane,112
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 1998, Numar persoane,122
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 1992, Numar persoane,169
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 1993, Numar persoane,175
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 1994, Numar persoane,166
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 1995, Numar persoane,160
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 1996, Numar persoane,133
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 1997, Numar persoane,124
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 1998, Numar persoane,131
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 1992, Numar persoane,111
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 1993, Numar persoane,110
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 1994, Numar persoane,114
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 1995, Numar persoane,123
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 1996, Numar persoane,122
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 1997, Numar persoane,118
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 1998, Numar persoane,96
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 1992, Numar persoane,153
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 1993, Numar persoane,152
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 1994, Numar persoane,145
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 1995, Numar persoane,146
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 1996, Numar persoane,154
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 1997, Numar persoane,165
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 1998, Numar persoane,162
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 1992, Numar persoane,81
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 1993, Numar persoane,83
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 1994, Numar persoane,93
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 1995, Numar persoane,89
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 1996, Numar persoane,79
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 1997, Numar persoane,87
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 1998, Numar persoane,94
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 1992, Numar persoane,126
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 1993, Numar persoane,140
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 1994, Numar persoane,159
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 1995, Numar persoane,156
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 1996, Numar persoane,145
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 1997, Numar persoane,139
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 1998, Numar persoane,131
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 1992, Numar persoane,45
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 1993, Numar persoane,37
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 1994, Numar persoane,28
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 1995, Numar persoane,32
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 1996, Numar persoane,48
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 1997, Numar persoane,50
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 1998, Numar persoane,52
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 1992, Numar persoane,62
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 1993, Numar persoane,42
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 1994, Numar persoane,39
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 1995, Numar persoane,56
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 1996, Numar persoane,83
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 1997, Numar persoane,94
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 1998, Numar persoane,108
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 1992, Numar persoane,30
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 1993, Numar persoane,34
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 1994, Numar persoane,33
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 1995, Numar persoane,27
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 1996, Numar persoane,25
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 1997, Numar persoane,22
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 1998, Numar persoane,24
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 1992, Numar persoane,44
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 1993, Numar persoane,50
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 1994, Numar persoane,57
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 1995, Numar persoane,55
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 1996, Numar persoane,45
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 1997, Numar persoane,41
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 1998, Numar persoane,30
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 1992, Numar persoane,13
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 1993, Numar persoane,13
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 1994, Numar persoane,12
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 1995, Numar persoane,14
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 1996, Numar persoane,11
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 1997, Numar persoane,11
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 1998, Numar persoane,10
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 1992, Numar persoane,24
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 1993, Numar persoane,25
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 1994, Numar persoane,20
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 1995, Numar persoane,22
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 1996, Numar persoane,24
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 1997, Numar persoane,22
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 1998, Numar persoane,26
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 1999, Numar persoane,85
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2000, Numar persoane,77
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2001, Numar persoane,76
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2002, Numar persoane,83
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2003, Numar persoane,82
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2004, Numar persoane,86
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,94
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,94
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 1999, Numar persoane,84
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2000, Numar persoane,73
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2001, Numar persoane,77
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2002, Numar persoane,86
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2003, Numar persoane,83
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2004, Numar persoane,82
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,85
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,89
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 1999, Numar persoane,100
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2000, Numar persoane,88
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2001, Numar persoane,88
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2002, Numar persoane,83
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2003, Numar persoane,80
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2004, Numar persoane,78
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,73
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,81
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 1999, Numar persoane,80
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2000, Numar persoane,84
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2001, Numar persoane,92
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2002, Numar persoane,79
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2003, Numar persoane,77
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2004, Numar persoane,83
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,78
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,80
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 1999, Numar persoane,114
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2000, Numar persoane,125
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2001, Numar persoane,125
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2002, Numar persoane,129
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2003, Numar persoane,113
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2004, Numar persoane,103
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,94
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,98
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 1999, Numar persoane,116
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2000, Numar persoane,117
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2001, Numar persoane,111
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2002, Numar persoane,106
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2003, Numar persoane,96
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2004, Numar persoane,87
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,89
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,96
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 1999, Numar persoane,82
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2000, Numar persoane,92
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2001, Numar persoane,91
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2002, Numar persoane,90
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2003, Numar persoane,104
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2004, Numar persoane,118
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,129
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,133
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 1999, Numar persoane,110
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2000, Numar persoane,111
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2001, Numar persoane,103
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2002, Numar persoane,109
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2003, Numar persoane,126
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2004, Numar persoane,133
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,126
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,124
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 1999, Numar persoane,119
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2000, Numar persoane,109
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2001, Numar persoane,100
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2002, Numar persoane,101
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2003, Numar persoane,99
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2004, Numar persoane,86
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,97
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,95
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 1999, Numar persoane,114
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2000, Numar persoane,114
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2001, Numar persoane,122
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2002, Numar persoane,136
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2003, Numar persoane,121
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2004, Numar persoane,114
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,123
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,110
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 1999, Numar persoane,140
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2000, Numar persoane,138
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2001, Numar persoane,130
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2002, Numar persoane,116
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2003, Numar persoane,118
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2004, Numar persoane,127
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,119
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,117
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 1999, Numar persoane,137
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2000, Numar persoane,129
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2001, Numar persoane,131
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2002, Numar persoane,120
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2003, Numar persoane,130
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2004, Numar persoane,123
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,128
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,136
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 1999, Numar persoane,124
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2000, Numar persoane,140
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2001, Numar persoane,153
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2002, Numar persoane,167
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2003, Numar persoane,156
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2004, Numar persoane,142
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,133
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,136
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 1999, Numar persoane,112
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2000, Numar persoane,137
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2001, Numar persoane,142
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2002, Numar persoane,149
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2003, Numar persoane,152
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2004, Numar persoane,145
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,133
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,145
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 1999, Numar persoane,86
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2000, Numar persoane,86
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2001, Numar persoane,78
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2002, Numar persoane,90
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2003, Numar persoane,111
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2004, Numar persoane,135
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,154
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,162
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 1999, Numar persoane,76
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2000, Numar persoane,66
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2001, Numar persoane,69
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2002, Numar persoane,77
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2003, Numar persoane,92
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2004, Numar persoane,124
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,144
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,156
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 1999, Numar persoane,115
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2000, Numar persoane,106
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2001, Numar persoane,112
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2002, Numar persoane,98
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2003, Numar persoane,87
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2004, Numar persoane,95
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,100
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,94
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 1999, Numar persoane,111
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2000, Numar persoane,123
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2001, Numar persoane,103
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2002, Numar persoane,94
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2003, Numar persoane,88
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2004, Numar persoane,78
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,72
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,74
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 1999, Numar persoane,114
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2000, Numar persoane,111
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2001, Numar persoane,117
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2002, Numar persoane,125
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2003, Numar persoane,128
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2004, Numar persoane,121
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,120
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,117
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 1999, Numar persoane,130
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2000, Numar persoane,115
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2001, Numar persoane,117
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2002, Numar persoane,119
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2003, Numar persoane,117
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2004, Numar persoane,122
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,131
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,114
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 1999, Numar persoane,115
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2000, Numar persoane,122
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2001, Numar persoane,124
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2002, Numar persoane,123
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2003, Numar persoane,122
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2004, Numar persoane,120
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,113
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,120
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 1999, Numar persoane,116
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2000, Numar persoane,127
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2001, Numar persoane,137
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2002, Numar persoane,126
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2003, Numar persoane,133
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2004, Numar persoane,136
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,122
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,123
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 1999, Numar persoane,94
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2000, Numar persoane,92
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2001, Numar persoane,88
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2002, Numar persoane,94
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2003, Numar persoane,108
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2004, Numar persoane,119
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,127
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,127
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 1999, Numar persoane,112
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2000, Numar persoane,100
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2001, Numar persoane,94
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2002, Numar persoane,104
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2003, Numar persoane,110
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2004, Numar persoane,120
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,134
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,145
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 1999, Numar persoane,120
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2000, Numar persoane,112
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2001, Numar persoane,105
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2002, Numar persoane,90
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2003, Numar persoane,93
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2004, Numar persoane,91
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,94
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,91
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 1999, Numar persoane,137
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2000, Numar persoane,138
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2001, Numar persoane,146
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2002, Numar persoane,140
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2003, Numar persoane,124
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2004, Numar persoane,112
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,99
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,97
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 1999, Numar persoane,90
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2000, Numar persoane,88
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2001, Numar persoane,86
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2002, Numar persoane,93
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2003, Numar persoane,98
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2004, Numar persoane,98
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,90
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,91
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 1999, Numar persoane,152
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2000, Numar persoane,146
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2001, Numar persoane,126
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2002, Numar persoane,121
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2003, Numar persoane,122
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2004, Numar persoane,131
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,136
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,145
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 1999, Numar persoane,94
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2000, Numar persoane,100
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2001, Numar persoane,98
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2002, Numar persoane,86
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2003, Numar persoane,69
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2004, Numar persoane,62
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,62
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,66
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 1999, Numar persoane,124
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2000, Numar persoane,119
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2001, Numar persoane,126
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2002, Numar persoane,142
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2003, Numar persoane,145
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2004, Numar persoane,134
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,128
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,110
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 1999, Numar persoane,62
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2000, Numar persoane,63
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2001, Numar persoane,59
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2002, Numar persoane,64
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2003, Numar persoane,74
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2004, Numar persoane,76
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,75
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,70
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 1999, Numar persoane,123
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2000, Numar persoane,120
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2001, Numar persoane,109
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2002, Numar persoane,106
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2003, Numar persoane,106
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2004, Numar persoane,104
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,100
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,104
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 1999, Numar persoane,18
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2000, Numar persoane,17
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2001, Numar persoane,30
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2002, Numar persoane,37
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2003, Numar persoane,32
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2004, Numar persoane,36
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,35
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,33
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 1999, Numar persoane,24
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2000, Numar persoane,41
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2001, Numar persoane,60
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2002, Numar persoane,63
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2003, Numar persoane,69
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2004, Numar persoane,79
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,74
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,72
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 1999, Numar persoane,14
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2000, Numar persoane,14
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2001, Numar persoane,14
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2002, Numar persoane,14
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2003, Numar persoane,14
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2004, Numar persoane,12
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,11
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,16
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 1999, Numar persoane,26
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2000, Numar persoane,24
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2001, Numar persoane,20
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2002, Numar persoane,20
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2003, Numar persoane,21
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2004, Numar persoane,19
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,28
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,33
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,99
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,106
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,103
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,108
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,109
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,106
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,93
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,100
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,109
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,108
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,104
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,97
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,84
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,82
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,90
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,93
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,85
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,88
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,89
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,87
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,81
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,92
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,97
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,97
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,95
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,93
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,91
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,86
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,86
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,88
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,85
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,86
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,92
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,85
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,82
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,95
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,132
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,122
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,115
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,105
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,115
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,108
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,112
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,106
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,100
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,101
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,110
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,98
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,98
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,107
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,120
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,136
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,140
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,140
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,114
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,135
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,146
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,138
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,129
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,115
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,120
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,120
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,108
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,110
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,105
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,101
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,143
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,120
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,118
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,117
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,110
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,124
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,132
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,153
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,167
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,147
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,134
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,128
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,138
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,151
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,142
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,143
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,135
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,137
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,178
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,165
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,152
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,151
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,151
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,153
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,163
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,160
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,157
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,153
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,157
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,143
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,105
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,117
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,143
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,164
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,161
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,181
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,84
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,106
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,134
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,156
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,167
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,172
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,104
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,107
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,110
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,106
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,104
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,103
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,103
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,98
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,87
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,81
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,88
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,96
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,129
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,131
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,128
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,120
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,122
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,109
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,128
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,129
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,131
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,144
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,132
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,122
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,126
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,122
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,121
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,114
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,120
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,126
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,136
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,142
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,143
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,129
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,132
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,135
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,91
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,106
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,118
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,122
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,125
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,122
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,105
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,109
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,121
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,136
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,146
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,140
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,79
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,80
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,77
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,82
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,80
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,88
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,134
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,117
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,102
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,92
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,96
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,108
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,78
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,82
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,82
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,72
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,70
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,65
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,109
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,111
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,123
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,128
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,129
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,126
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,58
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,48
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,46
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,49
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,50
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,55
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,115
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,115
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,107
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,97
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,82
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,86
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,36
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,42
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,42
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,45
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,42
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,35
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,67
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,69
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,72
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,69
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,72
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,82
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,16
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,11
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,15
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,15
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,15
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,20
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,32
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,30
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,39
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,40
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,43
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,41
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,108
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,103
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,91
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,91
+ 156473 COSTEIU,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,86
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,93
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,86
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,79
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,80
+ 156473 COSTEIU,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,70
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,99
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,105
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,110
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,116
+ 156473 COSTEIU,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,107
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,103
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,113
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,111
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,107
+ 156473 COSTEIU,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,100
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,89
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,91
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,98
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,85
+ 156473 COSTEIU,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,92
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,95
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,86
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,90
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,95
+ 156473 COSTEIU,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,92
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,106
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,105
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,100
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,98
+ 156473 COSTEIU,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,102
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,98
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,102
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,98
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,87
+ 156473 COSTEIU,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,96
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,139
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,127
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,120
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,124
+ 156473 COSTEIU,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,113
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,109
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,107
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,109
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,121
+ 156473 COSTEIU,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,109
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,112
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,127
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,142
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,151
+ 156473 COSTEIU,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,150
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,130
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,131
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,123
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,119
+ 156473 COSTEIU,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,104
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,115
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,106
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,115
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,119
+ 156473 COSTEIU,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,115
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,125
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,124
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,128
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,112
+ 156473 COSTEIU,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,120
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,171
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,169
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,150
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,136
+ 156473 COSTEIU,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,136
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,155
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,147
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,147
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,146
+ 156473 COSTEIU,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,145
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,170
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,161
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,161
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,164
+ 156473 COSTEIU,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,163
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,166
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,163
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,156
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,159
+ 156473 COSTEIU,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,151
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,122
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,145
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,164
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,163
+ 156473 COSTEIU,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,185
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,113
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,142
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,165
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,170
+ 156473 COSTEIU,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,172
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,104
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,104
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,102
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,103
+ 156473 COSTEIU,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,103
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,115
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,97
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,89
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,92
+ 156473 COSTEIU,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,101
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,131
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,130
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,124
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,120
+ 156473 COSTEIU,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,111
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,137
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,138
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,149
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,137
+ 156473 COSTEIU,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,127
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,115
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,113
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,113
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,120
+ 156473 COSTEIU,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,123
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,144
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,142
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,123
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,124
+ 156473 COSTEIU,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,132
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,97
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,101
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,107
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,114
+ 156473 COSTEIU,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,113
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,111
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,120
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,136
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,143
+ 156473 COSTEIU,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,137
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,67
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,68
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,72
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,66
+ 156473 COSTEIU,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,71
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,110
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,94
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,87
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,88
+ 156473 COSTEIU,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,95
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,54
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,51
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,41
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,44
+ 156473 COSTEIU,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,41
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,94
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,103
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,111
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,109
+ 156473 COSTEIU,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,103
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,27
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,28
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,32
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,26
+ 156473 COSTEIU,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,28
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,84
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,73
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,70
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,55
+ 156473 COSTEIU,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,58
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,21
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,21
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,20
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,19
+ 156473 COSTEIU,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,21
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,43
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,44
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,48
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,59
+ 156473 COSTEIU,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,53

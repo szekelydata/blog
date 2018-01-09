@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,79
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,76
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,78
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,72
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,72
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,72
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,76
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,70
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,64
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,79
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,63
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,60
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,54
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,46
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,47
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,51
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,57
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,47
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,84
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,76
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,78
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,81
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,79
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,71
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,72
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,71
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,66
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,81
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,86
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,83
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,84
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,76
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,69
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,59
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,55
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,51
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,88
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,79
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,80
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,70
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,71
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,74
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,68
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,69
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,74
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,80
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,72
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,65
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,67
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,74
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,72
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,80
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,78
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,79
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,97
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,89
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,77
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,83
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,81
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,81
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,78
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,75
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,66
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,101
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,93
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,99
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,92
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,89
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,73
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,65
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,58
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,63
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,100
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,106
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,112
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,102
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,90
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,86
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,85
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,72
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,80
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,85
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,78
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,70
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,81
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,79
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,80
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,77
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,87
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,79
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,93
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,85
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,82
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,85
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,85
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,81
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,86
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,100
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,92
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,61
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,63
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,66
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,57
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,58
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,67
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,68
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,61
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,66
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,77
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,74
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,78
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,70
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,76
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,75
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,71
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,71
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,75
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,55
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,50
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,51
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,58
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,52
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,52
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,52
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,56
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,46
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,73
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,71
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,72
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,68
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,63
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,70
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,74
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,75
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,69
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,62
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,58
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,59
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,55
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,50
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,45
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,43
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,39
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,47
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,56
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,53
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,50
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,62
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,64
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,62
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,65
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,67
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,65
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,65
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,66
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,60
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,55
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,55
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,53
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,55
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,57
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,53
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,52
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,56
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,51
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,49
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,46
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,49
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,48
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,46
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,57
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,47
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,46
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,47
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,57
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,65
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,60
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,61
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,56
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,51
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,63
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,57
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,57
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,52
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,50
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,45
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,47
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,47
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,47
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,66
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,60
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,55
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,50
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,41
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,42
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,41
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,45
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,55
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,52
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,50
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,47
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,52
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,54
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,57
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,52
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,53
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,49
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,54
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,50
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,52
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,47
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,53
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,58
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,55
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,51
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,49
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,76
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,72
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,64
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,50
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,46
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,46
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,41
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,38
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,41
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,82
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,88
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,76
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,74
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,64
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,52
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,46
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,46
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,42
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,46
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,46
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,48
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,54
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,61
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,64
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,62
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,52
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,40
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,50
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,46
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,57
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,64
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,73
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,77
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,83
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,72
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,69
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,26
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,34
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,38
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,36
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,35
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,31
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,32
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,37
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,40
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,35
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,39
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,41
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,40
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,38
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,39
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,41
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,46
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,54
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,16
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,12
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,5
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,12
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,11
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,17
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,22
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,24
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,27
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,23
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,21
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,21
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,16
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,19
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,24
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,26
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,27
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,28
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,9
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,12
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,12
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,11
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,8
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,7
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,5
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,3
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,5
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,11
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,14
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,12
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,15
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,15
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,13
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,10
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,12
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,9
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,4
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,2
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,5
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,4
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,5
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,5
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,6
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,6
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,6
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,1
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,4
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,5
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,6
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,6
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,7
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,8
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,6
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,9
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,57
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,51
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,48
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,43
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,44
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,44
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,47
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,43
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,50
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,46
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,37
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,35
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,35
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,32
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,33
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,35
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,67
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,65
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,66
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,63
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,59
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,56
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,49
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,45
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,42
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,42
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,46
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,49
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,42
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,45
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,40
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,36
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,75
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,71
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,70
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,69
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,61
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,62
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,61
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,63
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,71
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,68
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,56
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,51
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,47
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,39
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,41
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,45
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,65
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,69
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,65
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,63
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,67
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,66
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,61
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,62
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,70
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,67
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,76
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,71
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,68
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,59
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,55
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,49
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,81
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,81
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,75
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,72
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,62
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,63
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,64
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,60
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,70
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,62
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,52
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,55
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,60
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,66
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,58
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,64
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,80
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,79
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,77
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,66
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,74
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,72
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,73
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,68
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,60
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,62
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,62
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,67
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,63
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,64
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,56
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,46
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,78
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,74
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,77
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,86
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,74
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,74
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,74
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,72
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,47
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,55
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,53
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,50
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,60
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,56
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,58
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,57
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,72
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,71
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,64
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,61
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,65
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,66
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,64
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,71
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,45
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,47
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,48
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,47
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,39
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,41
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,46
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,46
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,61
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,68
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,69
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,69
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,61
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,64
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,62
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,57
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,47
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,43
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,42
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,40
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,44
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,42
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,42
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,42
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,59
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,54
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,59
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,61
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,61
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,59
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,63
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,61
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,50
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,52
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,54
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,53
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,49
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,47
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,45
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,41
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,45
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,46
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,45
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,42
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,49
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,53
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,49
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,56
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,64
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,58
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,61
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,56
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,49
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,50
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,50
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,52
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,45
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,43
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,47
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,46
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,43
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,41
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,40
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,40
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,39
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,41
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,40
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,44
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,54
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,61
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,56
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,58
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,44
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,46
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,47
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,51
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,48
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,42
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,40
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,39
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,47
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,52
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,51
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,50
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,47
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,37
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,38
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,36
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,36
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,34
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,33
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,33
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,35
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,39
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,41
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,43
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,59
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,48
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,41
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,42
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,38
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,43
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,50
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,46
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,44
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,47
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,45
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,38
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,32
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,28
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,30
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,29
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,60
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,66
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,70
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,63
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,62
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,56
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,46
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,38
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,26
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,21
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,22
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,25
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,30
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,34
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,33
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,26
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,27
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,33
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,34
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,38
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,43
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,52
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,56
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,63
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,6
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,12
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,13
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,11
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,9
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,10
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,10
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,13
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,10
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,10
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,12
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,16
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,16
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,16
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,24
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,23
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,3
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,3
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,2
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,2
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,2
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,2
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,1
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,1
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,8
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,6
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,5
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,6
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,4
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,4
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,4
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,6
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,45
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,47
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,39
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,37
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,33
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,31
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,25
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,29
+ 58534 MARISEL,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,30
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,34
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,36
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,44
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,46
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,48
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,47
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,44
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,36
+ 58534 MARISEL,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,41
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,40
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,40
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,42
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,46
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,46
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,47
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,49
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,38
+ 58534 MARISEL,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,36
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,34
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,35
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,31
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,34
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,36
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,32
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,36
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,43
+ 58534 MARISEL,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,44
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,60
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,55
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,49
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,42
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,42
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,42
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,43
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,45
+ 58534 MARISEL,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,49
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,48
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,39
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,44
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,41
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,38
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,38
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,35
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,32
+ 58534 MARISEL,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,34
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,60
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,55
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,53
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,52
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,49
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,46
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,43
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,44
+ 58534 MARISEL,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,41
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,45
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,43
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,46
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,46
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,49
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,51
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,44
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,44
+ 58534 MARISEL,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,37
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,62
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,67
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,68
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,65
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,62
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,59
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,53
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,51
+ 58534 MARISEL,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,50
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,64
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,66
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,60
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,60
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,51
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,48
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,50
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,48
+ 58534 MARISEL,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,48
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,65
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,56
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,60
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,62
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,64
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,64
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,66
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,64
+ 58534 MARISEL,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,61
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,37
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,42
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,46
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,50
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,58
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,60
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,61
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,53
+ 58534 MARISEL,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,53
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,65
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,69
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,69
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,75
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,72
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,66
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,57
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,59
+ 58534 MARISEL,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,58
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,61
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,55
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,55
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,48
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,46
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,38
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,41
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,45
+ 58534 MARISEL,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,50
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,78
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,71
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,68
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,70
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,71
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,69
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,79
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,75
+ 58534 MARISEL,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,75
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,45
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,50
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,52
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,53
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,52
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,59
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,56
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,56
+ 58534 MARISEL,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,48
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,58
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,67
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,68
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,63
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,66
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,72
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,66
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,64
+ 58534 MARISEL,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,70
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,43
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,38
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,40
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,47
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,47
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,46
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,50
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,51
+ 58534 MARISEL,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,53
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,62
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,53
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,60
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,58
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,52
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,57
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,68
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,67
+ 58534 MARISEL,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,61
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,38
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,42
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,41
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,40
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,41
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,42
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,39
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,41
+ 58534 MARISEL,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,46
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,60
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,59
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,55
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,59
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,62
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,64
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,54
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,56
+ 58534 MARISEL,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,56
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,50
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,47
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,45
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,46
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,43
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,41
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,46
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,41
+ 58534 MARISEL,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,40
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,35
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,43
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,52
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,51
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,56
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,60
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,61
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,56
+ 58534 MARISEL,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,55
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,56
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,51
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,50
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,49
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,49
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,49
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,47
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,46
+ 58534 MARISEL,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,47
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,42
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,39
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,38
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,36
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,36
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,32
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,42
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,51
+ 58534 MARISEL,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,52
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,43
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,52
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,61
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,56
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,60
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,57
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,52
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,51
+ 58534 MARISEL,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,49
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,46
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,44
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,39
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,37
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,38
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,40
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,38
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,36
+ 58534 MARISEL,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,37
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,44
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,42
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,31
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,36
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,36
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,42
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,50
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,58
+ 58534 MARISEL,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,54
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,26
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,29
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,31
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,35
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,38
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,37
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,37
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,35
+ 58534 MARISEL,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,33
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,36
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,32
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,37
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,41
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,39
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,37
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,37
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,31
+ 58534 MARISEL,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,34
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,21
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,17
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,17
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,18
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,17
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,16
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,22
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,24
+ 58534 MARISEL,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,26
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,55
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,50
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,43
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,37
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,31
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,31
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,26
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,29
+ 58534 MARISEL,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,34
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,15
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,13
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,15
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,15
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,13
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,14
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,11
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,12
+ 58534 MARISEL,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,13
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,31
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,34
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,37
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,35
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,39
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,33
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,32
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,29
+ 58534 MARISEL,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,26
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,2
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,3
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,3
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,3
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,5
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,6
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,6
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,6
+ 58534 MARISEL,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,7
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,8
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,9
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,9
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,13
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,17
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,25
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,25
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,25
+ 58534 MARISEL,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,29

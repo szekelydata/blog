@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,90
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,85
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,90
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,89
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,76
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,72
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,76
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,69
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,74
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,82
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,86
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,78
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,66
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,71
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,63
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,63
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,64
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,77
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,104
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,95
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,99
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,102
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,102
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,93
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,90
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,98
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,97
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,72
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,75
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,86
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,91
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,83
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,85
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,88
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,86
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,68
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,128
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,122
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,112
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,104
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,100
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,104
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,105
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,111
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,114
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,107
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,86
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,87
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,79
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,78
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,78
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,80
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,92
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,100
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,157
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,138
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,137
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,134
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,129
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,128
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,120
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,113
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,105
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,124
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,127
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,118
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,127
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,118
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,110
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,97
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,91
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,89
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,209
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,202
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,186
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,170
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,149
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,153
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,140
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,138
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,136
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,155
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,139
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,128
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,118
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,118
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,119
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,122
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,118
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,116
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,96
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,119
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,133
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,162
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,189
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,191
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,180
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,164
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,157
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,65
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,76
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,89
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,104
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,109
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,124
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,127
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,123
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,125
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,105
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,102
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,103
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,88
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,77
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,77
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,103
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,123
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,150
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,63
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,58
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,66
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,58
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,72
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,65
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,70
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,84
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,94
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,105
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,99
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,106
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,113
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,108
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,97
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,87
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,86
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,77
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,104
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,96
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,87
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,88
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,72
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,63
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,64
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,69
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,63
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,102
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,104
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,100
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,80
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,93
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,95
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,99
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,111
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,122
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,117
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,106
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,98
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,92
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,95
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,105
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,97
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,93
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,97
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,130
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,117
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,108
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,103
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,96
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,99
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,101
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,99
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,81
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,144
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,135
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,144
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,131
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,120
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,111
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,105
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,101
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,94
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,156
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,164
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,157
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,153
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,142
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,123
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,111
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,100
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,102
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,171
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,177
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,158
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,157
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,152
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,135
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,133
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,140
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,131
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,144
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,129
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,121
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,129
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,130
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,145
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,155
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,150
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,144
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,155
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,154
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,154
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,159
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,157
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,165
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,170
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,157
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,154
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,170
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,162
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,160
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,140
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,133
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,125
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,116
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,108
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,119
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,165
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,157
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,154
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,144
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,148
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,147
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,145
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,147
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,153
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,150
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,149
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,133
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,138
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,134
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,140
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,137
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,138
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,119
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,165
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,168
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,178
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,183
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,167
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,148
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,136
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,137
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,130
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,58
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,86
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,106
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,110
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,123
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,120
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,117
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,106
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,111
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,92
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,106
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,110
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,112
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,128
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,135
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,140
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,146
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,150
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,54
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,44
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,46
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,42
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,43
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,48
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,61
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,76
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,77
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,71
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,57
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,47
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,47
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,59
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,71
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,83
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,84
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,85
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,29
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,30
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,30
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,33
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,30
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,28
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,21
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,23
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,27
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,49
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,51
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,55
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,62
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,47
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,40
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,28
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,23
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,30
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,16
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,11
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,11
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,11
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,10
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,12
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,14
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,14
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,18
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,21
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,19
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,21
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,24
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,27
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,24
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,28
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,23
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,26
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,77
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,81
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,79
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,76
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,69
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,88
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,92
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,92
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,99
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,101
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,93
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,85
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,84
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,71
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,74
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,72
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,86
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,75
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,76
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,69
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,72
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,72
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,77
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,77
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,72
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,67
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,63
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,70
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,82
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,99
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,101
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,94
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,115
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,104
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,97
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,94
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,103
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,86
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,73
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,74
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,97
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,99
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,101
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,84
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,75
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,74
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,70
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,70
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,103
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,111
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,110
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,112
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,113
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,120
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,110
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,110
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,87
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,83
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,91
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,105
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,123
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,119
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,120
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,115
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,131
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,130
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,130
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,122
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,117
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,122
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,123
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,124
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,120
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,116
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,107
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,102
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,106
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,96
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,95
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,104
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,150
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,152
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,135
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,133
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,141
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,130
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,134
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,132
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,116
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,116
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,120
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,129
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,127
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,127
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,118
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,109
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,178
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,186
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,184
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,174
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,151
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,144
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,148
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,132
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,111
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,119
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,121
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,108
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,119
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,118
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,120
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,124
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,73
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,78
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,99
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,121
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,155
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,180
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,182
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,185
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,76
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,71
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,78
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,89
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,110
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,119
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,125
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,123
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,116
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,106
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,97
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,91
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,82
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,78
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,79
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,101
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,82
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,72
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,72
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,84
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,86
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,94
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,91
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,94
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,99
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,107
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,111
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,127
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,138
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,131
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,121
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,104
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,106
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,123
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,110
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,107
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,109
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,95
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,88
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,94
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,100
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,102
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,104
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,112
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,92
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,110
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,117
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,129
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,122
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,116
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,113
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,111
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,103
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,112
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,121
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,111
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,139
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,122
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,115
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,101
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,108
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,99
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,103
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,101
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,147
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,130
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,127
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,136
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,130
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,123
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,120
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,114
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,119
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,134
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,143
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,140
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,131
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,127
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,107
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,102
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,153
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,163
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,168
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,155
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,149
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,145
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,130
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,128
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,113
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,106
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,101
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,94
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,105
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,102
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,111
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,119
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,134
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,139
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,138
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,142
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,148
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,147
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,157
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,164
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,105
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,111
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,103
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,110
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,93
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,94
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,92
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,83
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,136
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,126
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,123
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,120
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,112
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,118
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,120
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,124
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,85
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,86
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,77
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,65
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,72
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,71
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,79
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,75
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,92
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,99
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,105
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,114
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,116
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,105
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,100
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,94
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,27
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,26
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,44
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,50
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,52
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,55
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,49
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,46
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,40
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,45
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,49
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,52
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,49
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,56
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,64
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,65
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,15
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,13
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,13
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,15
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,15
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,18
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,19
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,22
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,24
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,20
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,19
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,17
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,20
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,28
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,29
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,32
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,98
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,110
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,95
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,87
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,85
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,84
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,77
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,84
+ 55160 MICA,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,91
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,78
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,76
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,86
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,80
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,83
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,80
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,79
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,69
+ 55160 MICA,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,71
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,77
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,70
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,88
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,96
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,99
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,102
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,114
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,102
+ 55160 MICA,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,97
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,87
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,85
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,75
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,82
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,79
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,85
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,77
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,82
+ 55160 MICA,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,77
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,71
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,74
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,79
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,79
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,83
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,81
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,78
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,100
+ 55160 MICA,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,101
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,78
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,83
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,95
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,97
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,95
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,86
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,84
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,75
+ 55160 MICA,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,81
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,115
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,119
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,92
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,84
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,82
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,83
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,90
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,89
+ 55160 MICA,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,93
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,96
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,86
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,95
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,88
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,89
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,93
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,91
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,97
+ 55160 MICA,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,100
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,123
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,121
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,123
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,118
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,113
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,115
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,110
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,97
+ 55160 MICA,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,86
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,121
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,135
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,132
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,138
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,118
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,102
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,93
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,96
+ 55160 MICA,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,83
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,127
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,123
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,124
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,126
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,128
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,130
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,128
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,130
+ 55160 MICA,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,125
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,111
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,102
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,97
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,99
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,111
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,122
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,135
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,124
+ 55160 MICA,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,129
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,144
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,145
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,138
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,136
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,136
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,129
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,133
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,135
+ 55160 MICA,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,122
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,131
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,126
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,126
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,119
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,119
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,117
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,99
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,98
+ 55160 MICA,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,93
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,168
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,153
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,151
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,161
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,149
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,152
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,148
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,143
+ 55160 MICA,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,144
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,110
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,122
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,128
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,128
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,134
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,141
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,146
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,140
+ 55160 MICA,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,136
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,122
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,157
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,176
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,180
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,175
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,169
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,160
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,157
+ 55160 MICA,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,162
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,106
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,109
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,124
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,133
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,128
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,115
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,124
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,127
+ 55160 MICA,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,135
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,99
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,88
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,79
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,83
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,111
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,124
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,154
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,174
+ 55160 MICA,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,181
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,96
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,95
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,101
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,93
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,99
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,103
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,107
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,122
+ 55160 MICA,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,130
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,131
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,135
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,130
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,117
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,100
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,99
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,88
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,78
+ 55160 MICA,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,81
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,108
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,111
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,93
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,87
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,90
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,98
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,92
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,100
+ 55160 MICA,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,96
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,109
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,93
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,112
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,124
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,132
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,133
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,135
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,127
+ 55160 MICA,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,115
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,112
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,104
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,112
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,120
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,114
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,109
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,111
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,98
+ 55160 MICA,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,90
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,89
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,98
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,91
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,93
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,95
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,101
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,84
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,102
+ 55160 MICA,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,115
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,136
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,129
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,119
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,115
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,115
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,114
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,105
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,114
+ 55160 MICA,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,126
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,121
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,109
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,107
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,86
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,77
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,64
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,72
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,66
+ 55160 MICA,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,68
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,150
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,146
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,144
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,130
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,126
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,133
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,124
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,116
+ 55160 MICA,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,111
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,79
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,85
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,82
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,91
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,97
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,100
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,93
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,91
+ 55160 MICA,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,73
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,127
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,137
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,138
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,141
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,144
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,136
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,130
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,129
+ 55160 MICA,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,114
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,78
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,66
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,68
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,71
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,65
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,55
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,64
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,61
+ 55160 MICA,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,68
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,95
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,90
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,95
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,101
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,102
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,108
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,120
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,115
+ 55160 MICA,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,120
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,42
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,51
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,53
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,47
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,42
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,45
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,42
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,40
+ 55160 MICA,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,43
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,67
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,72
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,69
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,72
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,68
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,62
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,58
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,62
+ 55160 MICA,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,66
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,24
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,23
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,23
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,25
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,23
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,26
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,28
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,28
+ 55160 MICA,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,24
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,34
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,35
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,30
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,37
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,35
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,41
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,44
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,48
+ 55160 MICA,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,57

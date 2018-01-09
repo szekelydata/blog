@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,256
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,240
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,223
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,221
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,210
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,232
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,218
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,215
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,207
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,238
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,227
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,212
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,208
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,209
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,200
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,191
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,189
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,178
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,234
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,252
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,258
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,265
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,281
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,269
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,242
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,224
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,221
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,255
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,265
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,260
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,256
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,242
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,240
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,228
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,215
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,209
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,342
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,308
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,284
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,266
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,243
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,235
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,256
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,263
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,269
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,311
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,279
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,270
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,265
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,264
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,259
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,271
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,261
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,258
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,379
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,389
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,380
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,374
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,359
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,354
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,310
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,279
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,259
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,374
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,383
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,369
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,356
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,343
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,314
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,281
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,277
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,266
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,353
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,347
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,358
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,356
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,369
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,368
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,380
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,377
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,373
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,336
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,320
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,310
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,313
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,322
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,354
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,359
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,350
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,346
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,240
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,267
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,287
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,302
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,304
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,319
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,324
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,336
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,342
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,200
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,232
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,261
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,291
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,302
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,305
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,290
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,293
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,306
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,225
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,219
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,217
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,215
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,225
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,240
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,265
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,287
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,308
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,186
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,174
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,166
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,174
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,187
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,201
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,230
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,257
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,281
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,204
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,208
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,219
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,234
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,244
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,236
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,224
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,212
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,211
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,280
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,270
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,257
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,234
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,212
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,201
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,183
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,178
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,177
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,259
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,262
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,253
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,230
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,207
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,198
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,205
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,222
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,227
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,238
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,247
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,263
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,271
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,278
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,272
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,258
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,257
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,239
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,229
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,236
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,237
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,253
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,260
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,255
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,251
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,243
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,237
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,206
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,221
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,212
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,219
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,225
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,238
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,244
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,265
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,268
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,225
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,203
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,211
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,201
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,199
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,214
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,229
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,229
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,246
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,207
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,201
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,215
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,211
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,211
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,200
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,218
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,209
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,216
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,210
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,218
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,203
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,205
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,209
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,197
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,182
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,192
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,191
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,200
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,195
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,189
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,192
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,191
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,205
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,196
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,209
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,209
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,212
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,186
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,192
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,195
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,192
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,186
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,195
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,171
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,175
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,204
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,216
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,207
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,211
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,202
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,196
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,192
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,180
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,183
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,182
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,193
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,204
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,185
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,182
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,193
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,170
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,171
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,165
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,245
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,209
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,215
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,198
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,194
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,189
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,201
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,196
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,198
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,87
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,120
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,126
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,140
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,152
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,152
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,159
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,171
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,156
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,126
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,162
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,177
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,188
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,202
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,212
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,176
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,185
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,178
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,73
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,56
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,56
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,54
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,62
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,60
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,87
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,96
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,109
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,96
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,83
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,71
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,62
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,80
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,99
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,127
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,137
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,152
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,39
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,37
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,42
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,41
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,38
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,45
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,35
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,35
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,39
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,44
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,56
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,58
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,67
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,62
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,59
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,54
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,45
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,42
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,14
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,19
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,18
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,19
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,23
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,24
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,22
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,23
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,21
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,10
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,13
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,19
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,16
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,17
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,22
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,27
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,30
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,34
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,215
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,196
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,207
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,219
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,193
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,194
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,202
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,209
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,201
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,191
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,188
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,189
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,183
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,178
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,187
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,196
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,208
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,223
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,214
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,209
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,207
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,216
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,202
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,215
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,205
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,198
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,192
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,187
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,176
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,196
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,191
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,193
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,275
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,262
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,237
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,222
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,223
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,211
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,231
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,224
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,240
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,242
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,225
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,213
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,213
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,211
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,203
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,195
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,234
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,232
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,259
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,266
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,276
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,287
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,279
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,254
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,263
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,257
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,274
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,273
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,282
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,266
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,265
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,246
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,355
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,345
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,310
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,278
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,267
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,240
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,239
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,257
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,335
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,308
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,291
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,282
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,272
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,287
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,282
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,299
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,365
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,367
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,379
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,380
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,374
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,376
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,362
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,330
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,307
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,339
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,353
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,362
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,359
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,331
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,312
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,307
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,312
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,330
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,330
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,347
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,367
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,386
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,381
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,391
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,301
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,303
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,294
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,293
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,312
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,318
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,360
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,363
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,224
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,238
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,274
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,300
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,320
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,331
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,361
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,354
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,188
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,208
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,240
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,272
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,296
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,316
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,323
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,318
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,234
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,227
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,225
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,215
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,229
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,241
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,252
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,287
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,218
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,203
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,184
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,182
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,188
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,207
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,221
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,248
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,216
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,202
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,202
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,225
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,238
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,241
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,236
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,236
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,274
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,271
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,263
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,260
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,246
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,222
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,211
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,197
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,257
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,255
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,249
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,239
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,240
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,226
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,219
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,207
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,222
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,240
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,248
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,269
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,273
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,276
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,268
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,261
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,197
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,213
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,226
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,221
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,237
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,242
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,245
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,247
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,209
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,197
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,209
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,204
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,217
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,229
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,252
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,256
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,187
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,182
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,166
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,180
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,177
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,176
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,191
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,212
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,185
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,199
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,197
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,209
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,207
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,205
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,193
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,207
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,164
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,162
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,172
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,157
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,164
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,173
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,165
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,149
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,188
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,184
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,177
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,169
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,171
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,171
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,183
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,184
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,149
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,151
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,137
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,145
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,135
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,143
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,144
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,156
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,174
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,167
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,180
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,172
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,174
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,166
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,162
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,160
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,120
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,117
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,118
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,132
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,119
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,112
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,111
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,103
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,157
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,159
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,137
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,143
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,135
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,133
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,138
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,153
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,38
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,43
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,57
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,59
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,74
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,84
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,84
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,83
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,58
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,70
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,93
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,102
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,109
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,108
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,108
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,97
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,19
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,25
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,22
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,28
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,37
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,41
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,48
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,64
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,39
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,43
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,47
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,42
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,44
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,59
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,68
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,89
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,199
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,222
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,230
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,248
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,247
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,259
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,258
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,252
+ 57902 GILAU,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,243
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,213
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,239
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,225
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,225
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,235
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,242
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,223
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,216
+ 57902 GILAU,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,215
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,227
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,203
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,201
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,207
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,217
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,202
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,228
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,243
+ 57902 GILAU,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,259
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,197
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,196
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,200
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,198
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,199
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,211
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,247
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,238
+ 57902 GILAU,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,243
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,221
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,221
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,233
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,216
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,225
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,238
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,205
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,204
+ 57902 GILAU,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,218
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,194
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,186
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,215
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,211
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,212
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,213
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,213
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,212
+ 57902 GILAU,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,206
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,242
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,242
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,246
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,265
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,264
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,256
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,258
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,258
+ 57902 GILAU,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,241
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,239
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,234
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,235
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,243
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,236
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,224
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,211
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,230
+ 57902 GILAU,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,227
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,273
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,286
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,293
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,285
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,270
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,260
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,260
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,254
+ 57902 GILAU,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,278
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,307
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,305
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,287
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,271
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,264
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,243
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,237
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,233
+ 57902 GILAU,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,237
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,298
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,278
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,265
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,278
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,278
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,287
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,297
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,304
+ 57902 GILAU,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,282
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,302
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,300
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,315
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,307
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,315
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,317
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,325
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,308
+ 57902 GILAU,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,299
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,402
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,398
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,394
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,375
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,366
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,336
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,319
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,286
+ 57902 GILAU,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,286
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,375
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,378
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,353
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,337
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,337
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,339
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,324
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,334
+ 57902 GILAU,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,323
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,364
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,383
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,399
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,398
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,403
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,415
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,411
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,415
+ 57902 GILAU,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,406
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,310
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,326
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,343
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,378
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,385
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,378
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,379
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,368
+ 57902 GILAU,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,354
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,314
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,329
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,347
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,366
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,372
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,378
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,395
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,414
+ 57902 GILAU,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,408
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,276
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,303
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,332
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,337
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,332
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,332
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,351
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,356
+ 57902 GILAU,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,378
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,232
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,234
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,247
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,258
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,292
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,315
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,334
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,352
+ 57902 GILAU,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,371
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,191
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,196
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,213
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,225
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,255
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,276
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,307
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,345
+ 57902 GILAU,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,356
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,229
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,235
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,233
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,236
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,239
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,235
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,243
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,252
+ 57902 GILAU,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,263
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,262
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,244
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,225
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,216
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,206
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,203
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,204
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,218
+ 57902 GILAU,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,234
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,237
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,228
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,223
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,215
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,206
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,233
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,236
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,226
+ 57902 GILAU,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,234
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,268
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,271
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,276
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,266
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,260
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,259
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,242
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,222
+ 57902 GILAU,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,215
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,209
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,226
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,230
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,234
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,238
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,226
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,220
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,215
+ 57902 GILAU,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,207
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,200
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,211
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,228
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,249
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,257
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,268
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,269
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,268
+ 57902 GILAU,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,262
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,165
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,161
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,163
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,177
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,191
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,191
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,213
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,209
+ 57902 GILAU,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,215
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,196
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,196
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,195
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,182
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,187
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,188
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,203
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,224
+ 57902 GILAU,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,242
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,135
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,145
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,147
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,139
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,126
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,149
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,148
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,147
+ 57902 GILAU,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,159
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,148
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,154
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,155
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,172
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,168
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,182
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,178
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,179
+ 57902 GILAU,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,173
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,110
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,109
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,122
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,120
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,122
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,104
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,110
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,115
+ 57902 GILAU,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,108
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,151
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,151
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,144
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,139
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,137
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,128
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,136
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,133
+ 57902 GILAU,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,147
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,90
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,81
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,77
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,79
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,76
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,78
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,81
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,77
+ 57902 GILAU,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,82
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,102
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,100
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,108
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,107
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,117
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,120
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,114
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,107
+ 57902 GILAU,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,102
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,68
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,82
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,93
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,99
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,107
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,123
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,116
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,123
+ 57902 GILAU,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,130
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,94
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,106
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,124
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,140
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,143
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,152
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,153
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,167
+ 57902 GILAU,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,171

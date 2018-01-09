@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 1992, Numar persoane,225
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 1993, Numar persoane,213
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 1994, Numar persoane,206
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 1995, Numar persoane,190
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 1996, Numar persoane,183
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 1997, Numar persoane,175
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 1998, Numar persoane,175
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 1992, Numar persoane,188
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 1993, Numar persoane,177
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 1994, Numar persoane,167
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 1995, Numar persoane,156
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 1996, Numar persoane,153
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 1997, Numar persoane,145
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 1998, Numar persoane,132
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 1992, Numar persoane,168
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 1993, Numar persoane,188
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 1994, Numar persoane,213
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 1995, Numar persoane,217
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 1996, Numar persoane,220
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 1997, Numar persoane,215
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 1998, Numar persoane,211
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 1992, Numar persoane,150
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 1993, Numar persoane,167
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 1994, Numar persoane,182
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 1995, Numar persoane,196
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 1996, Numar persoane,182
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 1997, Numar persoane,183
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 1998, Numar persoane,171
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 1992, Numar persoane,193
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 1993, Numar persoane,180
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 1994, Numar persoane,164
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 1995, Numar persoane,173
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 1996, Numar persoane,172
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 1997, Numar persoane,167
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 1998, Numar persoane,183
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 1992, Numar persoane,187
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 1993, Numar persoane,181
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 1994, Numar persoane,165
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 1995, Numar persoane,139
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 1996, Numar persoane,154
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 1997, Numar persoane,150
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 1998, Numar persoane,164
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 1992, Numar persoane,196
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 1993, Numar persoane,198
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 1994, Numar persoane,193
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 1995, Numar persoane,191
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 1996, Numar persoane,176
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 1997, Numar persoane,197
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 1998, Numar persoane,187
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 1992, Numar persoane,172
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 1993, Numar persoane,171
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 1994, Numar persoane,176
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 1995, Numar persoane,195
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 1996, Numar persoane,182
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 1997, Numar persoane,189
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 1998, Numar persoane,178
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 1992, Numar persoane,186
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 1993, Numar persoane,194
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 1994, Numar persoane,207
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 1995, Numar persoane,200
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 1996, Numar persoane,211
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 1997, Numar persoane,198
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 1998, Numar persoane,198
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 1992, Numar persoane,188
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 1993, Numar persoane,184
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 1994, Numar persoane,180
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 1995, Numar persoane,157
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 1996, Numar persoane,162
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 1997, Numar persoane,167
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 1998, Numar persoane,182
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 1992, Numar persoane,129
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 1993, Numar persoane,144
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 1994, Numar persoane,146
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 1995, Numar persoane,163
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 1996, Numar persoane,172
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 1997, Numar persoane,195
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 1998, Numar persoane,195
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 1992, Numar persoane,115
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 1993, Numar persoane,133
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 1994, Numar persoane,147
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 1995, Numar persoane,173
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 1996, Numar persoane,177
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 1997, Numar persoane,184
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 1998, Numar persoane,168
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 1992, Numar persoane,140
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 1993, Numar persoane,137
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 1994, Numar persoane,153
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 1995, Numar persoane,146
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 1996, Numar persoane,145
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 1997, Numar persoane,130
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 1998, Numar persoane,148
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 1992, Numar persoane,124
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 1993, Numar persoane,109
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 1994, Numar persoane,110
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 1995, Numar persoane,100
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 1996, Numar persoane,106
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 1997, Numar persoane,109
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 1998, Numar persoane,131
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 1992, Numar persoane,139
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 1993, Numar persoane,132
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 1994, Numar persoane,128
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 1995, Numar persoane,139
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 1996, Numar persoane,127
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 1997, Numar persoane,138
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 1998, Numar persoane,140
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 1992, Numar persoane,130
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 1993, Numar persoane,139
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 1994, Numar persoane,146
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 1995, Numar persoane,137
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 1996, Numar persoane,128
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 1997, Numar persoane,121
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 1998, Numar persoane,114
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 1992, Numar persoane,109
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 1993, Numar persoane,125
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 1994, Numar persoane,133
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 1995, Numar persoane,132
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 1996, Numar persoane,140
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 1997, Numar persoane,140
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 1998, Numar persoane,131
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 1992, Numar persoane,107
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 1993, Numar persoane,120
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 1994, Numar persoane,126
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 1995, Numar persoane,133
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 1996, Numar persoane,140
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 1997, Numar persoane,141
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 1998, Numar persoane,146
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 1992, Numar persoane,104
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 1993, Numar persoane,96
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 1994, Numar persoane,104
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 1995, Numar persoane,103
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 1996, Numar persoane,108
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 1997, Numar persoane,100
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 1998, Numar persoane,121
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 1992, Numar persoane,116
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 1993, Numar persoane,108
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 1994, Numar persoane,102
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 1995, Numar persoane,102
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 1996, Numar persoane,104
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 1997, Numar persoane,107
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 1998, Numar persoane,122
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 1992, Numar persoane,127
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 1993, Numar persoane,124
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 1994, Numar persoane,111
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 1995, Numar persoane,111
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 1996, Numar persoane,100
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 1997, Numar persoane,100
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 1998, Numar persoane,88
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 1992, Numar persoane,141
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 1993, Numar persoane,138
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 1994, Numar persoane,128
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 1995, Numar persoane,123
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 1996, Numar persoane,112
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 1997, Numar persoane,112
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 1998, Numar persoane,107
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 1992, Numar persoane,147
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 1993, Numar persoane,141
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 1994, Numar persoane,132
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 1995, Numar persoane,129
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 1996, Numar persoane,116
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 1997, Numar persoane,114
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 1998, Numar persoane,109
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 1992, Numar persoane,188
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 1993, Numar persoane,169
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 1994, Numar persoane,161
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 1995, Numar persoane,153
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 1996, Numar persoane,155
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 1997, Numar persoane,140
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 1998, Numar persoane,130
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 1992, Numar persoane,160
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 1993, Numar persoane,166
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 1994, Numar persoane,159
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 1995, Numar persoane,145
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 1996, Numar persoane,140
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 1997, Numar persoane,125
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 1998, Numar persoane,119
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 1992, Numar persoane,166
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 1993, Numar persoane,182
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 1994, Numar persoane,193
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 1995, Numar persoane,190
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 1996, Numar persoane,168
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 1997, Numar persoane,176
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 1998, Numar persoane,160
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 1992, Numar persoane,118
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 1993, Numar persoane,119
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 1994, Numar persoane,125
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 1995, Numar persoane,130
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 1996, Numar persoane,130
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 1997, Numar persoane,124
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 1998, Numar persoane,126
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 1992, Numar persoane,152
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 1993, Numar persoane,148
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 1994, Numar persoane,153
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 1995, Numar persoane,161
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 1996, Numar persoane,163
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 1997, Numar persoane,147
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 1998, Numar persoane,165
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 1992, Numar persoane,56
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 1993, Numar persoane,64
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 1994, Numar persoane,72
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 1995, Numar persoane,73
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 1996, Numar persoane,71
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 1997, Numar persoane,78
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 1998, Numar persoane,82
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 1992, Numar persoane,105
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 1993, Numar persoane,116
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 1994, Numar persoane,125
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 1995, Numar persoane,115
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 1996, Numar persoane,118
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 1997, Numar persoane,118
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 1998, Numar persoane,118
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 1992, Numar persoane,51
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 1993, Numar persoane,36
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 1994, Numar persoane,24
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 1995, Numar persoane,23
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 1996, Numar persoane,30
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 1997, Numar persoane,34
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 1998, Numar persoane,32
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 1992, Numar persoane,74
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 1993, Numar persoane,49
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 1994, Numar persoane,37
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 1995, Numar persoane,40
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 1996, Numar persoane,53
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 1997, Numar persoane,78
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 1998, Numar persoane,90
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 1992, Numar persoane,35
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 1993, Numar persoane,37
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 1994, Numar persoane,42
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 1995, Numar persoane,35
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 1996, Numar persoane,29
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 1997, Numar persoane,23
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 1998, Numar persoane,18
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 1992, Numar persoane,59
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 1993, Numar persoane,67
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 1994, Numar persoane,64
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 1995, Numar persoane,57
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 1996, Numar persoane,56
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 1997, Numar persoane,44
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 1998, Numar persoane,31
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 1992, Numar persoane,10
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 1993, Numar persoane,10
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 1994, Numar persoane,9
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 1995, Numar persoane,8
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 1996, Numar persoane,12
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 1997, Numar persoane,13
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 1998, Numar persoane,15
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 1992, Numar persoane,22
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 1993, Numar persoane,28
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 1994, Numar persoane,34
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 1995, Numar persoane,32
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 1996, Numar persoane,31
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 1997, Numar persoane,30
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 1998, Numar persoane,44
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 1999, Numar persoane,157
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2000, Numar persoane,163
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2001, Numar persoane,168
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2002, Numar persoane,165
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2003, Numar persoane,169
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2004, Numar persoane,174
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,159
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,152
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 1999, Numar persoane,131
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2000, Numar persoane,134
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2001, Numar persoane,135
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2002, Numar persoane,133
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2003, Numar persoane,130
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2004, Numar persoane,119
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,111
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,108
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 1999, Numar persoane,204
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2000, Numar persoane,193
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2001, Numar persoane,181
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2002, Numar persoane,176
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2003, Numar persoane,174
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2004, Numar persoane,155
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,160
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,168
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 1999, Numar persoane,163
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2000, Numar persoane,156
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2001, Numar persoane,152
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2002, Numar persoane,144
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2003, Numar persoane,133
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2004, Numar persoane,128
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,139
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,138
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 1999, Numar persoane,205
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2000, Numar persoane,208
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2001, Numar persoane,218
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2002, Numar persoane,214
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2003, Numar persoane,214
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2004, Numar persoane,208
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,195
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,187
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 1999, Numar persoane,169
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2000, Numar persoane,190
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2001, Numar persoane,183
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2002, Numar persoane,187
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2003, Numar persoane,172
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2004, Numar persoane,166
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,157
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,153
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 1999, Numar persoane,180
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2000, Numar persoane,182
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2001, Numar persoane,170
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2002, Numar persoane,167
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2003, Numar persoane,187
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2004, Numar persoane,215
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,223
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,231
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 1999, Numar persoane,171
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2000, Numar persoane,146
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2001, Numar persoane,161
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2002, Numar persoane,147
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2003, Numar persoane,167
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2004, Numar persoane,177
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,188
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,179
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 1999, Numar persoane,200
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2000, Numar persoane,205
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2001, Numar persoane,199
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2002, Numar persoane,211
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2003, Numar persoane,200
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2004, Numar persoane,185
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,186
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,177
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 1999, Numar persoane,196
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2000, Numar persoane,221
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2001, Numar persoane,204
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2002, Numar persoane,219
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2003, Numar persoane,199
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2004, Numar persoane,183
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,151
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,152
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 1999, Numar persoane,214
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2000, Numar persoane,209
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2001, Numar persoane,212
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2002, Numar persoane,207
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2003, Numar persoane,205
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2004, Numar persoane,203
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,210
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,202
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 1999, Numar persoane,169
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2000, Numar persoane,155
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2001, Numar persoane,172
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2002, Numar persoane,171
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2003, Numar persoane,195
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2004, Numar persoane,189
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,229
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,210
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 1999, Numar persoane,154
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2000, Numar persoane,173
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2001, Numar persoane,189
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2002, Numar persoane,200
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2003, Numar persoane,200
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2004, Numar persoane,213
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,206
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,218
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 1999, Numar persoane,154
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2000, Numar persoane,177
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2001, Numar persoane,180
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2002, Numar persoane,192
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2003, Numar persoane,178
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2004, Numar persoane,179
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,157
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,170
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 1999, Numar persoane,157
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2000, Numar persoane,148
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2001, Numar persoane,151
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2002, Numar persoane,142
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2003, Numar persoane,159
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2004, Numar persoane,158
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,173
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,184
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 1999, Numar persoane,110
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2000, Numar persoane,105
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2001, Numar persoane,107
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2002, Numar persoane,114
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2003, Numar persoane,138
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2004, Numar persoane,156
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,185
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,185
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 1999, Numar persoane,134
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2000, Numar persoane,143
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2001, Numar persoane,128
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2002, Numar persoane,141
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2003, Numar persoane,145
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2004, Numar persoane,161
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,151
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,154
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 1999, Numar persoane,159
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2000, Numar persoane,151
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2001, Numar persoane,142
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2002, Numar persoane,127
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2003, Numar persoane,120
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2004, Numar persoane,117
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,111
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,116
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 1999, Numar persoane,138
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2000, Numar persoane,133
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2001, Numar persoane,147
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2002, Numar persoane,148
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2003, Numar persoane,142
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2004, Numar persoane,138
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,142
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,135
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 1999, Numar persoane,130
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2000, Numar persoane,137
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2001, Numar persoane,151
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2002, Numar persoane,154
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2003, Numar persoane,156
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2004, Numar persoane,162
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,152
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,132
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 1999, Numar persoane,93
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2000, Numar persoane,98
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2001, Numar persoane,106
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2002, Numar persoane,104
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2003, Numar persoane,121
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2004, Numar persoane,134
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,138
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,140
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 1999, Numar persoane,102
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2000, Numar persoane,100
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2001, Numar persoane,105
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2002, Numar persoane,110
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2003, Numar persoane,128
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2004, Numar persoane,134
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,137
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,155
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 1999, Numar persoane,98
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2000, Numar persoane,103
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2001, Numar persoane,97
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2002, Numar persoane,91
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2003, Numar persoane,85
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2004, Numar persoane,92
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,98
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,111
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 1999, Numar persoane,121
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2000, Numar persoane,123
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2001, Numar persoane,112
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2002, Numar persoane,112
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2003, Numar persoane,106
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2004, Numar persoane,98
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,97
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,106
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 1999, Numar persoane,111
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2000, Numar persoane,107
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2001, Numar persoane,100
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2002, Numar persoane,104
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2003, Numar persoane,101
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2004, Numar persoane,89
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,96
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,85
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 1999, Numar persoane,147
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2000, Numar persoane,138
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2001, Numar persoane,146
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2002, Numar persoane,133
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2003, Numar persoane,123
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2004, Numar persoane,119
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,126
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,105
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 1999, Numar persoane,128
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2000, Numar persoane,114
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2001, Numar persoane,117
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2002, Numar persoane,105
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2003, Numar persoane,98
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2004, Numar persoane,87
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,84
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,78
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 1999, Numar persoane,174
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2000, Numar persoane,171
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2001, Numar persoane,148
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2002, Numar persoane,157
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2003, Numar persoane,151
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2004, Numar persoane,136
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,125
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,137
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 1999, Numar persoane,89
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2000, Numar persoane,98
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2001, Numar persoane,97
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2002, Numar persoane,102
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2003, Numar persoane,103
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2004, Numar persoane,103
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,83
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,85
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 1999, Numar persoane,127
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2000, Numar persoane,138
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2001, Numar persoane,146
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2002, Numar persoane,135
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2003, Numar persoane,141
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2004, Numar persoane,145
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,148
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,130
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 1999, Numar persoane,37
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2000, Numar persoane,46
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2001, Numar persoane,46
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2002, Numar persoane,51
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2003, Numar persoane,56
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2004, Numar persoane,57
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,68
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,66
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 1999, Numar persoane,99
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2000, Numar persoane,95
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2001, Numar persoane,92
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2002, Numar persoane,92
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2003, Numar persoane,93
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2004, Numar persoane,91
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,102
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,106
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 1999, Numar persoane,11
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2000, Numar persoane,10
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2001, Numar persoane,11
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2002, Numar persoane,17
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2003, Numar persoane,20
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2004, Numar persoane,22
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,25
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,22
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 1999, Numar persoane,26
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2000, Numar persoane,26
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2001, Numar persoane,37
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2002, Numar persoane,51
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2003, Numar persoane,57
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2004, Numar persoane,66
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,66
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,70
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 1999, Numar persoane,18
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2000, Numar persoane,14
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2001, Numar persoane,16
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2002, Numar persoane,13
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2003, Numar persoane,9
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2004, Numar persoane,6
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,5
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,8
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 1999, Numar persoane,39
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2000, Numar persoane,33
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2001, Numar persoane,29
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2002, Numar persoane,23
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2003, Numar persoane,23
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2004, Numar persoane,22
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,20
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,28
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,94
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,86
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,85
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,71
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,73
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,69
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,67
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,74
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,86
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,86
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,77
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,72
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,104
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,103
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,107
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,102
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,95
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,86
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,75
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,70
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,68
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,63
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,66
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,72
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,122
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,117
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,111
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,111
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,109
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,103
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,84
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,75
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,79
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,86
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,84
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,80
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,149
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,144
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,129
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,129
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,122
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,116
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,108
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,105
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,100
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,91
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,90
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,86
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,115
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,122
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,140
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,146
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,147
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,145
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,85
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,92
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,93
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,109
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,106
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,113
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,131
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,127
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,117
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,120
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,117
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,110
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,128
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,112
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,107
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,95
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,91
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,81
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,126
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,128
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,122
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,118
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,121
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,125
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,116
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,124
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,118
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,132
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,113
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,117
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,140
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,136
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,135
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,139
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,142
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,140
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,121
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,113
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,124
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,115
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,115
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,116
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,91
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,106
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,118
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,117
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,123
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,133
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,73
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,94
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,96
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,113
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,114
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,123
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,102
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,113
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,113
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,106
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,105
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,95
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,77
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,75
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,74
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,64
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,73
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,75
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,90
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,85
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,87
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,91
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,90
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,97
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,110
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,105
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,107
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,101
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,85
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,77
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,68
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,73
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,80
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,79
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,82
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,88
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,80
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,85
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,90
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,98
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,110
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,115
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,57
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,51
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,59
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,63
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,66
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,57
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,70
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,66
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,69
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,73
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,74
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,78
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,55
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,54
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,52
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,49
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,46
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,45
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,87
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,85
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,81
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,78
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,77
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,72
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,42
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,36
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,42
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,42
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,43
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,44
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,93
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,84
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,80
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,75
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,83
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,77
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,53
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,54
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,49
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,36
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,32
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,29
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,74
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,75
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,76
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,75
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,65
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,70
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,15
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,16
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,17
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,29
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,34
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,36
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,41
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,42
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,49
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,48
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,53
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,51
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,7
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,8
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,7
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,6
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,8
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,9
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,26
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,29
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,29
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,31
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,25
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,28
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,72
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,63
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,72
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,82
+ 155591 BANLOC,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,93
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,81
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,69
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,75
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,88
+ 155591 BANLOC,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,93
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,84
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,80
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,71
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,72
+ 155591 BANLOC,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,72
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,81
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,81
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,81
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,78
+ 155591 BANLOC,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,86
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,103
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,104
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,98
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,91
+ 155591 BANLOC,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,85
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,73
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,68
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,68
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,74
+ 155591 BANLOC,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,73
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,121
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,115
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,110
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,110
+ 155591 BANLOC,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,107
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,82
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,84
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,89
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,87
+ 155591 BANLOC,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,84
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,141
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,124
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,125
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,117
+ 155591 BANLOC,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,117
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,110
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,99
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,88
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,85
+ 155591 BANLOC,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,84
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,120
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,139
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,140
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,148
+ 155591 BANLOC,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,150
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,96
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,97
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,114
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,113
+ 155591 BANLOC,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,117
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,117
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,107
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,115
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,118
+ 155591 BANLOC,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,120
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,108
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,105
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,92
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,94
+ 155591 BANLOC,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,90
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,138
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,130
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,128
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,116
+ 155591 BANLOC,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,118
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,122
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,118
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,131
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,121
+ 155591 BANLOC,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,118
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,131
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,129
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,141
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,148
+ 155591 BANLOC,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,146
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,112
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,114
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,104
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,113
+ 155591 BANLOC,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,114
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,107
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,115
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,115
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,118
+ 155591 BANLOC,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,131
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,93
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,99
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,116
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,115
+ 155591 BANLOC,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,121
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,105
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,104
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,99
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,97
+ 155591 BANLOC,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,94
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,78
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,73
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,65
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,75
+ 155591 BANLOC,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,76
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,79
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,80
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,85
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,86
+ 155591 BANLOC,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,90
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,107
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,106
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,97
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,89
+ 155591 BANLOC,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,82
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,63
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,68
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,75
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,77
+ 155591 BANLOC,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,82
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,82
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,87
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,97
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,104
+ 155591 BANLOC,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,111
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,45
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,55
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,54
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,58
+ 155591 BANLOC,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,56
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,71
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,70
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,71
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,70
+ 155591 BANLOC,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,70
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,43
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,38
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,35
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,32
+ 155591 BANLOC,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,29
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,74
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,66
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,68
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,69
+ 155591 BANLOC,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,64
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,25
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,26
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,25
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,27
+ 155591 BANLOC,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,31
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,66
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,66
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,63
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,68
+ 155591 BANLOC,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,61
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,36
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,32
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,27
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,17
+ 155591 BANLOC,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,17
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,50
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,49
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,49
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,41
+ 155591 BANLOC,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,46
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,12
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,14
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,22
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,28
+ 155591 BANLOC,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,25
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,31
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,36
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,34
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,38
+ 155591 BANLOC,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,39

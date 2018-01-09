@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,246
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,235
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,200
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,194
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,187
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,182
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,193
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,209
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,210
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,240
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,246
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,245
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,210
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,202
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,200
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,195
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,190
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,181
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,242
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,263
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,271
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,271
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,267
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,267
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,257
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,221
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,223
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,207
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,232
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,234
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,261
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,277
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,258
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,254
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,259
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,234
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,264
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,269
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,255
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,251
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,242
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,251
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,267
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,278
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,280
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,268
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,245
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,241
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,219
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,209
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,214
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,241
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,243
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,272
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,298
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,277
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,304
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,283
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,275
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,271
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,279
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,266
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,260
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,299
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,272
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,265
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,258
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,263
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,260
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,244
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,245
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,221
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,397
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,368
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,351
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,323
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,308
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,293
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,270
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,304
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,288
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,353
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,353
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,339
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,317
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,293
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,292
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,280
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,266
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,270
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,211
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,270
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,283
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,311
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,353
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,378
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,364
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,342
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,333
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,197
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,232
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,268
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,290
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,339
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,346
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,345
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,344
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,330
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,253
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,228
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,220
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,224
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,228
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,215
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,264
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,282
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,328
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,201
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,193
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,175
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,180
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,186
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,202
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,236
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,267
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,301
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,270
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,281
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,293
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,283
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,258
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,256
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,239
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,227
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,228
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,269
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,256
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,255
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,253
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,227
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,203
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,202
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,183
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,193
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,251
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,256
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,254
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,260
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,263
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,269
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,274
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,290
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,281
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,273
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,269
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,276
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,259
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,270
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,275
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,257
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,261
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,261
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,249
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,241
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,237
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,234
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,240
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,239
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,239
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,242
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,252
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,283
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,283
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,274
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,277
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,267
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,255
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,254
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,265
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,254
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,274
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,270
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,251
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,238
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,230
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,228
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,217
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,215
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,220
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,257
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,263
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,261
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,263
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,262
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,272
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,274
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,267
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,272
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,238
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,248
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,239
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,237
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,251
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,250
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,247
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,230
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,218
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,239
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,234
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,248
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,247
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,251
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,239
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,242
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,241
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,250
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,198
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,192
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,202
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,222
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,206
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,205
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,209
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,208
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,211
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,271
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,260
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,245
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,241
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,216
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,226
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,226
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,238
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,231
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,214
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,208
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,190
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,174
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,176
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,160
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,155
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,162
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,178
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,207
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,207
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,213
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,219
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,233
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,235
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,223
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,214
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,219
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,120
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,142
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,161
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,166
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,159
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,165
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,164
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,148
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,138
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,157
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,180
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,188
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,185
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,178
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,173
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,179
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,189
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,187
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,90
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,75
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,66
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,59
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,71
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,83
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,96
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,114
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,112
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,102
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,82
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,67
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,78
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,101
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,115
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,136
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,138
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,141
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,45
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,54
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,55
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,65
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,59
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,55
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,45
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,37
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,36
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,50
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,58
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,70
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,75
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,73
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,60
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,43
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,39
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,44
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,25
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,22
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,23
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,23
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,24
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,23
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,30
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,36
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,37
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,25
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,29
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,22
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,25
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,26
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,29
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,36
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,43
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,41
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,219
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,228
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,215
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,217
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,212
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,213
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,201
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,209
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,179
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,173
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,185
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,181
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,186
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,190
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,207
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,229
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,212
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,201
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,203
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,218
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,213
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,217
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,229
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,218
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,223
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,216
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,199
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,188
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,174
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,174
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,170
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,186
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,278
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,275
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,266
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,225
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,216
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,209
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,206
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,214
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,289
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,271
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,259
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,253
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,237
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,219
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,210
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,199
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,255
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,263
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,280
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,295
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,303
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,300
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,287
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,279
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,226
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,231
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,260
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,260
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,280
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,299
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,280
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,271
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,286
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,287
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,300
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,289
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,282
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,274
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,280
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,304
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,273
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,274
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,258
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,271
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,256
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,252
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,253
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,283
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,319
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,299
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,286
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,320
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,309
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,318
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,322
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,322
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,317
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,312
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,303
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,296
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,304
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,312
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,319
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,313
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,378
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,397
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,368
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,338
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,326
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,326
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,324
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,331
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,335
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,357
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,356
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,359
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,347
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,348
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,347
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,343
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,234
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,224
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,277
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,309
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,357
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,385
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,414
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,407
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,210
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,218
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,240
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,275
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,317
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,339
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,371
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,380
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,270
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,270
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,244
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,238
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,240
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,250
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,240
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,294
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,243
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,225
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,222
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,203
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,204
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,225
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,228
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,256
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,260
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,269
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,283
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,295
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,285
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,278
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,280
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,249
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,267
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,282
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,273
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,280
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,273
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,251
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,235
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,237
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,233
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,231
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,247
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,252
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,264
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,256
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,258
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,275
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,269
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,254
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,257
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,267
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,261
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,273
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,284
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,277
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,207
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,210
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,204
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,208
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,217
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,232
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,236
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,243
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,247
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,262
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,267
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,262
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,272
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,271
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,263
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,263
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,219
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,227
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,223
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,216
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,199
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,192
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,193
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,191
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,234
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,222
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,228
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,226
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,233
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,236
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,251
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,255
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,171
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,170
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,180
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,179
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,188
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,195
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,193
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,191
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,197
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,207
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,205
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,213
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,210
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,213
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,206
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,212
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,139
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,133
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,133
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,136
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,151
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,137
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,141
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,146
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,190
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,199
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,183
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,178
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,184
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,169
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,175
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,178
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,113
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,119
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,118
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,110
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,104
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,101
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,98
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,98
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,135
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,135
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,138
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,137
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,128
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,136
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,146
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,142
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,40
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,46
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,55
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,65
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,61
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,59
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,64
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,68
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,55
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,65
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,79
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,84
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,90
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,89
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,80
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,83
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,30
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,31
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,25
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,20
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,27
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,30
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,28
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,34
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,38
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,31
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,28
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,28
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,25
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,40
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,46
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,56
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,210
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,242
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,274
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,290
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,312
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,318
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,314
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,321
+ 55838 BACIU,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,309
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,260
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,301
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,310
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,337
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,339
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,337
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,337
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,350
+ 55838 BACIU,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,346
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,225
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,220
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,225
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,227
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,248
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,265
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,308
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,313
+ 55838 BACIU,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,330
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,186
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,196
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,208
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,228
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,256
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,296
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,341
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,369
+ 55838 BACIU,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,377
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,235
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,220
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,231
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,242
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,235
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,243
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,239
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,269
+ 55838 BACIU,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,267
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,199
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,194
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,206
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,210
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,238
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,222
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,223
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,241
+ 55838 BACIU,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,273
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,241
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,257
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,265
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,268
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,278
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,295
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,281
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,276
+ 55838 BACIU,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,285
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,269
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,248
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,236
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,245
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,242
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,249
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,252
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,259
+ 55838 BACIU,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,254
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,315
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,328
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,319
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,317
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,296
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,262
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,290
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,292
+ 55838 BACIU,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,290
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,287
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,317
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,331
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,323
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,306
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,301
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,282
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,269
+ 55838 BACIU,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,276
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,324
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,332
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,357
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,378
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,388
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,392
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,401
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,401
+ 55838 BACIU,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,403
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,344
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,361
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,406
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,411
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,440
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,444
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,459
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,454
+ 55838 BACIU,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,446
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,377
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,404
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,447
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,454
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,469
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,475
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,473
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,485
+ 55838 BACIU,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,489
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,362
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,394
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,440
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,474
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,482
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,507
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,516
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,538
+ 55838 BACIU,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,531
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,400
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,392
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,414
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,443
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,470
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,526
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,562
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,558
+ 55838 BACIU,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,565
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,387
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,398
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,423
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,457
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,468
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,477
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,510
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,539
+ 55838 BACIU,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,561
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,332
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,388
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,429
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,486
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,482
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,461
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,453
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,484
+ 55838 BACIU,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,512
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,288
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,346
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,378
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,418
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,435
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,447
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,467
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,487
+ 55838 BACIU,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,516
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,250
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,253
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,266
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,262
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,324
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,381
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,441
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,477
+ 55838 BACIU,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,532
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,222
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,224
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,246
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,251
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,295
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,328
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,373
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,414
+ 55838 BACIU,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,470
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,286
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,279
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,280
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,284
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,261
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,257
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,262
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,278
+ 55838 BACIU,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,276
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,284
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,279
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,270
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,263
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,262
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,256
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,260
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,261
+ 55838 BACIU,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,265
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,247
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,249
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,253
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,253
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,267
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,282
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,288
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,295
+ 55838 BACIU,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,292
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,277
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,268
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,282
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,297
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,289
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,299
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,295
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,294
+ 55838 BACIU,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,291
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,200
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,208
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,221
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,230
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,232
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,225
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,240
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,235
+ 55838 BACIU,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,235
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,258
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,267
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,271
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,261
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,268
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,275
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,264
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,281
+ 55838 BACIU,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,306
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,179
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,174
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,168
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,183
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,181
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,184
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,187
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,200
+ 55838 BACIU,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,219
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,219
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,229
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,228
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,246
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,244
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,249
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,259
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,256
+ 55838 BACIU,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,253
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,148
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,151
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,151
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,154
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,155
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,151
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,151
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,146
+ 55838 BACIU,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,154
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,187
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,190
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,197
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,191
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,197
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,196
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,205
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,215
+ 55838 BACIU,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,227
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,105
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,120
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,117
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,105
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,108
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,111
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,120
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,117
+ 55838 BACIU,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,119
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,141
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,142
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,131
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,152
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,151
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,163
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,166
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,169
+ 55838 BACIU,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,162
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,63
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,57
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,63
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,66
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,65
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,66
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,76
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,73
+ 55838 BACIU,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,66
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,77
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,76
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,87
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,92
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,98
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,104
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,102
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,95
+ 55838 BACIU,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,117
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,38
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,38
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,41
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,39
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,43
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,38
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,35
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,38
+ 55838 BACIU,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,39
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,51
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,59
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,62
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,63
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,61
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,62
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,62
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,65
+ 55838 BACIU,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,66

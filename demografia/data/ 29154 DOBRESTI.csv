@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,226
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,231
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,237
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,257
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,263
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,262
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,253
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,244
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,235
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,218
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,218
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,216
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,211
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,232
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,253
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,243
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,216
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,221
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,237
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,230
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,231
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,243
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,256
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,259
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,243
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,251
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,239
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,247
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,253
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,244
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,223
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,220
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,254
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,247
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,227
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,218
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,226
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,228
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,233
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,247
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,225
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,222
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,245
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,234
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,245
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,248
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,263
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,247
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,278
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,268
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,279
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,263
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,245
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,253
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,243
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,226
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,265
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,247
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,234
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,236
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,221
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,225
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,217
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,239
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,292
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,277
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,267
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,279
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,284
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,267
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,257
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,264
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,244
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,233
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,232
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,238
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,246
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,235
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,215
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,191
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,167
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,196
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,216
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,242
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,231
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,255
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,247
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,240
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,133
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,158
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,172
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,194
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,203
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,225
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,222
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,226
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,151
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,138
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,126
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,127
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,153
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,160
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,184
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,201
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,130
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,124
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,121
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,121
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,126
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,123
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,153
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,161
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,151
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,145
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,155
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,160
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,153
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,148
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,138
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,127
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,168
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,153
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,157
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,148
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,136
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,137
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,127
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,119
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,166
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,161
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,152
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,150
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,145
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,150
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,147
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,156
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,207
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,207
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,192
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,185
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,168
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,168
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,154
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,153
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,156
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,172
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,188
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,172
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,177
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,167
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,159
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,146
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,164
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,174
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,201
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,203
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,212
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,199
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,209
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,191
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,199
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,184
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,163
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,164
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,149
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,148
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,167
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,181
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,172
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,162
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,147
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,141
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,144
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,161
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,169
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,199
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,188
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,187
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,188
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,189
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,192
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,180
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,168
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,155
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,199
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,192
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,184
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,174
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,173
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,165
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,152
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,140
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,174
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,177
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,186
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,191
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,181
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,168
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,169
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,172
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,171
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,180
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,186
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,196
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,180
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,188
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,183
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,169
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,140
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,135
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,135
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,125
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,146
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,157
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,159
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,160
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,150
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,142
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,140
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,142
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,162
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,155
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,165
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,174
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,68
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,88
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,96
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,112
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,104
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,115
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,111
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,111
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,119
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,138
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,147
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,143
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,123
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,122
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,115
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,116
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,63
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,45
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,35
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,34
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,45
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,50
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,63
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,64
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,56
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,39
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,41
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,49
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,72
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,90
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,102
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,108
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,38
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,48
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,47
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,47
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,41
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,38
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,27
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,23
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,46
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,48
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,46
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,37
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,31
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,26
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,24
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,22
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,21
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,17
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,15
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,18
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,17
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,17
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,25
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,24
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,12
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,13
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,12
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,14
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,16
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,17
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,15
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,14
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,236
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,232
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,224
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,218
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,217
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,224
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,223
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,234
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,244
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,226
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,219
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,223
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,207
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,207
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,274
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,277
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,270
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,258
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,241
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,226
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,222
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,216
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,207
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,223
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,245
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,242
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,238
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,242
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,238
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,239
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,240
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,245
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,250
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,268
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,262
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,251
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,246
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,243
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,222
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,219
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,213
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,207
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,220
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,227
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,228
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,233
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,238
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,229
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,231
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,229
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,243
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,235
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,247
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,238
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,249
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,240
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,250
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,234
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,244
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,237
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,220
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,213
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,222
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,195
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,190
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,199
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,201
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,204
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,198
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,214
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,254
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,253
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,232
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,226
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,240
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,227
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,212
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,219
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,211
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,197
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,180
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,172
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,177
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,167
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,213
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,204
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,225
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,229
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,212
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,215
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,222
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,182
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,196
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,211
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,201
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,197
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,181
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,176
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,126
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,153
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,156
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,173
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,192
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,202
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,185
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,114
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,118
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,113
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,138
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,149
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,174
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,182
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,157
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,151
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,141
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,126
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,121
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,120
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,147
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,147
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,141
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,140
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,127
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,116
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,111
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,115
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,143
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,134
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,140
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,137
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,139
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,149
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,140
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,182
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,164
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,161
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,154
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,154
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,148
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,141
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,163
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,177
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,168
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,158
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,147
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,136
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,127
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,204
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,214
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,198
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,205
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,191
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,182
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,161
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,159
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,137
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,136
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,154
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,164
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,154
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,162
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,137
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,137
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,154
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,165
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,198
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,203
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,213
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,165
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,173
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,164
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,155
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,147
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,146
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,129
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,160
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,162
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,157
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,144
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,132
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,126
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,132
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,167
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,160
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,143
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,144
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,148
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,144
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,149
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,180
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,165
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,163
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,155
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,143
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,136
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,146
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,106
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,120
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,130
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,131
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,128
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,132
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,127
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,117
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,132
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,121
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,137
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,147
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,152
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,136
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,76
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,76
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,84
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,87
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,81
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,77
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,85
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,102
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,84
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,89
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,89
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,81
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,83
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,94
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,21
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,26
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,29
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,35
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,41
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,45
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,44
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,28
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,42
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,52
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,53
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,57
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,56
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,53
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,23
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,23
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,21
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,15
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,14
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,16
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,19
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,16
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,14
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,14
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,16
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,17
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,16
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,17
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,228
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,237
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,227
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,203
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,195
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,181
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,199
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,199
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,201
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,191
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,189
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,196
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,215
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,213
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,220
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,228
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,228
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,227
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,222
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,217
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,220
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,204
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,212
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,199
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,258
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,252
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,235
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,232
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,217
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,220
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,221
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,246
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,243
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,241
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,238
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,230
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,225
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,230
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,238
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,253
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,250
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,236
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,229
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,201
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,202
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,191
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,184
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,198
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,219
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,226
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,225
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,213
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,228
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,220
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,218
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,213
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,202
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,206
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,203
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,201
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,222
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,208
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,192
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,187
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,193
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,198
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,169
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,166
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,180
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,172
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,166
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,162
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,204
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,194
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,212
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,199
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,187
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,199
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,164
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,161
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,153
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,165
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,170
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,166
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,198
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,197
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,186
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,196
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,206
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,194
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,196
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,188
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,186
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,175
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,167
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,160
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,149
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,170
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,186
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,200
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,184
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,198
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,109
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,132
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,143
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,169
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,177
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,192
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,132
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,119
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,114
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,116
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,141
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,145
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,142
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,128
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,112
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,111
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,112
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,106
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,136
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,130
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,135
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,136
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,130
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,126
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,154
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,144
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,150
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,144
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,139
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,134
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,155
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,144
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,130
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,121
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,115
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,120
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,198
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,201
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,182
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,173
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,155
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,151
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,130
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,141
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,153
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,137
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,143
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,133
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,151
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,157
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,189
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,194
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,204
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,194
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,141
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,135
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,125
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,131
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,113
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,117
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,142
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,129
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,117
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,118
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,124
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,141
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,115
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,120
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,121
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,120
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,123
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,115
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,134
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,124
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,118
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,112
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,118
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,122
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,87
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,92
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,94
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,98
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,95
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,87
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,92
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,107
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,115
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,123
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,109
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,102
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,55
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,53
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,50
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,40
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,49
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,56
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,57
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,48
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,42
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,51
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,62
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,61
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,21
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,19
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,20
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,26
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,22
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,23
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,18
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,21
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,27
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,25
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,27
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,32
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,188
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,178
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,174
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,181
+ 29154 DOBRESTI,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,186
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,182
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,175
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,187
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,194
+ 29154 DOBRESTI,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,192
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,225
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,215
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,187
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,185
+ 29154 DOBRESTI,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,178
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,201
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,207
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,199
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,188
+ 29154 DOBRESTI,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,197
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,208
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,209
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,217
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,210
+ 29154 DOBRESTI,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,224
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,213
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,207
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,196
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,203
+ 29154 DOBRESTI,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,194
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,234
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,216
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,211
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,208
+ 29154 DOBRESTI,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,204
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,213
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,214
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,215
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,218
+ 29154 DOBRESTI,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,209
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,224
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,228
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,239
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,240
+ 29154 DOBRESTI,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,226
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,183
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,193
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,180
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,181
+ 29154 DOBRESTI,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,194
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,205
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,220
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,207
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,218
+ 29154 DOBRESTI,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,216
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,162
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,149
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,178
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,188
+ 29154 DOBRESTI,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,188
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,190
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,181
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,186
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,186
+ 29154 DOBRESTI,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,190
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,155
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,158
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,151
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,146
+ 29154 DOBRESTI,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,138
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,189
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,207
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,191
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,187
+ 29154 DOBRESTI,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,196
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,157
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,152
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,153
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,154
+ 29154 DOBRESTI,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,160
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,196
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,182
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,197
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,204
+ 29154 DOBRESTI,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,197
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,188
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,181
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,166
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,160
+ 29154 DOBRESTI,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,158
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,168
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,183
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,197
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,181
+ 29154 DOBRESTI,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,198
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,128
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,141
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,166
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,174
+ 29154 DOBRESTI,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,187
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,113
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,106
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,108
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,132
+ 29154 DOBRESTI,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,136
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,123
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,110
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,108
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,109
+ 29154 DOBRESTI,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,105
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,121
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,129
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,132
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,125
+ 29154 DOBRESTI,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,117
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,144
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,147
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,142
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,137
+ 29154 DOBRESTI,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,134
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,133
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,123
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,113
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,108
+ 29154 DOBRESTI,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,112
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,197
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,181
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,167
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,146
+ 29154 DOBRESTI,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,138
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,120
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,126
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,114
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,126
+ 29154 DOBRESTI,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,118
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,150
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,180
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,194
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,206
+ 29154 DOBRESTI,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,194
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,106
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,98
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,103
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,93
+ 29154 DOBRESTI,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,97
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,116
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,105
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,103
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,110
+ 29154 DOBRESTI,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,127
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,88
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,89
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,83
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,85
+ 29154 DOBRESTI,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,76
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,99
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,92
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,86
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,93
+ 29154 DOBRESTI,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,92
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,56
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,57
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,62
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,61
+ 29154 DOBRESTI,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,54
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,66
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,74
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,77
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,68
+ 29154 DOBRESTI,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,66
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,22
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,20
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,18
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,21
+ 29154 DOBRESTI,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,27
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,30
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,27
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,25
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,30
+ 29154 DOBRESTI,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,32

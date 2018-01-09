@@ -1,0 +1,505 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 32195 GEPIU,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,52
+ 32195 GEPIU,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,61
+ 32195 GEPIU,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,68
+ 32195 GEPIU,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,38
+ 32195 GEPIU,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,49
+ 32195 GEPIU,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,48
+ 32195 GEPIU,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,52
+ 32195 GEPIU,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,53
+ 32195 GEPIU,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,53
+ 32195 GEPIU,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,41
+ 32195 GEPIU,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,42
+ 32195 GEPIU,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,47
+ 32195 GEPIU,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,48
+ 32195 GEPIU,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,53
+ 32195 GEPIU,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,50
+ 32195 GEPIU,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,39
+ 32195 GEPIU,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,40
+ 32195 GEPIU,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,45
+ 32195 GEPIU,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,60
+ 32195 GEPIU,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,66
+ 32195 GEPIU,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,67
+ 32195 GEPIU,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,35
+ 32195 GEPIU,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,48
+ 32195 GEPIU,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,50
+ 32195 GEPIU,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,44
+ 32195 GEPIU,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,40
+ 32195 GEPIU,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,55
+ 32195 GEPIU,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,46
+ 32195 GEPIU,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,42
+ 32195 GEPIU,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,44
+ 32195 GEPIU,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,56
+ 32195 GEPIU,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,61
+ 32195 GEPIU,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,47
+ 32195 GEPIU,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,43
+ 32195 GEPIU,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,54
+ 32195 GEPIU,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,58
+ 32195 GEPIU,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,69
+ 32195 GEPIU,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,67
+ 32195 GEPIU,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,69
+ 32195 GEPIU,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,51
+ 32195 GEPIU,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,50
+ 32195 GEPIU,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,49
+ 32195 GEPIU,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,49
+ 32195 GEPIU,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,58
+ 32195 GEPIU,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,63
+ 32195 GEPIU,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,34
+ 32195 GEPIU,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,41
+ 32195 GEPIU,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,45
+ 32195 GEPIU,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,31
+ 32195 GEPIU,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,34
+ 32195 GEPIU,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,35
+ 32195 GEPIU,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,44
+ 32195 GEPIU,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,35
+ 32195 GEPIU,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,33
+ 32195 GEPIU,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,34
+ 32195 GEPIU,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,37
+ 32195 GEPIU,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,39
+ 32195 GEPIU,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,24
+ 32195 GEPIU,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,32
+ 32195 GEPIU,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,40
+ 32195 GEPIU,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,30
+ 32195 GEPIU,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,36
+ 32195 GEPIU,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,42
+ 32195 GEPIU,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,37
+ 32195 GEPIU,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,37
+ 32195 GEPIU,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,29
+ 32195 GEPIU,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,30
+ 32195 GEPIU,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,25
+ 32195 GEPIU,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,22
+ 32195 GEPIU,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,38
+ 32195 GEPIU,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,41
+ 32195 GEPIU,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,45
+ 32195 GEPIU,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,26
+ 32195 GEPIU,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,31
+ 32195 GEPIU,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,32
+ 32195 GEPIU,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,50
+ 32195 GEPIU,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,46
+ 32195 GEPIU,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,45
+ 32195 GEPIU,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,41
+ 32195 GEPIU,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,40
+ 32195 GEPIU,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,37
+ 32195 GEPIU,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,54
+ 32195 GEPIU,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,55
+ 32195 GEPIU,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,52
+ 32195 GEPIU,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,43
+ 32195 GEPIU,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,31
+ 32195 GEPIU,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,27
+ 32195 GEPIU,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,44
+ 32195 GEPIU,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,45
+ 32195 GEPIU,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,41
+ 32195 GEPIU,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,24
+ 32195 GEPIU,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,30
+ 32195 GEPIU,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,33
+ 32195 GEPIU,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,47
+ 32195 GEPIU,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,45
+ 32195 GEPIU,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,45
+ 32195 GEPIU,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,15
+ 32195 GEPIU,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,17
+ 32195 GEPIU,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,15
+ 32195 GEPIU,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,27
+ 32195 GEPIU,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,30
+ 32195 GEPIU,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,28
+ 32195 GEPIU,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,6
+ 32195 GEPIU,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,7
+ 32195 GEPIU,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,9
+ 32195 GEPIU,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,8
+ 32195 GEPIU,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,10
+ 32195 GEPIU,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,12
+ 32195 GEPIU,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,64
+ 32195 GEPIU,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,62
+ 32195 GEPIU,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,51
+ 32195 GEPIU,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,53
+ 32195 GEPIU,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,47
+ 32195 GEPIU,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,51
+ 32195 GEPIU,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,50
+ 32195 GEPIU,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,49
+ 32195 GEPIU,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,57
+ 32195 GEPIU,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,59
+ 32195 GEPIU,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,63
+ 32195 GEPIU,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,56
+ 32195 GEPIU,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,50
+ 32195 GEPIU,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,53
+ 32195 GEPIU,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,59
+ 32195 GEPIU,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,65
+ 32195 GEPIU,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,75
+ 32195 GEPIU,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,66
+ 32195 GEPIU,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,51
+ 32195 GEPIU,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,55
+ 32195 GEPIU,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,49
+ 32195 GEPIU,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,52
+ 32195 GEPIU,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,52
+ 32195 GEPIU,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,57
+ 32195 GEPIU,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,54
+ 32195 GEPIU,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,53
+ 32195 GEPIU,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,57
+ 32195 GEPIU,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,55
+ 32195 GEPIU,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,57
+ 32195 GEPIU,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,55
+ 32195 GEPIU,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,42
+ 32195 GEPIU,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,43
+ 32195 GEPIU,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,50
+ 32195 GEPIU,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,49
+ 32195 GEPIU,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,57
+ 32195 GEPIU,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,56
+ 32195 GEPIU,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,66
+ 32195 GEPIU,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,64
+ 32195 GEPIU,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,58
+ 32195 GEPIU,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,56
+ 32195 GEPIU,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,58
+ 32195 GEPIU,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,65
+ 32195 GEPIU,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,42
+ 32195 GEPIU,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,49
+ 32195 GEPIU,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,47
+ 32195 GEPIU,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,45
+ 32195 GEPIU,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,46
+ 32195 GEPIU,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,50
+ 32195 GEPIU,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,65
+ 32195 GEPIU,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,69
+ 32195 GEPIU,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,69
+ 32195 GEPIU,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,74
+ 32195 GEPIU,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,66
+ 32195 GEPIU,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,65
+ 32195 GEPIU,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,51
+ 32195 GEPIU,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,49
+ 32195 GEPIU,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,48
+ 32195 GEPIU,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,64
+ 32195 GEPIU,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,57
+ 32195 GEPIU,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,54
+ 32195 GEPIU,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,45
+ 32195 GEPIU,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,45
+ 32195 GEPIU,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,58
+ 32195 GEPIU,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,51
+ 32195 GEPIU,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,64
+ 32195 GEPIU,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,68
+ 32195 GEPIU,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,52
+ 32195 GEPIU,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,55
+ 32195 GEPIU,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,56
+ 32195 GEPIU,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,46
+ 32195 GEPIU,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,52
+ 32195 GEPIU,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,55
+ 32195 GEPIU,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,75
+ 32195 GEPIU,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,70
+ 32195 GEPIU,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,61
+ 32195 GEPIU,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,71
+ 32195 GEPIU,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,56
+ 32195 GEPIU,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,56
+ 32195 GEPIU,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,63
+ 32195 GEPIU,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,56
+ 32195 GEPIU,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,56
+ 32195 GEPIU,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,65
+ 32195 GEPIU,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,67
+ 32195 GEPIU,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,59
+ 32195 GEPIU,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,67
+ 32195 GEPIU,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,74
+ 32195 GEPIU,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,80
+ 32195 GEPIU,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,79
+ 32195 GEPIU,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,81
+ 32195 GEPIU,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,79
+ 32195 GEPIU,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,50
+ 32195 GEPIU,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,65
+ 32195 GEPIU,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,68
+ 32195 GEPIU,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,65
+ 32195 GEPIU,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,61
+ 32195 GEPIU,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,66
+ 32195 GEPIU,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,34
+ 32195 GEPIU,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,42
+ 32195 GEPIU,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,61
+ 32195 GEPIU,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,66
+ 32195 GEPIU,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,67
+ 32195 GEPIU,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,75
+ 32195 GEPIU,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,35
+ 32195 GEPIU,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,37
+ 32195 GEPIU,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,42
+ 32195 GEPIU,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,47
+ 32195 GEPIU,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,53
+ 32195 GEPIU,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,59
+ 32195 GEPIU,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,39
+ 32195 GEPIU,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,40
+ 32195 GEPIU,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,46
+ 32195 GEPIU,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,44
+ 32195 GEPIU,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,47
+ 32195 GEPIU,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,42
+ 32195 GEPIU,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,40
+ 32195 GEPIU,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,43
+ 32195 GEPIU,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,43
+ 32195 GEPIU,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,38
+ 32195 GEPIU,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,37
+ 32195 GEPIU,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,38
+ 32195 GEPIU,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,45
+ 32195 GEPIU,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,46
+ 32195 GEPIU,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,45
+ 32195 GEPIU,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,49
+ 32195 GEPIU,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,52
+ 32195 GEPIU,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,51
+ 32195 GEPIU,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,25
+ 32195 GEPIU,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,29
+ 32195 GEPIU,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,31
+ 32195 GEPIU,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,38
+ 32195 GEPIU,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,45
+ 32195 GEPIU,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,51
+ 32195 GEPIU,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,26
+ 32195 GEPIU,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,37
+ 32195 GEPIU,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,44
+ 32195 GEPIU,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,41
+ 32195 GEPIU,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,40
+ 32195 GEPIU,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,52
+ 32195 GEPIU,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,40
+ 32195 GEPIU,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,36
+ 32195 GEPIU,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,42
+ 32195 GEPIU,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,40
+ 32195 GEPIU,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,31
+ 32195 GEPIU,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,30
+ 32195 GEPIU,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,28
+ 32195 GEPIU,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,29
+ 32195 GEPIU,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,39
+ 32195 GEPIU,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,33
+ 32195 GEPIU,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,33
+ 32195 GEPIU,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,32
+ 32195 GEPIU,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,43
+ 32195 GEPIU,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,45
+ 32195 GEPIU,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,47
+ 32195 GEPIU,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,49
+ 32195 GEPIU,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,51
+ 32195 GEPIU,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,48
+ 32195 GEPIU,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,30
+ 32195 GEPIU,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,28
+ 32195 GEPIU,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,25
+ 32195 GEPIU,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,30
+ 32195 GEPIU,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,34
+ 32195 GEPIU,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,32
+ 32195 GEPIU,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,57
+ 32195 GEPIU,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,61
+ 32195 GEPIU,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,57
+ 32195 GEPIU,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,51
+ 32195 GEPIU,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,50
+ 32195 GEPIU,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,46
+ 32195 GEPIU,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,31
+ 32195 GEPIU,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,32
+ 32195 GEPIU,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,37
+ 32195 GEPIU,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,37
+ 32195 GEPIU,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,34
+ 32195 GEPIU,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,25
+ 32195 GEPIU,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,42
+ 32195 GEPIU,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,43
+ 32195 GEPIU,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,50
+ 32195 GEPIU,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,48
+ 32195 GEPIU,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,48
+ 32195 GEPIU,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,53
+ 32195 GEPIU,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,34
+ 32195 GEPIU,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,29
+ 32195 GEPIU,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,26
+ 32195 GEPIU,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,18
+ 32195 GEPIU,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,19
+ 32195 GEPIU,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,25
+ 32195 GEPIU,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,41
+ 32195 GEPIU,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,37
+ 32195 GEPIU,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,36
+ 32195 GEPIU,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,38
+ 32195 GEPIU,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,34
+ 32195 GEPIU,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,35
+ 32195 GEPIU,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,14
+ 32195 GEPIU,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,12
+ 32195 GEPIU,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,13
+ 32195 GEPIU,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,15
+ 32195 GEPIU,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,20
+ 32195 GEPIU,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,17
+ 32195 GEPIU,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,28
+ 32195 GEPIU,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,29
+ 32195 GEPIU,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,31
+ 32195 GEPIU,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,35
+ 32195 GEPIU,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,35
+ 32195 GEPIU,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,34
+ 32195 GEPIU,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,10
+ 32195 GEPIU,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,13
+ 32195 GEPIU,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,14
+ 32195 GEPIU,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,12
+ 32195 GEPIU,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,12
+ 32195 GEPIU,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,15
+ 32195 GEPIU,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,10
+ 32195 GEPIU,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,15
+ 32195 GEPIU,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,14
+ 32195 GEPIU,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,18
+ 32195 GEPIU,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,19
+ 32195 GEPIU,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,19
+ 32195 GEPIU,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,52
+ 32195 GEPIU,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,66
+ 32195 GEPIU,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,60
+ 32195 GEPIU,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,58
+ 32195 GEPIU,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,59
+ 32195 GEPIU,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,53
+ 32195 GEPIU,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,51
+ 32195 GEPIU,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,44
+ 32195 GEPIU,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,43
+ 32195 GEPIU,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,46
+ 32195 GEPIU,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,66
+ 32195 GEPIU,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,55
+ 32195 GEPIU,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,57
+ 32195 GEPIU,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,49
+ 32195 GEPIU,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,58
+ 32195 GEPIU,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,52
+ 32195 GEPIU,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,58
+ 32195 GEPIU,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,62
+ 32195 GEPIU,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,69
+ 32195 GEPIU,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,60
+ 32195 GEPIU,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,58
+ 32195 GEPIU,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,64
+ 32195 GEPIU,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,68
+ 32195 GEPIU,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,74
+ 32195 GEPIU,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,64
+ 32195 GEPIU,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,56
+ 32195 GEPIU,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,56
+ 32195 GEPIU,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,55
+ 32195 GEPIU,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,54
+ 32195 GEPIU,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,64
+ 32195 GEPIU,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,60
+ 32195 GEPIU,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,65
+ 32195 GEPIU,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,60
+ 32195 GEPIU,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,61
+ 32195 GEPIU,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,58
+ 32195 GEPIU,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,53
+ 32195 GEPIU,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,63
+ 32195 GEPIU,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,57
+ 32195 GEPIU,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,62
+ 32195 GEPIU,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,58
+ 32195 GEPIU,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,66
+ 32195 GEPIU,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,65
+ 32195 GEPIU,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,62
+ 32195 GEPIU,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,61
+ 32195 GEPIU,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,68
+ 32195 GEPIU,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,50
+ 32195 GEPIU,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,54
+ 32195 GEPIU,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,55
+ 32195 GEPIU,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,58
+ 32195 GEPIU,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,67
+ 32195 GEPIU,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,72
+ 32195 GEPIU,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,66
+ 32195 GEPIU,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,77
+ 32195 GEPIU,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,73
+ 32195 GEPIU,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,75
+ 32195 GEPIU,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,60
+ 32195 GEPIU,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,59
+ 32195 GEPIU,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,74
+ 32195 GEPIU,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,70
+ 32195 GEPIU,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,63
+ 32195 GEPIU,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,56
+ 32195 GEPIU,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,70
+ 32195 GEPIU,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,57
+ 32195 GEPIU,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,72
+ 32195 GEPIU,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,76
+ 32195 GEPIU,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,64
+ 32195 GEPIU,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,69
+ 32195 GEPIU,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,58
+ 32195 GEPIU,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,59
+ 32195 GEPIU,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,60
+ 32195 GEPIU,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,79
+ 32195 GEPIU,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,68
+ 32195 GEPIU,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,80
+ 32195 GEPIU,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,69
+ 32195 GEPIU,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,72
+ 32195 GEPIU,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,57
+ 32195 GEPIU,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,56
+ 32195 GEPIU,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,68
+ 32195 GEPIU,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,69
+ 32195 GEPIU,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,72
+ 32195 GEPIU,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,83
+ 32195 GEPIU,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,83
+ 32195 GEPIU,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,77
+ 32195 GEPIU,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,83
+ 32195 GEPIU,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,87
+ 32195 GEPIU,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,75
+ 32195 GEPIU,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,78
+ 32195 GEPIU,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,73
+ 32195 GEPIU,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,66
+ 32195 GEPIU,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,67
+ 32195 GEPIU,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,53
+ 32195 GEPIU,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,69
+ 32195 GEPIU,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,79
+ 32195 GEPIU,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,80
+ 32195 GEPIU,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,87
+ 32195 GEPIU,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,44
+ 32195 GEPIU,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,48
+ 32195 GEPIU,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,54
+ 32195 GEPIU,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,64
+ 32195 GEPIU,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,69
+ 32195 GEPIU,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,50
+ 32195 GEPIU,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,46
+ 32195 GEPIU,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,45
+ 32195 GEPIU,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,48
+ 32195 GEPIU,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,45
+ 32195 GEPIU,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,49
+ 32195 GEPIU,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,53
+ 32195 GEPIU,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,50
+ 32195 GEPIU,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,46
+ 32195 GEPIU,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,46
+ 32195 GEPIU,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,51
+ 32195 GEPIU,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,52
+ 32195 GEPIU,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,52
+ 32195 GEPIU,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,51
+ 32195 GEPIU,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,51
+ 32195 GEPIU,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,33
+ 32195 GEPIU,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,36
+ 32195 GEPIU,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,44
+ 32195 GEPIU,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,51
+ 32195 GEPIU,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,54
+ 32195 GEPIU,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,37
+ 32195 GEPIU,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,39
+ 32195 GEPIU,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,42
+ 32195 GEPIU,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,41
+ 32195 GEPIU,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,49
+ 32195 GEPIU,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,44
+ 32195 GEPIU,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,46
+ 32195 GEPIU,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,44
+ 32195 GEPIU,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,33
+ 32195 GEPIU,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,32
+ 32195 GEPIU,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,31
+ 32195 GEPIU,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,37
+ 32195 GEPIU,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,29
+ 32195 GEPIU,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,31
+ 32195 GEPIU,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,27
+ 32195 GEPIU,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,48
+ 32195 GEPIU,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,48
+ 32195 GEPIU,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,48
+ 32195 GEPIU,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,53
+ 32195 GEPIU,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,50
+ 32195 GEPIU,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,25
+ 32195 GEPIU,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,21
+ 32195 GEPIU,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,27
+ 32195 GEPIU,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,24
+ 32195 GEPIU,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,25
+ 32195 GEPIU,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,56
+ 32195 GEPIU,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,51
+ 32195 GEPIU,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,49
+ 32195 GEPIU,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,46
+ 32195 GEPIU,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,44
+ 32195 GEPIU,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,24
+ 32195 GEPIU,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,25
+ 32195 GEPIU,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,24
+ 32195 GEPIU,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,26
+ 32195 GEPIU,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,18
+ 32195 GEPIU,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,35
+ 32195 GEPIU,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,41
+ 32195 GEPIU,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,42
+ 32195 GEPIU,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,41
+ 32195 GEPIU,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,45
+ 32195 GEPIU,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,11
+ 32195 GEPIU,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,10
+ 32195 GEPIU,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,9
+ 32195 GEPIU,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,10
+ 32195 GEPIU,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,16
+ 32195 GEPIU,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,28
+ 32195 GEPIU,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,26
+ 32195 GEPIU,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,24
+ 32195 GEPIU,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,23
+ 32195 GEPIU,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,24
+ 32195 GEPIU,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,15
+ 32195 GEPIU,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,14
+ 32195 GEPIU,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,10
+ 32195 GEPIU,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,10
+ 32195 GEPIU,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,11
+ 32195 GEPIU,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,20
+ 32195 GEPIU,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,20
+ 32195 GEPIU,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,25
+ 32195 GEPIU,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,25
+ 32195 GEPIU,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,27

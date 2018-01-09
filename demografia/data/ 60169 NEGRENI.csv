@@ -1,0 +1,541 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 60169 NEGRENI,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,67
+ 60169 NEGRENI,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,69
+ 60169 NEGRENI,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,67
+ 60169 NEGRENI,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,64
+ 60169 NEGRENI,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,67
+ 60169 NEGRENI,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,67
+ 60169 NEGRENI,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,51
+ 60169 NEGRENI,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,49
+ 60169 NEGRENI,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,51
+ 60169 NEGRENI,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,56
+ 60169 NEGRENI,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,59
+ 60169 NEGRENI,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,55
+ 60169 NEGRENI,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,66
+ 60169 NEGRENI,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,64
+ 60169 NEGRENI,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,66
+ 60169 NEGRENI,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,68
+ 60169 NEGRENI,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,65
+ 60169 NEGRENI,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,66
+ 60169 NEGRENI,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,62
+ 60169 NEGRENI,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,59
+ 60169 NEGRENI,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,58
+ 60169 NEGRENI,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,56
+ 60169 NEGRENI,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,52
+ 60169 NEGRENI,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,50
+ 60169 NEGRENI,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,90
+ 60169 NEGRENI,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,70
+ 60169 NEGRENI,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,60
+ 60169 NEGRENI,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,65
+ 60169 NEGRENI,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,69
+ 60169 NEGRENI,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,66
+ 60169 NEGRENI,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,97
+ 60169 NEGRENI,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,92
+ 60169 NEGRENI,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,76
+ 60169 NEGRENI,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,66
+ 60169 NEGRENI,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,65
+ 60169 NEGRENI,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,62
+ 60169 NEGRENI,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,97
+ 60169 NEGRENI,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,108
+ 60169 NEGRENI,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,113
+ 60169 NEGRENI,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,109
+ 60169 NEGRENI,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,96
+ 60169 NEGRENI,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,94
+ 60169 NEGRENI,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,78
+ 60169 NEGRENI,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,79
+ 60169 NEGRENI,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,90
+ 60169 NEGRENI,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,100
+ 60169 NEGRENI,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,100
+ 60169 NEGRENI,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,101
+ 60169 NEGRENI,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,112
+ 60169 NEGRENI,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,111
+ 60169 NEGRENI,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,105
+ 60169 NEGRENI,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,91
+ 60169 NEGRENI,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,94
+ 60169 NEGRENI,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,101
+ 60169 NEGRENI,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,79
+ 60169 NEGRENI,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,79
+ 60169 NEGRENI,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,79
+ 60169 NEGRENI,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,73
+ 60169 NEGRENI,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,71
+ 60169 NEGRENI,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,72
+ 60169 NEGRENI,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,101
+ 60169 NEGRENI,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,99
+ 60169 NEGRENI,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,101
+ 60169 NEGRENI,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,103
+ 60169 NEGRENI,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,120
+ 60169 NEGRENI,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,104
+ 60169 NEGRENI,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,94
+ 60169 NEGRENI,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,92
+ 60169 NEGRENI,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,95
+ 60169 NEGRENI,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,84
+ 60169 NEGRENI,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,81
+ 60169 NEGRENI,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,78
+ 60169 NEGRENI,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,95
+ 60169 NEGRENI,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,95
+ 60169 NEGRENI,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,90
+ 60169 NEGRENI,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,102
+ 60169 NEGRENI,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,92
+ 60169 NEGRENI,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,97
+ 60169 NEGRENI,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,98
+ 60169 NEGRENI,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,89
+ 60169 NEGRENI,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,85
+ 60169 NEGRENI,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,93
+ 60169 NEGRENI,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,90
+ 60169 NEGRENI,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,88
+ 60169 NEGRENI,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,83
+ 60169 NEGRENI,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,100
+ 60169 NEGRENI,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,102
+ 60169 NEGRENI,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,95
+ 60169 NEGRENI,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,98
+ 60169 NEGRENI,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,92
+ 60169 NEGRENI,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,65
+ 60169 NEGRENI,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,85
+ 60169 NEGRENI,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,88
+ 60169 NEGRENI,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,92
+ 60169 NEGRENI,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,101
+ 60169 NEGRENI,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,100
+ 60169 NEGRENI,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,85
+ 60169 NEGRENI,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,70
+ 60169 NEGRENI,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,73
+ 60169 NEGRENI,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,77
+ 60169 NEGRENI,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,76
+ 60169 NEGRENI,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,78
+ 60169 NEGRENI,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,86
+ 60169 NEGRENI,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,77
+ 60169 NEGRENI,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,76
+ 60169 NEGRENI,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,71
+ 60169 NEGRENI,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,66
+ 60169 NEGRENI,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,65
+ 60169 NEGRENI,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,85
+ 60169 NEGRENI,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,90
+ 60169 NEGRENI,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,89
+ 60169 NEGRENI,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,77
+ 60169 NEGRENI,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,79
+ 60169 NEGRENI,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,83
+ 60169 NEGRENI,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,90
+ 60169 NEGRENI,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,85
+ 60169 NEGRENI,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,88
+ 60169 NEGRENI,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,89
+ 60169 NEGRENI,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,89
+ 60169 NEGRENI,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,87
+ 60169 NEGRENI,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,93
+ 60169 NEGRENI,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,91
+ 60169 NEGRENI,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,90
+ 60169 NEGRENI,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,98
+ 60169 NEGRENI,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,86
+ 60169 NEGRENI,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,85
+ 60169 NEGRENI,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,76
+ 60169 NEGRENI,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,91
+ 60169 NEGRENI,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,91
+ 60169 NEGRENI,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,84
+ 60169 NEGRENI,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,88
+ 60169 NEGRENI,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,87
+ 60169 NEGRENI,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,55
+ 60169 NEGRENI,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,67
+ 60169 NEGRENI,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,69
+ 60169 NEGRENI,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,80
+ 60169 NEGRENI,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,87
+ 60169 NEGRENI,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,90
+ 60169 NEGRENI,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,93
+ 60169 NEGRENI,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,79
+ 60169 NEGRENI,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,79
+ 60169 NEGRENI,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,80
+ 60169 NEGRENI,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,71
+ 60169 NEGRENI,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,77
+ 60169 NEGRENI,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,83
+ 60169 NEGRENI,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,71
+ 60169 NEGRENI,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,65
+ 60169 NEGRENI,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,51
+ 60169 NEGRENI,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,55
+ 60169 NEGRENI,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,49
+ 60169 NEGRENI,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,102
+ 60169 NEGRENI,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,97
+ 60169 NEGRENI,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,88
+ 60169 NEGRENI,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,89
+ 60169 NEGRENI,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,95
+ 60169 NEGRENI,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,87
+ 60169 NEGRENI,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,72
+ 60169 NEGRENI,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,72
+ 60169 NEGRENI,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,74
+ 60169 NEGRENI,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,74
+ 60169 NEGRENI,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,73
+ 60169 NEGRENI,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,72
+ 60169 NEGRENI,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,87
+ 60169 NEGRENI,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,101
+ 60169 NEGRENI,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,106
+ 60169 NEGRENI,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,107
+ 60169 NEGRENI,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,94
+ 60169 NEGRENI,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,94
+ 60169 NEGRENI,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,46
+ 60169 NEGRENI,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,44
+ 60169 NEGRENI,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,51
+ 60169 NEGRENI,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,56
+ 60169 NEGRENI,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,58
+ 60169 NEGRENI,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,56
+ 60169 NEGRENI,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,79
+ 60169 NEGRENI,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,74
+ 60169 NEGRENI,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,75
+ 60169 NEGRENI,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,70
+ 60169 NEGRENI,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,73
+ 60169 NEGRENI,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,80
+ 60169 NEGRENI,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,42
+ 60169 NEGRENI,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,46
+ 60169 NEGRENI,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,30
+ 60169 NEGRENI,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,33
+ 60169 NEGRENI,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,33
+ 60169 NEGRENI,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,37
+ 60169 NEGRENI,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,66
+ 60169 NEGRENI,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,66
+ 60169 NEGRENI,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,61
+ 60169 NEGRENI,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,69
+ 60169 NEGRENI,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,71
+ 60169 NEGRENI,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,63
+ 60169 NEGRENI,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,31
+ 60169 NEGRENI,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,31
+ 60169 NEGRENI,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,42
+ 60169 NEGRENI,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,35
+ 60169 NEGRENI,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,28
+ 60169 NEGRENI,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,22
+ 60169 NEGRENI,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,27
+ 60169 NEGRENI,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,29
+ 60169 NEGRENI,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,27
+ 60169 NEGRENI,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,26
+ 60169 NEGRENI,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,29
+ 60169 NEGRENI,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,41
+ 60169 NEGRENI,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,10
+ 60169 NEGRENI,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,11
+ 60169 NEGRENI,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,13
+ 60169 NEGRENI,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,14
+ 60169 NEGRENI,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,16
+ 60169 NEGRENI,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,23
+ 60169 NEGRENI,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,12
+ 60169 NEGRENI,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,15
+ 60169 NEGRENI,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,18
+ 60169 NEGRENI,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,18
+ 60169 NEGRENI,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,15
+ 60169 NEGRENI,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,18
+ 60169 NEGRENI,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,61
+ 60169 NEGRENI,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,58
+ 60169 NEGRENI,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,54
+ 60169 NEGRENI,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,48
+ 60169 NEGRENI,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,42
+ 60169 NEGRENI,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,46
+ 60169 NEGRENI,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,46
+ 60169 NEGRENI,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,41
+ 60169 NEGRENI,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,36
+ 60169 NEGRENI,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,56
+ 60169 NEGRENI,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,53
+ 60169 NEGRENI,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,47
+ 60169 NEGRENI,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,36
+ 60169 NEGRENI,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,37
+ 60169 NEGRENI,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,33
+ 60169 NEGRENI,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,35
+ 60169 NEGRENI,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,30
+ 60169 NEGRENI,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,38
+ 60169 NEGRENI,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,67
+ 60169 NEGRENI,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,62
+ 60169 NEGRENI,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,59
+ 60169 NEGRENI,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,61
+ 60169 NEGRENI,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,60
+ 60169 NEGRENI,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,56
+ 60169 NEGRENI,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,54
+ 60169 NEGRENI,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,51
+ 60169 NEGRENI,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,48
+ 60169 NEGRENI,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,48
+ 60169 NEGRENI,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,53
+ 60169 NEGRENI,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,57
+ 60169 NEGRENI,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,61
+ 60169 NEGRENI,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,58
+ 60169 NEGRENI,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,59
+ 60169 NEGRENI,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,56
+ 60169 NEGRENI,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,49
+ 60169 NEGRENI,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,37
+ 60169 NEGRENI,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,65
+ 60169 NEGRENI,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,68
+ 60169 NEGRENI,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,69
+ 60169 NEGRENI,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,65
+ 60169 NEGRENI,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,66
+ 60169 NEGRENI,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,64
+ 60169 NEGRENI,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,61
+ 60169 NEGRENI,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,60
+ 60169 NEGRENI,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,60
+ 60169 NEGRENI,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,60
+ 60169 NEGRENI,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,54
+ 60169 NEGRENI,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,51
+ 60169 NEGRENI,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,47
+ 60169 NEGRENI,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,46
+ 60169 NEGRENI,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,47
+ 60169 NEGRENI,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,50
+ 60169 NEGRENI,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,55
+ 60169 NEGRENI,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,58
+ 60169 NEGRENI,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,72
+ 60169 NEGRENI,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,63
+ 60169 NEGRENI,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,66
+ 60169 NEGRENI,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,68
+ 60169 NEGRENI,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,65
+ 60169 NEGRENI,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,67
+ 60169 NEGRENI,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,68
+ 60169 NEGRENI,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,68
+ 60169 NEGRENI,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,64
+ 60169 NEGRENI,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,94
+ 60169 NEGRENI,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,76
+ 60169 NEGRENI,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,69
+ 60169 NEGRENI,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,70
+ 60169 NEGRENI,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,64
+ 60169 NEGRENI,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,57
+ 60169 NEGRENI,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,52
+ 60169 NEGRENI,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,50
+ 60169 NEGRENI,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,47
+ 60169 NEGRENI,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,110
+ 60169 NEGRENI,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,113
+ 60169 NEGRENI,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,105
+ 60169 NEGRENI,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,95
+ 60169 NEGRENI,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,91
+ 60169 NEGRENI,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,70
+ 60169 NEGRENI,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,58
+ 60169 NEGRENI,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,62
+ 60169 NEGRENI,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,68
+ 60169 NEGRENI,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,78
+ 60169 NEGRENI,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,93
+ 60169 NEGRENI,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,107
+ 60169 NEGRENI,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,102
+ 60169 NEGRENI,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,105
+ 60169 NEGRENI,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,96
+ 60169 NEGRENI,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,76
+ 60169 NEGRENI,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,65
+ 60169 NEGRENI,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,62
+ 60169 NEGRENI,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,104
+ 60169 NEGRENI,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,102
+ 60169 NEGRENI,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,84
+ 60169 NEGRENI,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,83
+ 60169 NEGRENI,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,88
+ 60169 NEGRENI,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,92
+ 60169 NEGRENI,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,95
+ 60169 NEGRENI,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,93
+ 60169 NEGRENI,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,85
+ 60169 NEGRENI,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,72
+ 60169 NEGRENI,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,68
+ 60169 NEGRENI,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,64
+ 60169 NEGRENI,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,64
+ 60169 NEGRENI,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,67
+ 60169 NEGRENI,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,78
+ 60169 NEGRENI,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,89
+ 60169 NEGRENI,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,102
+ 60169 NEGRENI,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,99
+ 60169 NEGRENI,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,91
+ 60169 NEGRENI,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,91
+ 60169 NEGRENI,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,95
+ 60169 NEGRENI,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,107
+ 60169 NEGRENI,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,94
+ 60169 NEGRENI,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,97
+ 60169 NEGRENI,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,97
+ 60169 NEGRENI,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,81
+ 60169 NEGRENI,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,76
+ 60169 NEGRENI,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,90
+ 60169 NEGRENI,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,98
+ 60169 NEGRENI,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,85
+ 60169 NEGRENI,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,76
+ 60169 NEGRENI,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,70
+ 60169 NEGRENI,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,64
+ 60169 NEGRENI,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,66
+ 60169 NEGRENI,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,63
+ 60169 NEGRENI,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,65
+ 60169 NEGRENI,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,93
+ 60169 NEGRENI,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,89
+ 60169 NEGRENI,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,98
+ 60169 NEGRENI,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,93
+ 60169 NEGRENI,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,93
+ 60169 NEGRENI,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,89
+ 60169 NEGRENI,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,89
+ 60169 NEGRENI,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,96
+ 60169 NEGRENI,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,110
+ 60169 NEGRENI,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,88
+ 60169 NEGRENI,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,80
+ 60169 NEGRENI,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,90
+ 60169 NEGRENI,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,84
+ 60169 NEGRENI,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,84
+ 60169 NEGRENI,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,87
+ 60169 NEGRENI,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,87
+ 60169 NEGRENI,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,78
+ 60169 NEGRENI,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,70
+ 60169 NEGRENI,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,95
+ 60169 NEGRENI,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,97
+ 60169 NEGRENI,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,94
+ 60169 NEGRENI,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,95
+ 60169 NEGRENI,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,92
+ 60169 NEGRENI,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,90
+ 60169 NEGRENI,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,88
+ 60169 NEGRENI,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,98
+ 60169 NEGRENI,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,96
+ 60169 NEGRENI,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,85
+ 60169 NEGRENI,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,87
+ 60169 NEGRENI,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,91
+ 60169 NEGRENI,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,102
+ 60169 NEGRENI,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,102
+ 60169 NEGRENI,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,91
+ 60169 NEGRENI,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,83
+ 60169 NEGRENI,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,85
+ 60169 NEGRENI,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,81
+ 60169 NEGRENI,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,68
+ 60169 NEGRENI,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,75
+ 60169 NEGRENI,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,77
+ 60169 NEGRENI,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,78
+ 60169 NEGRENI,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,81
+ 60169 NEGRENI,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,97
+ 60169 NEGRENI,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,97
+ 60169 NEGRENI,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,93
+ 60169 NEGRENI,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,92
+ 60169 NEGRENI,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,77
+ 60169 NEGRENI,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,74
+ 60169 NEGRENI,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,70
+ 60169 NEGRENI,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,65
+ 60169 NEGRENI,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,64
+ 60169 NEGRENI,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,81
+ 60169 NEGRENI,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,87
+ 60169 NEGRENI,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,96
+ 60169 NEGRENI,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,104
+ 60169 NEGRENI,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,92
+ 60169 NEGRENI,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,89
+ 60169 NEGRENI,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,79
+ 60169 NEGRENI,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,78
+ 60169 NEGRENI,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,83
+ 60169 NEGRENI,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,69
+ 60169 NEGRENI,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,75
+ 60169 NEGRENI,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,81
+ 60169 NEGRENI,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,81
+ 60169 NEGRENI,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,84
+ 60169 NEGRENI,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,85
+ 60169 NEGRENI,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,87
+ 60169 NEGRENI,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,85
+ 60169 NEGRENI,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,83
+ 60169 NEGRENI,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,73
+ 60169 NEGRENI,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,68
+ 60169 NEGRENI,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,68
+ 60169 NEGRENI,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,66
+ 60169 NEGRENI,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,91
+ 60169 NEGRENI,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,89
+ 60169 NEGRENI,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,95
+ 60169 NEGRENI,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,82
+ 60169 NEGRENI,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,77
+ 60169 NEGRENI,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,83
+ 60169 NEGRENI,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,85
+ 60169 NEGRENI,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,78
+ 60169 NEGRENI,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,75
+ 60169 NEGRENI,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,90
+ 60169 NEGRENI,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,90
+ 60169 NEGRENI,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,83
+ 60169 NEGRENI,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,87
+ 60169 NEGRENI,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,85
+ 60169 NEGRENI,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,82
+ 60169 NEGRENI,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,84
+ 60169 NEGRENI,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,84
+ 60169 NEGRENI,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,88
+ 60169 NEGRENI,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,59
+ 60169 NEGRENI,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,65
+ 60169 NEGRENI,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,73
+ 60169 NEGRENI,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,81
+ 60169 NEGRENI,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,82
+ 60169 NEGRENI,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,82
+ 60169 NEGRENI,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,76
+ 60169 NEGRENI,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,83
+ 60169 NEGRENI,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,72
+ 60169 NEGRENI,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,75
+ 60169 NEGRENI,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,78
+ 60169 NEGRENI,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,76
+ 60169 NEGRENI,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,71
+ 60169 NEGRENI,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,77
+ 60169 NEGRENI,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,90
+ 60169 NEGRENI,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,88
+ 60169 NEGRENI,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,85
+ 60169 NEGRENI,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,88
+ 60169 NEGRENI,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,63
+ 60169 NEGRENI,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,56
+ 60169 NEGRENI,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,45
+ 60169 NEGRENI,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,48
+ 60169 NEGRENI,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,43
+ 60169 NEGRENI,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,55
+ 60169 NEGRENI,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,59
+ 60169 NEGRENI,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,64
+ 60169 NEGRENI,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,72
+ 60169 NEGRENI,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,87
+ 60169 NEGRENI,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,78
+ 60169 NEGRENI,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,85
+ 60169 NEGRENI,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,92
+ 60169 NEGRENI,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,88
+ 60169 NEGRENI,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,77
+ 60169 NEGRENI,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,75
+ 60169 NEGRENI,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,73
+ 60169 NEGRENI,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,71
+ 60169 NEGRENI,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,60
+ 60169 NEGRENI,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,64
+ 60169 NEGRENI,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,66
+ 60169 NEGRENI,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,62
+ 60169 NEGRENI,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,63
+ 60169 NEGRENI,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,53
+ 60169 NEGRENI,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,43
+ 60169 NEGRENI,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,36
+ 60169 NEGRENI,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,38
+ 60169 NEGRENI,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,91
+ 60169 NEGRENI,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,94
+ 60169 NEGRENI,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,93
+ 60169 NEGRENI,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,83
+ 60169 NEGRENI,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,84
+ 60169 NEGRENI,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,81
+ 60169 NEGRENI,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,76
+ 60169 NEGRENI,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,82
+ 60169 NEGRENI,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,83
+ 60169 NEGRENI,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,35
+ 60169 NEGRENI,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,38
+ 60169 NEGRENI,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,44
+ 60169 NEGRENI,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,46
+ 60169 NEGRENI,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,45
+ 60169 NEGRENI,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,46
+ 60169 NEGRENI,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,50
+ 60169 NEGRENI,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,50
+ 60169 NEGRENI,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,49
+ 60169 NEGRENI,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,57
+ 60169 NEGRENI,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,65
+ 60169 NEGRENI,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,60
+ 60169 NEGRENI,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,62
+ 60169 NEGRENI,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,64
+ 60169 NEGRENI,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,72
+ 60169 NEGRENI,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,74
+ 60169 NEGRENI,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,74
+ 60169 NEGRENI,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,69
+ 60169 NEGRENI,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,23
+ 60169 NEGRENI,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,17
+ 60169 NEGRENI,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,20
+ 60169 NEGRENI,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,20
+ 60169 NEGRENI,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,21
+ 60169 NEGRENI,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,21
+ 60169 NEGRENI,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,25
+ 60169 NEGRENI,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,28
+ 60169 NEGRENI,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,31
+ 60169 NEGRENI,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,42
+ 60169 NEGRENI,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,40
+ 60169 NEGRENI,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,44
+ 60169 NEGRENI,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,50
+ 60169 NEGRENI,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,42
+ 60169 NEGRENI,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,38
+ 60169 NEGRENI,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,44
+ 60169 NEGRENI,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,44
+ 60169 NEGRENI,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,45
+ 60169 NEGRENI,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,16
+ 60169 NEGRENI,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,16
+ 60169 NEGRENI,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,14
+ 60169 NEGRENI,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,15
+ 60169 NEGRENI,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,15
+ 60169 NEGRENI,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,15
+ 60169 NEGRENI,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,15
+ 60169 NEGRENI,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,18
+ 60169 NEGRENI,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,16
+ 60169 NEGRENI,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,19
+ 60169 NEGRENI,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,15
+ 60169 NEGRENI,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,18
+ 60169 NEGRENI,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,23
+ 60169 NEGRENI,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,28
+ 60169 NEGRENI,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,29
+ 60169 NEGRENI,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,25
+ 60169 NEGRENI,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,29
+ 60169 NEGRENI,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,38

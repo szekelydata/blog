@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,50
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,53
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,58
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,57
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,52
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,61
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,56
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,47
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,53
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,57
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,55
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,51
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,40
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,38
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,49
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,44
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,44
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,41
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,34
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,32
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,36
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,39
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,44
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,45
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,50
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,56
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,55
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,37
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,44
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,43
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,55
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,55
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,51
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,55
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,53
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,46
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,69
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,61
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,55
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,48
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,40
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,34
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,32
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,38
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,43
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,63
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,47
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,35
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,33
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,29
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,28
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,37
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,40
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,57
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,112
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,95
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,77
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,70
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,75
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,66
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,61
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,57
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,49
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,105
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,98
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,88
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,75
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,67
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,62
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,48
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,34
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,33
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,157
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,147
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,140
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,124
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,103
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,99
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,88
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,75
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,66
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,108
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,104
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,104
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,94
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,81
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,77
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,78
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,77
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,68
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,64
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,80
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,92
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,88
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,98
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,111
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,106
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,103
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,99
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,40
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,44
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,55
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,59
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,64
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,70
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,69
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,68
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,69
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,52
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,45
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,39
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,46
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,45
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,49
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,63
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,73
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,78
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,32
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,30
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,22
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,26
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,25
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,24
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,39
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,41
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,49
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,50
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,51
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,48
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,46
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,45
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,44
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,41
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,35
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,47
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,51
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,39
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,39
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,33
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,20
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,22
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,23
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,20
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,21
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,50
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,48
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,49
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,47
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,39
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,40
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,37
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,42
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,40
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,67
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,63
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,50
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,43
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,48
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,42
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,34
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,34
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,31
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,77
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,70
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,63
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,57
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,56
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,45
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,46
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,46
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,46
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,87
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,82
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,86
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,88
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,76
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,65
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,61
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,52
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,43
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,122
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,113
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,97
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,87
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,71
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,69
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,63
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,56
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,54
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,122
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,112
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,96
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,87
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,84
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,82
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,76
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,80
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,86
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,111
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,116
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,116
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,112
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,125
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,118
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,110
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,95
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,80
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,120
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,125
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,119
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,114
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,117
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,119
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,110
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,96
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,87
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,130
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,120
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,116
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,117
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,95
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,98
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,102
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,102
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,103
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,116
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,117
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,123
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,129
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,129
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,117
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,124
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,117
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,114
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,101
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,95
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,100
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,98
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,117
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,113
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,104
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,98
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,100
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,95
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,101
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,100
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,96
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,97
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,112
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,111
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,115
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,122
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,33
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,57
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,66
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,73
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,74
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,82
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,73
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,81
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,79
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,75
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,81
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,90
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,91
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,83
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,79
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,86
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,94
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,88
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,39
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,37
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,27
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,26
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,26
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,25
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,42
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,44
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,52
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,52
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,41
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,35
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,40
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,54
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,65
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,70
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,69
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,69
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,23
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,25
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,29
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,30
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,28
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,25
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,20
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,19
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,16
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,35
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,39
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,40
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,44
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,40
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,37
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,26
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,19
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,29
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,14
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,10
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,12
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,15
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,16
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,15
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,15
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,15
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,12
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,16
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,15
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,13
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,13
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,18
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,22
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,21
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,25
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,25
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,56
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,52
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,47
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,45
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,49
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,43
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,41
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,37
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,41
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,32
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,31
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,32
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,31
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,27
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,29
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,31
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,53
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,58
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,56
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,46
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,50
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,53
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,50
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,52
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,44
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,48
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,44
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,46
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,43
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,45
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,33
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,32
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,45
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,45
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,48
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,54
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,51
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,54
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,57
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,51
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,59
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,56
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,52
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,49
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,37
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,41
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,46
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,44
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,38
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,27
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,28
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,32
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,34
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,36
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,38
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,39
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,27
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,25
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,29
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,33
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,43
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,39
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,43
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,44
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,73
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,65
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,58
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,55
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,45
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,34
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,27
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,31
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,56
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,49
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,38
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,30
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,29
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,27
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,26
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,30
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,84
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,82
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,75
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,60
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,56
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,62
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,61
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,55
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,69
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,75
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,74
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,74
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,68
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,60
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,52
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,47
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,88
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,100
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,95
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,100
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,97
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,76
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,71
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,63
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,57
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,57
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,58
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,63
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,69
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,71
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,75
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,66
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,46
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,44
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,61
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,69
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,74
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,84
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,99
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,88
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,20
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,22
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,32
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,35
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,40
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,47
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,50
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,54
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,42
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,45
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,41
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,39
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,50
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,50
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,47
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,66
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,21
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,24
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,22
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,20
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,19
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,21
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,22
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,33
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,38
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,37
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,35
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,42
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,41
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,45
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,44
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,42
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,47
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,41
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,35
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,32
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,31
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,22
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,24
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,24
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,57
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,43
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,42
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,41
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,41
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,36
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,41
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,43
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,76
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,64
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,61
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,51
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,49
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,50
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,40
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,36
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,65
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,69
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,63
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,54
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,54
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,53
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,43
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,39
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,87
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,85
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,78
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,81
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,84
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,77
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,68
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,64
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,116
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,110
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,100
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,86
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,73
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,66
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,68
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,64
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,117
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,118
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,109
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,98
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,85
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,83
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,82
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,73
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,82
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,83
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,94
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,94
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,94
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,104
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,95
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,90
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,121
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,109
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,116
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,109
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,107
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,111
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,112
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,104
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,90
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,89
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,86
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,83
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,88
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,70
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,67
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,73
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,86
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,101
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,102
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,106
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,115
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,113
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,100
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,103
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,50
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,53
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,46
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,49
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,51
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,61
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,66
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,64
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,65
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,59
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,68
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,71
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,67
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,69
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,86
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,86
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,14
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,15
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,26
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,29
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,35
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,32
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,33
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,26
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,38
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,41
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,45
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,46
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,46
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,47
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,45
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,50
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,8
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,9
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,9
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,12
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,11
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,10
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,10
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,16
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,21
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,18
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,14
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,14
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,22
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,25
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,24
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,24
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,38
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,29
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,26
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,28
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,29
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,31
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,34
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,36
+ 59657 SUATU,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,39
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,33
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,35
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,38
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,37
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,38
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,33
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,34
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,30
+ 59657 SUATU,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,32
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,53
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,54
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,49
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,42
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,37
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,39
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,30
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,27
+ 59657 SUATU,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,28
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,30
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,29
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,27
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,31
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,34
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,35
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,38
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,41
+ 59657 SUATU,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,40
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,45
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,49
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,52
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,50
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,56
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,50
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,52
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,45
+ 59657 SUATU,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,41
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,45
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,42
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,39
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,34
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,33
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,33
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,29
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,29
+ 59657 SUATU,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,32
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,46
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,45
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,45
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,47
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,47
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,44
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,47
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,55
+ 59657 SUATU,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,52
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,46
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,42
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,45
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,45
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,44
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,48
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,49
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,45
+ 59657 SUATU,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,41
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,35
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,35
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,35
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,37
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,35
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,42
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,43
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,44
+ 59657 SUATU,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,49
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,30
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,38
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,35
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,39
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,37
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,38
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,40
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,41
+ 59657 SUATU,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,39
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,52
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,43
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,35
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,31
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,33
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,39
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,38
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,35
+ 59657 SUATU,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,35
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,35
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,29
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,27
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,21
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,26
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,24
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,30
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,28
+ 59657 SUATU,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,33
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,51
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,49
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,59
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,58
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,51
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,44
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,39
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,35
+ 59657 SUATU,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,34
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,70
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,63
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,56
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,50
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,45
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,33
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,29
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,26
+ 59657 SUATU,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,22
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,91
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,83
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,70
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,65
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,58
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,49
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,48
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,53
+ 59657 SUATU,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,53
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,60
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,65
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,62
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,65
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,59
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,63
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,57
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,53
+ 59657 SUATU,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,48
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,69
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,72
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,78
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,92
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,86
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,86
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,76
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,67
+ 59657 SUATU,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,62
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,35
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,38
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,47
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,50
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,51
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,58
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,59
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,56
+ 59657 SUATU,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,65
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,41
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,49
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,50
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,49
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,65
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,73
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,73
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,75
+ 59657 SUATU,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,85
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,23
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,20
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,19
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,19
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,29
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,31
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,35
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,49
+ 59657 SUATU,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,49
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,46
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,45
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,44
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,43
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,40
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,42
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,51
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,52
+ 59657 SUATU,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,54
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,35
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,33
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,25
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,27
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,24
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,22
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,20
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,19
+ 59657 SUATU,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,19
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,40
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,40
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,37
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,39
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,40
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,48
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,45
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,42
+ 59657 SUATU,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,39
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,54
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,49
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,49
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,39
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,38
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,36
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,36
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,27
+ 59657 SUATU,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,29
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,57
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,50
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,51
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,41
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,35
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,35
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,37
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,32
+ 59657 SUATU,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,34
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,79
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,81
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,76
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,68
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,66
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,54
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,48
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,46
+ 59657 SUATU,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,39
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,77
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,62
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,54
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,59
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,56
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,52
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,44
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,46
+ 59657 SUATU,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,34
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,92
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,81
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,80
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,77
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,74
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,81
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,84
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,77
+ 59657 SUATU,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,67
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,78
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,81
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,86
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,80
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,74
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,58
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,52
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,46
+ 59657 SUATU,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,51
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,101
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,99
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,98
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,103
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,96
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,81
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,72
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,72
+ 59657 SUATU,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,71
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,62
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,63
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,50
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,48
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,55
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,61
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,64
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,71
+ 59657 SUATU,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,65
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,92
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,100
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,101
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,90
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,91
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,89
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,87
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,86
+ 59657 SUATU,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,88
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,31
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,34
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,43
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,45
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,46
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,40
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,41
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,35
+ 59657 SUATU,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,32
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,54
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,50
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,46
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,61
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,64
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,68
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,76
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,79
+ 59657 SUATU,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,74
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,21
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,23
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,23
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,20
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,17
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,25
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,26
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,30
+ 59657 SUATU,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,32
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,26
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,33
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,38
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,36
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,34
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,32
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,35
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,38
+ 59657 SUATU,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,49

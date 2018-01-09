@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,198
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,191
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,170
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,177
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,157
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,152
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,144
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,147
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,132
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,202
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,206
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,183
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,165
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,162
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,138
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,115
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,116
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,129
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,188
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,189
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,183
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,184
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,193
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,184
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,172
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,157
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,160
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,183
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,178
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,200
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,179
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,175
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,187
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,188
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,173
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,159
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,172
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,181
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,182
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,175
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,178
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,182
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,184
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,181
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,182
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,224
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,207
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,176
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,182
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,177
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,172
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,169
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,191
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,174
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,252
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,220
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,215
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,207
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,187
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,174
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,177
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,174
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,174
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,252
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,250
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,260
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,239
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,228
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,216
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,203
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,173
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,181
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,330
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,308
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,274
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,256
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,230
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,234
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,210
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,207
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,205
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,261
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,256
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,237
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,256
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,235
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,235
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,233
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,236
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,220
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,204
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,232
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,254
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,268
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,293
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,284
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,271
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,246
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,234
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,157
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,183
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,196
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,207
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,228
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,231
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,218
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,202
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,221
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,217
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,213
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,201
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,184
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,188
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,175
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,209
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,238
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,253
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,165
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,145
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,148
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,136
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,136
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,141
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,166
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,184
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,193
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,182
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,177
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,187
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,198
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,193
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,205
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,201
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,194
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,184
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,162
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,168
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,157
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,159
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,158
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,163
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,145
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,147
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,143
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,190
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,193
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,189
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,184
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,185
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,178
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,178
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,185
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,208
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,202
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,178
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,184
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,171
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,169
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,158
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,165
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,163
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,167
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,167
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,175
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,180
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,176
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,174
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,181
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,185
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,185
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,177
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,198
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,219
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,227
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,228
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,209
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,202
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,181
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,185
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,174
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,226
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,210
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,189
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,188
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,182
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,160
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,167
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,171
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,172
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,238
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,233
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,204
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,204
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,200
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,200
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,217
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,226
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,231
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,267
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,247
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,256
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,224
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,215
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,211
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,195
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,181
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,183
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,293
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,276
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,268
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,257
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,252
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,226
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,226
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,198
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,198
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,220
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,228
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,204
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,220
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,219
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,233
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,223
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,234
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,208
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,269
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,266
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,274
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,265
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,269
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,279
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,260
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,259
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,251
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,199
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,184
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,208
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,200
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,191
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,189
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,194
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,176
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,196
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,208
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,227
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,233
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,241
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,245
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,253
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,248
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,255
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,247
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,120
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,146
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,143
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,166
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,162
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,159
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,152
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,174
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,167
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,158
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,159
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,175
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,162
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,164
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,173
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,185
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,191
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,206
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,88
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,69
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,50
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,45
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,69
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,81
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,96
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,100
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,107
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,117
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,109
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,94
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,103
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,113
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,121
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,122
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,133
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,116
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,66
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,66
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,66
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,64
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,53
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,38
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,32
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,24
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,27
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,83
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,77
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,77
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,81
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,68
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,60
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,55
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,52
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,65
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,19
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,25
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,22
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,26
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,27
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,31
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,30
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,28
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,32
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,28
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,40
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,39
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,47
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,45
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,43
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,40
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,37
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,37
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,138
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,134
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,125
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,122
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,115
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,107
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,110
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,124
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,130
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,126
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,129
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,118
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,116
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,112
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,120
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,119
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,145
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,143
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,136
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,143
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,127
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,133
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,125
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,124
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,156
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,139
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,119
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,119
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,131
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,128
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,125
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,130
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,186
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,182
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,174
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,157
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,157
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,139
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,142
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,138
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,174
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,181
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,189
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,176
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,164
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,160
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,139
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,118
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,182
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,182
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,187
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,182
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,186
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,191
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,185
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,173
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,179
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,178
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,178
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,196
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,180
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,187
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,196
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,194
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,193
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,189
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,188
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,179
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,179
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,180
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,178
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,179
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,217
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,210
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,195
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,166
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,162
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,161
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,167
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,169
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,226
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,233
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,201
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,202
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,194
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,180
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,174
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,173
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,208
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,195
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,206
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,217
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,212
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,205
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,191
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,170
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,271
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,270
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,262
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,237
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,225
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,210
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,208
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,187
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,217
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,226
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,210
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,186
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,200
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,195
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,185
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,198
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,187
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,174
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,190
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,220
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,230
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,252
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,257
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,250
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,135
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,140
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,162
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,183
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,190
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,208
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,208
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,200
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,195
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,207
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,204
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,195
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,178
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,179
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,167
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,189
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,168
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,164
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,149
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,148
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,146
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,137
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,142
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,163
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,191
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,184
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,179
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,187
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,206
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,192
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,202
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,197
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,169
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,162
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,169
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,169
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,168
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,169
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,168
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,151
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,167
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,175
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,179
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,176
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,168
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,180
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,171
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,173
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,212
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,203
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,185
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,186
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,180
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,175
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,166
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,175
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,183
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,154
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,160
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,165
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,167
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,161
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,172
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,171
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,198
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,199
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,215
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,224
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,227
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,209
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,204
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,186
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,194
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,195
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,190
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,181
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,176
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,174
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,146
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,154
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,244
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,219
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,221
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,187
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,189
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,186
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,182
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,205
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,195
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,211
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,194
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,192
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,172
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,162
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,169
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,160
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,246
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,258
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,236
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,235
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,230
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,226
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,208
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,206
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,154
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,147
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,156
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,142
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,153
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,149
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,159
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,149
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,210
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,216
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,220
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,225
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,210
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,212
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,226
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,208
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,110
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,113
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,111
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,123
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,123
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,115
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,108
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,115
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,120
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,130
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,137
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,141
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,159
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,156
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,160
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,163
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,44
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,54
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,61
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,60
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,61
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,65
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,67
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,63
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,69
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,75
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,78
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,81
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,74
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,79
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,84
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,86
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,28
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,23
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,24
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,22
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,20
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,23
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,24
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,25
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,34
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,37
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,33
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,33
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,36
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,37
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,37
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,42
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,124
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,118
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,116
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,110
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,100
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,98
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,95
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,90
+ 59041 POIENI,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,102
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,120
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,108
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,104
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,106
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,109
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,92
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,83
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,85
+ 59041 POIENI,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,89
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,122
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,121
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,104
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,108
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,118
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,109
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,110
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,108
+ 59041 POIENI,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,104
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,120
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,120
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,121
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,117
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,112
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,114
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,103
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,96
+ 59041 POIENI,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,97
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,139
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,125
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,129
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,127
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,114
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,114
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,112
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,107
+ 59041 POIENI,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,108
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,117
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,131
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,130
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,123
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,128
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,112
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,115
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,109
+ 59041 POIENI,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,112
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,153
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,147
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,133
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,133
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,134
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,140
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,121
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,127
+ 59041 POIENI,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,119
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,181
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,162
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,152
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,133
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,117
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,122
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,125
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,121
+ 59041 POIENI,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,112
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,180
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,184
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,188
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,182
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,173
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,151
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,149
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,132
+ 59041 POIENI,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,135
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,186
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,176
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,182
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,183
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,186
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,163
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,157
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,146
+ 59041 POIENI,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,136
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,165
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,162
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,161
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,162
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,167
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,178
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,176
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,183
+ 59041 POIENI,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,181
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,136
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,136
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,123
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,134
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,135
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,145
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,146
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,156
+ 59041 POIENI,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,155
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,183
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,173
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,164
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,152
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,157
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,147
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,154
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,155
+ 59041 POIENI,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,155
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,212
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,198
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,179
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,174
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,151
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,124
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,124
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,111
+ 59041 POIENI,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,117
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,228
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,220
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,198
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,194
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,179
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,185
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,173
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,168
+ 59041 POIENI,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,149
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,180
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,202
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,189
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,174
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,183
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,193
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,178
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,172
+ 59041 POIENI,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,167
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,209
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,223
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,244
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,249
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,240
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,222
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,219
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,201
+ 59041 POIENI,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,197
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,179
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,184
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,203
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,213
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,204
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,183
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,198
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,183
+ 59041 POIENI,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,169
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,190
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,174
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,173
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,167
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,189
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,208
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,221
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,241
+ 59041 POIENI,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,249
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,151
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,145
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,136
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,135
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,154
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,173
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,183
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,206
+ 59041 POIENI,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,212
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,181
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,202
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,182
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,188
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,188
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,186
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,174
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,172
+ 59041 POIENI,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,168
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,169
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,164
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,162
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,166
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,152
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,153
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,147
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,136
+ 59041 POIENI,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,138
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,164
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,156
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,168
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,159
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,166
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,177
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,194
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,179
+ 59041 POIENI,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,182
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,187
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,178
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,178
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,166
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,169
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,165
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,160
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,159
+ 59041 POIENI,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,163
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,158
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,152
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,147
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,160
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,155
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,154
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,149
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,159
+ 59041 POIENI,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,151
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,220
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,223
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,209
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,203
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,180
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,184
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,178
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,174
+ 59041 POIENI,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,165
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,151
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,150
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,150
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,127
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,133
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,139
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,132
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,130
+ 59041 POIENI,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,139
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,174
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,174
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,173
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,174
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,195
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,205
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,210
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,199
+ 59041 POIENI,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,194
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,147
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,129
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,122
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,135
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,128
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,126
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,129
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,134
+ 59041 POIENI,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,112
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,212
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,208
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,210
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,194
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,188
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,159
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,156
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,156
+ 59041 POIENI,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,152
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,98
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,105
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,104
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,110
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,103
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,100
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,88
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,89
+ 59041 POIENI,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,111
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,176
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,158
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,165
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,189
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,175
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,178
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,173
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,174
+ 59041 POIENI,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,156
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,70
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,76
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,76
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,70
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,71
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,66
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,67
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,65
+ 59041 POIENI,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,64
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,91
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,105
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,102
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,102
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,106
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,112
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,108
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,111
+ 59041 POIENI,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,133
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,29
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,34
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,39
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,41
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,40
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,39
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,50
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,47
+ 59041 POIENI,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,41
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,45
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,46
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,42
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,48
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,58
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,64
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,74
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,71
+ 59041 POIENI,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,71

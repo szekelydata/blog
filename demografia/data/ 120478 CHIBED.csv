@@ -1,0 +1,505 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 120478 CHIBED,0- 4 ani, Masculin, Mures, Anul 2004, Numar persoane,61
+ 120478 CHIBED,0- 4 ani, Masculin, Mures, Anul 2005, Numar persoane,57
+ 120478 CHIBED,5- 9 ani, Masculin, Mures, Anul 2004, Numar persoane,57
+ 120478 CHIBED,5- 9 ani, Masculin, Mures, Anul 2005, Numar persoane,57
+ 120478 CHIBED,10-14 ani, Masculin, Mures, Anul 2004, Numar persoane,76
+ 120478 CHIBED,10-14 ani, Masculin, Mures, Anul 2005, Numar persoane,64
+ 120478 CHIBED,15-19 ani, Masculin, Mures, Anul 2004, Numar persoane,76
+ 120478 CHIBED,15-19 ani, Masculin, Mures, Anul 2005, Numar persoane,82
+ 120478 CHIBED,20-24 ani, Masculin, Mures, Anul 2004, Numar persoane,67
+ 120478 CHIBED,20-24 ani, Masculin, Mures, Anul 2005, Numar persoane,61
+ 120478 CHIBED,25-29 ani, Masculin, Mures, Anul 2004, Numar persoane,84
+ 120478 CHIBED,25-29 ani, Masculin, Mures, Anul 2005, Numar persoane,81
+ 120478 CHIBED,30-34 ani, Masculin, Mures, Anul 2004, Numar persoane,72
+ 120478 CHIBED,30-34 ani, Masculin, Mures, Anul 2005, Numar persoane,79
+ 120478 CHIBED,35-39 ani, Masculin, Mures, Anul 2004, Numar persoane,64
+ 120478 CHIBED,35-39 ani, Masculin, Mures, Anul 2005, Numar persoane,65
+ 120478 CHIBED,40-44 ani, Masculin, Mures, Anul 2004, Numar persoane,46
+ 120478 CHIBED,40-44 ani, Masculin, Mures, Anul 2005, Numar persoane,43
+ 120478 CHIBED,45-49 ani, Masculin, Mures, Anul 2004, Numar persoane,60
+ 120478 CHIBED,45-49 ani, Masculin, Mures, Anul 2005, Numar persoane,55
+ 120478 CHIBED,50-54 ani, Masculin, Mures, Anul 2004, Numar persoane,38
+ 120478 CHIBED,50-54 ani, Masculin, Mures, Anul 2005, Numar persoane,45
+ 120478 CHIBED,55-59 ani, Masculin, Mures, Anul 2004, Numar persoane,52
+ 120478 CHIBED,55-59 ani, Masculin, Mures, Anul 2005, Numar persoane,48
+ 120478 CHIBED,60-64 ani, Masculin, Mures, Anul 2004, Numar persoane,39
+ 120478 CHIBED,60-64 ani, Masculin, Mures, Anul 2005, Numar persoane,32
+ 120478 CHIBED,65-69 ani, Masculin, Mures, Anul 2004, Numar persoane,38
+ 120478 CHIBED,65-69 ani, Masculin, Mures, Anul 2005, Numar persoane,45
+ 120478 CHIBED,70-74 ani, Masculin, Mures, Anul 2004, Numar persoane,33
+ 120478 CHIBED,70-74 ani, Masculin, Mures, Anul 2005, Numar persoane,32
+ 120478 CHIBED,75-79 ani, Masculin, Mures, Anul 2004, Numar persoane,37
+ 120478 CHIBED,75-79 ani, Masculin, Mures, Anul 2005, Numar persoane,28
+ 120478 CHIBED,80-84 ani, Masculin, Mures, Anul 2004, Numar persoane,23
+ 120478 CHIBED,80-84 ani, Masculin, Mures, Anul 2005, Numar persoane,26
+ 120478 CHIBED,85 ani si peste, Masculin, Mures, Anul 2004, Numar persoane,9
+ 120478 CHIBED,85 ani si peste, Masculin, Mures, Anul 2005, Numar persoane,9
+ 120478 CHIBED,0- 4 ani, Feminin, Mures, Anul 2004, Numar persoane,62
+ 120478 CHIBED,0- 4 ani, Feminin, Mures, Anul 2005, Numar persoane,60
+ 120478 CHIBED,0- 4 ani, Feminin, Mures, Anul 2006, Numar persoane,60
+ 120478 CHIBED,5- 9 ani, Feminin, Mures, Anul 2004, Numar persoane,45
+ 120478 CHIBED,5- 9 ani, Feminin, Mures, Anul 2005, Numar persoane,49
+ 120478 CHIBED,5- 9 ani, Feminin, Mures, Anul 2006, Numar persoane,55
+ 120478 CHIBED,10-14 ani, Feminin, Mures, Anul 2004, Numar persoane,67
+ 120478 CHIBED,10-14 ani, Feminin, Mures, Anul 2005, Numar persoane,62
+ 120478 CHIBED,10-14 ani, Feminin, Mures, Anul 2006, Numar persoane,61
+ 120478 CHIBED,15-19 ani, Feminin, Mures, Anul 2004, Numar persoane,79
+ 120478 CHIBED,15-19 ani, Feminin, Mures, Anul 2005, Numar persoane,84
+ 120478 CHIBED,15-19 ani, Feminin, Mures, Anul 2006, Numar persoane,81
+ 120478 CHIBED,20-24 ani, Feminin, Mures, Anul 2004, Numar persoane,68
+ 120478 CHIBED,20-24 ani, Feminin, Mures, Anul 2005, Numar persoane,63
+ 120478 CHIBED,20-24 ani, Feminin, Mures, Anul 2006, Numar persoane,62
+ 120478 CHIBED,25-29 ani, Feminin, Mures, Anul 2004, Numar persoane,67
+ 120478 CHIBED,25-29 ani, Feminin, Mures, Anul 2005, Numar persoane,69
+ 120478 CHIBED,25-29 ani, Feminin, Mures, Anul 2006, Numar persoane,67
+ 120478 CHIBED,30-34 ani, Feminin, Mures, Anul 2004, Numar persoane,64
+ 120478 CHIBED,30-34 ani, Feminin, Mures, Anul 2005, Numar persoane,60
+ 120478 CHIBED,30-34 ani, Feminin, Mures, Anul 2006, Numar persoane,59
+ 120478 CHIBED,35-39 ani, Feminin, Mures, Anul 2004, Numar persoane,52
+ 120478 CHIBED,35-39 ani, Feminin, Mures, Anul 2005, Numar persoane,58
+ 120478 CHIBED,35-39 ani, Feminin, Mures, Anul 2006, Numar persoane,62
+ 120478 CHIBED,40-44 ani, Feminin, Mures, Anul 2004, Numar persoane,43
+ 120478 CHIBED,40-44 ani, Feminin, Mures, Anul 2005, Numar persoane,37
+ 120478 CHIBED,40-44 ani, Feminin, Mures, Anul 2006, Numar persoane,43
+ 120478 CHIBED,45-49 ani, Feminin, Mures, Anul 2004, Numar persoane,42
+ 120478 CHIBED,45-49 ani, Feminin, Mures, Anul 2005, Numar persoane,45
+ 120478 CHIBED,45-49 ani, Feminin, Mures, Anul 2006, Numar persoane,44
+ 120478 CHIBED,50-54 ani, Feminin, Mures, Anul 2004, Numar persoane,64
+ 120478 CHIBED,50-54 ani, Feminin, Mures, Anul 2005, Numar persoane,67
+ 120478 CHIBED,50-54 ani, Feminin, Mures, Anul 2006, Numar persoane,60
+ 120478 CHIBED,55-59 ani, Feminin, Mures, Anul 2004, Numar persoane,41
+ 120478 CHIBED,55-59 ani, Feminin, Mures, Anul 2005, Numar persoane,34
+ 120478 CHIBED,55-59 ani, Feminin, Mures, Anul 2006, Numar persoane,47
+ 120478 CHIBED,60-64 ani, Feminin, Mures, Anul 2004, Numar persoane,48
+ 120478 CHIBED,60-64 ani, Feminin, Mures, Anul 2005, Numar persoane,54
+ 120478 CHIBED,60-64 ani, Feminin, Mures, Anul 2006, Numar persoane,55
+ 120478 CHIBED,65-69 ani, Feminin, Mures, Anul 2004, Numar persoane,53
+ 120478 CHIBED,65-69 ani, Feminin, Mures, Anul 2005, Numar persoane,49
+ 120478 CHIBED,65-69 ani, Feminin, Mures, Anul 2006, Numar persoane,51
+ 120478 CHIBED,70-74 ani, Feminin, Mures, Anul 2004, Numar persoane,44
+ 120478 CHIBED,70-74 ani, Feminin, Mures, Anul 2005, Numar persoane,48
+ 120478 CHIBED,70-74 ani, Feminin, Mures, Anul 2006, Numar persoane,38
+ 120478 CHIBED,75-79 ani, Feminin, Mures, Anul 2004, Numar persoane,37
+ 120478 CHIBED,75-79 ani, Feminin, Mures, Anul 2005, Numar persoane,37
+ 120478 CHIBED,75-79 ani, Feminin, Mures, Anul 2006, Numar persoane,39
+ 120478 CHIBED,80-84 ani, Feminin, Mures, Anul 2004, Numar persoane,45
+ 120478 CHIBED,80-84 ani, Feminin, Mures, Anul 2005, Numar persoane,40
+ 120478 CHIBED,80-84 ani, Feminin, Mures, Anul 2006, Numar persoane,32
+ 120478 CHIBED,85 ani si peste, Feminin, Mures, Anul 2004, Numar persoane,15
+ 120478 CHIBED,85 ani si peste, Feminin, Mures, Anul 2005, Numar persoane,20
+ 120478 CHIBED,85 ani si peste, Feminin, Mures, Anul 2006, Numar persoane,24
+ 120478 CHIBED,0- 4 ani, Feminin, Mures, Anul 2007, Numar persoane,54
+ 120478 CHIBED,0- 4 ani, Feminin, Mures, Anul 2008, Numar persoane,54
+ 120478 CHIBED,0- 4 ani, Feminin, Mures, Anul 2009, Numar persoane,66
+ 120478 CHIBED,0- 4 ani, Feminin, Mures, Anul 2010, Numar persoane,62
+ 120478 CHIBED,0- 4 ani, Feminin, Mures, Anul 2011, Numar persoane,59
+ 120478 CHIBED,0- 4 ani, Feminin, Mures, Anul 2012, Numar persoane,60
+ 120478 CHIBED,0- 4 ani, Feminin, Mures, Anul 2013, Numar persoane,60
+ 120478 CHIBED,0- 4 ani, Feminin, Mures, Anul 2014, Numar persoane,51
+ 120478 CHIBED,0- 4 ani, Feminin, Mures, Anul 2015, Numar persoane,51
+ 120478 CHIBED,0- 4 ani, Feminin, Mures, Anul 2016, Numar persoane,53
+ 120478 CHIBED,0- 4 ani, Feminin, Mures, Anul 2017, Numar persoane,53
+ 120478 CHIBED,5- 9 ani, Feminin, Mures, Anul 2007, Numar persoane,66
+ 120478 CHIBED,5- 9 ani, Feminin, Mures, Anul 2008, Numar persoane,63
+ 120478 CHIBED,5- 9 ani, Feminin, Mures, Anul 2009, Numar persoane,67
+ 120478 CHIBED,5- 9 ani, Feminin, Mures, Anul 2010, Numar persoane,64
+ 120478 CHIBED,5- 9 ani, Feminin, Mures, Anul 2011, Numar persoane,62
+ 120478 CHIBED,5- 9 ani, Feminin, Mures, Anul 2012, Numar persoane,58
+ 120478 CHIBED,5- 9 ani, Feminin, Mures, Anul 2013, Numar persoane,58
+ 120478 CHIBED,5- 9 ani, Feminin, Mures, Anul 2014, Numar persoane,64
+ 120478 CHIBED,5- 9 ani, Feminin, Mures, Anul 2015, Numar persoane,61
+ 120478 CHIBED,5- 9 ani, Feminin, Mures, Anul 2016, Numar persoane,53
+ 120478 CHIBED,5- 9 ani, Feminin, Mures, Anul 2017, Numar persoane,55
+ 120478 CHIBED,10-14 ani, Feminin, Mures, Anul 2007, Numar persoane,48
+ 120478 CHIBED,10-14 ani, Feminin, Mures, Anul 2008, Numar persoane,51
+ 120478 CHIBED,10-14 ani, Feminin, Mures, Anul 2009, Numar persoane,43
+ 120478 CHIBED,10-14 ani, Feminin, Mures, Anul 2010, Numar persoane,48
+ 120478 CHIBED,10-14 ani, Feminin, Mures, Anul 2011, Numar persoane,56
+ 120478 CHIBED,10-14 ani, Feminin, Mures, Anul 2012, Numar persoane,63
+ 120478 CHIBED,10-14 ani, Feminin, Mures, Anul 2013, Numar persoane,62
+ 120478 CHIBED,10-14 ani, Feminin, Mures, Anul 2014, Numar persoane,66
+ 120478 CHIBED,10-14 ani, Feminin, Mures, Anul 2015, Numar persoane,63
+ 120478 CHIBED,10-14 ani, Feminin, Mures, Anul 2016, Numar persoane,52
+ 120478 CHIBED,10-14 ani, Feminin, Mures, Anul 2017, Numar persoane,51
+ 120478 CHIBED,15-19 ani, Feminin, Mures, Anul 2007, Numar persoane,76
+ 120478 CHIBED,15-19 ani, Feminin, Mures, Anul 2008, Numar persoane,62
+ 120478 CHIBED,15-19 ani, Feminin, Mures, Anul 2009, Numar persoane,63
+ 120478 CHIBED,15-19 ani, Feminin, Mures, Anul 2010, Numar persoane,55
+ 120478 CHIBED,15-19 ani, Feminin, Mures, Anul 2011, Numar persoane,52
+ 120478 CHIBED,15-19 ani, Feminin, Mures, Anul 2012, Numar persoane,45
+ 120478 CHIBED,15-19 ani, Feminin, Mures, Anul 2013, Numar persoane,48
+ 120478 CHIBED,15-19 ani, Feminin, Mures, Anul 2014, Numar persoane,41
+ 120478 CHIBED,15-19 ani, Feminin, Mures, Anul 2015, Numar persoane,48
+ 120478 CHIBED,15-19 ani, Feminin, Mures, Anul 2016, Numar persoane,58
+ 120478 CHIBED,15-19 ani, Feminin, Mures, Anul 2017, Numar persoane,62
+ 120478 CHIBED,20-24 ani, Feminin, Mures, Anul 2007, Numar persoane,66
+ 120478 CHIBED,20-24 ani, Feminin, Mures, Anul 2008, Numar persoane,64
+ 120478 CHIBED,20-24 ani, Feminin, Mures, Anul 2009, Numar persoane,66
+ 120478 CHIBED,20-24 ani, Feminin, Mures, Anul 2010, Numar persoane,76
+ 120478 CHIBED,20-24 ani, Feminin, Mures, Anul 2011, Numar persoane,76
+ 120478 CHIBED,20-24 ani, Feminin, Mures, Anul 2012, Numar persoane,68
+ 120478 CHIBED,20-24 ani, Feminin, Mures, Anul 2013, Numar persoane,61
+ 120478 CHIBED,20-24 ani, Feminin, Mures, Anul 2014, Numar persoane,62
+ 120478 CHIBED,20-24 ani, Feminin, Mures, Anul 2015, Numar persoane,52
+ 120478 CHIBED,20-24 ani, Feminin, Mures, Anul 2016, Numar persoane,53
+ 120478 CHIBED,20-24 ani, Feminin, Mures, Anul 2017, Numar persoane,44
+ 120478 CHIBED,25-29 ani, Feminin, Mures, Anul 2007, Numar persoane,69
+ 120478 CHIBED,25-29 ani, Feminin, Mures, Anul 2008, Numar persoane,67
+ 120478 CHIBED,25-29 ani, Feminin, Mures, Anul 2009, Numar persoane,57
+ 120478 CHIBED,25-29 ani, Feminin, Mures, Anul 2010, Numar persoane,49
+ 120478 CHIBED,25-29 ani, Feminin, Mures, Anul 2011, Numar persoane,54
+ 120478 CHIBED,25-29 ani, Feminin, Mures, Anul 2012, Numar persoane,63
+ 120478 CHIBED,25-29 ani, Feminin, Mures, Anul 2013, Numar persoane,65
+ 120478 CHIBED,25-29 ani, Feminin, Mures, Anul 2014, Numar persoane,66
+ 120478 CHIBED,25-29 ani, Feminin, Mures, Anul 2015, Numar persoane,69
+ 120478 CHIBED,25-29 ani, Feminin, Mures, Anul 2016, Numar persoane,68
+ 120478 CHIBED,25-29 ani, Feminin, Mures, Anul 2017, Numar persoane,61
+ 120478 CHIBED,30-34 ani, Feminin, Mures, Anul 2007, Numar persoane,57
+ 120478 CHIBED,30-34 ani, Feminin, Mures, Anul 2008, Numar persoane,58
+ 120478 CHIBED,30-34 ani, Feminin, Mures, Anul 2009, Numar persoane,61
+ 120478 CHIBED,30-34 ani, Feminin, Mures, Anul 2010, Numar persoane,66
+ 120478 CHIBED,30-34 ani, Feminin, Mures, Anul 2011, Numar persoane,62
+ 120478 CHIBED,30-34 ani, Feminin, Mures, Anul 2012, Numar persoane,63
+ 120478 CHIBED,30-34 ani, Feminin, Mures, Anul 2013, Numar persoane,64
+ 120478 CHIBED,30-34 ani, Feminin, Mures, Anul 2014, Numar persoane,58
+ 120478 CHIBED,30-34 ani, Feminin, Mures, Anul 2015, Numar persoane,56
+ 120478 CHIBED,30-34 ani, Feminin, Mures, Anul 2016, Numar persoane,53
+ 120478 CHIBED,30-34 ani, Feminin, Mures, Anul 2017, Numar persoane,62
+ 120478 CHIBED,35-39 ani, Feminin, Mures, Anul 2007, Numar persoane,61
+ 120478 CHIBED,35-39 ani, Feminin, Mures, Anul 2008, Numar persoane,62
+ 120478 CHIBED,35-39 ani, Feminin, Mures, Anul 2009, Numar persoane,62
+ 120478 CHIBED,35-39 ani, Feminin, Mures, Anul 2010, Numar persoane,57
+ 120478 CHIBED,35-39 ani, Feminin, Mures, Anul 2011, Numar persoane,56
+ 120478 CHIBED,35-39 ani, Feminin, Mures, Anul 2012, Numar persoane,56
+ 120478 CHIBED,35-39 ani, Feminin, Mures, Anul 2013, Numar persoane,58
+ 120478 CHIBED,35-39 ani, Feminin, Mures, Anul 2014, Numar persoane,59
+ 120478 CHIBED,35-39 ani, Feminin, Mures, Anul 2015, Numar persoane,65
+ 120478 CHIBED,35-39 ani, Feminin, Mures, Anul 2016, Numar persoane,60
+ 120478 CHIBED,35-39 ani, Feminin, Mures, Anul 2017, Numar persoane,60
+ 120478 CHIBED,40-44 ani, Feminin, Mures, Anul 2007, Numar persoane,42
+ 120478 CHIBED,40-44 ani, Feminin, Mures, Anul 2008, Numar persoane,47
+ 120478 CHIBED,40-44 ani, Feminin, Mures, Anul 2009, Numar persoane,51
+ 120478 CHIBED,40-44 ani, Feminin, Mures, Anul 2010, Numar persoane,57
+ 120478 CHIBED,40-44 ani, Feminin, Mures, Anul 2011, Numar persoane,62
+ 120478 CHIBED,40-44 ani, Feminin, Mures, Anul 2012, Numar persoane,61
+ 120478 CHIBED,40-44 ani, Feminin, Mures, Anul 2013, Numar persoane,60
+ 120478 CHIBED,40-44 ani, Feminin, Mures, Anul 2014, Numar persoane,63
+ 120478 CHIBED,40-44 ani, Feminin, Mures, Anul 2015, Numar persoane,59
+ 120478 CHIBED,40-44 ani, Feminin, Mures, Anul 2016, Numar persoane,58
+ 120478 CHIBED,40-44 ani, Feminin, Mures, Anul 2017, Numar persoane,58
+ 120478 CHIBED,45-49 ani, Feminin, Mures, Anul 2007, Numar persoane,46
+ 120478 CHIBED,45-49 ani, Feminin, Mures, Anul 2008, Numar persoane,43
+ 120478 CHIBED,45-49 ani, Feminin, Mures, Anul 2009, Numar persoane,47
+ 120478 CHIBED,45-49 ani, Feminin, Mures, Anul 2010, Numar persoane,41
+ 120478 CHIBED,45-49 ani, Feminin, Mures, Anul 2011, Numar persoane,43
+ 120478 CHIBED,45-49 ani, Feminin, Mures, Anul 2012, Numar persoane,43
+ 120478 CHIBED,45-49 ani, Feminin, Mures, Anul 2013, Numar persoane,48
+ 120478 CHIBED,45-49 ani, Feminin, Mures, Anul 2014, Numar persoane,50
+ 120478 CHIBED,45-49 ani, Feminin, Mures, Anul 2015, Numar persoane,57
+ 120478 CHIBED,45-49 ani, Feminin, Mures, Anul 2016, Numar persoane,61
+ 120478 CHIBED,45-49 ani, Feminin, Mures, Anul 2017, Numar persoane,58
+ 120478 CHIBED,50-54 ani, Feminin, Mures, Anul 2007, Numar persoane,55
+ 120478 CHIBED,50-54 ani, Feminin, Mures, Anul 2008, Numar persoane,47
+ 120478 CHIBED,50-54 ani, Feminin, Mures, Anul 2009, Numar persoane,41
+ 120478 CHIBED,50-54 ani, Feminin, Mures, Anul 2010, Numar persoane,47
+ 120478 CHIBED,50-54 ani, Feminin, Mures, Anul 2011, Numar persoane,45
+ 120478 CHIBED,50-54 ani, Feminin, Mures, Anul 2012, Numar persoane,46
+ 120478 CHIBED,50-54 ani, Feminin, Mures, Anul 2013, Numar persoane,43
+ 120478 CHIBED,50-54 ani, Feminin, Mures, Anul 2014, Numar persoane,46
+ 120478 CHIBED,50-54 ani, Feminin, Mures, Anul 2015, Numar persoane,38
+ 120478 CHIBED,50-54 ani, Feminin, Mures, Anul 2016, Numar persoane,43
+ 120478 CHIBED,50-54 ani, Feminin, Mures, Anul 2017, Numar persoane,45
+ 120478 CHIBED,55-59 ani, Feminin, Mures, Anul 2007, Numar persoane,59
+ 120478 CHIBED,55-59 ani, Feminin, Mures, Anul 2008, Numar persoane,62
+ 120478 CHIBED,55-59 ani, Feminin, Mures, Anul 2009, Numar persoane,67
+ 120478 CHIBED,55-59 ani, Feminin, Mures, Anul 2010, Numar persoane,66
+ 120478 CHIBED,55-59 ani, Feminin, Mures, Anul 2011, Numar persoane,58
+ 120478 CHIBED,55-59 ani, Feminin, Mures, Anul 2012, Numar persoane,53
+ 120478 CHIBED,55-59 ani, Feminin, Mures, Anul 2013, Numar persoane,49
+ 120478 CHIBED,55-59 ani, Feminin, Mures, Anul 2014, Numar persoane,43
+ 120478 CHIBED,55-59 ani, Feminin, Mures, Anul 2015, Numar persoane,47
+ 120478 CHIBED,55-59 ani, Feminin, Mures, Anul 2016, Numar persoane,45
+ 120478 CHIBED,55-59 ani, Feminin, Mures, Anul 2017, Numar persoane,44
+ 120478 CHIBED,60-64 ani, Feminin, Mures, Anul 2007, Numar persoane,42
+ 120478 CHIBED,60-64 ani, Feminin, Mures, Anul 2008, Numar persoane,42
+ 120478 CHIBED,60-64 ani, Feminin, Mures, Anul 2009, Numar persoane,41
+ 120478 CHIBED,60-64 ani, Feminin, Mures, Anul 2010, Numar persoane,35
+ 120478 CHIBED,60-64 ani, Feminin, Mures, Anul 2011, Numar persoane,45
+ 120478 CHIBED,60-64 ani, Feminin, Mures, Anul 2012, Numar persoane,56
+ 120478 CHIBED,60-64 ani, Feminin, Mures, Anul 2013, Numar persoane,61
+ 120478 CHIBED,60-64 ani, Feminin, Mures, Anul 2014, Numar persoane,66
+ 120478 CHIBED,60-64 ani, Feminin, Mures, Anul 2015, Numar persoane,66
+ 120478 CHIBED,60-64 ani, Feminin, Mures, Anul 2016, Numar persoane,56
+ 120478 CHIBED,60-64 ani, Feminin, Mures, Anul 2017, Numar persoane,52
+ 120478 CHIBED,65-69 ani, Feminin, Mures, Anul 2007, Numar persoane,51
+ 120478 CHIBED,65-69 ani, Feminin, Mures, Anul 2008, Numar persoane,50
+ 120478 CHIBED,65-69 ani, Feminin, Mures, Anul 2009, Numar persoane,46
+ 120478 CHIBED,65-69 ani, Feminin, Mures, Anul 2010, Numar persoane,52
+ 120478 CHIBED,65-69 ani, Feminin, Mures, Anul 2011, Numar persoane,51
+ 120478 CHIBED,65-69 ani, Feminin, Mures, Anul 2012, Numar persoane,39
+ 120478 CHIBED,65-69 ani, Feminin, Mures, Anul 2013, Numar persoane,37
+ 120478 CHIBED,65-69 ani, Feminin, Mures, Anul 2014, Numar persoane,35
+ 120478 CHIBED,65-69 ani, Feminin, Mures, Anul 2015, Numar persoane,31
+ 120478 CHIBED,65-69 ani, Feminin, Mures, Anul 2016, Numar persoane,43
+ 120478 CHIBED,65-69 ani, Feminin, Mures, Anul 2017, Numar persoane,54
+ 120478 CHIBED,70-74 ani, Feminin, Mures, Anul 2007, Numar persoane,44
+ 120478 CHIBED,70-74 ani, Feminin, Mures, Anul 2008, Numar persoane,49
+ 120478 CHIBED,70-74 ani, Feminin, Mures, Anul 2009, Numar persoane,48
+ 120478 CHIBED,70-74 ani, Feminin, Mures, Anul 2010, Numar persoane,45
+ 120478 CHIBED,70-74 ani, Feminin, Mures, Anul 2011, Numar persoane,46
+ 120478 CHIBED,70-74 ani, Feminin, Mures, Anul 2012, Numar persoane,47
+ 120478 CHIBED,70-74 ani, Feminin, Mures, Anul 2013, Numar persoane,46
+ 120478 CHIBED,70-74 ani, Feminin, Mures, Anul 2014, Numar persoane,45
+ 120478 CHIBED,70-74 ani, Feminin, Mures, Anul 2015, Numar persoane,48
+ 120478 CHIBED,70-74 ani, Feminin, Mures, Anul 2016, Numar persoane,45
+ 120478 CHIBED,70-74 ani, Feminin, Mures, Anul 2017, Numar persoane,35
+ 120478 CHIBED,75-79 ani, Feminin, Mures, Anul 2007, Numar persoane,38
+ 120478 CHIBED,75-79 ani, Feminin, Mures, Anul 2008, Numar persoane,39
+ 120478 CHIBED,75-79 ani, Feminin, Mures, Anul 2009, Numar persoane,36
+ 120478 CHIBED,75-79 ani, Feminin, Mures, Anul 2010, Numar persoane,36
+ 120478 CHIBED,75-79 ani, Feminin, Mures, Anul 2011, Numar persoane,36
+ 120478 CHIBED,75-79 ani, Feminin, Mures, Anul 2012, Numar persoane,42
+ 120478 CHIBED,75-79 ani, Feminin, Mures, Anul 2013, Numar persoane,46
+ 120478 CHIBED,75-79 ani, Feminin, Mures, Anul 2014, Numar persoane,44
+ 120478 CHIBED,75-79 ani, Feminin, Mures, Anul 2015, Numar persoane,42
+ 120478 CHIBED,75-79 ani, Feminin, Mures, Anul 2016, Numar persoane,40
+ 120478 CHIBED,75-79 ani, Feminin, Mures, Anul 2017, Numar persoane,40
+ 120478 CHIBED,80-84 ani, Feminin, Mures, Anul 2007, Numar persoane,29
+ 120478 CHIBED,80-84 ani, Feminin, Mures, Anul 2008, Numar persoane,28
+ 120478 CHIBED,80-84 ani, Feminin, Mures, Anul 2009, Numar persoane,30
+ 120478 CHIBED,80-84 ani, Feminin, Mures, Anul 2010, Numar persoane,26
+ 120478 CHIBED,80-84 ani, Feminin, Mures, Anul 2011, Numar persoane,25
+ 120478 CHIBED,80-84 ani, Feminin, Mures, Anul 2012, Numar persoane,26
+ 120478 CHIBED,80-84 ani, Feminin, Mures, Anul 2013, Numar persoane,28
+ 120478 CHIBED,80-84 ani, Feminin, Mures, Anul 2014, Numar persoane,28
+ 120478 CHIBED,80-84 ani, Feminin, Mures, Anul 2015, Numar persoane,30
+ 120478 CHIBED,80-84 ani, Feminin, Mures, Anul 2016, Numar persoane,32
+ 120478 CHIBED,80-84 ani, Feminin, Mures, Anul 2017, Numar persoane,35
+ 120478 CHIBED,85 ani si peste, Feminin, Mures, Anul 2007, Numar persoane,33
+ 120478 CHIBED,85 ani si peste, Feminin, Mures, Anul 2008, Numar persoane,32
+ 120478 CHIBED,85 ani si peste, Feminin, Mures, Anul 2009, Numar persoane,32
+ 120478 CHIBED,85 ani si peste, Feminin, Mures, Anul 2010, Numar persoane,26
+ 120478 CHIBED,85 ani si peste, Feminin, Mures, Anul 2011, Numar persoane,26
+ 120478 CHIBED,85 ani si peste, Feminin, Mures, Anul 2012, Numar persoane,25
+ 120478 CHIBED,85 ani si peste, Feminin, Mures, Anul 2013, Numar persoane,25
+ 120478 CHIBED,85 ani si peste, Feminin, Mures, Anul 2014, Numar persoane,25
+ 120478 CHIBED,85 ani si peste, Feminin, Mures, Anul 2015, Numar persoane,22
+ 120478 CHIBED,85 ani si peste, Feminin, Mures, Anul 2016, Numar persoane,20
+ 120478 CHIBED,85 ani si peste, Feminin, Mures, Anul 2017, Numar persoane,18
+ 120478 CHIBED,0- 4 ani, Masculin, Mures, Anul 2006, Numar persoane,57
+ 120478 CHIBED,0- 4 ani, Masculin, Mures, Anul 2007, Numar persoane,59
+ 120478 CHIBED,0- 4 ani, Masculin, Mures, Anul 2008, Numar persoane,62
+ 120478 CHIBED,0- 4 ani, Masculin, Mures, Anul 2009, Numar persoane,59
+ 120478 CHIBED,0- 4 ani, Masculin, Mures, Anul 2010, Numar persoane,64
+ 120478 CHIBED,0- 4 ani, Masculin, Mures, Anul 2011, Numar persoane,68
+ 120478 CHIBED,0- 4 ani, Masculin, Mures, Anul 2012, Numar persoane,60
+ 120478 CHIBED,0- 4 ani, Masculin, Mures, Anul 2013, Numar persoane,60
+ 120478 CHIBED,0- 4 ani, Masculin, Mures, Anul 2014, Numar persoane,60
+ 120478 CHIBED,0- 4 ani, Masculin, Mures, Anul 2015, Numar persoane,62
+ 120478 CHIBED,0- 4 ani, Masculin, Mures, Anul 2016, Numar persoane,64
+ 120478 CHIBED,0- 4 ani, Masculin, Mures, Anul 2017, Numar persoane,64
+ 120478 CHIBED,5- 9 ani, Masculin, Mures, Anul 2006, Numar persoane,53
+ 120478 CHIBED,5- 9 ani, Masculin, Mures, Anul 2007, Numar persoane,56
+ 120478 CHIBED,5- 9 ani, Masculin, Mures, Anul 2008, Numar persoane,58
+ 120478 CHIBED,5- 9 ani, Masculin, Mures, Anul 2009, Numar persoane,58
+ 120478 CHIBED,5- 9 ani, Masculin, Mures, Anul 2010, Numar persoane,56
+ 120478 CHIBED,5- 9 ani, Masculin, Mures, Anul 2011, Numar persoane,55
+ 120478 CHIBED,5- 9 ani, Masculin, Mures, Anul 2012, Numar persoane,55
+ 120478 CHIBED,5- 9 ani, Masculin, Mures, Anul 2013, Numar persoane,56
+ 120478 CHIBED,5- 9 ani, Masculin, Mures, Anul 2014, Numar persoane,57
+ 120478 CHIBED,5- 9 ani, Masculin, Mures, Anul 2015, Numar persoane,60
+ 120478 CHIBED,5- 9 ani, Masculin, Mures, Anul 2016, Numar persoane,66
+ 120478 CHIBED,5- 9 ani, Masculin, Mures, Anul 2017, Numar persoane,58
+ 120478 CHIBED,10-14 ani, Masculin, Mures, Anul 2006, Numar persoane,62
+ 120478 CHIBED,10-14 ani, Masculin, Mures, Anul 2007, Numar persoane,63
+ 120478 CHIBED,10-14 ani, Masculin, Mures, Anul 2008, Numar persoane,56
+ 120478 CHIBED,10-14 ani, Masculin, Mures, Anul 2009, Numar persoane,56
+ 120478 CHIBED,10-14 ani, Masculin, Mures, Anul 2010, Numar persoane,56
+ 120478 CHIBED,10-14 ani, Masculin, Mures, Anul 2011, Numar persoane,50
+ 120478 CHIBED,10-14 ani, Masculin, Mures, Anul 2012, Numar persoane,58
+ 120478 CHIBED,10-14 ani, Masculin, Mures, Anul 2013, Numar persoane,57
+ 120478 CHIBED,10-14 ani, Masculin, Mures, Anul 2014, Numar persoane,56
+ 120478 CHIBED,10-14 ani, Masculin, Mures, Anul 2015, Numar persoane,53
+ 120478 CHIBED,10-14 ani, Masculin, Mures, Anul 2016, Numar persoane,48
+ 120478 CHIBED,10-14 ani, Masculin, Mures, Anul 2017, Numar persoane,53
+ 120478 CHIBED,15-19 ani, Masculin, Mures, Anul 2006, Numar persoane,81
+ 120478 CHIBED,15-19 ani, Masculin, Mures, Anul 2007, Numar persoane,74
+ 120478 CHIBED,15-19 ani, Masculin, Mures, Anul 2008, Numar persoane,77
+ 120478 CHIBED,15-19 ani, Masculin, Mures, Anul 2009, Numar persoane,71
+ 120478 CHIBED,15-19 ani, Masculin, Mures, Anul 2010, Numar persoane,63
+ 120478 CHIBED,15-19 ani, Masculin, Mures, Anul 2011, Numar persoane,60
+ 120478 CHIBED,15-19 ani, Masculin, Mures, Anul 2012, Numar persoane,56
+ 120478 CHIBED,15-19 ani, Masculin, Mures, Anul 2013, Numar persoane,49
+ 120478 CHIBED,15-19 ani, Masculin, Mures, Anul 2014, Numar persoane,49
+ 120478 CHIBED,15-19 ani, Masculin, Mures, Anul 2015, Numar persoane,50
+ 120478 CHIBED,15-19 ani, Masculin, Mures, Anul 2016, Numar persoane,48
+ 120478 CHIBED,15-19 ani, Masculin, Mures, Anul 2017, Numar persoane,52
+ 120478 CHIBED,20-24 ani, Masculin, Mures, Anul 2006, Numar persoane,65
+ 120478 CHIBED,20-24 ani, Masculin, Mures, Anul 2007, Numar persoane,62
+ 120478 CHIBED,20-24 ani, Masculin, Mures, Anul 2008, Numar persoane,66
+ 120478 CHIBED,20-24 ani, Masculin, Mures, Anul 2009, Numar persoane,72
+ 120478 CHIBED,20-24 ani, Masculin, Mures, Anul 2010, Numar persoane,79
+ 120478 CHIBED,20-24 ani, Masculin, Mures, Anul 2011, Numar persoane,80
+ 120478 CHIBED,20-24 ani, Masculin, Mures, Anul 2012, Numar persoane,75
+ 120478 CHIBED,20-24 ani, Masculin, Mures, Anul 2013, Numar persoane,78
+ 120478 CHIBED,20-24 ani, Masculin, Mures, Anul 2014, Numar persoane,71
+ 120478 CHIBED,20-24 ani, Masculin, Mures, Anul 2015, Numar persoane,62
+ 120478 CHIBED,20-24 ani, Masculin, Mures, Anul 2016, Numar persoane,60
+ 120478 CHIBED,20-24 ani, Masculin, Mures, Anul 2017, Numar persoane,54
+ 120478 CHIBED,25-29 ani, Masculin, Mures, Anul 2006, Numar persoane,78
+ 120478 CHIBED,25-29 ani, Masculin, Mures, Anul 2007, Numar persoane,69
+ 120478 CHIBED,25-29 ani, Masculin, Mures, Anul 2008, Numar persoane,66
+ 120478 CHIBED,25-29 ani, Masculin, Mures, Anul 2009, Numar persoane,66
+ 120478 CHIBED,25-29 ani, Masculin, Mures, Anul 2010, Numar persoane,64
+ 120478 CHIBED,25-29 ani, Masculin, Mures, Anul 2011, Numar persoane,62
+ 120478 CHIBED,25-29 ani, Masculin, Mures, Anul 2012, Numar persoane,64
+ 120478 CHIBED,25-29 ani, Masculin, Mures, Anul 2013, Numar persoane,66
+ 120478 CHIBED,25-29 ani, Masculin, Mures, Anul 2014, Numar persoane,73
+ 120478 CHIBED,25-29 ani, Masculin, Mures, Anul 2015, Numar persoane,77
+ 120478 CHIBED,25-29 ani, Masculin, Mures, Anul 2016, Numar persoane,77
+ 120478 CHIBED,25-29 ani, Masculin, Mures, Anul 2017, Numar persoane,74
+ 120478 CHIBED,30-34 ani, Masculin, Mures, Anul 2006, Numar persoane,81
+ 120478 CHIBED,30-34 ani, Masculin, Mures, Anul 2007, Numar persoane,85
+ 120478 CHIBED,30-34 ani, Masculin, Mures, Anul 2008, Numar persoane,85
+ 120478 CHIBED,30-34 ani, Masculin, Mures, Anul 2009, Numar persoane,81
+ 120478 CHIBED,30-34 ani, Masculin, Mures, Anul 2010, Numar persoane,78
+ 120478 CHIBED,30-34 ani, Masculin, Mures, Anul 2011, Numar persoane,75
+ 120478 CHIBED,30-34 ani, Masculin, Mures, Anul 2012, Numar persoane,65
+ 120478 CHIBED,30-34 ani, Masculin, Mures, Anul 2013, Numar persoane,64
+ 120478 CHIBED,30-34 ani, Masculin, Mures, Anul 2014, Numar persoane,63
+ 120478 CHIBED,30-34 ani, Masculin, Mures, Anul 2015, Numar persoane,59
+ 120478 CHIBED,30-34 ani, Masculin, Mures, Anul 2016, Numar persoane,62
+ 120478 CHIBED,30-34 ani, Masculin, Mures, Anul 2017, Numar persoane,61
+ 120478 CHIBED,35-39 ani, Masculin, Mures, Anul 2006, Numar persoane,71
+ 120478 CHIBED,35-39 ani, Masculin, Mures, Anul 2007, Numar persoane,75
+ 120478 CHIBED,35-39 ani, Masculin, Mures, Anul 2008, Numar persoane,73
+ 120478 CHIBED,35-39 ani, Masculin, Mures, Anul 2009, Numar persoane,74
+ 120478 CHIBED,35-39 ani, Masculin, Mures, Anul 2010, Numar persoane,82
+ 120478 CHIBED,35-39 ani, Masculin, Mures, Anul 2011, Numar persoane,82
+ 120478 CHIBED,35-39 ani, Masculin, Mures, Anul 2012, Numar persoane,86
+ 120478 CHIBED,35-39 ani, Masculin, Mures, Anul 2013, Numar persoane,83
+ 120478 CHIBED,35-39 ani, Masculin, Mures, Anul 2014, Numar persoane,78
+ 120478 CHIBED,35-39 ani, Masculin, Mures, Anul 2015, Numar persoane,73
+ 120478 CHIBED,35-39 ani, Masculin, Mures, Anul 2016, Numar persoane,69
+ 120478 CHIBED,35-39 ani, Masculin, Mures, Anul 2017, Numar persoane,63
+ 120478 CHIBED,40-44 ani, Masculin, Mures, Anul 2006, Numar persoane,37
+ 120478 CHIBED,40-44 ani, Masculin, Mures, Anul 2007, Numar persoane,47
+ 120478 CHIBED,40-44 ani, Masculin, Mures, Anul 2008, Numar persoane,53
+ 120478 CHIBED,40-44 ani, Masculin, Mures, Anul 2009, Numar persoane,60
+ 120478 CHIBED,40-44 ani, Masculin, Mures, Anul 2010, Numar persoane,61
+ 120478 CHIBED,40-44 ani, Masculin, Mures, Anul 2011, Numar persoane,72
+ 120478 CHIBED,40-44 ani, Masculin, Mures, Anul 2012, Numar persoane,76
+ 120478 CHIBED,40-44 ani, Masculin, Mures, Anul 2013, Numar persoane,74
+ 120478 CHIBED,40-44 ani, Masculin, Mures, Anul 2014, Numar persoane,76
+ 120478 CHIBED,40-44 ani, Masculin, Mures, Anul 2015, Numar persoane,86
+ 120478 CHIBED,40-44 ani, Masculin, Mures, Anul 2016, Numar persoane,86
+ 120478 CHIBED,40-44 ani, Masculin, Mures, Anul 2017, Numar persoane,89
+ 120478 CHIBED,45-49 ani, Masculin, Mures, Anul 2006, Numar persoane,51
+ 120478 CHIBED,45-49 ani, Masculin, Mures, Anul 2007, Numar persoane,47
+ 120478 CHIBED,45-49 ani, Masculin, Mures, Anul 2008, Numar persoane,43
+ 120478 CHIBED,45-49 ani, Masculin, Mures, Anul 2009, Numar persoane,37
+ 120478 CHIBED,45-49 ani, Masculin, Mures, Anul 2010, Numar persoane,38
+ 120478 CHIBED,45-49 ani, Masculin, Mures, Anul 2011, Numar persoane,36
+ 120478 CHIBED,45-49 ani, Masculin, Mures, Anul 2012, Numar persoane,45
+ 120478 CHIBED,45-49 ani, Masculin, Mures, Anul 2013, Numar persoane,53
+ 120478 CHIBED,45-49 ani, Masculin, Mures, Anul 2014, Numar persoane,60
+ 120478 CHIBED,45-49 ani, Masculin, Mures, Anul 2015, Numar persoane,58
+ 120478 CHIBED,45-49 ani, Masculin, Mures, Anul 2016, Numar persoane,69
+ 120478 CHIBED,45-49 ani, Masculin, Mures, Anul 2017, Numar persoane,76
+ 120478 CHIBED,50-54 ani, Masculin, Mures, Anul 2006, Numar persoane,51
+ 120478 CHIBED,50-54 ani, Masculin, Mures, Anul 2007, Numar persoane,50
+ 120478 CHIBED,50-54 ani, Masculin, Mures, Anul 2008, Numar persoane,54
+ 120478 CHIBED,50-54 ani, Masculin, Mures, Anul 2009, Numar persoane,57
+ 120478 CHIBED,50-54 ani, Masculin, Mures, Anul 2010, Numar persoane,52
+ 120478 CHIBED,50-54 ani, Masculin, Mures, Anul 2011, Numar persoane,47
+ 120478 CHIBED,50-54 ani, Masculin, Mures, Anul 2012, Numar persoane,44
+ 120478 CHIBED,50-54 ani, Masculin, Mures, Anul 2013, Numar persoane,39
+ 120478 CHIBED,50-54 ani, Masculin, Mures, Anul 2014, Numar persoane,37
+ 120478 CHIBED,50-54 ani, Masculin, Mures, Anul 2015, Numar persoane,36
+ 120478 CHIBED,50-54 ani, Masculin, Mures, Anul 2016, Numar persoane,33
+ 120478 CHIBED,50-54 ani, Masculin, Mures, Anul 2017, Numar persoane,41
+ 120478 CHIBED,55-59 ani, Masculin, Mures, Anul 2006, Numar persoane,45
+ 120478 CHIBED,55-59 ani, Masculin, Mures, Anul 2007, Numar persoane,40
+ 120478 CHIBED,55-59 ani, Masculin, Mures, Anul 2008, Numar persoane,33
+ 120478 CHIBED,55-59 ani, Masculin, Mures, Anul 2009, Numar persoane,37
+ 120478 CHIBED,55-59 ani, Masculin, Mures, Anul 2010, Numar persoane,43
+ 120478 CHIBED,55-59 ani, Masculin, Mures, Anul 2011, Numar persoane,49
+ 120478 CHIBED,55-59 ani, Masculin, Mures, Anul 2012, Numar persoane,49
+ 120478 CHIBED,55-59 ani, Masculin, Mures, Anul 2013, Numar persoane,55
+ 120478 CHIBED,55-59 ani, Masculin, Mures, Anul 2014, Numar persoane,56
+ 120478 CHIBED,55-59 ani, Masculin, Mures, Anul 2015, Numar persoane,49
+ 120478 CHIBED,55-59 ani, Masculin, Mures, Anul 2016, Numar persoane,44
+ 120478 CHIBED,55-59 ani, Masculin, Mures, Anul 2017, Numar persoane,41
+ 120478 CHIBED,60-64 ani, Masculin, Mures, Anul 2006, Numar persoane,41
+ 120478 CHIBED,60-64 ani, Masculin, Mures, Anul 2007, Numar persoane,46
+ 120478 CHIBED,60-64 ani, Masculin, Mures, Anul 2008, Numar persoane,50
+ 120478 CHIBED,60-64 ani, Masculin, Mures, Anul 2009, Numar persoane,47
+ 120478 CHIBED,60-64 ani, Masculin, Mures, Anul 2010, Numar persoane,48
+ 120478 CHIBED,60-64 ani, Masculin, Mures, Anul 2011, Numar persoane,43
+ 120478 CHIBED,60-64 ani, Masculin, Mures, Anul 2012, Numar persoane,36
+ 120478 CHIBED,60-64 ani, Masculin, Mures, Anul 2013, Numar persoane,29
+ 120478 CHIBED,60-64 ani, Masculin, Mures, Anul 2014, Numar persoane,31
+ 120478 CHIBED,60-64 ani, Masculin, Mures, Anul 2015, Numar persoane,38
+ 120478 CHIBED,60-64 ani, Masculin, Mures, Anul 2016, Numar persoane,44
+ 120478 CHIBED,60-64 ani, Masculin, Mures, Anul 2017, Numar persoane,42
+ 120478 CHIBED,65-69 ani, Masculin, Mures, Anul 2006, Numar persoane,39
+ 120478 CHIBED,65-69 ani, Masculin, Mures, Anul 2007, Numar persoane,38
+ 120478 CHIBED,65-69 ani, Masculin, Mures, Anul 2008, Numar persoane,35
+ 120478 CHIBED,65-69 ani, Masculin, Mures, Anul 2009, Numar persoane,36
+ 120478 CHIBED,65-69 ani, Masculin, Mures, Anul 2010, Numar persoane,30
+ 120478 CHIBED,65-69 ani, Masculin, Mures, Anul 2011, Numar persoane,34
+ 120478 CHIBED,65-69 ani, Masculin, Mures, Anul 2012, Numar persoane,37
+ 120478 CHIBED,65-69 ani, Masculin, Mures, Anul 2013, Numar persoane,43
+ 120478 CHIBED,65-69 ani, Masculin, Mures, Anul 2014, Numar persoane,39
+ 120478 CHIBED,65-69 ani, Masculin, Mures, Anul 2015, Numar persoane,38
+ 120478 CHIBED,65-69 ani, Masculin, Mures, Anul 2016, Numar persoane,30
+ 120478 CHIBED,65-69 ani, Masculin, Mures, Anul 2017, Numar persoane,29
+ 120478 CHIBED,70-74 ani, Masculin, Mures, Anul 2006, Numar persoane,32
+ 120478 CHIBED,70-74 ani, Masculin, Mures, Anul 2007, Numar persoane,31
+ 120478 CHIBED,70-74 ani, Masculin, Mures, Anul 2008, Numar persoane,37
+ 120478 CHIBED,70-74 ani, Masculin, Mures, Anul 2009, Numar persoane,34
+ 120478 CHIBED,70-74 ani, Masculin, Mures, Anul 2010, Numar persoane,37
+ 120478 CHIBED,70-74 ani, Masculin, Mures, Anul 2011, Numar persoane,33
+ 120478 CHIBED,70-74 ani, Masculin, Mures, Anul 2012, Numar persoane,28
+ 120478 CHIBED,70-74 ani, Masculin, Mures, Anul 2013, Numar persoane,24
+ 120478 CHIBED,70-74 ani, Masculin, Mures, Anul 2014, Numar persoane,28
+ 120478 CHIBED,70-74 ani, Masculin, Mures, Anul 2015, Numar persoane,25
+ 120478 CHIBED,70-74 ani, Masculin, Mures, Anul 2016, Numar persoane,27
+ 120478 CHIBED,70-74 ani, Masculin, Mures, Anul 2017, Numar persoane,31
+ 120478 CHIBED,75-79 ani, Masculin, Mures, Anul 2006, Numar persoane,26
+ 120478 CHIBED,75-79 ani, Masculin, Mures, Anul 2007, Numar persoane,24
+ 120478 CHIBED,75-79 ani, Masculin, Mures, Anul 2008, Numar persoane,22
+ 120478 CHIBED,75-79 ani, Masculin, Mures, Anul 2009, Numar persoane,22
+ 120478 CHIBED,75-79 ani, Masculin, Mures, Anul 2010, Numar persoane,22
+ 120478 CHIBED,75-79 ani, Masculin, Mures, Anul 2011, Numar persoane,23
+ 120478 CHIBED,75-79 ani, Masculin, Mures, Anul 2012, Numar persoane,27
+ 120478 CHIBED,75-79 ani, Masculin, Mures, Anul 2013, Numar persoane,32
+ 120478 CHIBED,75-79 ani, Masculin, Mures, Anul 2014, Numar persoane,30
+ 120478 CHIBED,75-79 ani, Masculin, Mures, Anul 2015, Numar persoane,33
+ 120478 CHIBED,75-79 ani, Masculin, Mures, Anul 2016, Numar persoane,25
+ 120478 CHIBED,75-79 ani, Masculin, Mures, Anul 2017, Numar persoane,21
+ 120478 CHIBED,80-84 ani, Masculin, Mures, Anul 2006, Numar persoane,22
+ 120478 CHIBED,80-84 ani, Masculin, Mures, Anul 2007, Numar persoane,21
+ 120478 CHIBED,80-84 ani, Masculin, Mures, Anul 2008, Numar persoane,21
+ 120478 CHIBED,80-84 ani, Masculin, Mures, Anul 2009, Numar persoane,19
+ 120478 CHIBED,80-84 ani, Masculin, Mures, Anul 2010, Numar persoane,14
+ 120478 CHIBED,80-84 ani, Masculin, Mures, Anul 2011, Numar persoane,12
+ 120478 CHIBED,80-84 ani, Masculin, Mures, Anul 2012, Numar persoane,12
+ 120478 CHIBED,80-84 ani, Masculin, Mures, Anul 2013, Numar persoane,9
+ 120478 CHIBED,80-84 ani, Masculin, Mures, Anul 2014, Numar persoane,10
+ 120478 CHIBED,80-84 ani, Masculin, Mures, Anul 2015, Numar persoane,13
+ 120478 CHIBED,80-84 ani, Masculin, Mures, Anul 2016, Numar persoane,17
+ 120478 CHIBED,80-84 ani, Masculin, Mures, Anul 2017, Numar persoane,18
+ 120478 CHIBED,85 ani si peste, Masculin, Mures, Anul 2006, Numar persoane,13
+ 120478 CHIBED,85 ani si peste, Masculin, Mures, Anul 2007, Numar persoane,12
+ 120478 CHIBED,85 ani si peste, Masculin, Mures, Anul 2008, Numar persoane,13
+ 120478 CHIBED,85 ani si peste, Masculin, Mures, Anul 2009, Numar persoane,13
+ 120478 CHIBED,85 ani si peste, Masculin, Mures, Anul 2010, Numar persoane,16
+ 120478 CHIBED,85 ani si peste, Masculin, Mures, Anul 2011, Numar persoane,13
+ 120478 CHIBED,85 ani si peste, Masculin, Mures, Anul 2012, Numar persoane,11
+ 120478 CHIBED,85 ani si peste, Masculin, Mures, Anul 2013, Numar persoane,11
+ 120478 CHIBED,85 ani si peste, Masculin, Mures, Anul 2014, Numar persoane,10
+ 120478 CHIBED,85 ani si peste, Masculin, Mures, Anul 2015, Numar persoane,9
+ 120478 CHIBED,85 ani si peste, Masculin, Mures, Anul 2016, Numar persoane,9
+ 120478 CHIBED,85 ani si peste, Masculin, Mures, Anul 2017, Numar persoane,8

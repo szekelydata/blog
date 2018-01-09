@@ -1,0 +1,936 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 1992, Numar persoane,87
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 1993, Numar persoane,95
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 1994, Numar persoane,103
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 1995, Numar persoane,112
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 1996, Numar persoane,99
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 1997, Numar persoane,97
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 1998, Numar persoane,83
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 1992, Numar persoane,73
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 1993, Numar persoane,78
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 1994, Numar persoane,80
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 1995, Numar persoane,77
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 1996, Numar persoane,76
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 1997, Numar persoane,75
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 1998, Numar persoane,72
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 1992, Numar persoane,75
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 1993, Numar persoane,74
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 1994, Numar persoane,83
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 1995, Numar persoane,85
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 1996, Numar persoane,89
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 1997, Numar persoane,94
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 1998, Numar persoane,99
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 1992, Numar persoane,65
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 1993, Numar persoane,72
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 1994, Numar persoane,78
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 1995, Numar persoane,86
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 1996, Numar persoane,83
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 1997, Numar persoane,81
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 1998, Numar persoane,75
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 1992, Numar persoane,60
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 1993, Numar persoane,65
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 1994, Numar persoane,65
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 1995, Numar persoane,72
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 1996, Numar persoane,80
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 1997, Numar persoane,79
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 1998, Numar persoane,79
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 1992, Numar persoane,74
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 1993, Numar persoane,63
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 1994, Numar persoane,63
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 1995, Numar persoane,64
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 1996, Numar persoane,69
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 1997, Numar persoane,70
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 1998, Numar persoane,77
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 1992, Numar persoane,77
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 1993, Numar persoane,74
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 1994, Numar persoane,82
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 1995, Numar persoane,65
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 1996, Numar persoane,61
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 1997, Numar persoane,68
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 1998, Numar persoane,72
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 1992, Numar persoane,77
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 1993, Numar persoane,84
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 1994, Numar persoane,99
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 1995, Numar persoane,87
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 1996, Numar persoane,81
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 1997, Numar persoane,75
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 1998, Numar persoane,67
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 1992, Numar persoane,64
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 1993, Numar persoane,70
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 1994, Numar persoane,78
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 1995, Numar persoane,86
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 1996, Numar persoane,84
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 1997, Numar persoane,82
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 1998, Numar persoane,79
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 1992, Numar persoane,54
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 1993, Numar persoane,65
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 1994, Numar persoane,57
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 1995, Numar persoane,70
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 1996, Numar persoane,81
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 1997, Numar persoane,80
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 1998, Numar persoane,85
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 1992, Numar persoane,40
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 1993, Numar persoane,48
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 1994, Numar persoane,44
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 1995, Numar persoane,54
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 1996, Numar persoane,67
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 1997, Numar persoane,75
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 1998, Numar persoane,83
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 1992, Numar persoane,41
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 1993, Numar persoane,39
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 1994, Numar persoane,48
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 1995, Numar persoane,54
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 1996, Numar persoane,50
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 1997, Numar persoane,59
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 1998, Numar persoane,66
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 1992, Numar persoane,52
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 1993, Numar persoane,47
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 1994, Numar persoane,57
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 1995, Numar persoane,55
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 1996, Numar persoane,54
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 1997, Numar persoane,44
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 1998, Numar persoane,50
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 1992, Numar persoane,40
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 1993, Numar persoane,43
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 1994, Numar persoane,42
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 1995, Numar persoane,45
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 1996, Numar persoane,45
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 1997, Numar persoane,49
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 1998, Numar persoane,46
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 1992, Numar persoane,41
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 1993, Numar persoane,44
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 1994, Numar persoane,46
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 1995, Numar persoane,45
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 1996, Numar persoane,46
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 1997, Numar persoane,50
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 1998, Numar persoane,49
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 1992, Numar persoane,36
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 1993, Numar persoane,37
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 1994, Numar persoane,39
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 1995, Numar persoane,38
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 1996, Numar persoane,41
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 1997, Numar persoane,43
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 1998, Numar persoane,48
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 1992, Numar persoane,37
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 1993, Numar persoane,38
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 1994, Numar persoane,35
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 1995, Numar persoane,34
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 1996, Numar persoane,36
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 1997, Numar persoane,41
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 1998, Numar persoane,43
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 1992, Numar persoane,30
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 1993, Numar persoane,35
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 1994, Numar persoane,39
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 1995, Numar persoane,38
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 1996, Numar persoane,41
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 1997, Numar persoane,37
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 1998, Numar persoane,36
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 1992, Numar persoane,17
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 1993, Numar persoane,20
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 1994, Numar persoane,23
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 1995, Numar persoane,30
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 1996, Numar persoane,32
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 1997, Numar persoane,33
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 1998, Numar persoane,34
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 1992, Numar persoane,41
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 1993, Numar persoane,37
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 1994, Numar persoane,30
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 1995, Numar persoane,25
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 1996, Numar persoane,27
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 1997, Numar persoane,31
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 1998, Numar persoane,35
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 1992, Numar persoane,49
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 1993, Numar persoane,41
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 1994, Numar persoane,31
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 1995, Numar persoane,24
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 1996, Numar persoane,16
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 1997, Numar persoane,17
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 1998, Numar persoane,15
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 1992, Numar persoane,50
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 1993, Numar persoane,54
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 1994, Numar persoane,52
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 1995, Numar persoane,54
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 1996, Numar persoane,49
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 1997, Numar persoane,42
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 1998, Numar persoane,37
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 1992, Numar persoane,52
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 1993, Numar persoane,53
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 1994, Numar persoane,59
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 1995, Numar persoane,54
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 1996, Numar persoane,50
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 1997, Numar persoane,46
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 1998, Numar persoane,40
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 1992, Numar persoane,42
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 1993, Numar persoane,41
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 1994, Numar persoane,52
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 1995, Numar persoane,54
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 1996, Numar persoane,53
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 1997, Numar persoane,52
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 1998, Numar persoane,53
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 1992, Numar persoane,43
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 1993, Numar persoane,42
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 1994, Numar persoane,43
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 1995, Numar persoane,44
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 1996, Numar persoane,45
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 1997, Numar persoane,44
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 1998, Numar persoane,46
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 1992, Numar persoane,57
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 1993, Numar persoane,52
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 1994, Numar persoane,43
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 1995, Numar persoane,36
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 1996, Numar persoane,32
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 1997, Numar persoane,40
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 1998, Numar persoane,40
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 1992, Numar persoane,45
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 1993, Numar persoane,42
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 1994, Numar persoane,42
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 1995, Numar persoane,37
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 1996, Numar persoane,36
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 1997, Numar persoane,33
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 1998, Numar persoane,33
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 1992, Numar persoane,54
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 1993, Numar persoane,52
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 1994, Numar persoane,54
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 1995, Numar persoane,50
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 1996, Numar persoane,50
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 1997, Numar persoane,46
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 1998, Numar persoane,44
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 1992, Numar persoane,25
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 1993, Numar persoane,31
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 1994, Numar persoane,30
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 1995, Numar persoane,32
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 1996, Numar persoane,33
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 1997, Numar persoane,39
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 1998, Numar persoane,31
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 1992, Numar persoane,28
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 1993, Numar persoane,37
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 1994, Numar persoane,42
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 1995, Numar persoane,45
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 1996, Numar persoane,48
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 1997, Numar persoane,45
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 1998, Numar persoane,42
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 1992, Numar persoane,16
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 1993, Numar persoane,14
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 1994, Numar persoane,11
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 1995, Numar persoane,10
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 1996, Numar persoane,13
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 1997, Numar persoane,13
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 1998, Numar persoane,19
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 1992, Numar persoane,13
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 1993, Numar persoane,11
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 1994, Numar persoane,11
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 1995, Numar persoane,14
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 1996, Numar persoane,19
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 1997, Numar persoane,23
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 1998, Numar persoane,28
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 1992, Numar persoane,14
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 1993, Numar persoane,14
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 1994, Numar persoane,9
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 1995, Numar persoane,12
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 1996, Numar persoane,9
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 1997, Numar persoane,7
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 1998, Numar persoane,6
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 1992, Numar persoane,20
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 1993, Numar persoane,20
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 1994, Numar persoane,15
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 1995, Numar persoane,8
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 1996, Numar persoane,5
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 1997, Numar persoane,4
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 1998, Numar persoane,5
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 1992, Numar persoane,3
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 1993, Numar persoane,3
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 1994, Numar persoane,5
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 1995, Numar persoane,4
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 1996, Numar persoane,6
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 1997, Numar persoane,4
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 1998, Numar persoane,4
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 1992, Numar persoane,3
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 1993, Numar persoane,3
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 1994, Numar persoane,5
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 1995, Numar persoane,7
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 1996, Numar persoane,8
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 1997, Numar persoane,8
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 1998, Numar persoane,4
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 1999, Numar persoane,82
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2000, Numar persoane,84
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2001, Numar persoane,88
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2002, Numar persoane,87
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2003, Numar persoane,89
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2004, Numar persoane,89
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,78
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,78
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 1999, Numar persoane,70
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2000, Numar persoane,71
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2001, Numar persoane,79
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2002, Numar persoane,80
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2003, Numar persoane,86
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2004, Numar persoane,86
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,85
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,85
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 1999, Numar persoane,103
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2000, Numar persoane,109
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2001, Numar persoane,99
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2002, Numar persoane,100
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2003, Numar persoane,86
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2004, Numar persoane,82
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,86
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,87
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 1999, Numar persoane,80
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2000, Numar persoane,76
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2001, Numar persoane,74
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2002, Numar persoane,72
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2003, Numar persoane,68
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2004, Numar persoane,68
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,68
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,77
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 1999, Numar persoane,82
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2000, Numar persoane,84
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2001, Numar persoane,87
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2002, Numar persoane,95
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2003, Numar persoane,101
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2004, Numar persoane,109
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,108
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,100
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 1999, Numar persoane,80
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2000, Numar persoane,86
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2001, Numar persoane,79
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2002, Numar persoane,79
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2003, Numar persoane,75
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2004, Numar persoane,75
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,74
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,74
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 1999, Numar persoane,68
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2000, Numar persoane,71
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2001, Numar persoane,77
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2002, Numar persoane,76
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2003, Numar persoane,79
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2004, Numar persoane,83
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,82
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,92
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 1999, Numar persoane,62
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2000, Numar persoane,64
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2001, Numar persoane,67
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2002, Numar persoane,69
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2003, Numar persoane,79
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2004, Numar persoane,84
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,88
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,84
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 1999, Numar persoane,83
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2000, Numar persoane,72
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2001, Numar persoane,66
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2002, Numar persoane,73
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2003, Numar persoane,77
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2004, Numar persoane,71
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,68
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,71
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 1999, Numar persoane,101
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2000, Numar persoane,85
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2001, Numar persoane,78
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2002, Numar persoane,74
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2003, Numar persoane,64
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2004, Numar persoane,58
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,62
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,69
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 1999, Numar persoane,89
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2000, Numar persoane,90
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2001, Numar persoane,79
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2002, Numar persoane,79
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2003, Numar persoane,79
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2004, Numar persoane,86
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,76
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,77
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 1999, Numar persoane,56
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2000, Numar persoane,73
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2001, Numar persoane,84
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2002, Numar persoane,82
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2003, Numar persoane,80
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2004, Numar persoane,95
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,80
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,76
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 1999, Numar persoane,48
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2000, Numar persoane,57
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2001, Numar persoane,74
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2002, Numar persoane,78
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2003, Numar persoane,86
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2004, Numar persoane,81
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,92
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,84
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 1999, Numar persoane,52
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2000, Numar persoane,49
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2001, Numar persoane,51
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2002, Numar persoane,59
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2003, Numar persoane,64
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2004, Numar persoane,56
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,70
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,78
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 1999, Numar persoane,57
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2000, Numar persoane,59
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2001, Numar persoane,58
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2002, Numar persoane,50
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2003, Numar persoane,49
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2004, Numar persoane,50
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,59
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,70
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 1999, Numar persoane,44
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2000, Numar persoane,51
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2001, Numar persoane,48
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2002, Numar persoane,45
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2003, Numar persoane,47
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2004, Numar persoane,52
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,52
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,52
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 1999, Numar persoane,45
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2000, Numar persoane,42
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2001, Numar persoane,47
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2002, Numar persoane,54
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2003, Numar persoane,54
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2004, Numar persoane,59
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,60
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,56
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 1999, Numar persoane,41
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2000, Numar persoane,40
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2001, Numar persoane,44
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2002, Numar persoane,49
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2003, Numar persoane,47
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2004, Numar persoane,44
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,52
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,51
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 1999, Numar persoane,33
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2000, Numar persoane,31
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2001, Numar persoane,32
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2002, Numar persoane,38
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2003, Numar persoane,41
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2004, Numar persoane,46
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,45
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,53
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 1999, Numar persoane,41
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2000, Numar persoane,40
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2001, Numar persoane,41
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2002, Numar persoane,37
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2003, Numar persoane,40
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2004, Numar persoane,45
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,42
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,45
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 1999, Numar persoane,21
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2000, Numar persoane,31
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2001, Numar persoane,32
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2002, Numar persoane,32
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2003, Numar persoane,34
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2004, Numar persoane,34
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,31
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,35
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 1999, Numar persoane,30
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2000, Numar persoane,26
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2001, Numar persoane,27
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2002, Numar persoane,32
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2003, Numar persoane,36
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2004, Numar persoane,42
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,42
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,45
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 1999, Numar persoane,29
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2000, Numar persoane,21
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2001, Numar persoane,16
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2002, Numar persoane,16
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2003, Numar persoane,14
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2004, Numar persoane,17
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,28
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,28
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 1999, Numar persoane,51
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2000, Numar persoane,55
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2001, Numar persoane,48
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2002, Numar persoane,40
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2003, Numar persoane,36
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2004, Numar persoane,30
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,27
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,25
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 1999, Numar persoane,51
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2000, Numar persoane,47
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2001, Numar persoane,44
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2002, Numar persoane,39
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2003, Numar persoane,37
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2004, Numar persoane,30
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,23
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,18
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 1999, Numar persoane,48
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2000, Numar persoane,47
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2001, Numar persoane,49
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2002, Numar persoane,50
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2003, Numar persoane,53
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2004, Numar persoane,50
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,52
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,48
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 1999, Numar persoane,35
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2000, Numar persoane,39
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2001, Numar persoane,41
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2002, Numar persoane,39
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2003, Numar persoane,38
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2004, Numar persoane,43
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,38
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,36
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 1999, Numar persoane,39
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2000, Numar persoane,35
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2001, Numar persoane,33
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2002, Numar persoane,38
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2003, Numar persoane,36
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2004, Numar persoane,45
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,46
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,45
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 1999, Numar persoane,30
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2000, Numar persoane,26
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2001, Numar persoane,24
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2002, Numar persoane,22
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2003, Numar persoane,26
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2004, Numar persoane,23
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,25
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,25
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 1999, Numar persoane,40
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2000, Numar persoane,38
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2001, Numar persoane,39
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2002, Numar persoane,38
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2003, Numar persoane,41
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2004, Numar persoane,36
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,33
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,29
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 1999, Numar persoane,20
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2000, Numar persoane,23
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2001, Numar persoane,25
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2002, Numar persoane,29
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2003, Numar persoane,18
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2004, Numar persoane,20
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,13
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,15
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 1999, Numar persoane,32
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2000, Numar persoane,36
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2001, Numar persoane,35
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2002, Numar persoane,31
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2003, Numar persoane,25
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2004, Numar persoane,25
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,28
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,30
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 1999, Numar persoane,6
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2000, Numar persoane,8
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2001, Numar persoane,5
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2002, Numar persoane,7
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2003, Numar persoane,14
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2004, Numar persoane,15
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,14
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,15
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 1999, Numar persoane,6
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2000, Numar persoane,5
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2001, Numar persoane,8
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2002, Numar persoane,13
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2003, Numar persoane,17
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2004, Numar persoane,21
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,20
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,21
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 1999, Numar persoane,5
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2000, Numar persoane,7
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2001, Numar persoane,5
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2002, Numar persoane,2
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2004, Numar persoane,1
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,4
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,3
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 1999, Numar persoane,3
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2000, Numar persoane,3
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2001, Numar persoane,2
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2002, Numar persoane,1
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2003, Numar persoane,2
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2004, Numar persoane,2
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,4
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,4
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,75
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,71
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,68
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,71
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,72
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,79
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,86
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,85
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,79
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,84
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,81
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,74
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,85
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,88
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,88
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,76
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,76
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,76
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,80
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,85
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,86
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,87
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,86
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,89
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,96
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,84
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,82
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,85
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,89
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,89
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,70
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,70
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,66
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,65
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,77
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,83
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,100
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,106
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,107
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,112
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,104
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,96
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,84
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,78
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,79
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,83
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,85
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,79
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,71
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,77
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,85
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,85
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,96
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,109
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,69
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,81
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,83
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,88
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,75
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,80
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,79
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,80
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,74
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,75
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,78
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,74
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,73
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,66
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,63
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,61
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,66
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,70
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,88
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,89
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,99
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,88
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,87
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,87
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,73
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,76
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,89
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,80
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,75
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,75
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,71
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,80
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,80
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,93
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,87
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,93
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,59
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,60
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,51
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,63
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,73
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,75
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,48
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,53
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,48
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,56
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,65
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,73
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,51
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,49
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,51
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,50
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,54
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,63
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,56
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,57
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,65
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,60
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,59
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,50
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,48
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,48
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,45
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,52
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,51
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,50
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,43
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,48
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,49
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,50
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,58
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,60
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,40
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,38
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,42
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,38
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,40
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,43
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,27
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,33
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,35
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,32
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,35
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,40
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,33
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,39
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,44
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,43
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,45
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,41
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,18
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,16
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,17
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,26
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,26
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,30
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,40
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,37
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,30
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,27
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,26
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,32
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,31
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,26
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,23
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,20
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,18
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,20
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,45
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,48
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,46
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,49
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,47
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,40
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,27
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,30
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,29
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,22
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,24
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,23
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,31
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,30
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,40
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,42
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,38
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,39
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,14
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,17
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,16
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,18
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,21
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,19
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,31
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,34
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,28
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,23
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,28
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,29
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,16
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,10
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,11
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,8
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,6
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,6
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,17
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,12
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,14
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,20
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,21
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,23
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,4
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,8
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,9
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,12
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,12
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,12
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,6
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,11
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,13
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,10
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,10
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,13
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,87
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,81
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,73
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,68
+ 158804 STIUCA,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,62
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,71
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,75
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,63
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,55
+ 158804 STIUCA,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,52
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,73
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,73
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,78
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,75
+ 158804 STIUCA,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,81
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,89
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,87
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,91
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,85
+ 158804 STIUCA,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,78
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,93
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,96
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,83
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,85
+ 158804 STIUCA,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,83
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,88
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,86
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,90
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,92
+ 158804 STIUCA,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,95
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,85
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,87
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,90
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,94
+ 158804 STIUCA,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,92
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,76
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,75
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,72
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,86
+ 158804 STIUCA,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,95
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,117
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,113
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,115
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,101
+ 158804 STIUCA,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,99
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,89
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,99
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,94
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,94
+ 158804 STIUCA,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,85
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,83
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,92
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,90
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,97
+ 158804 STIUCA,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,110
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,74
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,74
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,83
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,86
+ 158804 STIUCA,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,91
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,84
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,79
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,81
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,82
+ 158804 STIUCA,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,73
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,70
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,71
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,69
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,68
+ 158804 STIUCA,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,71
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,91
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,98
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,88
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,93
+ 158804 STIUCA,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,94
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,82
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,95
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,83
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,78
+ 158804 STIUCA,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,83
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,84
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,81
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,91
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,87
+ 158804 STIUCA,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,94
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,64
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,57
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,66
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,76
+ 158804 STIUCA,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,77
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,53
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,55
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,63
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,70
+ 158804 STIUCA,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,79
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,48
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,54
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,56
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,57
+ 158804 STIUCA,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,66
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,57
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,64
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,57
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,58
+ 158804 STIUCA,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,52
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,48
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,44
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,54
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,51
+ 158804 STIUCA,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,50
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,45
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,48
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,50
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,57
+ 158804 STIUCA,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,59
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,40
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,40
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,39
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,43
+ 158804 STIUCA,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,48
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,31
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,31
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,31
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,34
+ 158804 STIUCA,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,40
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,39
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,43
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,43
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,47
+ 158804 STIUCA,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,44
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,18
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,19
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,24
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,23
+ 158804 STIUCA,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,25
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,36
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,31
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,27
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,25
+ 158804 STIUCA,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,31
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,22
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,19
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,16
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,16
+ 158804 STIUCA,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,16
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,42
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,37
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,41
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,39
+ 158804 STIUCA,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,32
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,19
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,20
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,18
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,17
+ 158804 STIUCA,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,20
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,26
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,35
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,35
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,31
+ 158804 STIUCA,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,33
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,9
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,9
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,12
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,13
+ 158804 STIUCA,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,12
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,25
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,19
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,21
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,19
+ 158804 STIUCA,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,16
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,10
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,10
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,10
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,8
+ 158804 STIUCA,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,9
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,13
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,13
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,14
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,15
+ 158804 STIUCA,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,17

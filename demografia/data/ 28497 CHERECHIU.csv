@@ -1,0 +1,936 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,108
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,102
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,90
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,90
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,94
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,91
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,84
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,86
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,105
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,106
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,98
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,104
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,105
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,100
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,92
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,94
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,92
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,103
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,113
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,111
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,104
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,104
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,99
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,93
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,93
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,94
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,102
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,98
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,93
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,98
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,106
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,97
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,85
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,80
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,76
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,80
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,89
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,92
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,102
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,111
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,86
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,79
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,76
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,82
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,86
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,93
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,92
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,95
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,104
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,109
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,105
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,101
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,102
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,92
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,82
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,76
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,89
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,90
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,90
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,93
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,88
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,85
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,76
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,73
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,109
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,109
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,105
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,103
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,102
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,103
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,114
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,110
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,101
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,101
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,94
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,91
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,92
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,90
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,88
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,86
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,68
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,69
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,80
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,87
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,88
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,96
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,98
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,103
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,66
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,77
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,74
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,72
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,80
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,87
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,89
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,91
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,73
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,72
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,68
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,68
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,72
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,70
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,65
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,73
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,60
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,50
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,68
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,64
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,68
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,61
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,68
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,63
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,77
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,75
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,69
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,71
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,69
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,68
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,70
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,67
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,67
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,63
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,50
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,52
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,57
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,58
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,49
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,64
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,56
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,59
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,71
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,68
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,70
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,76
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,67
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,61
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,66
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,72
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,74
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,77
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,65
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,67
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,60
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,47
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,77
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,84
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,69
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,65
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,66
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,53
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,58
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,71
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,83
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,75
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,65
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,53
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,61
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,64
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,72
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,74
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,81
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,74
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,80
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,78
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,68
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,72
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,82
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,63
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,85
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,85
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,92
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,97
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,84
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,81
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,75
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,66
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,89
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,85
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,87
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,87
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,84
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,71
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,63
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,72
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,90
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,83
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,76
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,80
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,87
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,79
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,81
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,87
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,88
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,85
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,79
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,78
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,74
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,74
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,75
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,75
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,101
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,105
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,103
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,95
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,86
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,83
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,79
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,75
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,93
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,85
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,73
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,71
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,74
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,74
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,70
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,63
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,114
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,102
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,98
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,94
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,93
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,95
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,95
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,93
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,66
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,74
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,89
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,83
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,71
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,71
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,62
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,54
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,64
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,81
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,98
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,101
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,106
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,97
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,84
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,80
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,30
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,25
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,20
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,26
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,36
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,42
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,47
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,59
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,59
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,48
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,40
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,32
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,34
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,50
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,63
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,75
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,21
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,24
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,25
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,21
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,19
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,14
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,9
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,11
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,45
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,48
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,38
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,45
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,35
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,32
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,29
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,23
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,9
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,9
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,11
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,13
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,12
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,8
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,7
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,6
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,19
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,16
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,16
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,19
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,24
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,19
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,18
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,18
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,82
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,87
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,89
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,91
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,94
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,92
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,92
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,94
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,94
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,86
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,89
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,100
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,87
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,92
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,93
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,94
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,88
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,84
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,84
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,80
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,86
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,103
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,106
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,99
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,91
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,95
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,98
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,93
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,110
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,98
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,103
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,97
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,90
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,93
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,92
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,99
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,96
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,105
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,110
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,100
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,97
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,99
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,78
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,90
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,95
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,103
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,111
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,108
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,94
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,75
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,82
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,86
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,85
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,94
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,101
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,102
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,101
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,97
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,83
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,72
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,71
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,79
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,93
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,90
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,86
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,84
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,87
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,74
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,69
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,76
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,110
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,117
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,112
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,123
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,110
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,100
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,95
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,87
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,89
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,86
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,86
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,89
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,93
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,87
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,85
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,86
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,98
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,101
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,103
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,105
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,114
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,67
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,75
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,83
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,89
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,92
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,88
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,88
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,71
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,74
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,75
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,71
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,80
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,88
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,88
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,61
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,67
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,60
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,63
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,59
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,66
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,72
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,65
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,64
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,64
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,65
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,63
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,64
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,68
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,51
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,53
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,55
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,49
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,60
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,57
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,65
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,66
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,63
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,69
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,64
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,59
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,58
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,58
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,75
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,65
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,67
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,63
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,54
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,57
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,55
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,57
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,60
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,49
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,50
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,61
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,61
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,59
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,52
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,61
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,65
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,72
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,75
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,76
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,68
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,73
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,61
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,65
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,72
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,59
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,50
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,53
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,93
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,79
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,78
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,71
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,63
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,50
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,59
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,79
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,76
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,63
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,56
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,63
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,65
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,57
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,72
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,79
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,73
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,74
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,83
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,92
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,77
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,61
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,60
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,60
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,63
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,67
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,64
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,66
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,82
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,72
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,68
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,63
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,60
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,65
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,74
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,53
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,59
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,54
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,50
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,46
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,49
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,46
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,83
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,76
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,78
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,80
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,78
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,70
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,62
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,57
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,50
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,53
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,47
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,35
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,32
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,37
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,78
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,82
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,75
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,67
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,67
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,69
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,62
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,18
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,25
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,27
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,28
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,38
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,34
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,27
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,18
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,19
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,31
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,46
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,48
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,45
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,54
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,4
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,3
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,2
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,1
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,4
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,6
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,22
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,13
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,12
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,11
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,9
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,11
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,12
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,90
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,91
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,83
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,95
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,96
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,99
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,96
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,90
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,93
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,97
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,99
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,103
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,89
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,93
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,97
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,97
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,91
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,86
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,88
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,90
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,96
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,83
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,87
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,89
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,81
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,84
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,86
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,79
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,87
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,88
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,94
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,91
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,96
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,98
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,94
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,88
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,104
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,94
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,90
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,96
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,87
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,83
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,109
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,111
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,99
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,100
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,100
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,98
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,100
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,108
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,113
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,109
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,97
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,101
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,81
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,82
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,88
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,95
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,94
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,89
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,83
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,74
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,79
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,86
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,93
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,96
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,82
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,84
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,75
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,74
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,76
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,77
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,117
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,123
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,114
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,104
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,104
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,89
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,87
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,89
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,86
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,92
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,87
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,86
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,94
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,97
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,101
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,106
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,112
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,116
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,85
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,85
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,91
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,87
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,90
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,88
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,72
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,68
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,78
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,86
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,89
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,94
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,57
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,63
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,63
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,68
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,73
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,84
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,58
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,61
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,59
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,61
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,65
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,68
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,54
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,46
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,56
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,55
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,61
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,56
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,63
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,57
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,54
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,57
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,61
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,58
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,72
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,69
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,59
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,60
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,60
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,60
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,45
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,49
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,62
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,63
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,61
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,65
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,65
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,75
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,77
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,75
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,73
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,72
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,58
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,65
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,54
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,49
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,52
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,42
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,73
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,62
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,59
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,47
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,53
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,61
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,56
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,48
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,52
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,54
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,47
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,52
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,70
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,75
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,73
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,79
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,68
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,63
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,51
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,49
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,53
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,54
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,50
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,43
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,60
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,59
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,59
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,60
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,64
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,59
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,37
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,37
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,34
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,34
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,33
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,36
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,59
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,57
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,58
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,54
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,48
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,51
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,27
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,21
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,17
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,12
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,14
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,17
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,54
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,45
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,47
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,42
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,39
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,39
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,7
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,11
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,12
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,12
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,12
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,8
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,18
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,28
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,27
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,30
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,36
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,31
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,96
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,95
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,86
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,83
+ 28497 CHERECHIU,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,77
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,104
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,93
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,94
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,91
+ 28497 CHERECHIU,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,80
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,85
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,82
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,92
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,96
+ 28497 CHERECHIU,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,100
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,91
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,95
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,100
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,101
+ 28497 CHERECHIU,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,103
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,94
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,93
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,90
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,90
+ 28497 CHERECHIU,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,88
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,92
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,97
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,86
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,85
+ 28497 CHERECHIU,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,91
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,87
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,84
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,83
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,93
+ 28497 CHERECHIU,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,93
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,95
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,99
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,94
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,89
+ 28497 CHERECHIU,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,82
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,94
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,86
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,88
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,79
+ 28497 CHERECHIU,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,78
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,99
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,88
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,86
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,86
+ 28497 CHERECHIU,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,87
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,101
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,108
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,103
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,93
+ 28497 CHERECHIU,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,93
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,74
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,79
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,84
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,85
+ 28497 CHERECHIU,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,85
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,77
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,75
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,79
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,86
+ 28497 CHERECHIU,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,92
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,81
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,73
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,70
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,70
+ 28497 CHERECHIU,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,72
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,121
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,114
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,106
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,106
+ 28497 CHERECHIU,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,91
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,89
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,88
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,90
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,84
+ 28497 CHERECHIU,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,80
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,93
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,97
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,100
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,105
+ 28497 CHERECHIU,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,112
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,87
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,90
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,85
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,89
+ 28497 CHERECHIU,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,88
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,66
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,74
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,81
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,84
+ 28497 CHERECHIU,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,88
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,59
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,63
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,69
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,69
+ 28497 CHERECHIU,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,79
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,61
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,55
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,55
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,58
+ 28497 CHERECHIU,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,61
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,53
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,55
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,52
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,59
+ 28497 CHERECHIU,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,51
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,59
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,60
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,59
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,59
+ 28497 CHERECHIU,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,56
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,65
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,56
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,58
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,59
+ 28497 CHERECHIU,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,61
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,46
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,53
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,51
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,52
+ 28497 CHERECHIU,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,57
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,71
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,77
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,75
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,69
+ 28497 CHERECHIU,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,66
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,57
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,49
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,41
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,40
+ 28497 CHERECHIU,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,31
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,56
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,52
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,43
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,50
+ 28497 CHERECHIU,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,59
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,39
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,45
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,47
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,44
+ 28497 CHERECHIU,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,42
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,62
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,62
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,66
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,57
+ 28497 CHERECHIU,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,55
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,33
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,34
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,38
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,34
+ 28497 CHERECHIU,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,36
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,45
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,46
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,50
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,52
+ 28497 CHERECHIU,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,40
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,21
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,16
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,17
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,22
+ 28497 CHERECHIU,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,20
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,37
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,37
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,33
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,30
+ 28497 CHERECHIU,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,34
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,7
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,9
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,10
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,10
+ 28497 CHERECHIU,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,8
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,29
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,25
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,25
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,30
+ 28497 CHERECHIU,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,30

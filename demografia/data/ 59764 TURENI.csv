@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,74
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,70
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,62
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,56
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,49
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,57
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,58
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,69
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,69
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,77
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,69
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,67
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,68
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,60
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,52
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,50
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,51
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,53
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,67
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,64
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,59
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,74
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,73
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,66
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,65
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,59
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,59
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,52
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,54
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,55
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,53
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,56
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,71
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,62
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,63
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,75
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,74
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,71
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,63
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,49
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,61
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,66
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,64
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,68
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,82
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,70
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,68
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,57
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,51
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,58
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,49
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,55
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,58
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,66
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,102
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,95
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,92
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,90
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,75
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,72
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,73
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,62
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,58
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,83
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,74
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,76
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,71
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,63
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,71
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,69
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,59
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,64
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,138
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,115
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,110
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,106
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,99
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,94
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,91
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,91
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,90
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,106
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,91
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,88
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,85
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,85
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,82
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,78
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,82
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,79
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,91
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,106
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,108
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,102
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,104
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,103
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,88
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,90
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,93
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,54
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,62
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,61
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,68
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,76
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,82
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,81
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,76
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,82
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,76
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,65
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,71
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,74
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,82
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,76
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,94
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,91
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,94
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,53
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,43
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,45
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,38
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,40
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,44
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,49
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,61
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,77
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,71
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,71
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,75
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,69
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,65
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,66
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,59
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,61
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,74
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,71
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,66
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,60
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,55
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,48
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,39
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,39
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,39
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,36
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,71
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,71
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,70
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,65
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,64
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,62
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,65
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,71
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,68
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,77
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,69
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,73
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,64
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,69
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,68
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,66
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,62
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,60
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,56
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,53
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,60
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,65
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,61
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,70
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,69
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,68
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,66
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,57
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,59
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,60
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,68
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,64
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,69
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,66
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,72
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,66
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,97
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,94
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,82
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,68
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,57
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,47
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,50
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,55
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,62
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,122
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,114
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,92
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,75
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,67
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,56
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,60
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,60
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,70
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,123
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,106
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,100
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,99
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,98
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,94
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,90
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,75
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,63
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,131
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,111
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,123
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,134
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,122
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,117
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,113
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,93
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,81
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,124
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,136
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,125
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,120
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,122
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,107
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,96
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,95
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,93
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,131
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,140
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,133
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,121
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,122
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,124
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,104
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,113
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,123
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,124
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,113
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,106
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,104
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,105
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,102
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,113
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,105
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,101
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,148
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,143
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,130
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,132
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,130
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,123
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,131
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,126
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,111
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,67
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,76
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,90
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,102
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,100
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,103
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,91
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,85
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,83
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,90
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,103
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,124
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,124
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,131
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,130
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,126
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,111
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,116
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,41
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,41
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,35
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,29
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,37
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,47
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,58
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,74
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,83
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,50
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,43
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,40
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,50
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,61
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,73
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,82
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,94
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,97
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,35
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,27
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,27
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,28
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,27
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,21
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,20
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,18
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,15
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,43
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,48
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,40
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,38
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,35
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,33
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,30
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,27
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,32
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,14
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,17
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,17
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,16
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,16
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,14
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,14
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,10
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,14
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,15
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,15
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,19
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,20
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,21
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,22
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,22
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,22
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,21
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,68
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,67
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,60
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,62
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,52
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,47
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,43
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,46
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,51
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,54
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,48
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,49
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,55
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,56
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,58
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,57
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,50
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,60
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,62
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,68
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,68
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,68
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,71
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,67
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,72
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,58
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,60
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,59
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,57
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,57
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,59
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,54
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,77
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,65
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,71
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,63
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,59
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,61
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,62
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,60
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,65
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,77
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,75
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,76
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,72
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,65
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,56
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,62
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,72
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,74
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,68
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,72
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,80
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,71
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,62
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,62
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,65
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,55
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,55
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,61
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,67
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,69
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,77
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,71
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,75
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,75
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,82
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,78
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,66
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,78
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,78
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,75
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,73
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,74
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,78
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,70
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,62
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,58
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,49
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,60
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,92
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,92
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,90
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,92
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,92
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,82
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,84
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,84
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,82
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,77
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,74
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,83
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,82
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,76
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,78
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,70
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,96
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,97
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,84
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,84
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,89
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,86
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,90
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,94
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,81
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,88
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,84
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,76
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,78
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,76
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,74
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,75
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,81
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,73
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,93
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,93
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,94
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,96
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,97
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,79
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,39
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,41
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,53
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,64
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,67
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,79
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,87
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,76
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,70
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,77
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,64
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,63
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,68
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,75
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,65
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,87
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,57
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,46
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,44
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,42
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,37
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,40
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,40
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,55
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,66
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,64
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,65
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,72
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,74
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,74
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,77
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,66
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,68
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,73
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,74
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,73
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,69
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,63
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,53
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,49
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,65
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,78
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,79
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,75
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,77
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,77
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,74
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,74
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,70
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,75
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,71
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,77
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,75
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,81
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,84
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,82
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,57
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,47
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,50
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,63
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,69
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,64
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,75
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,76
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,72
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,63
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,62
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,64
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,69
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,67
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,73
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,73
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,94
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,89
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,81
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,68
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,58
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,52
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,46
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,50
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,114
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,113
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,112
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,93
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,79
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,70
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,61
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,62
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,99
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,95
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,85
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,81
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,81
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,78
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,78
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,75
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,111
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,114
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,100
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,111
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,122
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,112
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,109
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,105
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,79
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,76
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,88
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,81
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,79
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,78
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,71
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,65
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,113
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,107
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,115
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,110
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,97
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,97
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,99
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,91
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,72
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,74
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,70
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,63
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,61
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,65
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,64
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,68
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,106
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,98
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,97
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,86
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,90
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,95
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,94
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,99
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,17
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,27
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,30
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,43
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,47
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,41
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,43
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,39
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,34
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,44
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,51
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,61
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,58
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,60
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,55
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,57
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,15
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,13
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,14
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,13
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,11
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,13
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,18
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,21
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,20
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,18
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,17
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,16
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,25
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,23
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,28
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,29
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,46
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,56
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,62
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,68
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,68
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,62
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,55
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,51
+ 59764 TURENI,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,54
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,56
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,47
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,43
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,41
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,36
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,37
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,38
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,39
+ 59764 TURENI,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,44
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,65
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,57
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,52
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,44
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,46
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,49
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,61
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,62
+ 59764 TURENI,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,72
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,56
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,55
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,55
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,56
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,53
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,49
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,43
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,39
+ 59764 TURENI,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,41
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,63
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,65
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,66
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,69
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,61
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,60
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,49
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,47
+ 59764 TURENI,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,41
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,58
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,60
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,61
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,58
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,50
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,51
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,52
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,51
+ 59764 TURENI,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,52
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,57
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,57
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,56
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,60
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,61
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,65
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,68
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,67
+ 59764 TURENI,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,69
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,78
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,75
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,68
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,60
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,61
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,56
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,53
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,56
+ 59764 TURENI,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,52
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,73
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,80
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,72
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,63
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,64
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,64
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,62
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,60
+ 59764 TURENI,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,60
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,63
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,70
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,72
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,76
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,78
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,76
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,76
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,68
+ 59764 TURENI,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,57
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,80
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,65
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,72
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,74
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,73
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,70
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,79
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,73
+ 59764 TURENI,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,68
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,61
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,58
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,54
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,49
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,51
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,53
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,58
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,68
+ 59764 TURENI,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,77
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,95
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,93
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,82
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,83
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,78
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,69
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,55
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,60
+ 59764 TURENI,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,66
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,78
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,81
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,74
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,71
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,68
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,62
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,56
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,51
+ 59764 TURENI,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,49
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,86
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,91
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,83
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,87
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,85
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,88
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,82
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,78
+ 59764 TURENI,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,78
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,68
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,73
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,70
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,71
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,70
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,68
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,72
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,68
+ 59764 TURENI,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,64
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,90
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,95
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,99
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,95
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,81
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,81
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,87
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,85
+ 59764 TURENI,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,89
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,68
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,71
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,80
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,87
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,76
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,70
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,70
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,67
+ 59764 TURENI,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,76
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,62
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,66
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,73
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,69
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,91
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,92
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,94
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,100
+ 59764 TURENI,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,97
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,41
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,39
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,45
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,48
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,59
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,69
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,71
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,84
+ 59764 TURENI,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,87
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,80
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,74
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,75
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,77
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,67
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,66
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,70
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,76
+ 59764 TURENI,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,76
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,83
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,76
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,63
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,56
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,55
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,50
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,49
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,51
+ 59764 TURENI,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,50
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,76
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,79
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,77
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,76
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,77
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,72
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,70
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,70
+ 59764 TURENI,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,71
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,78
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,74
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,82
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,84
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,82
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,83
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,82
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,70
+ 59764 TURENI,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,62
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,60
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,60
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,62
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,68
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,70
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,73
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,78
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,73
+ 59764 TURENI,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,77
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,66
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,72
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,67
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,72
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,72
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,77
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,68
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,80
+ 59764 TURENI,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,84
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,61
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,52
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,46
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,42
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,45
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,55
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,56
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,60
+ 59764 TURENI,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,64
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,86
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,76
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,70
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,59
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,56
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,59
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,65
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,63
+ 59764 TURENI,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,67
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,69
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,66
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,67
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,67
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,68
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,52
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,44
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,39
+ 59764 TURENI,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,37
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,97
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,105
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,98
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,98
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,95
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,80
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,72
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,66
+ 59764 TURENI,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,56
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,59
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,62
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,61
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,54
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,48
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,51
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,45
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,48
+ 59764 TURENI,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,51
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,90
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,80
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,77
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,78
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,70
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,82
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,88
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,82
+ 59764 TURENI,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,86
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,38
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,41
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,41
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,39
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,44
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,38
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,43
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,46
+ 59764 TURENI,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,40
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,56
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,65
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,64
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,65
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,71
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,59
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,52
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,52
+ 59764 TURENI,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,55
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,26
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,25
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,24
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,30
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,31
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,31
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,30
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,28
+ 59764 TURENI,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,30
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,34
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,39
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,44
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,41
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,44
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,48
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,55
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,57
+ 59764 TURENI,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,52

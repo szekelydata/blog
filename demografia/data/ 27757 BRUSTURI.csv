@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,190
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,192
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,170
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,180
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,159
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,152
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,145
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,139
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,164
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,168
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,172
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,169
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,169
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,154
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,147
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,146
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,158
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,153
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,168
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,161
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,157
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,165
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,161
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,146
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,166
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,174
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,173
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,163
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,155
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,155
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,152
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,156
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,188
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,180
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,165
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,165
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,160
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,149
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,135
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,148
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,210
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,194
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,180
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,163
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,151
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,149
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,156
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,155
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,223
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,202
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,204
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,191
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,184
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,184
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,178
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,163
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,234
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,224
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,214
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,232
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,211
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,200
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,180
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,163
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,250
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,272
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,256
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,232
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,215
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,208
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,192
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,196
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,176
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,180
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,190
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,180
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,198
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,203
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,203
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,188
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,153
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,157
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,175
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,171
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,199
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,196
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,228
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,209
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,115
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,133
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,141
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,132
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,130
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,134
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,138
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,145
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,125
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,118
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,119
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,124
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,115
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,123
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,122
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,140
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,118
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,107
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,96
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,100
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,95
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,93
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,101
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,108
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,150
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,151
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,141
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,131
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,111
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,103
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,91
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,91
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,121
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,116
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,116
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,113
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,112
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,109
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,102
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,90
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,137
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,132
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,126
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,133
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,142
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,136
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,134
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,124
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,164
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,156
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,156
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,135
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,121
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,113
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,112
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,109
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,144
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,147
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,142
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,140
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,138
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,127
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,125
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,124
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,136
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,130
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,131
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,146
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,153
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,156
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,150
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,150
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,158
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,147
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,149
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,137
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,133
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,134
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,135
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,129
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,172
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,169
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,154
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,148
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,137
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,129
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,124
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,126
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,190
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,180
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,166
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,148
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,146
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,141
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,132
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,135
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,234
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,218
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,218
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,195
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,179
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,160
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,157
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,139
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,189
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,184
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,190
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,187
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,176
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,173
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,168
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,156
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,214
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,224
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,217
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,227
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,237
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,220
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,198
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,204
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,189
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,186
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,169
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,170
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,161
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,154
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,147
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,157
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,198
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,195
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,196
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,175
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,174
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,191
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,196
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,188
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,102
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,121
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,142
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,155
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,153
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,144
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,139
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,123
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,125
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,146
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,149
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,158
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,144
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,157
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,154
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,152
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,56
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,50
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,42
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,47
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,62
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,68
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,85
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,96
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,86
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,66
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,69
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,78
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,88
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,85
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,100
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,100
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,41
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,36
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,38
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,33
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,28
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,25
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,21
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,19
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,48
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,56
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,55
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,54
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,50
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,39
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,36
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,39
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,14
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,12
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,7
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,13
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,11
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,14
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,14
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,16
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,19
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,20
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,18
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,17
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,21
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,27
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,21
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,27
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,130
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,139
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,129
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,130
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,119
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,107
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,91
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,149
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,145
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,137
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,131
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,121
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,113
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,102
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,157
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,145
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,142
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,138
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,133
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,126
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,134
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,156
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,157
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,141
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,134
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,133
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,139
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,138
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,143
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,145
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,151
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,151
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,146
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,153
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,142
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,151
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,145
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,147
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,147
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,149
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,150
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,151
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,162
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,155
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,146
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,136
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,143
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,145
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,148
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,146
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,143
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,146
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,151
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,155
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,152
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,148
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,185
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,179
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,177
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,169
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,161
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,160
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,153
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,198
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,180
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,175
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,152
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,131
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,111
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,117
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,196
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,191
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,189
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,173
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,172
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,165
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,155
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,148
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,166
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,170
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,168
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,157
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,164
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,140
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,151
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,178
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,175
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,194
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,186
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,164
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,161
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,111
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,115
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,119
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,122
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,124
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,129
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,146
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,103
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,95
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,108
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,112
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,129
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,128
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,153
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,88
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,86
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,81
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,92
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,98
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,92
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,96
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,116
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,99
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,93
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,82
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,88
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,99
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,93
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,109
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,107
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,105
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,98
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,93
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,87
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,84
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,123
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,132
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,124
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,124
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,119
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,116
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,100
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,133
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,119
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,113
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,112
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,110
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,108
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,110
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,131
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,126
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,118
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,117
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,113
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,109
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,120
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,137
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,146
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,152
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,149
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,150
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,134
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,120
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,128
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,126
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,129
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,127
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,120
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,119
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,114
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,137
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,128
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,121
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,117
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,122
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,133
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,142
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,138
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,129
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,130
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,122
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,121
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,111
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,112
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,177
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,167
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,147
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,144
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,135
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,131
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,120
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,161
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,148
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,150
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,137
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,126
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,113
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,108
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,199
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,199
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,188
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,182
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,179
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,156
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,144
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,118
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,114
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,115
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,118
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,122
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,123
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,122
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,141
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,135
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,160
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,161
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,155
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,168
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,166
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,103
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,103
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,95
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,91
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,86
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,82
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,77
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,111
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,107
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,107
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,110
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,106
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,100
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,104
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,30
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,41
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,42
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,48
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,49
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,50
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,51
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,40
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,42
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,47
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,55
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,57
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,64
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,64
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,11
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,6
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,9
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,8
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,9
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,15
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,16
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,25
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,23
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,22
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,17
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,19
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,18
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,17
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,94
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,91
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,84
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,81
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,81
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,75
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,102
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,97
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,99
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,91
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,84
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,85
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,126
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,128
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,116
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,105
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,95
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,93
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,132
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,130
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,115
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,109
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,97
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,95
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,144
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,131
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,138
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,129
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,128
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,124
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,136
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,122
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,126
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,133
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,133
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,126
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,153
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,158
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,153
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,161
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,142
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,138
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,147
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,145
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,144
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,135
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,136
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,124
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,138
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,130
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,131
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,130
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,137
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,147
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,124
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,134
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,139
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,134
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,124
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,136
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,153
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,146
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,144
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,155
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,146
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,137
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,122
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,112
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,101
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,92
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,104
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,106
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,159
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,153
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,153
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,142
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,138
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,135
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,147
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,137
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,137
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,143
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,126
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,110
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,158
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,171
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,168
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,150
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,148
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,153
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,107
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,111
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,120
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,127
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,131
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,137
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,95
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,99
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,114
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,130
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,147
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,152
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,75
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,83
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,90
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,94
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,101
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,111
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,95
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,86
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,92
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,101
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,93
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,97
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,109
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,102
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,92
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,84
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,79
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,70
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,111
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,118
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,120
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,118
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,108
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,109
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,115
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,118
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,117
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,111
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,112
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,114
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,108
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,113
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,107
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,102
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,119
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,116
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,147
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,139
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,144
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,132
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,123
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,117
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,114
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,111
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,111
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,115
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,109
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,102
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,114
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,111
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,116
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,131
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,137
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,145
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,111
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,99
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,98
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,92
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,91
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,96
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,129
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,123
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,123
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,118
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,110
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,105
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,116
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,105
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,98
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,85
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,77
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,77
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,150
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,149
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,135
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,124
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,121
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,116
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,74
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,73
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,78
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,87
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,83
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,80
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,121
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,121
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,114
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,121
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,120
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,115
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,45
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,48
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,47
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,44
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,38
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,36
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,66
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,62
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,54
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,52
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,60
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,69
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,19
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,22
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,25
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,26
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,22
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,21
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,20
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,26
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,32
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,36
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,35
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,38
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,76
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,69
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,73
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,66
+ 27757 BRUSTURI,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,76
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,86
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,79
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,79
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,74
+ 27757 BRUSTURI,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,62
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,90
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,85
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,82
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,79
+ 27757 BRUSTURI,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,76
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,98
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,99
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,94
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,90
+ 27757 BRUSTURI,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,91
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,120
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,113
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,108
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,98
+ 27757 BRUSTURI,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,91
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,122
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,111
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,101
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,95
+ 27757 BRUSTURI,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,97
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,125
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,124
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,114
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,121
+ 27757 BRUSTURI,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,114
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,120
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,126
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,129
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,130
+ 27757 BRUSTURI,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,122
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,155
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,146
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,148
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,135
+ 27757 BRUSTURI,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,133
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,138
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,138
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,125
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,120
+ 27757 BRUSTURI,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,107
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,135
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,133
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,133
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,138
+ 27757 BRUSTURI,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,137
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,112
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,115
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,119
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,120
+ 27757 BRUSTURI,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,123
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,134
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,146
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,150
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,140
+ 27757 BRUSTURI,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,133
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,108
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,103
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,92
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,98
+ 27757 BRUSTURI,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,100
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,143
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,144
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,142
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,141
+ 27757 BRUSTURI,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,132
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,137
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,127
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,133
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,122
+ 27757 BRUSTURI,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,113
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,169
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,165
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,147
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,148
+ 27757 BRUSTURI,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,157
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,110
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,116
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,119
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,125
+ 27757 BRUSTURI,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,131
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,104
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,119
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,134
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,150
+ 27757 BRUSTURI,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,148
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,82
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,94
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,92
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,99
+ 27757 BRUSTURI,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,111
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,97
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,97
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,105
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,92
+ 27757 BRUSTURI,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,100
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,105
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,90
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,87
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,82
+ 27757 BRUSTURI,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,71
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,124
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,126
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,119
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,111
+ 27757 BRUSTURI,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,104
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,111
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,113
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,109
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,109
+ 27757 BRUSTURI,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,111
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,106
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,103
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,99
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,111
+ 27757 BRUSTURI,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,112
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,140
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,140
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,130
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,123
+ 27757 BRUSTURI,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,114
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,94
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,95
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,100
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,92
+ 27757 BRUSTURI,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,93
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,106
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,111
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,124
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,128
+ 27757 BRUSTURI,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,132
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,76
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,71
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,70
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,69
+ 27757 BRUSTURI,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,78
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,116
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,108
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,106
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,97
+ 27757 BRUSTURI,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,94
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,74
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,69
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,57
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,55
+ 27757 BRUSTURI,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,50
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,116
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,109
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,100
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,103
+ 27757 BRUSTURI,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,91
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,39
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,44
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,54
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,54
+ 27757 BRUSTURI,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,55
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,74
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,80
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,87
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,87
+ 27757 BRUSTURI,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,76
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,26
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,23
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,24
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,26
+ 27757 BRUSTURI,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,26
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,36
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,37
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,37
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,38
+ 27757 BRUSTURI,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,47

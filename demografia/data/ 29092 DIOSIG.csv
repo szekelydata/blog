@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,375
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,339
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,322
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,316
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,307
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,298
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,301
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,298
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,316
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,303
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,300
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,308
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,318
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,299
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,297
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,299
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,364
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,388
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,394
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,413
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,413
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,390
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,349
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,338
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,365
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,369
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,359
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,376
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,343
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,326
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,306
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,307
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,373
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,368
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,356
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,363
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,368
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,377
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,399
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,410
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,378
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,369
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,358
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,357
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,370
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,370
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,381
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,373
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,489
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,467
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,454
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,417
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,407
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,379
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,382
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,375
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,408
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,382
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,395
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,383
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,377
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,385
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,376
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,365
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,483
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,471
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,449
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,466
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,482
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,480
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,455
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,443
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,373
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,384
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,379
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,420
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,414
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,396
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,377
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,396
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,260
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,305
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,364
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,387
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,404
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,459
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,446
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,432
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,202
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,226
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,260
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,275
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,327
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,363
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,382
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,378
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,330
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,307
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,279
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,264
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,261
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,254
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,294
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,351
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,244
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,231
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,205
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,211
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,202
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,208
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,225
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,264
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,289
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,294
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,314
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,332
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,320
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,305
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,294
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,271
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,268
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,261
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,263
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,255
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,252
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,238
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,230
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,212
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,255
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,260
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,254
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,273
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,279
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,288
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,287
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,309
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,287
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,282
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,293
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,290
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,283
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,264
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,260
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,265
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,244
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,247
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,250
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,237
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,247
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,246
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,255
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,248
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,276
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,269
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,256
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,260
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,267
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,283
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,285
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,300
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,259
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,251
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,233
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,237
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,221
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,225
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,228
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,243
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,309
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,303
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,295
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,280
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,277
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,268
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,262
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,252
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,305
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,285
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,289
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,261
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,253
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,228
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,223
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,205
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,351
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,344
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,326
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,325
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,315
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,303
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,298
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,289
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,315
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,309
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,296
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,287
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,271
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,259
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,234
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,238
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,350
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,353
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,363
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,340
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,342
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,322
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,312
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,304
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,273
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,264
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,246
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,249
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,254
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,255
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,249
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,232
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,293
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,283
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,282
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,318
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,309
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,321
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,323
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,328
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,142
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,178
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,204
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,214
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,223
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,204
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,202
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,192
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,213
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,251
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,270
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,264
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,243
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,245
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,239
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,233
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,117
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,97
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,68
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,66
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,76
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,96
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,121
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,142
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,135
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,101
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,83
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,102
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,136
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,162
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,182
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,194
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,70
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,67
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,77
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,87
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,78
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,66
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,56
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,36
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,117
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,114
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,112
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,92
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,91
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,75
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,63
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,51
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,26
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,25
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,26
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,25
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,25
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,27
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,32
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,50
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,49
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,51
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,47
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,58
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,51
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,45
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,42
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,44
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,310
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,306
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,310
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,302
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,227
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,232
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,237
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,298
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,301
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,295
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,294
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,195
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,185
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,194
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,318
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,311
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,304
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,303
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,220
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,226
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,222
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,306
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,318
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,313
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,312
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,229
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,233
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,224
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,433
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,424
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,398
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,358
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,244
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,225
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,234
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,386
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,354
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,335
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,311
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,233
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,236
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,249
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,379
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,377
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,388
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,412
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,311
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,326
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,317
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,363
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,370
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,368
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,383
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,276
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,272
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,247
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,417
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,403
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,388
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,398
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,273
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,277
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,276
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,384
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,380
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,387
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,365
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,242
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,251
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,262
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,442
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,468
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,462
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,456
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,318
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,296
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,301
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,398
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,392
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,383
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,373
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,285
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,279
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,278
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,375
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,403
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,454
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,449
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,297
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,313
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,316
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,282
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,331
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,377
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,401
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,276
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,288
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,286
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,262
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,256
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,254
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,299
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,233
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,253
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,279
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,218
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,205
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,213
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,232
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,207
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,211
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,244
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,320
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,314
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,312
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,297
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,202
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,194
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,186
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,271
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,265
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,255
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,234
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,164
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,177
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,165
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,268
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,277
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,291
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,291
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,228
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,238
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,223
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,304
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,296
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,275
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,281
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,194
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,184
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,182
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,233
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,240
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,237
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,260
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,182
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,180
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,194
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,254
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,263
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,279
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,287
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,207
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,222
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,213
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,214
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,206
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,213
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,223
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,161
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,154
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,160
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,280
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,273
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,262
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,266
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,158
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,144
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,160
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,213
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,213
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,199
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,195
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,116
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,130
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,128
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,298
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,294
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,294
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,289
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,189
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,180
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,171
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,230
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,202
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,197
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,182
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,131
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,120
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,116
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,301
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,302
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,282
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,283
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,194
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,187
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,181
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,192
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,206
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,208
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,201
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,129
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,119
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,102
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,265
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,251
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,264
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,266
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,176
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,160
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,171
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,144
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,141
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,137
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,137
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,96
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,86
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,97
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,187
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,178
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,178
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,170
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,116
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,133
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,118
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,32
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,42
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,51
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,61
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,60
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,61
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,56
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,64
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,84
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,97
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,117
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,84
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,78
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,76
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,51
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,46
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,40
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,34
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,19
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,18
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,16
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,42
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,40
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,39
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,35
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,21
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,24
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,36
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,267
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,266
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,271
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,263
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,256
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,228
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,201
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,219
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,230
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,239
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,237
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,231
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,238
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,232
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,238
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,244
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,248
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,275
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,216
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,216
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,207
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,194
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,200
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,206
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,231
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,241
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,233
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,237
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,230
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,242
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,248
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,252
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,241
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,245
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,225
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,222
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,294
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,274
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,265
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,258
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,255
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,239
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,243
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,248
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,260
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,265
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,271
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,251
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,293
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,315
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,319
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,335
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,325
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,301
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,270
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,283
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,266
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,268
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,245
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,239
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,288
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,293
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,286
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,282
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,282
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,304
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,282
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,268
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,254
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,250
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,252
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,250
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,327
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,330
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,328
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,309
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,307
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,289
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,297
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,281
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,292
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,286
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,282
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,277
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,311
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,317
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,311
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,326
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,314
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,311
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,258
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,286
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,284
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,290
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,288
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,301
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,181
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,207
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,237
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,249
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,282
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,315
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,174
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,187
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,212
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,212
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,249
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,259
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,217
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,206
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,191
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,181
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,180
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,179
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,178
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,176
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,165
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,180
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,167
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,179
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,206
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,206
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,216
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,223
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,204
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,194
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,206
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,195
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,200
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,186
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,180
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,174
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,166
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,178
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,177
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,177
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,187
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,194
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,172
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,188
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,205
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,220
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,212
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,205
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,128
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,127
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,141
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,135
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,142
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,157
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,164
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,166
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,143
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,137
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,154
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,165
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,97
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,100
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,95
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,105
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,101
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,106
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,177
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,167
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,169
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,162
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,159
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,149
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,89
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,86
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,96
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,85
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,83
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,67
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,161
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,162
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,162
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,160
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,150
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,153
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,107
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,101
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,80
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,80
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,69
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,62
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,123
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,136
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,132
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,126
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,129
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,123
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,46
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,45
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,49
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,50
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,55
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,61
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,75
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,69
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,63
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,66
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,60
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,80
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,19
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,21
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,21
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,23
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,20
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,19
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,37
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,40
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,39
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,37
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,50
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,42
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,230
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,227
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,236
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,220
+ 29092 DIOSIG,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,223
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,214
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,200
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,196
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,206
+ 29092 DIOSIG,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,202
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,266
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,266
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,255
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,246
+ 29092 DIOSIG,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,216
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,220
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,243
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,242
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,239
+ 29092 DIOSIG,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,236
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,238
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,238
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,238
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,243
+ 29092 DIOSIG,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,266
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,223
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,205
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,198
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,203
+ 29092 DIOSIG,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,198
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,237
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,231
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,237
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,232
+ 29092 DIOSIG,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,238
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,241
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,233
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,237
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,228
+ 29092 DIOSIG,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,221
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,280
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,265
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,261
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,256
+ 29092 DIOSIG,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,243
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,245
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,254
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,251
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,266
+ 29092 DIOSIG,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,254
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,315
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,320
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,320
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,325
+ 29092 DIOSIG,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,309
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,255
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,254
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,266
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,236
+ 29092 DIOSIG,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,241
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,287
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,278
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,278
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,275
+ 29092 DIOSIG,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,290
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,260
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,242
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,242
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,245
+ 29092 DIOSIG,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,242
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,310
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,321
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,309
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,301
+ 29092 DIOSIG,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,288
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,278
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,287
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,283
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,279
+ 29092 DIOSIG,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,280
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,315
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,300
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,310
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,312
+ 29092 DIOSIG,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,306
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,287
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,278
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,285
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,289
+ 29092 DIOSIG,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,298
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,202
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,237
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,251
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,277
+ 29092 DIOSIG,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,303
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,186
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,216
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,216
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,243
+ 29092 DIOSIG,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,253
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,184
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,180
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,178
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,178
+ 29092 DIOSIG,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,180
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,175
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,166
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,181
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,171
+ 29092 DIOSIG,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,183
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,193
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,199
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,201
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,189
+ 29092 DIOSIG,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,181
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,191
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,191
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,182
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,184
+ 29092 DIOSIG,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,171
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,166
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,160
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,159
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,167
+ 29092 DIOSIG,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,176
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,181
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,199
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,212
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,205
+ 29092 DIOSIG,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,205
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,108
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,117
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,115
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,122
+ 29092 DIOSIG,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,133
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,151
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,134
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,129
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,141
+ 29092 DIOSIG,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,151
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,69
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,69
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,78
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,81
+ 29092 DIOSIG,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,81
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,141
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,145
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,141
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,140
+ 29092 DIOSIG,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,133
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,56
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,63
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,55
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,52
+ 29092 DIOSIG,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,50
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,122
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,127
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,118
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,115
+ 29092 DIOSIG,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,120
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,64
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,54
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,53
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,39
+ 29092 DIOSIG,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,32
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,91
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,86
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,89
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,84
+ 29092 DIOSIG,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,78
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,22
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,23
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,26
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,35
+ 29092 DIOSIG,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,35
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,38
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,37
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,41
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,43
+ 29092 DIOSIG,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,53

@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 1992, Numar persoane,123
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 1993, Numar persoane,126
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 1994, Numar persoane,120
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 1995, Numar persoane,103
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 1996, Numar persoane,108
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 1997, Numar persoane,113
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 1998, Numar persoane,105
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 1992, Numar persoane,140
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 1993, Numar persoane,137
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 1994, Numar persoane,132
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 1995, Numar persoane,113
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 1996, Numar persoane,120
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 1997, Numar persoane,102
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 1998, Numar persoane,101
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 1992, Numar persoane,140
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 1993, Numar persoane,160
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 1994, Numar persoane,160
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 1995, Numar persoane,166
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 1996, Numar persoane,154
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 1997, Numar persoane,137
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 1998, Numar persoane,137
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 1992, Numar persoane,126
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 1993, Numar persoane,152
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 1994, Numar persoane,155
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 1995, Numar persoane,160
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 1996, Numar persoane,151
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 1997, Numar persoane,154
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 1998, Numar persoane,141
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 1992, Numar persoane,127
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 1993, Numar persoane,126
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 1994, Numar persoane,138
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 1995, Numar persoane,142
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 1996, Numar persoane,144
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 1997, Numar persoane,152
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 1998, Numar persoane,163
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 1992, Numar persoane,154
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 1993, Numar persoane,153
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 1994, Numar persoane,164
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 1995, Numar persoane,155
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 1996, Numar persoane,157
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 1997, Numar persoane,142
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 1998, Numar persoane,157
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 1992, Numar persoane,136
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 1993, Numar persoane,135
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 1994, Numar persoane,135
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 1995, Numar persoane,122
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 1996, Numar persoane,133
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 1997, Numar persoane,135
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 1998, Numar persoane,130
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 1992, Numar persoane,142
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 1993, Numar persoane,136
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 1994, Numar persoane,133
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 1995, Numar persoane,143
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 1996, Numar persoane,154
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 1997, Numar persoane,159
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 1998, Numar persoane,159
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 1992, Numar persoane,161
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 1993, Numar persoane,157
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 1994, Numar persoane,144
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 1995, Numar persoane,155
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 1996, Numar persoane,143
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 1997, Numar persoane,134
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 1998, Numar persoane,142
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 1992, Numar persoane,122
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 1993, Numar persoane,138
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 1994, Numar persoane,142
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 1995, Numar persoane,137
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 1996, Numar persoane,135
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 1997, Numar persoane,140
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 1998, Numar persoane,127
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 1992, Numar persoane,92
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 1993, Numar persoane,119
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 1994, Numar persoane,140
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 1995, Numar persoane,137
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 1996, Numar persoane,144
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 1997, Numar persoane,162
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 1998, Numar persoane,148
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 1992, Numar persoane,90
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 1993, Numar persoane,99
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 1994, Numar persoane,111
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 1995, Numar persoane,114
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 1996, Numar persoane,121
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 1997, Numar persoane,127
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 1998, Numar persoane,138
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 1992, Numar persoane,98
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 1993, Numar persoane,96
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 1994, Numar persoane,102
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 1995, Numar persoane,101
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 1996, Numar persoane,106
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 1997, Numar persoane,104
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 1998, Numar persoane,125
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 1992, Numar persoane,103
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 1993, Numar persoane,112
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 1994, Numar persoane,107
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 1995, Numar persoane,91
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 1996, Numar persoane,94
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 1997, Numar persoane,87
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 1998, Numar persoane,93
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 1992, Numar persoane,113
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 1993, Numar persoane,116
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 1994, Numar persoane,127
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 1995, Numar persoane,133
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 1996, Numar persoane,116
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 1997, Numar persoane,113
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 1998, Numar persoane,106
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 1992, Numar persoane,95
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 1993, Numar persoane,96
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 1994, Numar persoane,98
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 1995, Numar persoane,116
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 1996, Numar persoane,110
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 1997, Numar persoane,105
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 1998, Numar persoane,115
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 1992, Numar persoane,112
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 1993, Numar persoane,112
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 1994, Numar persoane,102
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 1995, Numar persoane,109
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 1996, Numar persoane,119
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 1997, Numar persoane,117
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 1998, Numar persoane,121
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 1992, Numar persoane,109
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 1993, Numar persoane,108
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 1994, Numar persoane,104
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 1995, Numar persoane,95
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 1996, Numar persoane,91
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 1997, Numar persoane,97
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 1998, Numar persoane,94
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 1992, Numar persoane,101
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 1993, Numar persoane,106
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 1994, Numar persoane,116
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 1995, Numar persoane,113
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 1996, Numar persoane,111
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 1997, Numar persoane,122
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 1998, Numar persoane,124
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 1992, Numar persoane,91
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 1993, Numar persoane,92
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 1994, Numar persoane,97
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 1995, Numar persoane,105
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 1996, Numar persoane,120
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 1997, Numar persoane,109
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 1998, Numar persoane,106
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 1992, Numar persoane,99
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 1993, Numar persoane,94
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 1994, Numar persoane,92
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 1995, Numar persoane,94
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 1996, Numar persoane,101
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 1997, Numar persoane,106
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 1998, Numar persoane,108
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 1992, Numar persoane,111
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 1993, Numar persoane,104
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 1994, Numar persoane,102
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 1995, Numar persoane,91
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 1996, Numar persoane,77
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 1997, Numar persoane,92
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 1998, Numar persoane,94
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 1992, Numar persoane,99
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 1993, Numar persoane,109
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 1994, Numar persoane,109
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 1995, Numar persoane,102
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 1996, Numar persoane,99
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 1997, Numar persoane,98
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 1998, Numar persoane,91
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 1992, Numar persoane,127
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 1993, Numar persoane,125
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 1994, Numar persoane,117
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 1995, Numar persoane,122
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 1996, Numar persoane,123
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 1997, Numar persoane,112
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 1998, Numar persoane,102
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 1992, Numar persoane,105
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 1993, Numar persoane,99
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 1994, Numar persoane,92
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 1995, Numar persoane,95
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 1996, Numar persoane,91
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 1997, Numar persoane,87
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 1998, Numar persoane,95
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 1992, Numar persoane,150
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 1993, Numar persoane,166
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 1994, Numar persoane,138
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 1995, Numar persoane,133
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 1996, Numar persoane,129
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 1997, Numar persoane,119
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 1998, Numar persoane,118
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 1992, Numar persoane,103
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 1993, Numar persoane,97
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 1994, Numar persoane,101
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 1995, Numar persoane,97
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 1996, Numar persoane,98
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 1997, Numar persoane,89
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 1998, Numar persoane,82
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 1992, Numar persoane,125
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 1993, Numar persoane,115
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 1994, Numar persoane,138
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 1995, Numar persoane,135
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 1996, Numar persoane,131
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 1997, Numar persoane,138
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 1998, Numar persoane,152
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 1992, Numar persoane,57
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 1993, Numar persoane,74
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 1994, Numar persoane,86
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 1995, Numar persoane,84
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 1996, Numar persoane,81
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 1997, Numar persoane,78
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 1998, Numar persoane,70
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 1992, Numar persoane,93
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 1993, Numar persoane,109
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 1994, Numar persoane,115
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 1995, Numar persoane,118
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 1996, Numar persoane,113
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 1997, Numar persoane,112
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 1998, Numar persoane,102
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 1992, Numar persoane,35
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 1993, Numar persoane,29
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 1994, Numar persoane,21
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 1995, Numar persoane,23
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 1996, Numar persoane,33
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 1997, Numar persoane,45
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 1998, Numar persoane,56
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 1992, Numar persoane,63
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 1993, Numar persoane,56
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 1994, Numar persoane,40
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 1995, Numar persoane,40
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 1996, Numar persoane,64
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 1997, Numar persoane,73
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 1998, Numar persoane,82
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 1992, Numar persoane,25
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 1993, Numar persoane,25
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 1994, Numar persoane,18
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 1995, Numar persoane,23
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 1996, Numar persoane,20
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 1997, Numar persoane,16
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 1998, Numar persoane,18
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 1992, Numar persoane,32
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 1993, Numar persoane,40
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 1994, Numar persoane,46
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 1995, Numar persoane,47
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 1996, Numar persoane,40
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 1997, Numar persoane,39
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 1998, Numar persoane,33
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 1992, Numar persoane,8
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 1993, Numar persoane,6
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 1994, Numar persoane,5
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 1995, Numar persoane,4
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 1996, Numar persoane,4
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 1997, Numar persoane,4
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 1998, Numar persoane,7
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 1992, Numar persoane,30
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 1993, Numar persoane,30
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 1994, Numar persoane,28
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 1995, Numar persoane,28
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 1996, Numar persoane,25
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 1997, Numar persoane,24
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 1998, Numar persoane,27
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 1999, Numar persoane,112
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2000, Numar persoane,112
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2001, Numar persoane,107
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2002, Numar persoane,109
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2003, Numar persoane,106
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2004, Numar persoane,103
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,78
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,76
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 1999, Numar persoane,95
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2000, Numar persoane,97
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2001, Numar persoane,106
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2002, Numar persoane,106
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2003, Numar persoane,98
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2004, Numar persoane,98
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,70
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,57
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 1999, Numar persoane,126
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2000, Numar persoane,105
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2001, Numar persoane,106
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2002, Numar persoane,107
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2003, Numar persoane,106
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2004, Numar persoane,114
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,78
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,79
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 1999, Numar persoane,135
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2000, Numar persoane,112
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2001, Numar persoane,111
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2002, Numar persoane,98
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2003, Numar persoane,98
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2004, Numar persoane,93
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,72
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,82
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 1999, Numar persoane,156
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2000, Numar persoane,169
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2001, Numar persoane,158
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2002, Numar persoane,139
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2003, Numar persoane,140
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2004, Numar persoane,129
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,75
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,71
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 1999, Numar persoane,154
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2000, Numar persoane,165
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2001, Numar persoane,152
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2002, Numar persoane,155
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2003, Numar persoane,152
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2004, Numar persoane,138
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,78
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,76
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 1999, Numar persoane,142
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2000, Numar persoane,148
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2001, Numar persoane,153
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2002, Numar persoane,160
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2003, Numar persoane,164
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2004, Numar persoane,161
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,124
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,117
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 1999, Numar persoane,167
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2000, Numar persoane,158
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2001, Numar persoane,160
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2002, Numar persoane,150
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2003, Numar persoane,158
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2004, Numar persoane,163
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,111
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,105
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 1999, Numar persoane,140
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2000, Numar persoane,132
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2001, Numar persoane,139
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2002, Numar persoane,141
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2003, Numar persoane,134
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2004, Numar persoane,139
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,90
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,99
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 1999, Numar persoane,126
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2000, Numar persoane,144
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2001, Numar persoane,147
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2002, Numar persoane,155
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2003, Numar persoane,157
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2004, Numar persoane,170
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,105
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,102
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 1999, Numar persoane,134
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2000, Numar persoane,142
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2001, Numar persoane,140
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2002, Numar persoane,138
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2003, Numar persoane,141
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2004, Numar persoane,137
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,73
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,77
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 1999, Numar persoane,134
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2000, Numar persoane,127
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2001, Numar persoane,133
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2002, Numar persoane,136
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2003, Numar persoane,124
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2004, Numar persoane,124
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,79
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,85
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 1999, Numar persoane,146
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2000, Numar persoane,134
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2001, Numar persoane,140
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2002, Numar persoane,153
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2003, Numar persoane,140
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2004, Numar persoane,129
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,89
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,83
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 1999, Numar persoane,110
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2000, Numar persoane,116
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2001, Numar persoane,122
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2002, Numar persoane,136
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2003, Numar persoane,145
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2004, Numar persoane,142
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,83
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,82
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 1999, Numar persoane,104
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2000, Numar persoane,104
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2001, Numar persoane,102
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2002, Numar persoane,100
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2003, Numar persoane,114
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2004, Numar persoane,133
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,72
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,75
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 1999, Numar persoane,117
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2000, Numar persoane,101
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2001, Numar persoane,94
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2002, Numar persoane,90
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2003, Numar persoane,96
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2004, Numar persoane,111
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,85
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,92
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 1999, Numar persoane,133
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2000, Numar persoane,141
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2001, Numar persoane,130
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2002, Numar persoane,126
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2003, Numar persoane,116
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2004, Numar persoane,109
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,75
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,68
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 1999, Numar persoane,100
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2000, Numar persoane,119
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2001, Numar persoane,123
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2002, Numar persoane,122
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2003, Numar persoane,129
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2004, Numar persoane,122
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,72
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,69
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 1999, Numar persoane,110
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2000, Numar persoane,116
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2001, Numar persoane,130
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2002, Numar persoane,129
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2003, Numar persoane,132
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2004, Numar persoane,138
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,91
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,85
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 1999, Numar persoane,106
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2000, Numar persoane,102
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2001, Numar persoane,94
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2002, Numar persoane,104
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2003, Numar persoane,100
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2004, Numar persoane,102
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,78
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,83
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 1999, Numar persoane,120
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2000, Numar persoane,116
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2001, Numar persoane,119
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2002, Numar persoane,125
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2003, Numar persoane,127
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2004, Numar persoane,110
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,76
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,92
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 1999, Numar persoane,96
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2000, Numar persoane,108
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2001, Numar persoane,128
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2002, Numar persoane,116
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2003, Numar persoane,116
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2004, Numar persoane,118
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,57
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,59
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 1999, Numar persoane,93
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2000, Numar persoane,99
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2001, Numar persoane,96
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2002, Numar persoane,100
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2003, Numar persoane,100
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2004, Numar persoane,113
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,72
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,71
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 1999, Numar persoane,102
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2000, Numar persoane,88
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2001, Numar persoane,76
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2002, Numar persoane,92
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2003, Numar persoane,98
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2004, Numar persoane,97
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,57
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,61
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 1999, Numar persoane,97
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2000, Numar persoane,91
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2001, Numar persoane,92
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2002, Numar persoane,95
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2003, Numar persoane,89
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2004, Numar persoane,86
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,40
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,50
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 1999, Numar persoane,118
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2000, Numar persoane,126
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2001, Numar persoane,127
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2002, Numar persoane,112
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2003, Numar persoane,104
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2004, Numar persoane,101
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,51
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,48
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 1999, Numar persoane,77
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2000, Numar persoane,78
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2001, Numar persoane,77
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2002, Numar persoane,73
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2003, Numar persoane,83
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2004, Numar persoane,85
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,45
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,39
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 1999, Numar persoane,130
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2000, Numar persoane,124
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2001, Numar persoane,122
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2002, Numar persoane,112
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2003, Numar persoane,112
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2004, Numar persoane,113
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,66
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,63
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 1999, Numar persoane,75
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2000, Numar persoane,72
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2001, Numar persoane,76
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2002, Numar persoane,72
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2003, Numar persoane,68
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2004, Numar persoane,61
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,34
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,32
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 1999, Numar persoane,115
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2000, Numar persoane,114
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2001, Numar persoane,111
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2002, Numar persoane,119
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2003, Numar persoane,129
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2004, Numar persoane,114
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,66
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,67
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 1999, Numar persoane,60
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2000, Numar persoane,61
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2001, Numar persoane,55
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2002, Numar persoane,54
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2003, Numar persoane,47
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2004, Numar persoane,51
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,34
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,32
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 1999, Numar persoane,95
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2000, Numar persoane,90
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2001, Numar persoane,85
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2002, Numar persoane,88
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2003, Numar persoane,76
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2004, Numar persoane,82
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,44
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,43
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 1999, Numar persoane,16
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2000, Numar persoane,12
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2001, Numar persoane,19
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2002, Numar persoane,29
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2003, Numar persoane,31
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2004, Numar persoane,34
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,16
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,15
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 1999, Numar persoane,25
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2000, Numar persoane,28
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2001, Numar persoane,48
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2002, Numar persoane,46
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2003, Numar persoane,55
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2004, Numar persoane,62
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,32
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,31
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 1999, Numar persoane,5
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2000, Numar persoane,12
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2001, Numar persoane,11
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2002, Numar persoane,10
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2003, Numar persoane,13
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2004, Numar persoane,9
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,3
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,7
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 1999, Numar persoane,26
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2000, Numar persoane,33
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2001, Numar persoane,24
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2002, Numar persoane,21
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2003, Numar persoane,21
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2004, Numar persoane,18
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,14
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,20
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,69
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,66
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,69
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,70
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,71
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,69
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,61
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,58
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,48
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,49
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,63
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,66
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,80
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,73
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,71
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,78
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,74
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,70
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,83
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,79
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,82
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,79
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,59
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,64
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,80
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,77
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,82
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,79
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,83
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,80
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,66
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,65
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,65
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,65
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,83
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,83
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,105
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,109
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,96
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,82
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,74
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,83
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,106
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,101
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,93
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,81
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,74
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,65
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,104
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,111
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,116
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,126
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,123
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,110
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,90
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,101
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,108
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,119
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,123
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,115
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,85
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,89
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,94
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,101
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,101
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,106
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,99
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,97
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,99
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,95
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,92
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,87
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,75
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,82
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,75
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,73
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,90
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,93
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,82
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,78
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,81
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,87
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,90
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,102
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,83
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,79
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,83
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,96
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,100
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,92
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,100
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,100
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,90
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,94
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,89
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,88
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,73
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,74
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,83
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,77
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,85
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,97
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,64
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,66
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,87
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,93
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,100
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,103
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,86
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,87
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,79
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,82
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,75
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,74
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,84
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,93
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,89
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,78
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,71
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,64
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,85
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,85
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,91
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,93
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,85
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,85
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,60
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,59
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,63
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,79
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,89
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,89
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,78
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,83
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,74
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,75
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,93
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,91
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,64
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,61
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,66
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,64
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,62
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,64
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,51
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,53
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,72
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,74
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,66
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,71
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,52
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,51
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,51
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,56
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,62
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,64
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,38
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,37
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,38
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,37
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,43
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,42
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,60
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,57
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,57
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,48
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,40
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,43
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,32
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,35
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,33
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,31
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,30
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,31
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,63
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,56
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,58
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,58
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,55
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,54
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,27
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,29
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,26
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,26
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,24
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,24
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,47
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,56
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,50
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,56
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,54
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,49
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,21
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,17
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,22
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,24
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,23
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,18
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,27
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,25
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,24
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,26
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,27
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,33
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,8
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,9
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,11
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,9
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,12
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,19
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,25
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,26
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,25
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,20
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,23
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,24
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,65
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,68
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,61
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,62
+ 157683 MASLOC,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,55
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,62
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,61
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,63
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,53
+ 157683 MASLOC,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,53
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,65
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,71
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,72
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,69
+ 157683 MASLOC,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,65
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,59
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,54
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,55
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,65
+ 157683 MASLOC,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,66
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,76
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,66
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,80
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,83
+ 157683 MASLOC,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,75
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,80
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,75
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,74
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,60
+ 157683 MASLOC,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,63
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,82
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,87
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,81
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,75
+ 157683 MASLOC,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,82
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,63
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,62
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,66
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,81
+ 157683 MASLOC,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,84
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,110
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,95
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,81
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,75
+ 157683 MASLOC,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,81
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,104
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,90
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,70
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,63
+ 157683 MASLOC,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,56
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,104
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,109
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,117
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,120
+ 157683 MASLOC,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,114
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,89
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,101
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,118
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,110
+ 157683 MASLOC,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,101
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,99
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,97
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,98
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,102
+ 157683 MASLOC,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,107
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,100
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,98
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,91
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,84
+ 157683 MASLOC,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,90
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,88
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,84
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,82
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,84
+ 157683 MASLOC,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,93
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,84
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,81
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,79
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,84
+ 157683 MASLOC,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,97
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,95
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,97
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,99
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,101
+ 157683 MASLOC,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,90
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,104
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,88
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,88
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,90
+ 157683 MASLOC,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,85
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,75
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,81
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,88
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,89
+ 157683 MASLOC,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,98
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,68
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,85
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,91
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,98
+ 157683 MASLOC,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,100
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,89
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,82
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,80
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,76
+ 157683 MASLOC,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,73
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,95
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,91
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,81
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,70
+ 157683 MASLOC,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,65
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,86
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,93
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,91
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,83
+ 157683 MASLOC,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,82
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,63
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,69
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,78
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,94
+ 157683 MASLOC,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,92
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,77
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,73
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,75
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,88
+ 157683 MASLOC,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,85
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,67
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,67
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,61
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,64
+ 157683 MASLOC,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,66
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,43
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,54
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,59
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,55
+ 157683 MASLOC,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,64
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,45
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,48
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,53
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,56
+ 157683 MASLOC,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,56
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,29
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,27
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,24
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,32
+ 157683 MASLOC,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,32
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,50
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,45
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,38
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,33
+ 157683 MASLOC,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,40
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,26
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,27
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,25
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,24
+ 157683 MASLOC,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,22
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,47
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,49
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,50
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,49
+ 157683 MASLOC,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,49
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,19
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,17
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,15
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,18
+ 157683 MASLOC,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,17
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,39
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,35
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,39
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,37
+ 157683 MASLOC,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,32
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,16
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,17
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,18
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,18
+ 157683 MASLOC,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,20
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,23
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,28
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,28
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,31
+ 157683 MASLOC,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,36

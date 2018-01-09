@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 1992, Numar persoane,72
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 1993, Numar persoane,83
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 1994, Numar persoane,79
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 1995, Numar persoane,84
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 1996, Numar persoane,83
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 1997, Numar persoane,90
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 1998, Numar persoane,81
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 1999, Numar persoane,83
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2000, Numar persoane,80
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2001, Numar persoane,89
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2002, Numar persoane,84
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2003, Numar persoane,90
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2004, Numar persoane,95
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2005, Numar persoane,94
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 1992, Numar persoane,71
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 1993, Numar persoane,71
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 1994, Numar persoane,66
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 1995, Numar persoane,73
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 1996, Numar persoane,88
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 1997, Numar persoane,83
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 1998, Numar persoane,91
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 1999, Numar persoane,80
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2000, Numar persoane,82
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2001, Numar persoane,81
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2002, Numar persoane,91
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2003, Numar persoane,80
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2004, Numar persoane,84
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2005, Numar persoane,79
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 1992, Numar persoane,107
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 1993, Numar persoane,110
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 1994, Numar persoane,103
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 1995, Numar persoane,93
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 1996, Numar persoane,74
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 1997, Numar persoane,77
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 1998, Numar persoane,75
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 1999, Numar persoane,77
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2000, Numar persoane,84
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2001, Numar persoane,97
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2002, Numar persoane,86
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2003, Numar persoane,89
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2004, Numar persoane,78
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2005, Numar persoane,82
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 1992, Numar persoane,107
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 1993, Numar persoane,101
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 1994, Numar persoane,109
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 1995, Numar persoane,113
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 1996, Numar persoane,114
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 1997, Numar persoane,110
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 1998, Numar persoane,107
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 1999, Numar persoane,105
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2000, Numar persoane,94
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2001, Numar persoane,77
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2002, Numar persoane,82
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2003, Numar persoane,87
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2004, Numar persoane,87
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2005, Numar persoane,91
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 1992, Numar persoane,135
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 1993, Numar persoane,127
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 1994, Numar persoane,120
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 1995, Numar persoane,109
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 1996, Numar persoane,108
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 1997, Numar persoane,111
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 1998, Numar persoane,109
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 1999, Numar persoane,111
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2000, Numar persoane,111
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2001, Numar persoane,114
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2002, Numar persoane,114
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2003, Numar persoane,109
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2004, Numar persoane,115
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2005, Numar persoane,104
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 1992, Numar persoane,84
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 1993, Numar persoane,102
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 1994, Numar persoane,110
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 1995, Numar persoane,126
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 1996, Numar persoane,127
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 1997, Numar persoane,129
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 1998, Numar persoane,121
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 1999, Numar persoane,115
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2000, Numar persoane,100
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2001, Numar persoane,103
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2002, Numar persoane,110
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2003, Numar persoane,109
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2004, Numar persoane,114
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2005, Numar persoane,116
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 1992, Numar persoane,94
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 1993, Numar persoane,84
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 1994, Numar persoane,85
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 1995, Numar persoane,89
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 1996, Numar persoane,87
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 1997, Numar persoane,88
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 1998, Numar persoane,105
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 1999, Numar persoane,113
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2000, Numar persoane,127
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2001, Numar persoane,127
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2002, Numar persoane,126
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2003, Numar persoane,119
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2004, Numar persoane,111
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2005, Numar persoane,98
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 1992, Numar persoane,101
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 1993, Numar persoane,107
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 1994, Numar persoane,104
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 1995, Numar persoane,96
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 1996, Numar persoane,100
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 1997, Numar persoane,100
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 1998, Numar persoane,92
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 1999, Numar persoane,91
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2000, Numar persoane,94
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2001, Numar persoane,90
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2002, Numar persoane,90
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2003, Numar persoane,106
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2004, Numar persoane,116
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2005, Numar persoane,131
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 1992, Numar persoane,111
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 1993, Numar persoane,109
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 1994, Numar persoane,100
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 1995, Numar persoane,98
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 1996, Numar persoane,99
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 1997, Numar persoane,101
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 1998, Numar persoane,104
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 1999, Numar persoane,103
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2000, Numar persoane,102
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2001, Numar persoane,101
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2002, Numar persoane,100
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2003, Numar persoane,97
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2004, Numar persoane,97
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2005, Numar persoane,98
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 1992, Numar persoane,86
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 1993, Numar persoane,93
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 1994, Numar persoane,103
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 1995, Numar persoane,105
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 1996, Numar persoane,110
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 1997, Numar persoane,114
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 1998, Numar persoane,111
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 1999, Numar persoane,99
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2000, Numar persoane,98
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2001, Numar persoane,99
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2002, Numar persoane,101
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2003, Numar persoane,107
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2004, Numar persoane,104
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2005, Numar persoane,101
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 1992, Numar persoane,87
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 1993, Numar persoane,89
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 1994, Numar persoane,83
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 1995, Numar persoane,86
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 1996, Numar persoane,81
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 1997, Numar persoane,85
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 1998, Numar persoane,93
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 1999, Numar persoane,102
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2000, Numar persoane,105
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2001, Numar persoane,110
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2002, Numar persoane,113
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2003, Numar persoane,110
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2004, Numar persoane,101
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2005, Numar persoane,97
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 1992, Numar persoane,117
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 1993, Numar persoane,106
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 1994, Numar persoane,99
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 1995, Numar persoane,104
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 1996, Numar persoane,103
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 1997, Numar persoane,90
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 1998, Numar persoane,84
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 1999, Numar persoane,78
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2000, Numar persoane,80
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2001, Numar persoane,74
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2002, Numar persoane,80
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2003, Numar persoane,92
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2004, Numar persoane,103
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2005, Numar persoane,107
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 1992, Numar persoane,103
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 1993, Numar persoane,121
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 1994, Numar persoane,122
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 1995, Numar persoane,128
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 1996, Numar persoane,117
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 1997, Numar persoane,115
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 1998, Numar persoane,99
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 1999, Numar persoane,93
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2000, Numar persoane,88
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2001, Numar persoane,89
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2002, Numar persoane,75
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2003, Numar persoane,71
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2004, Numar persoane,70
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2005, Numar persoane,75
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 1992, Numar persoane,121
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 1993, Numar persoane,112
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 1994, Numar persoane,112
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 1995, Numar persoane,95
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 1996, Numar persoane,104
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 1997, Numar persoane,100
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 1998, Numar persoane,109
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 1999, Numar persoane,102
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2000, Numar persoane,102
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2001, Numar persoane,98
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2002, Numar persoane,96
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2003, Numar persoane,84
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2004, Numar persoane,82
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2005, Numar persoane,77
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 1992, Numar persoane,70
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 1993, Numar persoane,84
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 1994, Numar persoane,94
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 1995, Numar persoane,101
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 1996, Numar persoane,98
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 1997, Numar persoane,95
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 1998, Numar persoane,87
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 1999, Numar persoane,87
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2000, Numar persoane,69
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2001, Numar persoane,70
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2002, Numar persoane,68
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2003, Numar persoane,74
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2004, Numar persoane,80
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2005, Numar persoane,84
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 1992, Numar persoane,46
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 1993, Numar persoane,44
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 1994, Numar persoane,36
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 1995, Numar persoane,29
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 1996, Numar persoane,34
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 1997, Numar persoane,47
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 1998, Numar persoane,57
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 1999, Numar persoane,63
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2000, Numar persoane,68
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2001, Numar persoane,66
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2002, Numar persoane,63
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2003, Numar persoane,61
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2004, Numar persoane,59
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2005, Numar persoane,53
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 1992, Numar persoane,35
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 1993, Numar persoane,31
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 1994, Numar persoane,27
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 1995, Numar persoane,35
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 1996, Numar persoane,26
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 1997, Numar persoane,23
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 1998, Numar persoane,20
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 1999, Numar persoane,15
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2000, Numar persoane,12
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2001, Numar persoane,16
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2002, Numar persoane,28
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2003, Numar persoane,30
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2004, Numar persoane,36
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2005, Numar persoane,39
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 1992, Numar persoane,10
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 1993, Numar persoane,15
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 1994, Numar persoane,15
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 1995, Numar persoane,17
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 1996, Numar persoane,22
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 1997, Numar persoane,21
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 1998, Numar persoane,19
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 1999, Numar persoane,13
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2000, Numar persoane,10
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2001, Numar persoane,12
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2002, Numar persoane,7
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2003, Numar persoane,10
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2004, Numar persoane,9
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2005, Numar persoane,12
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 1992, Numar persoane,89
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 1993, Numar persoane,97
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 1994, Numar persoane,82
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 1995, Numar persoane,80
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 1996, Numar persoane,82
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 1997, Numar persoane,83
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 1998, Numar persoane,83
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 1999, Numar persoane,77
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2000, Numar persoane,73
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2001, Numar persoane,69
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2002, Numar persoane,76
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2003, Numar persoane,70
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2004, Numar persoane,75
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2005, Numar persoane,80
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2006, Numar persoane,77
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 1992, Numar persoane,91
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 1993, Numar persoane,87
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 1994, Numar persoane,105
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 1995, Numar persoane,106
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 1996, Numar persoane,100
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 1997, Numar persoane,103
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 1998, Numar persoane,107
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 1999, Numar persoane,92
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2000, Numar persoane,93
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2001, Numar persoane,92
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2002, Numar persoane,87
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2003, Numar persoane,82
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2004, Numar persoane,78
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2005, Numar persoane,74
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2006, Numar persoane,67
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 1992, Numar persoane,115
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 1993, Numar persoane,102
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 1994, Numar persoane,83
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 1995, Numar persoane,82
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 1996, Numar persoane,93
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 1997, Numar persoane,97
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 1998, Numar persoane,94
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 1999, Numar persoane,115
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2000, Numar persoane,118
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2001, Numar persoane,111
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2002, Numar persoane,108
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2003, Numar persoane,110
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2004, Numar persoane,96
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2005, Numar persoane,89
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2006, Numar persoane,88
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 1992, Numar persoane,147
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 1993, Numar persoane,143
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 1994, Numar persoane,149
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 1995, Numar persoane,133
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 1996, Numar persoane,130
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 1997, Numar persoane,112
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 1998, Numar persoane,100
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 1999, Numar persoane,87
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2000, Numar persoane,86
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2001, Numar persoane,99
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2002, Numar persoane,104
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2003, Numar persoane,104
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2004, Numar persoane,122
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2005, Numar persoane,120
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2006, Numar persoane,114
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 1992, Numar persoane,115
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 1993, Numar persoane,127
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 1994, Numar persoane,120
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 1995, Numar persoane,136
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 1996, Numar persoane,139
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 1997, Numar persoane,136
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 1998, Numar persoane,137
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 1999, Numar persoane,138
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2000, Numar persoane,126
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2001, Numar persoane,125
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2002, Numar persoane,118
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2003, Numar persoane,100
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2004, Numar persoane,86
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2005, Numar persoane,88
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2006, Numar persoane,100
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 1992, Numar persoane,66
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 1993, Numar persoane,75
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 1994, Numar persoane,91
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 1995, Numar persoane,98
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 1996, Numar persoane,108
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 1997, Numar persoane,114
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 1998, Numar persoane,124
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 1999, Numar persoane,112
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2000, Numar persoane,130
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2001, Numar persoane,128
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2002, Numar persoane,131
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2003, Numar persoane,131
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2004, Numar persoane,144
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2005, Numar persoane,132
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2006, Numar persoane,131
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 1992, Numar persoane,81
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 1993, Numar persoane,72
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 1994, Numar persoane,66
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 1995, Numar persoane,64
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 1996, Numar persoane,67
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 1997, Numar persoane,71
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 1998, Numar persoane,82
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 1999, Numar persoane,103
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2000, Numar persoane,105
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2001, Numar persoane,106
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2002, Numar persoane,105
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2003, Numar persoane,122
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2004, Numar persoane,111
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2005, Numar persoane,131
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2006, Numar persoane,127
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 1992, Numar persoane,112
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 1993, Numar persoane,115
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 1994, Numar persoane,104
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 1995, Numar persoane,97
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 1996, Numar persoane,90
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 1997, Numar persoane,90
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 1998, Numar persoane,77
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 1999, Numar persoane,70
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2000, Numar persoane,69
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2001, Numar persoane,74
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2002, Numar persoane,73
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2003, Numar persoane,80
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2004, Numar persoane,102
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2005, Numar persoane,106
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2006, Numar persoane,109
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 1992, Numar persoane,118
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 1993, Numar persoane,114
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 1994, Numar persoane,119
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 1995, Numar persoane,121
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 1996, Numar persoane,115
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 1997, Numar persoane,108
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 1998, Numar persoane,107
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 1999, Numar persoane,101
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2000, Numar persoane,100
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2001, Numar persoane,89
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2002, Numar persoane,95
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2003, Numar persoane,88
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2004, Numar persoane,77
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2005, Numar persoane,70
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2006, Numar persoane,74
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 1992, Numar persoane,98
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 1993, Numar persoane,99
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 1994, Numar persoane,92
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 1995, Numar persoane,91
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 1996, Numar persoane,104
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 1997, Numar persoane,113
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 1998, Numar persoane,115
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 1999, Numar persoane,119
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2000, Numar persoane,122
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2001, Numar persoane,119
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2002, Numar persoane,107
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2003, Numar persoane,108
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2004, Numar persoane,109
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2005, Numar persoane,109
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2006, Numar persoane,98
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 1992, Numar persoane,118
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 1993, Numar persoane,114
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 1994, Numar persoane,119
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 1995, Numar persoane,117
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 1996, Numar persoane,114
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 1997, Numar persoane,103
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 1998, Numar persoane,97
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 1999, Numar persoane,91
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2000, Numar persoane,90
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2001, Numar persoane,101
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2002, Numar persoane,112
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2003, Numar persoane,114
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2004, Numar persoane,121
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2005, Numar persoane,127
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2006, Numar persoane,125
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 1992, Numar persoane,113
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 1993, Numar persoane,124
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 1994, Numar persoane,121
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 1995, Numar persoane,124
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 1996, Numar persoane,118
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 1997, Numar persoane,121
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 1998, Numar persoane,117
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 1999, Numar persoane,122
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2000, Numar persoane,114
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2001, Numar persoane,114
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2002, Numar persoane,99
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2003, Numar persoane,93
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2004, Numar persoane,87
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2005, Numar persoane,91
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2006, Numar persoane,103
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 1992, Numar persoane,133
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 1993, Numar persoane,144
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 1994, Numar persoane,136
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 1995, Numar persoane,129
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 1996, Numar persoane,125
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 1997, Numar persoane,114
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 1998, Numar persoane,114
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 1999, Numar persoane,113
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2000, Numar persoane,115
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2001, Numar persoane,110
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2002, Numar persoane,119
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2003, Numar persoane,113
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2004, Numar persoane,118
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2005, Numar persoane,112
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2006, Numar persoane,114
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 1992, Numar persoane,122
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 1993, Numar persoane,127
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 1994, Numar persoane,139
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 1995, Numar persoane,134
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 1996, Numar persoane,132
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 1997, Numar persoane,132
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 1998, Numar persoane,131
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 1999, Numar persoane,121
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2000, Numar persoane,116
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2001, Numar persoane,115
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2002, Numar persoane,105
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2003, Numar persoane,108
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2004, Numar persoane,104
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2005, Numar persoane,106
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2006, Numar persoane,102
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 1992, Numar persoane,86
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 1993, Numar persoane,103
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 1994, Numar persoane,102
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 1995, Numar persoane,103
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 1996, Numar persoane,108
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 1997, Numar persoane,111
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 1998, Numar persoane,113
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 1999, Numar persoane,120
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2000, Numar persoane,119
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2001, Numar persoane,116
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2002, Numar persoane,116
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2003, Numar persoane,116
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2004, Numar persoane,111
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2005, Numar persoane,108
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2006, Numar persoane,106
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 1992, Numar persoane,51
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 1993, Numar persoane,51
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 1994, Numar persoane,38
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 1995, Numar persoane,47
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 1996, Numar persoane,54
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 1997, Numar persoane,65
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 1998, Numar persoane,79
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 1999, Numar persoane,77
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2000, Numar persoane,83
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2001, Numar persoane,90
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2002, Numar persoane,92
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2003, Numar persoane,92
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2004, Numar persoane,95
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2005, Numar persoane,96
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2006, Numar persoane,93
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 1992, Numar persoane,49
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 1993, Numar persoane,59
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 1994, Numar persoane,61
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 1995, Numar persoane,58
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 1996, Numar persoane,43
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 1997, Numar persoane,39
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 1998, Numar persoane,28
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 1999, Numar persoane,22
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2000, Numar persoane,28
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2001, Numar persoane,31
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2002, Numar persoane,43
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2003, Numar persoane,51
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2004, Numar persoane,44
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2005, Numar persoane,52
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2006, Numar persoane,62
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 1992, Numar persoane,20
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 1993, Numar persoane,16
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 1994, Numar persoane,17
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 1995, Numar persoane,22
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 1996, Numar persoane,27
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 1997, Numar persoane,27
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 1998, Numar persoane,23
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 1999, Numar persoane,23
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2000, Numar persoane,25
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2001, Numar persoane,18
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2002, Numar persoane,19
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2003, Numar persoane,17
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2004, Numar persoane,20
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2005, Numar persoane,23
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2006, Numar persoane,18
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2007, Numar persoane,74
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2008, Numar persoane,71
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2009, Numar persoane,66
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2010, Numar persoane,63
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2011, Numar persoane,69
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2012, Numar persoane,70
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2013, Numar persoane,66
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2014, Numar persoane,69
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2015, Numar persoane,71
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2016, Numar persoane,70
+ 115147 ALUNIS,0- 4 ani, Feminin, Mures, Anul 2017, Numar persoane,69
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2007, Numar persoane,74
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2008, Numar persoane,70
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2009, Numar persoane,74
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2010, Numar persoane,76
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2011, Numar persoane,72
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2012, Numar persoane,72
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2013, Numar persoane,72
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2014, Numar persoane,70
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2015, Numar persoane,67
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2016, Numar persoane,72
+ 115147 ALUNIS,5- 9 ani, Feminin, Mures, Anul 2017, Numar persoane,75
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2007, Numar persoane,86
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2008, Numar persoane,82
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2009, Numar persoane,76
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2010, Numar persoane,73
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2011, Numar persoane,68
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2012, Numar persoane,68
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2013, Numar persoane,67
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2014, Numar persoane,71
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2015, Numar persoane,79
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2016, Numar persoane,78
+ 115147 ALUNIS,10-14 ani, Feminin, Mures, Anul 2017, Numar persoane,77
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2007, Numar persoane,113
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2008, Numar persoane,115
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2009, Numar persoane,99
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2010, Numar persoane,91
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2011, Numar persoane,92
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2012, Numar persoane,92
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2013, Numar persoane,87
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2014, Numar persoane,83
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2015, Numar persoane,80
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2016, Numar persoane,75
+ 115147 ALUNIS,15-19 ani, Feminin, Mures, Anul 2017, Numar persoane,80
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2007, Numar persoane,99
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2008, Numar persoane,104
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2009, Numar persoane,127
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2010, Numar persoane,128
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2011, Numar persoane,122
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2012, Numar persoane,117
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2013, Numar persoane,110
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2014, Numar persoane,97
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2015, Numar persoane,87
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2016, Numar persoane,89
+ 115147 ALUNIS,20-24 ani, Feminin, Mures, Anul 2017, Numar persoane,93
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2007, Numar persoane,119
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2008, Numar persoane,104
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2009, Numar persoane,92
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2010, Numar persoane,89
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2011, Numar persoane,100
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2012, Numar persoane,102
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2013, Numar persoane,111
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2014, Numar persoane,123
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2015, Numar persoane,124
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2016, Numar persoane,124
+ 115147 ALUNIS,25-29 ani, Feminin, Mures, Anul 2017, Numar persoane,110
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2007, Numar persoane,138
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2008, Numar persoane,136
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2009, Numar persoane,141
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2010, Numar persoane,130
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2011, Numar persoane,128
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2012, Numar persoane,131
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2013, Numar persoane,115
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2014, Numar persoane,99
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2015, Numar persoane,95
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2016, Numar persoane,100
+ 115147 ALUNIS,30-34 ani, Feminin, Mures, Anul 2017, Numar persoane,97
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2007, Numar persoane,108
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2008, Numar persoane,127
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2009, Numar persoane,114
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2010, Numar persoane,133
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2011, Numar persoane,129
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2012, Numar persoane,131
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2013, Numar persoane,129
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2014, Numar persoane,137
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2015, Numar persoane,125
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2016, Numar persoane,123
+ 115147 ALUNIS,35-39 ani, Feminin, Mures, Anul 2017, Numar persoane,127
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2007, Numar persoane,76
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2008, Numar persoane,78
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2009, Numar persoane,100
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2010, Numar persoane,103
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2011, Numar persoane,110
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2012, Numar persoane,109
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2013, Numar persoane,126
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2014, Numar persoane,119
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2015, Numar persoane,137
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2016, Numar persoane,132
+ 115147 ALUNIS,40-44 ani, Feminin, Mures, Anul 2017, Numar persoane,133
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2007, Numar persoane,97
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2008, Numar persoane,89
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2009, Numar persoane,76
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2010, Numar persoane,71
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2011, Numar persoane,73
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2012, Numar persoane,76
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2013, Numar persoane,77
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2014, Numar persoane,99
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2015, Numar persoane,104
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2016, Numar persoane,113
+ 115147 ALUNIS,45-49 ani, Feminin, Mures, Anul 2017, Numar persoane,112
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2007, Numar persoane,120
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2008, Numar persoane,119
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2009, Numar persoane,117
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2010, Numar persoane,116
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2011, Numar persoane,103
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2012, Numar persoane,99
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2013, Numar persoane,85
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2014, Numar persoane,70
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2015, Numar persoane,65
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2016, Numar persoane,68
+ 115147 ALUNIS,50-54 ani, Feminin, Mures, Anul 2017, Numar persoane,73
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2007, Numar persoane,112
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2008, Numar persoane,117
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2009, Numar persoane,121
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2010, Numar persoane,122
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2011, Numar persoane,122
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2012, Numar persoane,116
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2013, Numar persoane,118
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2014, Numar persoane,116
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2015, Numar persoane,114
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2016, Numar persoane,101
+ 115147 ALUNIS,55-59 ani, Feminin, Mures, Anul 2017, Numar persoane,97
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2007, Numar persoane,104
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2008, Numar persoane,96
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2009, Numar persoane,90
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2010, Numar persoane,90
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2011, Numar persoane,100
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2012, Numar persoane,110
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2013, Numar persoane,115
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2014, Numar persoane,120
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2015, Numar persoane,121
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2016, Numar persoane,119
+ 115147 ALUNIS,60-64 ani, Feminin, Mures, Anul 2017, Numar persoane,113
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2007, Numar persoane,111
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2008, Numar persoane,107
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2009, Numar persoane,114
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2010, Numar persoane,109
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2011, Numar persoane,113
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2012, Numar persoane,101
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2013, Numar persoane,91
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2014, Numar persoane,88
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2015, Numar persoane,90
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2016, Numar persoane,96
+ 115147 ALUNIS,65-69 ani, Feminin, Mures, Anul 2017, Numar persoane,107
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2007, Numar persoane,92
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2008, Numar persoane,96
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2009, Numar persoane,95
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2010, Numar persoane,93
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2011, Numar persoane,90
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2012, Numar persoane,98
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2013, Numar persoane,98
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2014, Numar persoane,103
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2015, Numar persoane,99
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2016, Numar persoane,104
+ 115147 ALUNIS,70-74 ani, Feminin, Mures, Anul 2017, Numar persoane,93
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2007, Numar persoane,96
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2008, Numar persoane,94
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2009, Numar persoane,87
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2010, Numar persoane,83
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2011, Numar persoane,77
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2012, Numar persoane,75
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2013, Numar persoane,77
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2014, Numar persoane,76
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2015, Numar persoane,77
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2016, Numar persoane,76
+ 115147 ALUNIS,75-79 ani, Feminin, Mures, Anul 2017, Numar persoane,81
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2007, Numar persoane,65
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2008, Numar persoane,62
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2009, Numar persoane,73
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2010, Numar persoane,72
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2011, Numar persoane,64
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2012, Numar persoane,69
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2013, Numar persoane,70
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2014, Numar persoane,66
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2015, Numar persoane,62
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2016, Numar persoane,51
+ 115147 ALUNIS,80-84 ani, Feminin, Mures, Anul 2017, Numar persoane,50
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2007, Numar persoane,23
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2008, Numar persoane,29
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2009, Numar persoane,32
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2010, Numar persoane,40
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2011, Numar persoane,44
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2012, Numar persoane,49
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2013, Numar persoane,50
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2014, Numar persoane,50
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2015, Numar persoane,49
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2016, Numar persoane,45
+ 115147 ALUNIS,85 ani si peste, Feminin, Mures, Anul 2017, Numar persoane,44
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2006, Numar persoane,78
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2007, Numar persoane,79
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2008, Numar persoane,81
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2009, Numar persoane,85
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2010, Numar persoane,86
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2011, Numar persoane,90
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2012, Numar persoane,88
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2013, Numar persoane,85
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2014, Numar persoane,79
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2015, Numar persoane,73
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2016, Numar persoane,73
+ 115147 ALUNIS,0- 4 ani, Masculin, Mures, Anul 2017, Numar persoane,75
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2006, Numar persoane,89
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2007, Numar persoane,83
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2008, Numar persoane,91
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2009, Numar persoane,92
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2010, Numar persoane,91
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2011, Numar persoane,77
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2012, Numar persoane,83
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2013, Numar persoane,85
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2014, Numar persoane,86
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2015, Numar persoane,84
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2016, Numar persoane,91
+ 115147 ALUNIS,5- 9 ani, Masculin, Mures, Anul 2017, Numar persoane,90
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2006, Numar persoane,79
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2007, Numar persoane,91
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2008, Numar persoane,81
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2009, Numar persoane,84
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2010, Numar persoane,82
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2011, Numar persoane,91
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2012, Numar persoane,80
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2013, Numar persoane,92
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2014, Numar persoane,96
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2015, Numar persoane,97
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2016, Numar persoane,76
+ 115147 ALUNIS,10-14 ani, Masculin, Mures, Anul 2017, Numar persoane,88
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2006, Numar persoane,101
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2007, Numar persoane,86
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2008, Numar persoane,90
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2009, Numar persoane,79
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2010, Numar persoane,84
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2011, Numar persoane,80
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2012, Numar persoane,89
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2013, Numar persoane,75
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2014, Numar persoane,80
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2015, Numar persoane,81
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2016, Numar persoane,97
+ 115147 ALUNIS,15-19 ani, Masculin, Mures, Anul 2017, Numar persoane,91
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2006, Numar persoane,91
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2007, Numar persoane,97
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2008, Numar persoane,91
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2009, Numar persoane,92
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2010, Numar persoane,95
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2011, Numar persoane,108
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2012, Numar persoane,89
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2013, Numar persoane,93
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2014, Numar persoane,79
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2015, Numar persoane,84
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2016, Numar persoane,80
+ 115147 ALUNIS,20-24 ani, Masculin, Mures, Anul 2017, Numar persoane,86
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2006, Numar persoane,118
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2007, Numar persoane,114
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2008, Numar persoane,113
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2009, Numar persoane,112
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2010, Numar persoane,102
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2011, Numar persoane,94
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2012, Numar persoane,105
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2013, Numar persoane,103
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2014, Numar persoane,100
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2015, Numar persoane,103
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2016, Numar persoane,107
+ 115147 ALUNIS,25-29 ani, Masculin, Mures, Anul 2017, Numar persoane,93
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2006, Numar persoane,104
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2007, Numar persoane,111
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2008, Numar persoane,106
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2009, Numar persoane,107
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2010, Numar persoane,115
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2011, Numar persoane,116
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2012, Numar persoane,116
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2013, Numar persoane,113
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2014, Numar persoane,115
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2015, Numar persoane,101
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2016, Numar persoane,96
+ 115147 ALUNIS,30-34 ani, Masculin, Mures, Anul 2017, Numar persoane,101
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2006, Numar persoane,133
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2007, Numar persoane,131
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2008, Numar persoane,123
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2009, Numar persoane,118
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2010, Numar persoane,106
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2011, Numar persoane,111
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2012, Numar persoane,118
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2013, Numar persoane,115
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2014, Numar persoane,117
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2015, Numar persoane,118
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2016, Numar persoane,115
+ 115147 ALUNIS,35-39 ani, Masculin, Mures, Anul 2017, Numar persoane,112
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2006, Numar persoane,90
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2007, Numar persoane,92
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2008, Numar persoane,110
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2009, Numar persoane,119
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2010, Numar persoane,132
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2011, Numar persoane,132
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2012, Numar persoane,129
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2013, Numar persoane,126
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2014, Numar persoane,120
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2015, Numar persoane,111
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2016, Numar persoane,121
+ 115147 ALUNIS,40-44 ani, Masculin, Mures, Anul 2017, Numar persoane,125
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2006, Numar persoane,104
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2007, Numar persoane,104
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2008, Numar persoane,98
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2009, Numar persoane,99
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2010, Numar persoane,105
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2011, Numar persoane,96
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2012, Numar persoane,98
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2013, Numar persoane,110
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2014, Numar persoane,117
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2015, Numar persoane,125
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2016, Numar persoane,126
+ 115147 ALUNIS,45-49 ani, Masculin, Mures, Anul 2017, Numar persoane,126
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2006, Numar persoane,104
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2007, Numar persoane,102
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2008, Numar persoane,117
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2009, Numar persoane,105
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2010, Numar persoane,101
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2011, Numar persoane,106
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2012, Numar persoane,102
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2013, Numar persoane,94
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2014, Numar persoane,101
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2015, Numar persoane,105
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2016, Numar persoane,93
+ 115147 ALUNIS,50-54 ani, Masculin, Mures, Anul 2017, Numar persoane,93
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2006, Numar persoane,108
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2007, Numar persoane,113
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2008, Numar persoane,108
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2009, Numar persoane,102
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2010, Numar persoane,101
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2011, Numar persoane,105
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2012, Numar persoane,107
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2013, Numar persoane,109
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2014, Numar persoane,101
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2015, Numar persoane,102
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2016, Numar persoane,103
+ 115147 ALUNIS,55-59 ani, Masculin, Mures, Anul 2017, Numar persoane,97
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2006, Numar persoane,72
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2007, Numar persoane,80
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2008, Numar persoane,88
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2009, Numar persoane,99
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2010, Numar persoane,101
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2011, Numar persoane,103
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2012, Numar persoane,104
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2013, Numar persoane,101
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2014, Numar persoane,95
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2015, Numar persoane,88
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2016, Numar persoane,93
+ 115147 ALUNIS,60-64 ani, Masculin, Mures, Anul 2017, Numar persoane,102
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2006, Numar persoane,77
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2007, Numar persoane,69
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2008, Numar persoane,70
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2009, Numar persoane,73
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2010, Numar persoane,76
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2011, Numar persoane,71
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2012, Numar persoane,76
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2013, Numar persoane,80
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2014, Numar persoane,90
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2015, Numar persoane,91
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2016, Numar persoane,94
+ 115147 ALUNIS,65-69 ani, Masculin, Mures, Anul 2017, Numar persoane,90
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2006, Numar persoane,88
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2007, Numar persoane,86
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2008, Numar persoane,76
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2009, Numar persoane,73
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2010, Numar persoane,73
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2011, Numar persoane,75
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2012, Numar persoane,67
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2013, Numar persoane,63
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2014, Numar persoane,62
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2015, Numar persoane,63
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2016, Numar persoane,58
+ 115147 ALUNIS,70-74 ani, Masculin, Mures, Anul 2017, Numar persoane,66
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2006, Numar persoane,49
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2007, Numar persoane,46
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2008, Numar persoane,55
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2009, Numar persoane,57
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2010, Numar persoane,64
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2011, Numar persoane,63
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2012, Numar persoane,63
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2013, Numar persoane,55
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2014, Numar persoane,54
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2015, Numar persoane,54
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2016, Numar persoane,57
+ 115147 ALUNIS,75-79 ani, Masculin, Mures, Anul 2017, Numar persoane,52
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2006, Numar persoane,41
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2007, Numar persoane,41
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2008, Numar persoane,34
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2009, Numar persoane,30
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2010, Numar persoane,27
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2011, Numar persoane,27
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2012, Numar persoane,24
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2013, Numar persoane,35
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2014, Numar persoane,36
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2015, Numar persoane,39
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2016, Numar persoane,41
+ 115147 ALUNIS,80-84 ani, Masculin, Mures, Anul 2017, Numar persoane,42
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2006, Numar persoane,15
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2007, Numar persoane,21
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2008, Numar persoane,22
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2009, Numar persoane,25
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2010, Numar persoane,22
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2011, Numar persoane,24
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2012, Numar persoane,27
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2013, Numar persoane,24
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2014, Numar persoane,22
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2015, Numar persoane,17
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2016, Numar persoane,17
+ 115147 ALUNIS,85 ani si peste, Masculin, Mures, Anul 2017, Numar persoane,17

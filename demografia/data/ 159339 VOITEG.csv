@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 1992, Numar persoane,80
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 1993, Numar persoane,75
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 1994, Numar persoane,73
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 1995, Numar persoane,73
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 1996, Numar persoane,78
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 1997, Numar persoane,76
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 1998, Numar persoane,75
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 1992, Numar persoane,85
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 1993, Numar persoane,70
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 1994, Numar persoane,69
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 1995, Numar persoane,67
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 1996, Numar persoane,62
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 1997, Numar persoane,60
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 1998, Numar persoane,56
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 1992, Numar persoane,75
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 1993, Numar persoane,82
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 1994, Numar persoane,89
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 1995, Numar persoane,77
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 1996, Numar persoane,77
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 1997, Numar persoane,81
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 1998, Numar persoane,78
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 1992, Numar persoane,64
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 1993, Numar persoane,86
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 1994, Numar persoane,87
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 1995, Numar persoane,89
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 1996, Numar persoane,89
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 1997, Numar persoane,85
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 1998, Numar persoane,70
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 1992, Numar persoane,77
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 1993, Numar persoane,82
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 1994, Numar persoane,83
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 1995, Numar persoane,78
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 1996, Numar persoane,79
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 1997, Numar persoane,78
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 1998, Numar persoane,82
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 1992, Numar persoane,104
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 1993, Numar persoane,89
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 1994, Numar persoane,81
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 1995, Numar persoane,79
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 1996, Numar persoane,70
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 1997, Numar persoane,65
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 1998, Numar persoane,87
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 1992, Numar persoane,117
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 1993, Numar persoane,106
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 1994, Numar persoane,84
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 1995, Numar persoane,87
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 1996, Numar persoane,91
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 1997, Numar persoane,82
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 1998, Numar persoane,83
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 1992, Numar persoane,107
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 1993, Numar persoane,111
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 1994, Numar persoane,107
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 1995, Numar persoane,104
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 1996, Numar persoane,99
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 1997, Numar persoane,100
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 1998, Numar persoane,85
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 1992, Numar persoane,122
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 1993, Numar persoane,117
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 1994, Numar persoane,130
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 1995, Numar persoane,119
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 1996, Numar persoane,115
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 1997, Numar persoane,111
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 1998, Numar persoane,103
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 1992, Numar persoane,113
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 1993, Numar persoane,113
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 1994, Numar persoane,112
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 1995, Numar persoane,104
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 1996, Numar persoane,103
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 1997, Numar persoane,104
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 1998, Numar persoane,108
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 1992, Numar persoane,54
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 1993, Numar persoane,75
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 1994, Numar persoane,85
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 1995, Numar persoane,101
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 1996, Numar persoane,111
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 1997, Numar persoane,132
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 1998, Numar persoane,125
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 1992, Numar persoane,55
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 1993, Numar persoane,63
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 1994, Numar persoane,68
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 1995, Numar persoane,88
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 1996, Numar persoane,100
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 1997, Numar persoane,113
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 1998, Numar persoane,113
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 1992, Numar persoane,69
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 1993, Numar persoane,54
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 1994, Numar persoane,53
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 1995, Numar persoane,56
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 1996, Numar persoane,54
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 1997, Numar persoane,51
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 1998, Numar persoane,72
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 1992, Numar persoane,60
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 1993, Numar persoane,50
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 1994, Numar persoane,54
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 1995, Numar persoane,50
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 1996, Numar persoane,52
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 1997, Numar persoane,52
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 1998, Numar persoane,60
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 1992, Numar persoane,65
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 1993, Numar persoane,65
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 1994, Numar persoane,68
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 1995, Numar persoane,73
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 1996, Numar persoane,66
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 1997, Numar persoane,69
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 1998, Numar persoane,57
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 1992, Numar persoane,56
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 1993, Numar persoane,58
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 1994, Numar persoane,61
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 1995, Numar persoane,60
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 1996, Numar persoane,55
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 1997, Numar persoane,52
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 1998, Numar persoane,48
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 1992, Numar persoane,78
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 1993, Numar persoane,77
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 1994, Numar persoane,66
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 1995, Numar persoane,62
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 1996, Numar persoane,64
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 1997, Numar persoane,62
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 1998, Numar persoane,67
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 1992, Numar persoane,86
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 1993, Numar persoane,84
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 1994, Numar persoane,70
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 1995, Numar persoane,59
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 1996, Numar persoane,59
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 1997, Numar persoane,57
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 1998, Numar persoane,60
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 1992, Numar persoane,67
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 1993, Numar persoane,73
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 1994, Numar persoane,77
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 1995, Numar persoane,80
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 1996, Numar persoane,82
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 1997, Numar persoane,73
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 1998, Numar persoane,73
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 1992, Numar persoane,70
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 1993, Numar persoane,63
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 1994, Numar persoane,71
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 1995, Numar persoane,74
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 1996, Numar persoane,75
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 1997, Numar persoane,80
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 1998, Numar persoane,82
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 1992, Numar persoane,92
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 1993, Numar persoane,87
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 1994, Numar persoane,77
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 1995, Numar persoane,72
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 1996, Numar persoane,71
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 1997, Numar persoane,60
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 1998, Numar persoane,69
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 1992, Numar persoane,81
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 1993, Numar persoane,81
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 1994, Numar persoane,74
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 1995, Numar persoane,71
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 1996, Numar persoane,72
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 1997, Numar persoane,66
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 1998, Numar persoane,62
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 1992, Numar persoane,66
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 1993, Numar persoane,64
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 1994, Numar persoane,73
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 1995, Numar persoane,77
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 1996, Numar persoane,72
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 1997, Numar persoane,82
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 1998, Numar persoane,81
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 1992, Numar persoane,73
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 1993, Numar persoane,75
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 1994, Numar persoane,77
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 1995, Numar persoane,70
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 1996, Numar persoane,74
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 1997, Numar persoane,70
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 1998, Numar persoane,72
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 1992, Numar persoane,64
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 1993, Numar persoane,61
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 1994, Numar persoane,60
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 1995, Numar persoane,60
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 1996, Numar persoane,59
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 1997, Numar persoane,59
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 1998, Numar persoane,55
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 1992, Numar persoane,79
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 1993, Numar persoane,75
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 1994, Numar persoane,74
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 1995, Numar persoane,80
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 1996, Numar persoane,73
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 1997, Numar persoane,66
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 1998, Numar persoane,67
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 1992, Numar persoane,69
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 1993, Numar persoane,64
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 1994, Numar persoane,55
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 1995, Numar persoane,52
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 1996, Numar persoane,58
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 1997, Numar persoane,53
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 1998, Numar persoane,50
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 1992, Numar persoane,86
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 1993, Numar persoane,85
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 1994, Numar persoane,80
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 1995, Numar persoane,83
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 1996, Numar persoane,77
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 1997, Numar persoane,71
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 1998, Numar persoane,65
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 1992, Numar persoane,38
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 1993, Numar persoane,44
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 1994, Numar persoane,50
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 1995, Numar persoane,51
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 1996, Numar persoane,45
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 1997, Numar persoane,53
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 1998, Numar persoane,46
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 1992, Numar persoane,43
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 1993, Numar persoane,47
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 1994, Numar persoane,58
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 1995, Numar persoane,56
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 1996, Numar persoane,66
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 1997, Numar persoane,75
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 1998, Numar persoane,81
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 1992, Numar persoane,20
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 1993, Numar persoane,18
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 1994, Numar persoane,19
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 1995, Numar persoane,23
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 1996, Numar persoane,34
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 1997, Numar persoane,36
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 1998, Numar persoane,42
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 1992, Numar persoane,45
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 1993, Numar persoane,34
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 1994, Numar persoane,28
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 1995, Numar persoane,23
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 1996, Numar persoane,28
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 1997, Numar persoane,30
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 1998, Numar persoane,34
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 1992, Numar persoane,15
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 1993, Numar persoane,16
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 1994, Numar persoane,12
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 1995, Numar persoane,13
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 1996, Numar persoane,14
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 1997, Numar persoane,12
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 1998, Numar persoane,12
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 1992, Numar persoane,27
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 1993, Numar persoane,27
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 1994, Numar persoane,26
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 1995, Numar persoane,36
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 1996, Numar persoane,31
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 1997, Numar persoane,30
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 1998, Numar persoane,22
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 1992, Numar persoane,8
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 1993, Numar persoane,7
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 1994, Numar persoane,9
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 1995, Numar persoane,9
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 1996, Numar persoane,9
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 1997, Numar persoane,8
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 1998, Numar persoane,7
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 1992, Numar persoane,12
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 1993, Numar persoane,11
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 1994, Numar persoane,13
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 1995, Numar persoane,13
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 1996, Numar persoane,12
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 1997, Numar persoane,10
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 1998, Numar persoane,16
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 1999, Numar persoane,67
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2000, Numar persoane,74
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2001, Numar persoane,66
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2002, Numar persoane,64
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2003, Numar persoane,59
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2004, Numar persoane,57
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,51
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,50
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 1999, Numar persoane,53
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2000, Numar persoane,57
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2001, Numar persoane,56
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2002, Numar persoane,60
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2003, Numar persoane,63
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2004, Numar persoane,60
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,53
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,63
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 1999, Numar persoane,74
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2000, Numar persoane,77
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2001, Numar persoane,84
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2002, Numar persoane,82
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2003, Numar persoane,80
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2004, Numar persoane,72
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,73
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,67
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 1999, Numar persoane,70
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2000, Numar persoane,66
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2001, Numar persoane,64
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2002, Numar persoane,67
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2003, Numar persoane,68
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2004, Numar persoane,60
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,59
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,56
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 1999, Numar persoane,86
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2000, Numar persoane,78
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2001, Numar persoane,80
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2002, Numar persoane,89
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2003, Numar persoane,88
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2004, Numar persoane,83
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,79
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,81
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 1999, Numar persoane,88
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2000, Numar persoane,89
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2001, Numar persoane,90
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2002, Numar persoane,88
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2003, Numar persoane,73
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2004, Numar persoane,79
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,73
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,68
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 1999, Numar persoane,88
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2000, Numar persoane,82
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2001, Numar persoane,80
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2002, Numar persoane,76
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2003, Numar persoane,86
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2004, Numar persoane,92
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,82
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,80
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 1999, Numar persoane,85
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2000, Numar persoane,85
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2001, Numar persoane,73
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2002, Numar persoane,69
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2003, Numar persoane,87
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2004, Numar persoane,85
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,89
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,93
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 1999, Numar persoane,89
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2000, Numar persoane,94
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2001, Numar persoane,95
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2002, Numar persoane,89
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2003, Numar persoane,85
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2004, Numar persoane,91
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,86
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,83
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 1999, Numar persoane,104
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2000, Numar persoane,98
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2001, Numar persoane,102
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2002, Numar persoane,109
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2003, Numar persoane,93
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2004, Numar persoane,86
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,84
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,67
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 1999, Numar persoane,129
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2000, Numar persoane,118
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2001, Numar persoane,116
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2002, Numar persoane,109
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2003, Numar persoane,109
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2004, Numar persoane,94
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,101
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,105
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 1999, Numar persoane,106
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2000, Numar persoane,107
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2001, Numar persoane,109
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2002, Numar persoane,103
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2003, Numar persoane,114
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2004, Numar persoane,111
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,100
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,96
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 1999, Numar persoane,90
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2000, Numar persoane,111
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2001, Numar persoane,123
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2002, Numar persoane,138
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2003, Numar persoane,125
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2004, Numar persoane,126
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,113
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,116
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 1999, Numar persoane,70
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2000, Numar persoane,85
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2001, Numar persoane,98
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2002, Numar persoane,109
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2003, Numar persoane,104
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2004, Numar persoane,104
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,104
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,111
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 1999, Numar persoane,58
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2000, Numar persoane,58
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2001, Numar persoane,53
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2002, Numar persoane,55
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2003, Numar persoane,76
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2004, Numar persoane,92
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,109
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,118
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 1999, Numar persoane,53
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2000, Numar persoane,50
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2001, Numar persoane,51
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2002, Numar persoane,51
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2003, Numar persoane,54
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2004, Numar persoane,65
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,85
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,98
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 1999, Numar persoane,73
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2000, Numar persoane,75
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2001, Numar persoane,74
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2002, Numar persoane,77
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2003, Numar persoane,63
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2004, Numar persoane,60
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,60
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,58
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 1999, Numar persoane,65
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2000, Numar persoane,64
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2001, Numar persoane,66
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2002, Numar persoane,63
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2003, Numar persoane,61
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2004, Numar persoane,59
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,52
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,52
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 1999, Numar persoane,73
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2000, Numar persoane,68
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2001, Numar persoane,68
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2002, Numar persoane,66
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2003, Numar persoane,71
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2004, Numar persoane,77
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,81
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,71
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 1999, Numar persoane,70
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2000, Numar persoane,61
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2001, Numar persoane,65
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2002, Numar persoane,65
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2003, Numar persoane,70
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2004, Numar persoane,76
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,78
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,71
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 1999, Numar persoane,73
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2000, Numar persoane,75
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2001, Numar persoane,77
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2002, Numar persoane,75
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2003, Numar persoane,73
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2004, Numar persoane,69
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,67
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,70
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 1999, Numar persoane,69
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2000, Numar persoane,71
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2001, Numar persoane,73
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2002, Numar persoane,79
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2003, Numar persoane,84
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2004, Numar persoane,75
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,70
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,72
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 1999, Numar persoane,73
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2000, Numar persoane,68
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2001, Numar persoane,69
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2002, Numar persoane,54
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2003, Numar persoane,64
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2004, Numar persoane,64
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,65
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,69
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 1999, Numar persoane,67
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2000, Numar persoane,63
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2001, Numar persoane,65
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2002, Numar persoane,64
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2003, Numar persoane,56
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2004, Numar persoane,65
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,67
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,71
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 1999, Numar persoane,65
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2000, Numar persoane,69
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2001, Numar persoane,65
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2002, Numar persoane,78
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2003, Numar persoane,76
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2004, Numar persoane,66
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,63
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,60
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 1999, Numar persoane,65
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2000, Numar persoane,61
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2001, Numar persoane,63
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2002, Numar persoane,63
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2003, Numar persoane,66
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2004, Numar persoane,61
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,59
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,62
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 1999, Numar persoane,53
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2000, Numar persoane,47
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2001, Numar persoane,50
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2002, Numar persoane,55
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2003, Numar persoane,48
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2004, Numar persoane,53
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,54
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,51
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 1999, Numar persoane,67
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2000, Numar persoane,71
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2001, Numar persoane,64
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2002, Numar persoane,56
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2003, Numar persoane,57
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2004, Numar persoane,59
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,59
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,56
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 1999, Numar persoane,44
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2000, Numar persoane,36
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2001, Numar persoane,39
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2002, Numar persoane,37
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2003, Numar persoane,33
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2004, Numar persoane,35
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,37
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,44
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 1999, Numar persoane,76
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2000, Numar persoane,78
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2001, Numar persoane,71
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2002, Numar persoane,64
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2003, Numar persoane,59
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2004, Numar persoane,59
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,62
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,57
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 1999, Numar persoane,41
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2000, Numar persoane,44
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2001, Numar persoane,35
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2002, Numar persoane,32
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2003, Numar persoane,30
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2004, Numar persoane,32
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,25
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,22
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 1999, Numar persoane,44
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2000, Numar persoane,46
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2001, Numar persoane,54
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2002, Numar persoane,63
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2003, Numar persoane,65
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2004, Numar persoane,61
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,61
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,57
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 1999, Numar persoane,14
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2000, Numar persoane,17
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2001, Numar persoane,25
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2002, Numar persoane,24
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2003, Numar persoane,26
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2004, Numar persoane,22
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,23
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,20
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 1999, Numar persoane,17
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2000, Numar persoane,13
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2001, Numar persoane,19
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2002, Numar persoane,19
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2003, Numar persoane,21
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2004, Numar persoane,28
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,33
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,34
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 1999, Numar persoane,5
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2000, Numar persoane,7
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2001, Numar persoane,7
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2002, Numar persoane,8
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2003, Numar persoane,9
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2004, Numar persoane,10
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,12
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,15
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 1999, Numar persoane,15
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2000, Numar persoane,17
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2001, Numar persoane,11
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2002, Numar persoane,9
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2003, Numar persoane,10
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2004, Numar persoane,10
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,9
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,13
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,57
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,47
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,46
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,53
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,53
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,44
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,67
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,67
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,61
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,63
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,58
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,56
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,64
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,66
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,66
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,57
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,57
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,57
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,57
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,62
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,61
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,59
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,67
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,66
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,85
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,84
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,78
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,86
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,78
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,71
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,67
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,65
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,62
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,59
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,61
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,58
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,87
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,90
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,90
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,88
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,93
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,86
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,90
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,77
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,80
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,80
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,76
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,77
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,83
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,89
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,93
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,86
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,88
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,94
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,64
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,84
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,84
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,95
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,97
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,97
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,99
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,94
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,93
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,80
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,79
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,78
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,97
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,88
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,80
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,73
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,64
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,64
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,110
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,107
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,95
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,104
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,101
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,98
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,109
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,109
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,110
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,105
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,91
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,90
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,132
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,129
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,125
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,120
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,118
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,107
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,106
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,108
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,107
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,103
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,116
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,110
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,60
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,74
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,95
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,114
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,130
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,142
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,53
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,57
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,68
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,86
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,103
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,113
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,80
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,66
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,60
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,58
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,55
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,57
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,69
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,67
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,61
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,56
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,53
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,54
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,68
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,77
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,81
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,84
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,77
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,82
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,73
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,71
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,78
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,80
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,77
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,71
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,70
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,70
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,66
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,62
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,70
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,66
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,78
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,90
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,81
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,74
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,78
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,78
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,48
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,55
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,60
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,66
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,66
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,63
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,61
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,55
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,65
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,69
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,70
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,80
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,67
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,67
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,59
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,57
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,53
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,46
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,59
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,65
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,57
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,58
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,64
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,61
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,35
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,33
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,35
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,38
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,42
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,52
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,49
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,52
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,56
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,52
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,49
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,52
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,22
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,23
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,28
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,28
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,31
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,25
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,54
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,50
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,49
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,54
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,51
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,43
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,21
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,20
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,18
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,14
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,13
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,15
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,38
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,43
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,41
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,35
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,33
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,35
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,14
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,14
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,15
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,16
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,15
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,14
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,14
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,10
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,13
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,18
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,22
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,20
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,46
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,47
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,45
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,40
+ 159339 VOITEG,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,51
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,46
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,46
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,41
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,43
+ 159339 VOITEG,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,45
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,44
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,46
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,50
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,53
+ 159339 VOITEG,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,49
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,68
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,69
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,66
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,59
+ 159339 VOITEG,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,57
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,72
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,70
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,63
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,61
+ 159339 VOITEG,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,59
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,64
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,57
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,57
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,67
+ 159339 VOITEG,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,72
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,78
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,73
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,78
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,74
+ 159339 VOITEG,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,73
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,72
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,67
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,62
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,59
+ 159339 VOITEG,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,55
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,90
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,91
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,85
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,90
+ 159339 VOITEG,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,85
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,82
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,82
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,79
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,76
+ 159339 VOITEG,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,75
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,88
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,97
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,93
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,91
+ 159339 VOITEG,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,94
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,78
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,84
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,90
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,89
+ 159339 VOITEG,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,92
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,99
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,93
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,85
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,92
+ 159339 VOITEG,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,94
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,80
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,78
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,73
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,70
+ 159339 VOITEG,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,70
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,104
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,96
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,103
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,98
+ 159339 VOITEG,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,103
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,108
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,100
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,97
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,92
+ 159339 VOITEG,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,89
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,136
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,130
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,119
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,118
+ 159339 VOITEG,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,113
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,112
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,111
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,103
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,113
+ 159339 VOITEG,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,112
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,70
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,94
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,115
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,129
+ 159339 VOITEG,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,143
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,60
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,72
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,87
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,98
+ 159339 VOITEG,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,110
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,68
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,60
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,55
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,55
+ 159339 VOITEG,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,55
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,68
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,62
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,56
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,51
+ 159339 VOITEG,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,53
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,72
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,75
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,78
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,73
+ 159339 VOITEG,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,82
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,79
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,84
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,82
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,81
+ 159339 VOITEG,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,75
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,61
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,59
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,53
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,63
+ 159339 VOITEG,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,61
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,86
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,79
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,75
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,75
+ 159339 VOITEG,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,79
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,53
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,52
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,60
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,59
+ 159339 VOITEG,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,59
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,51
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,62
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,65
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,66
+ 159339 VOITEG,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,74
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,52
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,48
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,45
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,41
+ 159339 VOITEG,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,35
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,58
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,52
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,54
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,60
+ 159339 VOITEG,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,56
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,20
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,22
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,31
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,32
+ 159339 VOITEG,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,36
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,39
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,45
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,43
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,39
+ 159339 VOITEG,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,42
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,16
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,18
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,15
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,13
+ 159339 VOITEG,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,13
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,34
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,32
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,36
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,32
+ 159339 VOITEG,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,27
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,13
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,14
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,12
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,14
+ 159339 VOITEG,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,14
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,25
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,28
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,26
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,25
+ 159339 VOITEG,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,28

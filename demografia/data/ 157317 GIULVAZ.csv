@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 1992, Numar persoane,110
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 1993, Numar persoane,101
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 1994, Numar persoane,86
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 1995, Numar persoane,76
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 1996, Numar persoane,82
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 1997, Numar persoane,88
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 1998, Numar persoane,96
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 1992, Numar persoane,134
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 1993, Numar persoane,131
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 1994, Numar persoane,121
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 1995, Numar persoane,119
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 1996, Numar persoane,112
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 1997, Numar persoane,92
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 1998, Numar persoane,94
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 1992, Numar persoane,89
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 1993, Numar persoane,108
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 1994, Numar persoane,115
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 1995, Numar persoane,127
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 1996, Numar persoane,121
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 1997, Numar persoane,114
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 1998, Numar persoane,102
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 1992, Numar persoane,112
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 1993, Numar persoane,119
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 1994, Numar persoane,128
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 1995, Numar persoane,125
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 1996, Numar persoane,128
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 1997, Numar persoane,130
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 1998, Numar persoane,132
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 1992, Numar persoane,97
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 1993, Numar persoane,87
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 1994, Numar persoane,82
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 1995, Numar persoane,82
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 1996, Numar persoane,87
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 1997, Numar persoane,87
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 1998, Numar persoane,108
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 1992, Numar persoane,93
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 1993, Numar persoane,90
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 1994, Numar persoane,84
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 1995, Numar persoane,103
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 1996, Numar persoane,110
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 1997, Numar persoane,118
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 1998, Numar persoane,122
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 1992, Numar persoane,78
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 1993, Numar persoane,78
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 1994, Numar persoane,83
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 1995, Numar persoane,93
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 1996, Numar persoane,91
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 1997, Numar persoane,94
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 1998, Numar persoane,87
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 1992, Numar persoane,116
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 1993, Numar persoane,114
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 1994, Numar persoane,108
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 1995, Numar persoane,94
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 1996, Numar persoane,92
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 1997, Numar persoane,93
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 1998, Numar persoane,92
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 1992, Numar persoane,145
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 1993, Numar persoane,137
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 1994, Numar persoane,111
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 1995, Numar persoane,92
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 1996, Numar persoane,83
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 1997, Numar persoane,82
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 1998, Numar persoane,78
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 1992, Numar persoane,127
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 1993, Numar persoane,119
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 1994, Numar persoane,118
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 1995, Numar persoane,133
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 1996, Numar persoane,131
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 1997, Numar persoane,118
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 1998, Numar persoane,123
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 1992, Numar persoane,85
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 1993, Numar persoane,95
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 1994, Numar persoane,111
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 1995, Numar persoane,136
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 1996, Numar persoane,142
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 1997, Numar persoane,149
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 1998, Numar persoane,138
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 1992, Numar persoane,55
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 1993, Numar persoane,66
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 1994, Numar persoane,79
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 1995, Numar persoane,78
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 1996, Numar persoane,87
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 1997, Numar persoane,112
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 1998, Numar persoane,107
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 1992, Numar persoane,93
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 1993, Numar persoane,89
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 1994, Numar persoane,96
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 1995, Numar persoane,86
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 1996, Numar persoane,85
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 1997, Numar persoane,82
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 1998, Numar persoane,99
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 1992, Numar persoane,72
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 1993, Numar persoane,75
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 1994, Numar persoane,70
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 1995, Numar persoane,66
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 1996, Numar persoane,66
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 1997, Numar persoane,54
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 1998, Numar persoane,64
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 1992, Numar persoane,83
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 1993, Numar persoane,78
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 1994, Numar persoane,78
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 1995, Numar persoane,93
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 1996, Numar persoane,98
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 1997, Numar persoane,98
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 1998, Numar persoane,91
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 1992, Numar persoane,56
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 1993, Numar persoane,60
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 1994, Numar persoane,57
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 1995, Numar persoane,60
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 1996, Numar persoane,70
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 1997, Numar persoane,73
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 1998, Numar persoane,75
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 1992, Numar persoane,71
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 1993, Numar persoane,67
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 1994, Numar persoane,68
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 1995, Numar persoane,62
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 1996, Numar persoane,73
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 1997, Numar persoane,74
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 1998, Numar persoane,80
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 1992, Numar persoane,69
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 1993, Numar persoane,60
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 1994, Numar persoane,61
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 1995, Numar persoane,64
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 1996, Numar persoane,56
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 1997, Numar persoane,58
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 1998, Numar persoane,63
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 1992, Numar persoane,60
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 1993, Numar persoane,65
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 1994, Numar persoane,68
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 1995, Numar persoane,78
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 1996, Numar persoane,69
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 1997, Numar persoane,73
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 1998, Numar persoane,70
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 1992, Numar persoane,54
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 1993, Numar persoane,58
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 1994, Numar persoane,61
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 1995, Numar persoane,63
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 1996, Numar persoane,72
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 1997, Numar persoane,77
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 1998, Numar persoane,70
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 1992, Numar persoane,71
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 1993, Numar persoane,63
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 1994, Numar persoane,56
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 1995, Numar persoane,55
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 1996, Numar persoane,52
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 1997, Numar persoane,59
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 1998, Numar persoane,68
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 1992, Numar persoane,107
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 1993, Numar persoane,96
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 1994, Numar persoane,83
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 1995, Numar persoane,65
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 1996, Numar persoane,64
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 1997, Numar persoane,57
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 1998, Numar persoane,60
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 1992, Numar persoane,105
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 1993, Numar persoane,110
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 1994, Numar persoane,86
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 1995, Numar persoane,78
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 1996, Numar persoane,75
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 1997, Numar persoane,58
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 1998, Numar persoane,60
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 1992, Numar persoane,105
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 1993, Numar persoane,105
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 1994, Numar persoane,112
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 1995, Numar persoane,118
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 1996, Numar persoane,105
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 1997, Numar persoane,108
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 1998, Numar persoane,100
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 1992, Numar persoane,89
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 1993, Numar persoane,77
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 1994, Numar persoane,87
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 1995, Numar persoane,94
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 1996, Numar persoane,94
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 1997, Numar persoane,91
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 1998, Numar persoane,88
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 1992, Numar persoane,111
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 1993, Numar persoane,119
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 1994, Numar persoane,115
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 1995, Numar persoane,105
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 1996, Numar persoane,108
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 1997, Numar persoane,98
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 1998, Numar persoane,99
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 1992, Numar persoane,94
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 1993, Numar persoane,99
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 1994, Numar persoane,92
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 1995, Numar persoane,75
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 1996, Numar persoane,74
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 1997, Numar persoane,75
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 1998, Numar persoane,66
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 1992, Numar persoane,100
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 1993, Numar persoane,103
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 1994, Numar persoane,100
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 1995, Numar persoane,105
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 1996, Numar persoane,103
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 1997, Numar persoane,99
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 1998, Numar persoane,105
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 1992, Numar persoane,32
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 1993, Numar persoane,46
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 1994, Numar persoane,61
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 1995, Numar persoane,67
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 1996, Numar persoane,65
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 1997, Numar persoane,67
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 1998, Numar persoane,64
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 1992, Numar persoane,65
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 1993, Numar persoane,71
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 1994, Numar persoane,75
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 1995, Numar persoane,78
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 1996, Numar persoane,82
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 1997, Numar persoane,85
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 1998, Numar persoane,86
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 1992, Numar persoane,35
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 1993, Numar persoane,25
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 1994, Numar persoane,20
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 1995, Numar persoane,19
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 1996, Numar persoane,16
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 1997, Numar persoane,21
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 1998, Numar persoane,31
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 1992, Numar persoane,38
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 1993, Numar persoane,36
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 1994, Numar persoane,32
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 1995, Numar persoane,27
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 1996, Numar persoane,36
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 1997, Numar persoane,47
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 1998, Numar persoane,50
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 1992, Numar persoane,19
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 1993, Numar persoane,20
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 1994, Numar persoane,22
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 1995, Numar persoane,22
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 1996, Numar persoane,21
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 1997, Numar persoane,17
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 1998, Numar persoane,14
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 1992, Numar persoane,35
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 1993, Numar persoane,34
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 1994, Numar persoane,30
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 1995, Numar persoane,31
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 1996, Numar persoane,27
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 1997, Numar persoane,17
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 1998, Numar persoane,10
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 1992, Numar persoane,10
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 1993, Numar persoane,5
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 1994, Numar persoane,6
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 1995, Numar persoane,8
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 1996, Numar persoane,10
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 1997, Numar persoane,9
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 1998, Numar persoane,7
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 1992, Numar persoane,17
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 1993, Numar persoane,19
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 1994, Numar persoane,21
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 1995, Numar persoane,16
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 1996, Numar persoane,17
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 1997, Numar persoane,13
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 1998, Numar persoane,12
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 1999, Numar persoane,97
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2000, Numar persoane,106
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2001, Numar persoane,111
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2002, Numar persoane,102
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2003, Numar persoane,96
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2004, Numar persoane,112
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,102
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,97
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 1999, Numar persoane,93
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2000, Numar persoane,90
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2001, Numar persoane,94
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2002, Numar persoane,98
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2003, Numar persoane,95
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2004, Numar persoane,109
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,97
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,96
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 1999, Numar persoane,83
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2000, Numar persoane,77
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2001, Numar persoane,85
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2002, Numar persoane,89
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2003, Numar persoane,96
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2004, Numar persoane,99
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,104
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,109
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 1999, Numar persoane,124
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2000, Numar persoane,121
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2001, Numar persoane,112
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2002, Numar persoane,93
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2003, Numar persoane,91
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2004, Numar persoane,89
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,85
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,93
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 1999, Numar persoane,120
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2000, Numar persoane,125
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2001, Numar persoane,121
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2002, Numar persoane,117
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2003, Numar persoane,105
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2004, Numar persoane,90
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,79
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,85
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 1999, Numar persoane,131
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2000, Numar persoane,131
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2001, Numar persoane,133
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2002, Numar persoane,136
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2003, Numar persoane,135
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2004, Numar persoane,127
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,123
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,105
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 1999, Numar persoane,84
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2000, Numar persoane,82
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2001, Numar persoane,85
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2002, Numar persoane,88
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2003, Numar persoane,107
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2004, Numar persoane,120
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,131
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,130
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 1999, Numar persoane,91
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2000, Numar persoane,111
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2001, Numar persoane,114
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2002, Numar persoane,114
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2003, Numar persoane,116
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2004, Numar persoane,124
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,131
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,131
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 1999, Numar persoane,88
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2000, Numar persoane,98
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2001, Numar persoane,98
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2002, Numar persoane,98
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2003, Numar persoane,87
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2004, Numar persoane,81
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,87
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,90
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 1999, Numar persoane,117
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2000, Numar persoane,96
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2001, Numar persoane,103
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2002, Numar persoane,103
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2003, Numar persoane,103
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2004, Numar persoane,93
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,104
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,107
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 1999, Numar persoane,117
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2000, Numar persoane,97
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2001, Numar persoane,87
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2002, Numar persoane,82
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2003, Numar persoane,82
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2004, Numar persoane,89
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,97
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,99
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 1999, Numar persoane,108
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2000, Numar persoane,133
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2001, Numar persoane,129
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2002, Numar persoane,120
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2003, Numar persoane,115
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2004, Numar persoane,109
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,92
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,91
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 1999, Numar persoane,112
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2000, Numar persoane,132
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2001, Numar persoane,134
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2002, Numar persoane,144
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2003, Numar persoane,138
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2004, Numar persoane,113
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,93
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,91
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 1999, Numar persoane,81
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2000, Numar persoane,81
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2001, Numar persoane,94
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2002, Numar persoane,112
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2003, Numar persoane,110
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2004, Numar persoane,111
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,127
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,126
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 1999, Numar persoane,95
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2000, Numar persoane,86
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2001, Numar persoane,88
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2002, Numar persoane,83
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2003, Numar persoane,93
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2004, Numar persoane,108
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,124
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,132
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 1999, Numar persoane,77
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2000, Numar persoane,74
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2001, Numar persoane,64
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2002, Numar persoane,54
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2003, Numar persoane,58
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2004, Numar persoane,76
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,87
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,97
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 1999, Numar persoane,92
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2000, Numar persoane,97
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2001, Numar persoane,97
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2002, Numar persoane,95
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2003, Numar persoane,89
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2004, Numar persoane,89
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,82
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,82
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 1999, Numar persoane,64
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2000, Numar persoane,69
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2001, Numar persoane,78
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2002, Numar persoane,76
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2003, Numar persoane,81
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2004, Numar persoane,78
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,74
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,66
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 1999, Numar persoane,75
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2000, Numar persoane,73
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2001, Numar persoane,81
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2002, Numar persoane,79
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2003, Numar persoane,83
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2004, Numar persoane,92
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,95
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,99
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 1999, Numar persoane,69
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2000, Numar persoane,69
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2001, Numar persoane,63
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2002, Numar persoane,66
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2003, Numar persoane,69
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2004, Numar persoane,67
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,70
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,78
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 1999, Numar persoane,75
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2000, Numar persoane,80
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2001, Numar persoane,71
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2002, Numar persoane,74
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2003, Numar persoane,71
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2004, Numar persoane,73
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,71
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,81
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 1999, Numar persoane,64
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2000, Numar persoane,63
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2001, Numar persoane,71
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2002, Numar persoane,77
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2003, Numar persoane,73
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2004, Numar persoane,73
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,79
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,75
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 1999, Numar persoane,57
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2000, Numar persoane,56
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2001, Numar persoane,54
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2002, Numar persoane,55
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2003, Numar persoane,64
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2004, Numar persoane,68
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,72
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,71
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 1999, Numar persoane,89
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2000, Numar persoane,68
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2001, Numar persoane,64
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2002, Numar persoane,55
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2003, Numar persoane,58
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2004, Numar persoane,58
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,60
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,71
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 1999, Numar persoane,74
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2000, Numar persoane,71
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2001, Numar persoane,71
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2002, Numar persoane,61
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2003, Numar persoane,59
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2004, Numar persoane,49
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,51
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,53
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 1999, Numar persoane,107
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2000, Numar persoane,112
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2001, Numar persoane,100
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2002, Numar persoane,100
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2003, Numar persoane,95
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2004, Numar persoane,86
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,65
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,60
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 1999, Numar persoane,73
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2000, Numar persoane,79
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2001, Numar persoane,83
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2002, Numar persoane,82
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2003, Numar persoane,78
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2004, Numar persoane,66
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,62
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,58
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 1999, Numar persoane,105
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2000, Numar persoane,100
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2001, Numar persoane,104
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2002, Numar persoane,90
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2003, Numar persoane,89
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2004, Numar persoane,96
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,106
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,93
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 1999, Numar persoane,68
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2000, Numar persoane,60
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2001, Numar persoane,56
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2002, Numar persoane,55
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2003, Numar persoane,50
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2004, Numar persoane,58
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,62
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,67
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 1999, Numar persoane,86
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2000, Numar persoane,91
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2001, Numar persoane,88
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2002, Numar persoane,90
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2003, Numar persoane,92
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2004, Numar persoane,91
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,88
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,93
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 1999, Numar persoane,43
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2000, Numar persoane,41
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2001, Numar persoane,40
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2002, Numar persoane,40
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2003, Numar persoane,42
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2004, Numar persoane,46
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,40
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,41
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 1999, Numar persoane,55
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2000, Numar persoane,61
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2001, Numar persoane,65
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2002, Numar persoane,69
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2003, Numar persoane,67
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2004, Numar persoane,62
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,64
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,62
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 1999, Numar persoane,11
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2000, Numar persoane,12
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2001, Numar persoane,14
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2002, Numar persoane,17
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2003, Numar persoane,17
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2004, Numar persoane,18
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,22
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,23
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 1999, Numar persoane,13
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2000, Numar persoane,13
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2001, Numar persoane,19
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2002, Numar persoane,26
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2003, Numar persoane,30
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2004, Numar persoane,34
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,39
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,41
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 1999, Numar persoane,7
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2000, Numar persoane,5
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2001, Numar persoane,6
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2002, Numar persoane,2
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2003, Numar persoane,3
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2004, Numar persoane,4
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,5
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,7
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 1999, Numar persoane,11
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2000, Numar persoane,13
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2001, Numar persoane,11
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2002, Numar persoane,10
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2003, Numar persoane,8
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2004, Numar persoane,9
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,11
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,13
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,108
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,109
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,107
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,118
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,109
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,103
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,107
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,113
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,108
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,114
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,113
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,106
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,100
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,98
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,111
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,103
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,100
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,109
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,97
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,95
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,107
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,104
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,105
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,113
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,82
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,94
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,101
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,108
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,118
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,107
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,87
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,91
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,89
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,82
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,100
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,94
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,132
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,125
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,114
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,99
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,100
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,105
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,137
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,134
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,133
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,121
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,116
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,106
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,101
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,120
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,130
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,139
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,137
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,137
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,113
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,116
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,111
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,122
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,130
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,129
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,99
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,94
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,95
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,102
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,116
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,118
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,95
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,102
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,98
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,107
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,104
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,103
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,84
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,87
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,98
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,114
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,119
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,118
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,119
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,123
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,112
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,94
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,98
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,102
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,152
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,156
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,129
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,109
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,109
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,105
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,122
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,119
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,119
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,130
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,130
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,124
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,82
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,96
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,119
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,138
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,145
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,160
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,58
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,69
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,92
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,93
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,110
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,129
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,97
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,96
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,93
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,83
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,85
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,87
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,82
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,90
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,88
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,85
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,71
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,61
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,84
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,90
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,101
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,99
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,105
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,103
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,74
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,75
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,77
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,80
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,91
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,91
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,77
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,68
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,73
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,78
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,85
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,84
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,84
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,77
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,77
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,85
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,82
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,82
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,53
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,63
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,58
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,66
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,71
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,80
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,55
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,59
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,60
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,64
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,78
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,88
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,50
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,52
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,47
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,47
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,45
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,46
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,91
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,92
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,84
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,64
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,60
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,56
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,66
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,60
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,49
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,45
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,43
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,36
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,83
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,81
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,88
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,94
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,81
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,84
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,39
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,34
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,39
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,43
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,45
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,43
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,70
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,75
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,77
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,77
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,84
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,73
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,25
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,27
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,29
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,22
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,22
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,19
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,43
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,45
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,42
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,49
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,47
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,49
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,8
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,9
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,10
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,13
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,14
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,15
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,12
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,10
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,12
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,15
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,22
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,26
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,97
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,94
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,88
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,97
+ 157317 GIULVAZ,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,102
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,102
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,99
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,95
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,94
+ 157317 GIULVAZ,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,90
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,117
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,114
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,130
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,116
+ 157317 GIULVAZ,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,108
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,112
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,108
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,112
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,112
+ 157317 GIULVAZ,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,107
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,102
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,108
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,102
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,102
+ 157317 GIULVAZ,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,113
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,93
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,107
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,103
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,107
+ 157317 GIULVAZ,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,116
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,111
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,108
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,110
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,122
+ 157317 GIULVAZ,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,110
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,105
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,93
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,92
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,94
+ 157317 GIULVAZ,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,99
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,122
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,113
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,105
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,103
+ 157317 GIULVAZ,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,109
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,123
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,127
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,124
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,114
+ 157317 GIULVAZ,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,98
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,136
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,143
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,141
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,136
+ 157317 GIULVAZ,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,128
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,109
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,111
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,117
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,124
+ 157317 GIULVAZ,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,127
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,110
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,104
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,105
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,104
+ 157317 GIULVAZ,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,109
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,108
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,100
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,112
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,103
+ 157317 GIULVAZ,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,103
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,106
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,119
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,131
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,129
+ 157317 GIULVAZ,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,121
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,118
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,113
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,98
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,107
+ 157317 GIULVAZ,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,99
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,157
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,135
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,116
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,113
+ 157317 GIULVAZ,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,104
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,123
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,114
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,126
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,124
+ 157317 GIULVAZ,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,124
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,103
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,120
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,140
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,146
+ 157317 GIULVAZ,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,160
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,69
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,94
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,99
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,109
+ 157317 GIULVAZ,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,129
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,96
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,97
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,90
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,91
+ 157317 GIULVAZ,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,88
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,94
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,84
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,81
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,70
+ 157317 GIULVAZ,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,58
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,82
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,86
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,90
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,99
+ 157317 GIULVAZ,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,96
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,86
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,86
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,83
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,93
+ 157317 GIULVAZ,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,93
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,77
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,79
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,78
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,74
+ 157317 GIULVAZ,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,77
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,80
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,82
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,89
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,82
+ 157317 GIULVAZ,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,80
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,52
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,54
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,56
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,60
+ 157317 GIULVAZ,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,66
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,58
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,59
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,61
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,74
+ 157317 GIULVAZ,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,83
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,38
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,37
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,40
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,35
+ 157317 GIULVAZ,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,36
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,83
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,77
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,60
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,52
+ 157317 GIULVAZ,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,51
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,42
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,36
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,33
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,31
+ 157317 GIULVAZ,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,28
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,68
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,69
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,76
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,62
+ 157317 GIULVAZ,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,64
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,16
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,22
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,27
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,30
+ 157317 GIULVAZ,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,27
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,52
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,58
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,53
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,60
+ 157317 GIULVAZ,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,51
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,13
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,13
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,14
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,16
+ 157317 GIULVAZ,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,18
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,25
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,25
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,29
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,32
+ 157317 GIULVAZ,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,38

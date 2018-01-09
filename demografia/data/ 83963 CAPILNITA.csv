@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2009, Numar persoane,74
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2010, Numar persoane,80
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2011, Numar persoane,76
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2012, Numar persoane,70
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2013, Numar persoane,78
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2014, Numar persoane,66
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2015, Numar persoane,64
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2016, Numar persoane,71
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2017, Numar persoane,77
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2009, Numar persoane,67
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2010, Numar persoane,70
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2011, Numar persoane,74
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2012, Numar persoane,70
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2013, Numar persoane,72
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2014, Numar persoane,73
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2015, Numar persoane,76
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2016, Numar persoane,73
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2017, Numar persoane,72
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2009, Numar persoane,77
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2010, Numar persoane,75
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2011, Numar persoane,65
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2012, Numar persoane,68
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2013, Numar persoane,73
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2014, Numar persoane,65
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2015, Numar persoane,74
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2016, Numar persoane,75
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2017, Numar persoane,74
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2009, Numar persoane,73
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2010, Numar persoane,70
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2011, Numar persoane,75
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2012, Numar persoane,74
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2013, Numar persoane,65
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2014, Numar persoane,74
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2015, Numar persoane,69
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2016, Numar persoane,65
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2017, Numar persoane,68
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2009, Numar persoane,80
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2010, Numar persoane,80
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2011, Numar persoane,72
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2012, Numar persoane,70
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2013, Numar persoane,74
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2014, Numar persoane,72
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2015, Numar persoane,70
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2016, Numar persoane,75
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2017, Numar persoane,72
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2009, Numar persoane,89
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2010, Numar persoane,85
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2011, Numar persoane,82
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2012, Numar persoane,78
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2013, Numar persoane,79
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2014, Numar persoane,81
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2015, Numar persoane,78
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2016, Numar persoane,67
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2017, Numar persoane,68
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2009, Numar persoane,90
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2010, Numar persoane,95
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2011, Numar persoane,99
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2012, Numar persoane,94
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2013, Numar persoane,92
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2014, Numar persoane,86
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2015, Numar persoane,84
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2016, Numar persoane,85
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2017, Numar persoane,80
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2009, Numar persoane,95
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2010, Numar persoane,100
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2011, Numar persoane,96
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2012, Numar persoane,93
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2013, Numar persoane,85
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2014, Numar persoane,85
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2015, Numar persoane,86
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2016, Numar persoane,91
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2017, Numar persoane,88
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2009, Numar persoane,82
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2010, Numar persoane,87
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2011, Numar persoane,87
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2012, Numar persoane,95
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2013, Numar persoane,93
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2014, Numar persoane,91
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2015, Numar persoane,94
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2016, Numar persoane,89
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2017, Numar persoane,88
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2009, Numar persoane,69
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2010, Numar persoane,63
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2011, Numar persoane,71
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2012, Numar persoane,62
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2013, Numar persoane,67
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2014, Numar persoane,76
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2015, Numar persoane,83
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2016, Numar persoane,82
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2017, Numar persoane,93
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2009, Numar persoane,75
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2010, Numar persoane,70
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2011, Numar persoane,65
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2012, Numar persoane,73
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2013, Numar persoane,72
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2014, Numar persoane,65
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2015, Numar persoane,60
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2016, Numar persoane,66
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2017, Numar persoane,58
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2009, Numar persoane,51
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2010, Numar persoane,56
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2011, Numar persoane,59
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2012, Numar persoane,56
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2013, Numar persoane,64
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2014, Numar persoane,70
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2015, Numar persoane,65
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2016, Numar persoane,67
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2017, Numar persoane,71
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2009, Numar persoane,42
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2010, Numar persoane,43
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2011, Numar persoane,46
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2012, Numar persoane,52
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2013, Numar persoane,45
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2014, Numar persoane,47
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2015, Numar persoane,49
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2016, Numar persoane,48
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2017, Numar persoane,50
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2009, Numar persoane,34
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2010, Numar persoane,35
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2011, Numar persoane,35
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2012, Numar persoane,39
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2013, Numar persoane,43
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2014, Numar persoane,37
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2015, Numar persoane,36
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2016, Numar persoane,39
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2017, Numar persoane,42
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2009, Numar persoane,35
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2010, Numar persoane,38
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2011, Numar persoane,35
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2012, Numar persoane,31
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2013, Numar persoane,27
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2014, Numar persoane,32
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2015, Numar persoane,33
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2016, Numar persoane,29
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2017, Numar persoane,32
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2009, Numar persoane,38
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2010, Numar persoane,35
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2011, Numar persoane,35
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2012, Numar persoane,34
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2013, Numar persoane,31
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2014, Numar persoane,30
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2015, Numar persoane,32
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2016, Numar persoane,30
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2017, Numar persoane,24
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2009, Numar persoane,14
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2010, Numar persoane,16
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2011, Numar persoane,23
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2012, Numar persoane,24
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2013, Numar persoane,25
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2014, Numar persoane,29
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2015, Numar persoane,28
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2016, Numar persoane,26
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2017, Numar persoane,21
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2009, Numar persoane,4
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2010, Numar persoane,5
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2011, Numar persoane,7
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2012, Numar persoane,10
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2013, Numar persoane,8
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2014, Numar persoane,7
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2015, Numar persoane,10
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2016, Numar persoane,12
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2017, Numar persoane,13
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 1992, Numar persoane,94
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 1993, Numar persoane,90
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 1994, Numar persoane,73
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 1995, Numar persoane,61
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 1996, Numar persoane,63
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 1997, Numar persoane,64
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 1998, Numar persoane,78
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 1999, Numar persoane,85
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2000, Numar persoane,81
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2001, Numar persoane,70
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2002, Numar persoane,69
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2003, Numar persoane,73
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2004, Numar persoane,63
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2005, Numar persoane,67
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2006, Numar persoane,76
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2007, Numar persoane,76
+ 83963 CAPILNITA,0- 4 ani, Masculin, Harghita, Anul 2008, Numar persoane,73
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 1992, Numar persoane,96
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 1993, Numar persoane,90
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 1994, Numar persoane,98
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 1995, Numar persoane,91
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 1996, Numar persoane,76
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 1997, Numar persoane,76
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 1998, Numar persoane,78
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 1999, Numar persoane,74
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2000, Numar persoane,68
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2001, Numar persoane,79
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2002, Numar persoane,80
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2003, Numar persoane,72
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2004, Numar persoane,81
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2005, Numar persoane,76
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2006, Numar persoane,66
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2007, Numar persoane,66
+ 83963 CAPILNITA,5- 9 ani, Masculin, Harghita, Anul 2008, Numar persoane,72
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 1992, Numar persoane,104
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 1993, Numar persoane,108
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 1994, Numar persoane,97
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 1995, Numar persoane,94
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 1996, Numar persoane,91
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 1997, Numar persoane,83
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 1998, Numar persoane,80
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 1999, Numar persoane,84
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2000, Numar persoane,86
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2001, Numar persoane,78
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2002, Numar persoane,76
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2003, Numar persoane,75
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2004, Numar persoane,69
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2005, Numar persoane,67
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2006, Numar persoane,74
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2007, Numar persoane,79
+ 83963 CAPILNITA,10-14 ani, Masculin, Harghita, Anul 2008, Numar persoane,70
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 1992, Numar persoane,99
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 1993, Numar persoane,99
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 1994, Numar persoane,97
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 1995, Numar persoane,99
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 1996, Numar persoane,102
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 1997, Numar persoane,98
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 1998, Numar persoane,99
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 1999, Numar persoane,93
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2000, Numar persoane,90
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2001, Numar persoane,87
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2002, Numar persoane,82
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2003, Numar persoane,78
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2004, Numar persoane,78
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2005, Numar persoane,79
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2006, Numar persoane,73
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2007, Numar persoane,72
+ 83963 CAPILNITA,15-19 ani, Masculin, Harghita, Anul 2008, Numar persoane,76
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 1992, Numar persoane,111
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 1993, Numar persoane,108
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 1994, Numar persoane,105
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 1995, Numar persoane,102
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 1996, Numar persoane,98
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 1997, Numar persoane,94
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 1998, Numar persoane,96
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 1999, Numar persoane,94
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2000, Numar persoane,97
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2001, Numar persoane,102
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2002, Numar persoane,99
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2003, Numar persoane,95
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2004, Numar persoane,88
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2005, Numar persoane,86
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2006, Numar persoane,80
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2007, Numar persoane,76
+ 83963 CAPILNITA,20-24 ani, Masculin, Harghita, Anul 2008, Numar persoane,76
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 1992, Numar persoane,69
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 1993, Numar persoane,74
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 1994, Numar persoane,89
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 1995, Numar persoane,100
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 1996, Numar persoane,97
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 1997, Numar persoane,108
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 1998, Numar persoane,102
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 1999, Numar persoane,99
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2000, Numar persoane,99
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2001, Numar persoane,97
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2002, Numar persoane,92
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2003, Numar persoane,90
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2004, Numar persoane,88
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2005, Numar persoane,93
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2006, Numar persoane,101
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2007, Numar persoane,95
+ 83963 CAPILNITA,25-29 ani, Masculin, Harghita, Anul 2008, Numar persoane,95
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 1992, Numar persoane,86
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 1993, Numar persoane,85
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 1994, Numar persoane,76
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 1995, Numar persoane,68
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 1996, Numar persoane,75
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 1997, Numar persoane,68
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 1998, Numar persoane,74
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 1999, Numar persoane,85
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2000, Numar persoane,96
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2001, Numar persoane,94
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2002, Numar persoane,102
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2003, Numar persoane,97
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2004, Numar persoane,93
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2005, Numar persoane,100
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2006, Numar persoane,94
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2007, Numar persoane,91
+ 83963 CAPILNITA,30-34 ani, Masculin, Harghita, Anul 2008, Numar persoane,89
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 1992, Numar persoane,67
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 1993, Numar persoane,73
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 1994, Numar persoane,76
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 1995, Numar persoane,74
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 1996, Numar persoane,70
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 1997, Numar persoane,80
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 1998, Numar persoane,79
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 1999, Numar persoane,71
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2000, Numar persoane,63
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2001, Numar persoane,71
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2002, Numar persoane,63
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2003, Numar persoane,69
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2004, Numar persoane,80
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2005, Numar persoane,87
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2006, Numar persoane,89
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2007, Numar persoane,101
+ 83963 CAPILNITA,35-39 ani, Masculin, Harghita, Anul 2008, Numar persoane,98
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 1992, Numar persoane,68
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 1993, Numar persoane,65
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 1994, Numar persoane,66
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 1995, Numar persoane,67
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 1996, Numar persoane,68
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 1997, Numar persoane,62
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 1998, Numar persoane,69
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 1999, Numar persoane,78
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2000, Numar persoane,75
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2001, Numar persoane,71
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2002, Numar persoane,79
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2003, Numar persoane,76
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2004, Numar persoane,70
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2005, Numar persoane,62
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2006, Numar persoane,70
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2007, Numar persoane,62
+ 83963 CAPILNITA,40-44 ani, Masculin, Harghita, Anul 2008, Numar persoane,70
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 1992, Numar persoane,60
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 1993, Numar persoane,64
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 1994, Numar persoane,58
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 1995, Numar persoane,58
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 1996, Numar persoane,57
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 1997, Numar persoane,61
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 1998, Numar persoane,57
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 1999, Numar persoane,58
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2000, Numar persoane,61
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2001, Numar persoane,66
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2002, Numar persoane,61
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2003, Numar persoane,70
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2004, Numar persoane,77
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2005, Numar persoane,74
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2006, Numar persoane,70
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2007, Numar persoane,78
+ 83963 CAPILNITA,45-49 ani, Masculin, Harghita, Anul 2008, Numar persoane,74
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 1992, Numar persoane,51
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 1993, Numar persoane,45
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 1994, Numar persoane,51
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 1995, Numar persoane,54
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 1996, Numar persoane,51
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 1997, Numar persoane,55
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 1998, Numar persoane,59
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 1999, Numar persoane,51
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2000, Numar persoane,51
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2001, Numar persoane,52
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2002, Numar persoane,56
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2003, Numar persoane,53
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2004, Numar persoane,55
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2005, Numar persoane,59
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2006, Numar persoane,63
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2007, Numar persoane,59
+ 83963 CAPILNITA,50-54 ani, Masculin, Harghita, Anul 2008, Numar persoane,71
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 1992, Numar persoane,61
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 1993, Numar persoane,64
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 1994, Numar persoane,59
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 1995, Numar persoane,55
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 1996, Numar persoane,52
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 1997, Numar persoane,45
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 1998, Numar persoane,39
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 1999, Numar persoane,47
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2000, Numar persoane,50
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2001, Numar persoane,48
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2002, Numar persoane,52
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2003, Numar persoane,55
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2004, Numar persoane,47
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2005, Numar persoane,46
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2006, Numar persoane,47
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2007, Numar persoane,53
+ 83963 CAPILNITA,55-59 ani, Masculin, Harghita, Anul 2008, Numar persoane,47
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 1992, Numar persoane,69
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 1993, Numar persoane,69
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 1994, Numar persoane,71
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 1995, Numar persoane,67
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 1996, Numar persoane,62
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 1997, Numar persoane,55
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 1998, Numar persoane,56
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 1999, Numar persoane,49
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2000, Numar persoane,50
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2001, Numar persoane,47
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2002, Numar persoane,43
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2003, Numar persoane,37
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2004, Numar persoane,41
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2005, Numar persoane,42
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2006, Numar persoane,43
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2007, Numar persoane,44
+ 83963 CAPILNITA,60-64 ani, Masculin, Harghita, Anul 2008, Numar persoane,46
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 1992, Numar persoane,59
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 1993, Numar persoane,56
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 1994, Numar persoane,50
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 1995, Numar persoane,54
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 1996, Numar persoane,56
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 1997, Numar persoane,59
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 1998, Numar persoane,58
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 1999, Numar persoane,61
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2000, Numar persoane,55
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2001, Numar persoane,50
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2002, Numar persoane,47
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2003, Numar persoane,47
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2004, Numar persoane,42
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2005, Numar persoane,45
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2006, Numar persoane,39
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2007, Numar persoane,34
+ 83963 CAPILNITA,65-69 ani, Masculin, Harghita, Anul 2008, Numar persoane,28
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 1992, Numar persoane,28
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 1993, Numar persoane,34
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 1994, Numar persoane,41
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 1995, Numar persoane,40
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 1996, Numar persoane,51
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 1997, Numar persoane,52
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 1998, Numar persoane,47
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 1999, Numar persoane,42
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2000, Numar persoane,45
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2001, Numar persoane,50
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2002, Numar persoane,51
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2003, Numar persoane,50
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2004, Numar persoane,52
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2005, Numar persoane,44
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2006, Numar persoane,42
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2007, Numar persoane,38
+ 83963 CAPILNITA,70-74 ani, Masculin, Harghita, Anul 2008, Numar persoane,39
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 1992, Numar persoane,27
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 1993, Numar persoane,22
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 1994, Numar persoane,17
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 1995, Numar persoane,15
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 1996, Numar persoane,13
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 1997, Numar persoane,19
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 1998, Numar persoane,20
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 1999, Numar persoane,26
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2000, Numar persoane,25
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2001, Numar persoane,33
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2002, Numar persoane,33
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2003, Numar persoane,31
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2004, Numar persoane,30
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2005, Numar persoane,36
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2006, Numar persoane,38
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2007, Numar persoane,39
+ 83963 CAPILNITA,75-79 ani, Masculin, Harghita, Anul 2008, Numar persoane,39
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 1992, Numar persoane,16
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 1993, Numar persoane,18
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 1994, Numar persoane,19
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 1995, Numar persoane,18
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 1996, Numar persoane,11
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 1997, Numar persoane,11
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 1998, Numar persoane,9
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 1999, Numar persoane,9
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2000, Numar persoane,8
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2001, Numar persoane,8
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2002, Numar persoane,9
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2003, Numar persoane,10
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2004, Numar persoane,12
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2005, Numar persoane,12
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2006, Numar persoane,14
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2007, Numar persoane,18
+ 83963 CAPILNITA,80-84 ani, Masculin, Harghita, Anul 2008, Numar persoane,18
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 1992, Numar persoane,7
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 1993, Numar persoane,8
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 1994, Numar persoane,6
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 1995, Numar persoane,9
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 1996, Numar persoane,11
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 1997, Numar persoane,11
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 1998, Numar persoane,9
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 1999, Numar persoane,9
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2000, Numar persoane,9
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2001, Numar persoane,5
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2002, Numar persoane,5
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2003, Numar persoane,3
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2004, Numar persoane,2
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2005, Numar persoane,2
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2006, Numar persoane,3
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2007, Numar persoane,4
+ 83963 CAPILNITA,85 ani si peste, Masculin, Harghita, Anul 2008, Numar persoane,3
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 1992, Numar persoane,87
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 1993, Numar persoane,87
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 1994, Numar persoane,86
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 1995, Numar persoane,70
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 1996, Numar persoane,63
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 1997, Numar persoane,60
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 1998, Numar persoane,67
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 1999, Numar persoane,64
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2000, Numar persoane,72
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2001, Numar persoane,73
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2002, Numar persoane,71
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2003, Numar persoane,72
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2004, Numar persoane,77
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2005, Numar persoane,79
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2006, Numar persoane,75
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 1992, Numar persoane,94
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 1993, Numar persoane,89
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 1994, Numar persoane,82
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 1995, Numar persoane,75
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 1996, Numar persoane,77
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 1997, Numar persoane,84
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 1998, Numar persoane,89
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 1999, Numar persoane,90
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2000, Numar persoane,77
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2001, Numar persoane,74
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2002, Numar persoane,66
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2003, Numar persoane,65
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2004, Numar persoane,62
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2005, Numar persoane,70
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2006, Numar persoane,70
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 1992, Numar persoane,100
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 1993, Numar persoane,103
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 1994, Numar persoane,104
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 1995, Numar persoane,110
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 1996, Numar persoane,94
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 1997, Numar persoane,85
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 1998, Numar persoane,86
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 1999, Numar persoane,79
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2000, Numar persoane,74
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2001, Numar persoane,78
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2002, Numar persoane,86
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2003, Numar persoane,89
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2004, Numar persoane,88
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2005, Numar persoane,71
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2006, Numar persoane,69
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 1992, Numar persoane,79
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 1993, Numar persoane,83
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 1994, Numar persoane,86
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 1995, Numar persoane,90
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 1996, Numar persoane,99
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 1997, Numar persoane,104
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 1998, Numar persoane,107
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 1999, Numar persoane,107
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2000, Numar persoane,107
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2001, Numar persoane,98
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2002, Numar persoane,89
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2003, Numar persoane,85
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2004, Numar persoane,83
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2005, Numar persoane,77
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2006, Numar persoane,75
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 1992, Numar persoane,77
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 1993, Numar persoane,76
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 1994, Numar persoane,72
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 1995, Numar persoane,63
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 1996, Numar persoane,68
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 1997, Numar persoane,78
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 1998, Numar persoane,93
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 1999, Numar persoane,99
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2000, Numar persoane,105
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2001, Numar persoane,108
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2002, Numar persoane,102
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2003, Numar persoane,111
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2004, Numar persoane,108
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2005, Numar persoane,110
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2006, Numar persoane,96
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 1992, Numar persoane,55
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 1993, Numar persoane,54
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 1994, Numar persoane,62
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 1995, Numar persoane,62
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 1996, Numar persoane,58
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 1997, Numar persoane,60
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 1998, Numar persoane,70
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 1999, Numar persoane,73
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2000, Numar persoane,73
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2001, Numar persoane,83
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2002, Numar persoane,91
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2003, Numar persoane,95
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2004, Numar persoane,95
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2005, Numar persoane,102
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2006, Numar persoane,107
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 1992, Numar persoane,65
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 1993, Numar persoane,65
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 1994, Numar persoane,56
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 1995, Numar persoane,54
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 1996, Numar persoane,50
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 1997, Numar persoane,47
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 1998, Numar persoane,51
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 1999, Numar persoane,55
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2000, Numar persoane,61
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2001, Numar persoane,57
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2002, Numar persoane,64
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2003, Numar persoane,69
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2004, Numar persoane,71
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2005, Numar persoane,76
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2006, Numar persoane,89
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 1992, Numar persoane,62
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 1993, Numar persoane,65
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 1994, Numar persoane,71
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 1995, Numar persoane,62
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 1996, Numar persoane,60
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 1997, Numar persoane,60
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 1998, Numar persoane,56
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 1999, Numar persoane,51
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2000, Numar persoane,50
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2001, Numar persoane,47
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2002, Numar persoane,48
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2003, Numar persoane,50
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2004, Numar persoane,55
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2005, Numar persoane,58
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2006, Numar persoane,54
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 1992, Numar persoane,54
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 1993, Numar persoane,56
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 1994, Numar persoane,55
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 1995, Numar persoane,63
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 1996, Numar persoane,59
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 1997, Numar persoane,58
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 1998, Numar persoane,61
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 1999, Numar persoane,70
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2000, Numar persoane,63
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2001, Numar persoane,62
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2002, Numar persoane,60
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2003, Numar persoane,54
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2004, Numar persoane,49
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2005, Numar persoane,49
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2006, Numar persoane,48
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 1992, Numar persoane,38
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 1993, Numar persoane,42
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 1994, Numar persoane,39
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 1995, Numar persoane,48
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 1996, Numar persoane,53
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 1997, Numar persoane,52
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 1998, Numar persoane,53
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 1999, Numar persoane,51
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2000, Numar persoane,60
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2001, Numar persoane,60
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2002, Numar persoane,59
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2003, Numar persoane,62
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2004, Numar persoane,70
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2005, Numar persoane,61
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2006, Numar persoane,61
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 1992, Numar persoane,55
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 1993, Numar persoane,54
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 1994, Numar persoane,55
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 1995, Numar persoane,47
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 1996, Numar persoane,36
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 1997, Numar persoane,37
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 1998, Numar persoane,41
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 1999, Numar persoane,38
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2000, Numar persoane,47
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2001, Numar persoane,51
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2002, Numar persoane,50
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2003, Numar persoane,50
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2004, Numar persoane,48
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2005, Numar persoane,58
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2006, Numar persoane,56
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 1992, Numar persoane,65
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 1993, Numar persoane,55
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 1994, Numar persoane,52
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 1995, Numar persoane,47
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 1996, Numar persoane,54
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 1997, Numar persoane,54
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 1998, Numar persoane,51
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 1999, Numar persoane,51
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2000, Numar persoane,42
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2001, Numar persoane,34
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2002, Numar persoane,35
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2003, Numar persoane,38
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2004, Numar persoane,36
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2005, Numar persoane,46
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2006, Numar persoane,50
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 1992, Numar persoane,55
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 1993, Numar persoane,58
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 1994, Numar persoane,59
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 1995, Numar persoane,63
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 1996, Numar persoane,67
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 1997, Numar persoane,64
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 1998, Numar persoane,54
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 1999, Numar persoane,50
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2000, Numar persoane,44
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2001, Numar persoane,50
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2002, Numar persoane,49
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2003, Numar persoane,46
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2004, Numar persoane,47
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2005, Numar persoane,39
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2006, Numar persoane,32
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 1992, Numar persoane,48
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 1993, Numar persoane,53
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 1994, Numar persoane,47
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 1995, Numar persoane,48
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 1996, Numar persoane,49
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 1997, Numar persoane,53
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 1998, Numar persoane,57
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 1999, Numar persoane,60
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2000, Numar persoane,63
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2001, Numar persoane,65
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2002, Numar persoane,61
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2003, Numar persoane,50
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2004, Numar persoane,44
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2005, Numar persoane,37
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2006, Numar persoane,45
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 1992, Numar persoane,34
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 1993, Numar persoane,35
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 1994, Numar persoane,43
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 1995, Numar persoane,45
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 1996, Numar persoane,42
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 1997, Numar persoane,41
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 1998, Numar persoane,45
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 1999, Numar persoane,44
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2000, Numar persoane,44
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2001, Numar persoane,44
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2002, Numar persoane,49
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2003, Numar persoane,52
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2004, Numar persoane,55
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2005, Numar persoane,52
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2006, Numar persoane,53
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 1992, Numar persoane,19
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 1993, Numar persoane,17
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 1994, Numar persoane,14
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 1995, Numar persoane,17
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 1996, Numar persoane,27
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 1997, Numar persoane,28
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 1998, Numar persoane,30
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 1999, Numar persoane,36
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2000, Numar persoane,38
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2001, Numar persoane,34
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2002, Numar persoane,32
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2003, Numar persoane,36
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2004, Numar persoane,34
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2005, Numar persoane,37
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2006, Numar persoane,39
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 1992, Numar persoane,29
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 1993, Numar persoane,29
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 1994, Numar persoane,22
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 1995, Numar persoane,19
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 1996, Numar persoane,13
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 1997, Numar persoane,9
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 1998, Numar persoane,10
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 1999, Numar persoane,11
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2000, Numar persoane,12
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2001, Numar persoane,16
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2002, Numar persoane,20
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2003, Numar persoane,21
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2004, Numar persoane,22
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2005, Numar persoane,24
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2006, Numar persoane,22
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 1992, Numar persoane,16
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 1993, Numar persoane,15
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 1994, Numar persoane,16
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 1995, Numar persoane,13
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 1996, Numar persoane,13
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 1997, Numar persoane,19
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 1998, Numar persoane,13
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 1999, Numar persoane,13
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2000, Numar persoane,12
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2001, Numar persoane,10
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2002, Numar persoane,10
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2003, Numar persoane,6
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2004, Numar persoane,6
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2005, Numar persoane,7
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2006, Numar persoane,10
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2007, Numar persoane,73
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2008, Numar persoane,60
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2009, Numar persoane,60
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2010, Numar persoane,59
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2011, Numar persoane,63
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2012, Numar persoane,66
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2013, Numar persoane,65
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2014, Numar persoane,61
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2015, Numar persoane,61
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2016, Numar persoane,66
+ 83963 CAPILNITA,0- 4 ani, Feminin, Harghita, Anul 2017, Numar persoane,66
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2007, Numar persoane,66
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2008, Numar persoane,69
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2009, Numar persoane,74
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2010, Numar persoane,74
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2011, Numar persoane,68
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2012, Numar persoane,65
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2013, Numar persoane,56
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2014, Numar persoane,61
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2015, Numar persoane,56
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2016, Numar persoane,62
+ 83963 CAPILNITA,5- 9 ani, Feminin, Harghita, Anul 2017, Numar persoane,60
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2007, Numar persoane,63
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2008, Numar persoane,58
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2009, Numar persoane,59
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2010, Numar persoane,67
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2011, Numar persoane,70
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2012, Numar persoane,68
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2013, Numar persoane,71
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2014, Numar persoane,71
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2015, Numar persoane,69
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2016, Numar persoane,63
+ 83963 CAPILNITA,10-14 ani, Feminin, Harghita, Anul 2017, Numar persoane,65
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2007, Numar persoane,84
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2008, Numar persoane,86
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2009, Numar persoane,85
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2010, Numar persoane,70
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2011, Numar persoane,69
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2012, Numar persoane,59
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2013, Numar persoane,58
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2014, Numar persoane,60
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2015, Numar persoane,64
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2016, Numar persoane,67
+ 83963 CAPILNITA,15-19 ani, Feminin, Harghita, Anul 2017, Numar persoane,62
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2007, Numar persoane,82
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2008, Numar persoane,81
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2009, Numar persoane,85
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2010, Numar persoane,75
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2011, Numar persoane,77
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2012, Numar persoane,87
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2013, Numar persoane,90
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2014, Numar persoane,81
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2015, Numar persoane,67
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2016, Numar persoane,68
+ 83963 CAPILNITA,20-24 ani, Feminin, Harghita, Anul 2017, Numar persoane,61
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2007, Numar persoane,103
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2008, Numar persoane,105
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2009, Numar persoane,102
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2010, Numar persoane,105
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2011, Numar persoane,98
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2012, Numar persoane,82
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2013, Numar persoane,80
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2014, Numar persoane,87
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2015, Numar persoane,84
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2016, Numar persoane,80
+ 83963 CAPILNITA,25-29 ani, Feminin, Harghita, Anul 2017, Numar persoane,90
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2007, Numar persoane,94
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2008, Numar persoane,97
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2009, Numar persoane,92
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2010, Numar persoane,100
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2011, Numar persoane,99
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2012, Numar persoane,102
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2013, Numar persoane,99
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2014, Numar persoane,95
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2015, Numar persoane,94
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2016, Numar persoane,89
+ 83963 CAPILNITA,30-34 ani, Feminin, Harghita, Anul 2017, Numar persoane,77
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2007, Numar persoane,63
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2008, Numar persoane,66
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2009, Numar persoane,71
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2010, Numar persoane,75
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2011, Numar persoane,87
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2012, Numar persoane,87
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2013, Numar persoane,91
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2014, Numar persoane,88
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2015, Numar persoane,97
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2016, Numar persoane,95
+ 83963 CAPILNITA,35-39 ani, Feminin, Harghita, Anul 2017, Numar persoane,94
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2007, Numar persoane,48
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2008, Numar persoane,49
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2009, Numar persoane,54
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2010, Numar persoane,57
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2011, Numar persoane,53
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2012, Numar persoane,63
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2013, Numar persoane,63
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2014, Numar persoane,68
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2015, Numar persoane,71
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2016, Numar persoane,83
+ 83963 CAPILNITA,40-44 ani, Feminin, Harghita, Anul 2017, Numar persoane,88
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2007, Numar persoane,61
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2008, Numar persoane,56
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2009, Numar persoane,50
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2010, Numar persoane,47
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2011, Numar persoane,46
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2012, Numar persoane,46
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2013, Numar persoane,47
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2014, Numar persoane,55
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2015, Numar persoane,58
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2016, Numar persoane,51
+ 83963 CAPILNITA,45-49 ani, Feminin, Harghita, Anul 2017, Numar persoane,59
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2007, Numar persoane,56
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2008, Numar persoane,61
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2009, Numar persoane,71
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2010, Numar persoane,61
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2011, Numar persoane,57
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2012, Numar persoane,57
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2013, Numar persoane,55
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2014, Numar persoane,47
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2015, Numar persoane,45
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2016, Numar persoane,45
+ 83963 CAPILNITA,50-54 ani, Feminin, Harghita, Anul 2017, Numar persoane,45
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2007, Numar persoane,46
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2008, Numar persoane,48
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2009, Numar persoane,47
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2010, Numar persoane,54
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2011, Numar persoane,55
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2012, Numar persoane,56
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2013, Numar persoane,58
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2014, Numar persoane,67
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2015, Numar persoane,58
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2016, Numar persoane,58
+ 83963 CAPILNITA,55-59 ani, Feminin, Harghita, Anul 2017, Numar persoane,57
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2007, Numar persoane,33
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2008, Numar persoane,36
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2009, Numar persoane,33
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2010, Numar persoane,45
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2011, Numar persoane,47
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2012, Numar persoane,45
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2013, Numar persoane,48
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2014, Numar persoane,46
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2015, Numar persoane,53
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2016, Numar persoane,54
+ 83963 CAPILNITA,60-64 ani, Feminin, Harghita, Anul 2017, Numar persoane,56
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2007, Numar persoane,44
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2008, Numar persoane,41
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2009, Numar persoane,44
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2010, Numar persoane,38
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2011, Numar persoane,33
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2012, Numar persoane,28
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2013, Numar persoane,31
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2014, Numar persoane,30
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2015, Numar persoane,40
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2016, Numar persoane,42
+ 83963 CAPILNITA,65-69 ani, Feminin, Harghita, Anul 2017, Numar persoane,44
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2007, Numar persoane,53
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2008, Numar persoane,42
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2009, Numar persoane,40
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2010, Numar persoane,35
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2011, Numar persoane,41
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2012, Numar persoane,40
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2013, Numar persoane,36
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2014, Numar persoane,37
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2015, Numar persoane,33
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2016, Numar persoane,27
+ 83963 CAPILNITA,70-74 ani, Feminin, Harghita, Anul 2017, Numar persoane,24
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2007, Numar persoane,36
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2008, Numar persoane,43
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2009, Numar persoane,43
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2010, Numar persoane,42
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2011, Numar persoane,43
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2012, Numar persoane,45
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2013, Numar persoane,38
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2014, Numar persoane,32
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2015, Numar persoane,25
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2016, Numar persoane,31
+ 83963 CAPILNITA,75-79 ani, Feminin, Harghita, Anul 2017, Numar persoane,30
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2007, Numar persoane,22
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2008, Numar persoane,20
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2009, Numar persoane,17
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2010, Numar persoane,19
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2011, Numar persoane,25
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2012, Numar persoane,28
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2013, Numar persoane,37
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2014, Numar persoane,35
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2015, Numar persoane,35
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2016, Numar persoane,31
+ 83963 CAPILNITA,80-84 ani, Feminin, Harghita, Anul 2017, Numar persoane,31
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2007, Numar persoane,13
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2008, Numar persoane,16
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2009, Numar persoane,16
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2010, Numar persoane,16
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2011, Numar persoane,14
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2012, Numar persoane,16
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2013, Numar persoane,16
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2014, Numar persoane,18
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2015, Numar persoane,19
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2016, Numar persoane,23
+ 83963 CAPILNITA,85 ani si peste, Feminin, Harghita, Anul 2017, Numar persoane,26

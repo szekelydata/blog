@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,108
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,100
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,93
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,94
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,93
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,88
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,80
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,88
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,104
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,97
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,84
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,83
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,82
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,85
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,91
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,99
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,141
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,135
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,151
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,145
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,136
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,117
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,114
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,104
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,115
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,129
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,139
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,129
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,127
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,109
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,106
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,91
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,122
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,134
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,116
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,123
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,136
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,150
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,141
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,160
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,131
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,119
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,116
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,111
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,116
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,128
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,132
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,146
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,147
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,133
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,137
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,130
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,134
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,122
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,137
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,117
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,139
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,129
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,128
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,132
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,139
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,134
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,125
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,127
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,166
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,152
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,154
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,151
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,149
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,148
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,137
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,140
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,160
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,163
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,164
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,155
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,139
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,130
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,131
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,130
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,117
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,127
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,133
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,132
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,148
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,163
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,148
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,149
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,97
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,108
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,119
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,119
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,139
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,155
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,153
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,155
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,132
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,137
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,129
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,134
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,115
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,110
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,122
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,137
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,124
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,111
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,108
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,102
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,107
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,107
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,111
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,122
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,104
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,109
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,115
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,129
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,142
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,145
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,142
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,132
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,124
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,125
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,127
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,127
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,124
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,121
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,115
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,113
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,108
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,104
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,103
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,95
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,106
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,103
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,114
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,121
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,119
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,118
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,111
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,125
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,125
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,123
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,130
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,140
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,87
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,85
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,91
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,98
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,101
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,110
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,110
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,116
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,105
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,101
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,103
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,99
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,106
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,115
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,118
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,114
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,113
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,100
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,90
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,84
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,80
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,77
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,79
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,88
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,107
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,110
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,114
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,107
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,103
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,105
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,103
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,104
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,93
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,94
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,100
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,98
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,99
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,102
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,94
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,83
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,106
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,107
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,113
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,112
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,114
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,107
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,106
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,113
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,107
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,110
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,104
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,97
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,87
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,76
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,76
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,82
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,105
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,112
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,104
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,109
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,96
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,100
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,105
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,106
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,77
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,74
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,75
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,86
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,86
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,92
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,98
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,86
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,90
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,78
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,79
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,86
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,95
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,94
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,101
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,93
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,39
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,44
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,50
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,52
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,58
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,53
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,51
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,54
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,71
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,87
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,90
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,85
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,79
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,79
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,69
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,73
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,40
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,30
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,18
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,18
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,20
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,28
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,28
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,32
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,42
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,32
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,31
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,35
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,48
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,55
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,67
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,70
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,12
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,19
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,21
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,24
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,18
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,19
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,16
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,8
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,35
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,36
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,35
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,34
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,25
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,24
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,19
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,19
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,5
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,3
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,6
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,6
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,7
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,5
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,9
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,15
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,10
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,11
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,7
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,12
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,15
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,16
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,21
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,22
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,81
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,89
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,101
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,94
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,85
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,95
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,91
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,104
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,114
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,118
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,116
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,116
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,111
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,109
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,112
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,108
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,103
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,97
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,99
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,86
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,92
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,90
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,88
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,90
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,96
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,102
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,106
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,117
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,158
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,154
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,139
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,135
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,132
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,125
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,120
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,143
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,136
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,125
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,127
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,107
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,94
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,89
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,134
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,143
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,159
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,154
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,178
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,181
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,174
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,124
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,127
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,141
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,142
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,155
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,159
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,150
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,137
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,141
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,130
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,150
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,135
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,165
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,172
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,145
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,147
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,131
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,130
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,134
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,135
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,146
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,146
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,150
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,158
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,144
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,156
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,158
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,164
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,150
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,152
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,154
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,141
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,147
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,153
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,164
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,141
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,158
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,166
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,150
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,159
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,163
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,162
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,129
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,150
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,168
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,170
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,173
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,181
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,176
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,131
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,117
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,116
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,135
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,154
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,158
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,183
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,113
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,112
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,110
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,122
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,132
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,142
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,168
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,139
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,145
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,150
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,145
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,137
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,134
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,122
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,143
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,139
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,140
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,134
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,126
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,122
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,122
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,111
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,117
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,112
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,127
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,133
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,151
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,152
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,134
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,133
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,135
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,141
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,156
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,157
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,148
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,92
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,97
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,112
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,113
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,114
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,113
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,119
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,101
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,111
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,122
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,117
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,116
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,136
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,147
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,83
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,77
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,76
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,77
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,85
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,86
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,96
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,107
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,104
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,104
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,103
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,104
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,99
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,104
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,86
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,91
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,86
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,81
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,74
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,73
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,70
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,107
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,110
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,107
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,109
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,114
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,103
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,100
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,78
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,64
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,61
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,59
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,69
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,69
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,75
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,92
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,82
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,88
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,94
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,92
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,95
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,98
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,59
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,69
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,66
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,71
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,61
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,53
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,44
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,84
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,88
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,84
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,90
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,88
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,80
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,73
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,35
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,33
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,30
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,32
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,40
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,38
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,40
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,69
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,66
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,73
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,59
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,60
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,66
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,69
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,10
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,11
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,16
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,15
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,16
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,16
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,16
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,18
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,29
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,30
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,42
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,45
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,44
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,40
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,16
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,11
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,11
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,11
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,10
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,8
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,4
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,19
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,15
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,15
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,13
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,13
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,13
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,20
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,84
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,91
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,99
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,104
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,112
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,115
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,112
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,110
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,109
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,118
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,139
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,138
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,101
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,94
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,86
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,94
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,95
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,93
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,121
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,117
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,118
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,111
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,115
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,123
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,107
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,100
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,103
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,97
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,113
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,112
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,91
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,101
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,101
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,123
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,128
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,132
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,165
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,158
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,154
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,143
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,151
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,154
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,137
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,141
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,123
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,108
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,126
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,136
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,180
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,174
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,188
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,194
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,200
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,196
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,157
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,158
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,190
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,192
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,199
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,195
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,167
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,184
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,173
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,206
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,210
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,231
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,163
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,163
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,170
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,175
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,190
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,211
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,172
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,170
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,193
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,186
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,211
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,213
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,174
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,163
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,172
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,190
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,204
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,212
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,197
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,179
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,187
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,196
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,219
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,238
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,189
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,190
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,199
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,197
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,213
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,213
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,119
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,144
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,162
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,169
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,207
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,229
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,113
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,130
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,142
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,158
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,188
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,222
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,155
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,147
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,145
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,141
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,135
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,135
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,149
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,147
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,143
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,134
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,131
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,124
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,124
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,146
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,147
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,162
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,162
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,166
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,148
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,150
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,162
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,165
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,160
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,165
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,104
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,103
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,115
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,121
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,136
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,140
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,113
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,123
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,122
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,144
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,153
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,157
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,75
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,82
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,83
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,80
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,91
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,106
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,99
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,99
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,100
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,93
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,107
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,127
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,74
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,71
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,64
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,62
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,64
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,75
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,94
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,96
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,99
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,99
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,96
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,94
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,47
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,46
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,51
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,56
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,60
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,52
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,74
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,79
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,83
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,83
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,91
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,91
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,36
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,43
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,43
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,38
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,36
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,39
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,70
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,77
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,72
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,63
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,60
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,63
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,12
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,14
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,17
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,22
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,26
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,23
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,46
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,33
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,40
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,55
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,51
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,54
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,8
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,5
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,4
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,6
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,6
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,8
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,16
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,25
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,23
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,21
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,24
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,23
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,146
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,148
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,150
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,170
+ 26653 SINTANDREI,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,205
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,159
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,179
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,176
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,188
+ 26653 SINTANDREI,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,196
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,105
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,120
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,133
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,148
+ 26653 SINTANDREI,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,167
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,121
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,122
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,144
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,166
+ 26653 SINTANDREI,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,175
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,105
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,102
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,116
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,118
+ 26653 SINTANDREI,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,122
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,126
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,135
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,125
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,132
+ 26653 SINTANDREI,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,146
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,147
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,147
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,136
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,143
+ 26653 SINTANDREI,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,149
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,147
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,146
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,158
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,160
+ 26653 SINTANDREI,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,156
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,192
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,180
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,168
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,161
+ 26653 SINTANDREI,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,156
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,187
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,170
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,145
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,146
+ 26653 SINTANDREI,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,153
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,237
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,250
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,255
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,269
+ 26653 SINTANDREI,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,248
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,225
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,248
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,259
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,279
+ 26653 SINTANDREI,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,266
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,243
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,254
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,284
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,296
+ 26653 SINTANDREI,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,324
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,216
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,228
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,239
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,253
+ 26653 SINTANDREI,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,290
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,233
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,248
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,245
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,276
+ 26653 SINTANDREI,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,290
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,233
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,241
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,266
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,273
+ 26653 SINTANDREI,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,286
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,228
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,240
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,258
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,264
+ 26653 SINTANDREI,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,290
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,229
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,243
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,250
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,266
+ 26653 SINTANDREI,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,268
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,166
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,194
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,213
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,257
+ 26653 SINTANDREI,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,275
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,144
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,172
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,192
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,224
+ 26653 SINTANDREI,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,264
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,159
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,153
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,148
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,139
+ 26653 SINTANDREI,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,144
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,155
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,152
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,147
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,148
+ 26653 SINTANDREI,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,146
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,156
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,147
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,174
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,176
+ 26653 SINTANDREI,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,166
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,157
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,165
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,183
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,186
+ 26653 SINTANDREI,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,191
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,111
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,122
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,123
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,133
+ 26653 SINTANDREI,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,141
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,138
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,141
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,160
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,167
+ 26653 SINTANDREI,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,166
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,79
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,90
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,91
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,91
+ 26653 SINTANDREI,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,99
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,99
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,101
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,94
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,108
+ 26653 SINTANDREI,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,125
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,57
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,54
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,57
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,60
+ 26653 SINTANDREI,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,69
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,90
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,93
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,98
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,93
+ 26653 SINTANDREI,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,90
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,37
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,36
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,39
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,48
+ 26653 SINTANDREI,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,43
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,64
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,69
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,68
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,76
+ 26653 SINTANDREI,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,79
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,21
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,20
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,21
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,20
+ 26653 SINTANDREI,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,24
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,55
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,51
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,46
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,47
+ 26653 SINTANDREI,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,47
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,9
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,9
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,8
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,9
+ 26653 SINTANDREI,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,9
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,24
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,23
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,32
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,36
+ 26653 SINTANDREI,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,43

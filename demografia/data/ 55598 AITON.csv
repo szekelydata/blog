@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,25
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,15
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,16
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,13
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,9
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,16
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,17
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,21
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,21
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,20
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,20
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,18
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,14
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,9
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,10
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,12
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,20
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,22
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,19
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,17
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,13
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,15
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,19
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,17
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,16
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,16
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,17
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,19
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,18
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,15
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,17
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,18
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,17
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,19
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,18
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,18
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,38
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,32
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,25
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,27
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,18
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,15
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,15
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,14
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,18
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,32
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,25
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,25
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,14
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,15
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,16
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,18
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,16
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,17
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,43
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,41
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,40
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,37
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,38
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,37
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,32
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,31
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,32
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,53
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,52
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,45
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,45
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,41
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,30
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,25
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,28
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,17
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,84
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,76
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,68
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,46
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,40
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,34
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,40
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,50
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,51
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,47
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,38
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,36
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,34
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,36
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,40
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,41
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,41
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,41
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,64
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,57
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,59
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,62
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,64
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,61
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,58
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,54
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,43
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,18
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,20
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,23
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,25
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,25
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,25
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,27
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,27
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,34
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,32
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,34
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,29
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,30
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,24
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,36
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,39
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,43
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,54
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,20
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,15
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,11
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,12
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,11
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,9
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,13
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,19
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,19
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,39
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,31
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,29
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,30
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,29
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,25
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,28
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,32
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,31
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,30
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,25
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,22
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,16
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,13
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,15
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,15
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,9
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,12
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,42
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,37
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,37
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,30
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,28
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,25
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,26
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,27
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,31
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,44
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,41
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,45
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,40
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,34
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,25
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,24
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,22
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,18
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,48
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,43
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,42
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,40
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,39
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,36
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,36
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,39
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,36
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,47
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,45
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,43
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,38
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,41
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,40
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,39
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,43
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,42
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,59
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,50
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,43
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,45
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,39
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,43
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,38
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,39
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,36
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,78
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,65
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,61
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,51
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,44
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,46
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,44
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,46
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,41
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,93
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,82
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,68
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,63
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,64
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,55
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,46
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,42
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,46
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,103
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,100
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,94
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,95
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,86
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,75
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,64
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,60
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,53
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,103
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,109
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,114
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,104
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,91
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,87
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,77
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,63
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,60
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,122
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,119
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,110
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,105
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,105
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,95
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,93
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,90
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,91
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,90
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,84
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,88
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,87
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,88
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,91
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,92
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,97
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,90
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,95
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,93
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,98
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,107
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,108
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,112
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,108
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,101
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,96
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,52
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,62
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,56
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,66
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,75
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,76
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,71
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,70
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,73
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,64
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,86
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,96
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,88
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,74
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,78
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,83
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,89
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,97
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,25
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,21
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,24
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,27
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,27
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,35
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,45
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,42
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,44
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,34
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,20
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,17
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,32
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,51
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,54
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,68
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,66
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,62
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,14
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,14
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,16
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,15
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,12
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,10
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,10
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,12
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,13
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,26
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,28
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,22
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,17
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,17
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,17
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,12
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,8
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,17
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,3
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,5
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,5
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,8
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,4
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,4
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,6
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,7
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,7
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,11
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,8
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,10
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,11
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,12
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,12
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,14
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,13
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,12
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,22
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,19
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,16
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,15
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,19
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,20
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,17
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,15
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,22
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,20
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,21
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,17
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,17
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,21
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,18
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,14
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,16
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,20
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,24
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,25
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,23
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,25
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,21
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,18
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,16
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,19
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,20
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,27
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,25
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,23
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,21
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,23
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,19
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,16
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,18
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,16
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,18
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,17
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,21
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,24
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,20
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,20
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,22
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,21
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,18
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,18
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,20
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,21
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,22
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,17
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,17
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,17
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,14
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,14
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,13
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,16
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,19
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,19
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,18
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,19
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,21
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,22
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,22
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,21
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,53
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,47
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,39
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,34
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,32
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,23
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,20
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,18
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,37
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,33
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,27
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,24
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,17
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,21
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,15
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,16
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,42
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,42
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,43
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,48
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,49
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,50
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,46
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,42
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,33
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,39
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,37
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,35
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,38
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,39
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,34
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,28
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,59
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,59
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,53
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,50
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,37
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,38
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,39
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,39
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,23
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,24
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,26
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,24
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,28
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,28
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,33
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,28
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,25
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,28
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,32
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,36
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,46
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,50
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,50
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,45
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,9
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,9
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,13
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,19
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,20
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,22
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,23
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,25
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,28
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,24
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,26
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,28
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,25
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,25
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,33
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,35
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,17
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,16
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,16
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,10
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,12
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,13
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,12
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,12
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,35
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,31
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,32
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,27
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,29
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,28
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,26
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,31
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,39
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,30
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,25
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,22
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,16
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,17
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,18
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,19
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,41
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,35
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,37
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,43
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,40
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,39
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,37
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,39
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,44
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,45
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,44
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,49
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,42
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,39
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,29
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,26
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,40
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,45
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,40
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,39
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,33
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,36
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,35
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,37
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,47
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,50
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,49
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,49
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,47
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,51
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,55
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,48
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,62
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,52
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,43
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,38
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,43
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,38
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,47
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,40
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,83
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,75
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,64
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,61
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,52
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,48
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,48
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,52
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,78
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,77
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,69
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,60
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,59
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,61
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,50
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,39
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,98
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,90
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,91
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,89
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,90
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,76
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,69
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,58
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,71
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,76
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,78
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,80
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,76
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,68
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,67
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,64
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,94
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,96
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,92
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,85
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,82
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,89
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,77
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,78
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,51
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,56
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,57
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,56
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,48
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,47
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,51
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,55
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,48
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,57
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,62
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,72
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,78
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,71
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,78
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,75
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,15
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,15
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,25
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,24
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,32
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,40
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,36
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,32
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,33
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,33
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,41
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,41
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,41
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,35
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,40
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,43
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,6
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,6
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,6
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,10
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,10
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,11
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,8
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,16
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,10
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,10
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,9
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,7
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,14
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,17
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,17
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,20
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,14
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,12
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,12
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,13
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,16
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,16
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,15
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,15
+ 55598 AITON,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,14
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,15
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,16
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,14
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,14
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,13
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,17
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,13
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,11
+ 55598 AITON,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,11
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,20
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,22
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,19
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,18
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,19
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,17
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,17
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,18
+ 55598 AITON,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,18
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,15
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,17
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,21
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,18
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,15
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,15
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,16
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,11
+ 55598 AITON,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,14
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,24
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,22
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,22
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,24
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,23
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,26
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,25
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,19
+ 55598 AITON,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,21
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,28
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,23
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,19
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,17
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,20
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,14
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,17
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,23
+ 55598 AITON,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,18
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,15
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,19
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,22
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,24
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,22
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,24
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,23
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,24
+ 55598 AITON,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,23
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,20
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,18
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,14
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,15
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,15
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,22
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,22
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,21
+ 55598 AITON,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,19
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,17
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,18
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,15
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,14
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,17
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,16
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,19
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,22
+ 55598 AITON,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,23
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,17
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,21
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,20
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,20
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,23
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,19
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,16
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,14
+ 55598 AITON,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,16
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,31
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,30
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,25
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,21
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,22
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,23
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,22
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,18
+ 55598 AITON,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,18
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,28
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,21
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,20
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,16
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,19
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,22
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,24
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,22
+ 55598 AITON,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,17
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,49
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,49
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,50
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,45
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,40
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,29
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,29
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,26
+ 55598 AITON,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,22
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,24
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,30
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,33
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,32
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,29
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,27
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,21
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,22
+ 55598 AITON,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,20
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,40
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,32
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,38
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,41
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,45
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,48
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,46
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,46
+ 55598 AITON,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,40
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,23
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,26
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,28
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,34
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,34
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,34
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,38
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,41
+ 55598 AITON,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,39
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,38
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,45
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,48
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,51
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,43
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,46
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,42
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,41
+ 55598 AITON,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,47
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,20
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,19
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,20
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,21
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,26
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,25
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,28
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,28
+ 55598 AITON,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,38
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,30
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,26
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,23
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,29
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,36
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,39
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,44
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,50
+ 55598 AITON,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,54
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,17
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,18
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,16
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,14
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,14
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,19
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,17
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,23
+ 55598 AITON,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,26
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,33
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,36
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,29
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,26
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,29
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,26
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,25
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,22
+ 55598 AITON,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,27
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,21
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,19
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,24
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,25
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,22
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,19
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,21
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,16
+ 55598 AITON,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,15
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,39
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,35
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,39
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,38
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,37
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,33
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,34
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,29
+ 55598 AITON,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,27
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,53
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,44
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,40
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,32
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,30
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,23
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,22
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,27
+ 55598 AITON,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,27
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,38
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,29
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,34
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,32
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,34
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,42
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,36
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,37
+ 55598 AITON,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,36
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,50
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,52
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,56
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,54
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,50
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,55
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,42
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,39
+ 55598 AITON,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,32
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,36
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,42
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,39
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,42
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,38
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,34
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,28
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,28
+ 55598 AITON,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,29
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,54
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,48
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,46
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,48
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,50
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,49
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,51
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,52
+ 55598 AITON,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,49
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,55
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,52
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,50
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,42
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,34
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,30
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,35
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,31
+ 55598 AITON,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,33
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,81
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,80
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,67
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,63
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,55
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,52
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,41
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,39
+ 55598 AITON,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,43
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,56
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,52
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,50
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,46
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,48
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,43
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,43
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,43
+ 55598 AITON,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,38
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,63
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,62
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,70
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,67
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,67
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,67
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,71
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,56
+ 55598 AITON,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,53
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,26
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,24
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,23
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,29
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,31
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,35
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,34
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,30
+ 55598 AITON,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,32
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,49
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,49
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,49
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,50
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,48
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,42
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,49
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,50
+ 55598 AITON,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,49
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,17
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,19
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,19
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,15
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,16
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,15
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,16
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,19
+ 55598 AITON,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,21
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,19
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,19
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,18
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,21
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,28
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,28
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,27
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,30
+ 55598 AITON,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,28

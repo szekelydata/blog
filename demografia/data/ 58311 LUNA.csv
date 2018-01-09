@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,162
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,154
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,123
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,127
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,114
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,126
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,133
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,152
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,134
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,136
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,125
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,123
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,112
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,118
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,126
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,119
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,107
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,124
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,150
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,140
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,156
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,164
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,169
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,162
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,159
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,128
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,128
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,125
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,128
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,141
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,140
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,137
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,131
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,140
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,129
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,114
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,163
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,146
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,143
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,144
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,144
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,150
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,162
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,180
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,189
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,171
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,152
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,124
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,121
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,127
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,131
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,150
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,164
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,171
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,201
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,201
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,192
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,185
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,178
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,167
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,147
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,151
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,157
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,177
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,171
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,176
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,180
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,164
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,167
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,160
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,141
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,143
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,251
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,231
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,222
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,216
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,208
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,201
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,197
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,193
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,192
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,189
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,180
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,183
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,178
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,191
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,176
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,172
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,168
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,172
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,128
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,149
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,172
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,193
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,216
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,216
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,214
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,204
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,202
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,100
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,100
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,126
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,148
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,155
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,168
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,171
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,167
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,169
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,129
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,128
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,125
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,117
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,117
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,118
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,137
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,154
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,168
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,82
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,84
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,80
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,80
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,83
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,90
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,98
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,124
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,146
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,128
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,127
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,133
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,130
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,123
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,127
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,133
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,134
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,129
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,106
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,101
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,103
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,92
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,92
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,81
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,91
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,92
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,92
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,135
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,135
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,129
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,128
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,132
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,121
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,118
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,132
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,135
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,135
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,139
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,128
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,126
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,113
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,109
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,104
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,111
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,104
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,114
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,108
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,117
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,130
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,124
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,136
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,138
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,129
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,127
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,151
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,143
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,131
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,131
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,139
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,135
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,133
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,125
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,131
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,157
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,145
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,134
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,106
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,108
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,106
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,105
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,114
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,126
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,160
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,157
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,168
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,153
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,144
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,151
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,142
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,127
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,129
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,149
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,156
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,156
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,175
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,160
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,146
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,134
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,127
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,101
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,164
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,173
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,163
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,161
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,171
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,162
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,159
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,167
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,150
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,158
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,149
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,140
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,124
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,128
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,127
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,132
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,131
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,155
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,159
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,152
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,168
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,176
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,158
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,157
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,166
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,157
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,159
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,128
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,122
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,129
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,126
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,123
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,127
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,121
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,118
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,101
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,156
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,154
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,150
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,153
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,155
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,145
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,139
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,148
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,157
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,54
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,76
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,79
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,85
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,92
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,93
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,84
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,91
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,97
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,78
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,100
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,117
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,117
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,121
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,134
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,121
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,120
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,123
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,32
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,23
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,19
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,21
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,28
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,30
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,44
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,49
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,49
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,53
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,41
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,33
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,42
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,51
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,60
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,79
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,85
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,86
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,26
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,26
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,26
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,25
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,21
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,19
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,11
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,10
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,13
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,41
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,42
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,37
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,35
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,32
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,27
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,24
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,17
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,23
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,10
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,11
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,13
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,15
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,16
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,18
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,24
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,21
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,17
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,11
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,9
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,13
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,18
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,22
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,19
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,16
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,17
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,15
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,123
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,122
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,124
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,119
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,131
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,132
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,126
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,128
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,136
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,135
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,127
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,137
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,132
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,118
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,104
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,107
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,132
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,138
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,133
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,152
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,132
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,122
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,125
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,126
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,122
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,134
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,128
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,116
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,137
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,143
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,139
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,132
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,204
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,186
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,176
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,138
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,140
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,129
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,129
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,132
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,166
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,158
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,148
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,139
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,127
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,124
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,133
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,124
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,158
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,173
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,184
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,198
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,207
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,215
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,195
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,183
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,147
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,150
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,160
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,168
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,180
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,179
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,164
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,151
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,189
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,183
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,167
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,165
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,179
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,180
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,193
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,194
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,168
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,171
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,166
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,150
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,144
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,147
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,155
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,160
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,192
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,195
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,195
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,199
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,208
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,204
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,198
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,188
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,177
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,165
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,165
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,164
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,169
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,160
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,173
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,174
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,199
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,207
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,202
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,196
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,184
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,185
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,195
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,199
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,160
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,173
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,166
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,154
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,165
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,176
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,174
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,173
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,126
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,121
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,137
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,152
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,176
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,197
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,202
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,203
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,96
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,100
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,107
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,141
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,169
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,171
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,181
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,174
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,139
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,129
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,133
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,133
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,131
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,129
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,125
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,146
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,104
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,98
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,107
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,108
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,108
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,111
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,117
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,130
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,132
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,133
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,129
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,139
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,143
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,141
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,135
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,142
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,115
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,115
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,111
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,119
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,120
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,122
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,114
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,127
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,123
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,137
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,140
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,139
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,137
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,146
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,138
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,133
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,147
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,149
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,149
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,142
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,149
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,137
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,131
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,131
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,105
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,104
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,104
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,116
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,136
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,131
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,142
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,143
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,138
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,151
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,144
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,133
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,137
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,152
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,161
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,159
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,147
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,136
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,126
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,120
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,98
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,97
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,103
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,109
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,167
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,156
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,154
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,163
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,146
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,138
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,152
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,149
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,104
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,108
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,119
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,119
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,137
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,131
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,119
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,112
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,144
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,142
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,150
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,145
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,151
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,161
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,144
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,138
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,96
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,101
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,95
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,94
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,78
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,78
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,92
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,97
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,127
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,123
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,123
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,130
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,137
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,124
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,124
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,131
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,50
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,51
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,47
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,57
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,67
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,68
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,74
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,71
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,83
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,93
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,83
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,84
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,95
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,102
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,100
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,95
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,14
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,16
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,24
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,23
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,26
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,29
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,30
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,31
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,36
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,43
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,51
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,60
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,55
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,51
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,56
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,47
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,14
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,14
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,12
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,10
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,13
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,13
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,15
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,22
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,10
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,10
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,10
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,9
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,16
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,24
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,20
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,29
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,129
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,142
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,133
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,131
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,120
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,103
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,88
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,91
+ 58311 LUNA,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,97
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,112
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,115
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,113
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,110
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,112
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,100
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,90
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,88
+ 58311 LUNA,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,86
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,122
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,130
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,130
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,126
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,130
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,136
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,142
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,132
+ 58311 LUNA,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,124
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,131
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,125
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,109
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,98
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,105
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,114
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,115
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,112
+ 58311 LUNA,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,116
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,149
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,134
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,127
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,127
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,126
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,120
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,118
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,129
+ 58311 LUNA,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,133
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,122
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,128
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,135
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,138
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,130
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,125
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,121
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,115
+ 58311 LUNA,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,103
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,148
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,143
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,132
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,134
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,131
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,146
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,138
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,129
+ 58311 LUNA,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,132
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,139
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,127
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,124
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,132
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,126
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,125
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,130
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,132
+ 58311 LUNA,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,137
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,210
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,213
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,217
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,199
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,182
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,146
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,133
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,128
+ 58311 LUNA,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,132
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,178
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,181
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,176
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,167
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,158
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,139
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,118
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,123
+ 58311 LUNA,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,137
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,191
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,195
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,194
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,195
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,196
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,214
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,216
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,219
+ 58311 LUNA,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,200
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,167
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,152
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,151
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,150
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,166
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,183
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,195
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,179
+ 58311 LUNA,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,167
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,208
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,218
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,215
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,198
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,194
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,190
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,185
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,189
+ 58311 LUNA,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,192
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,168
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,172
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,170
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,177
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,174
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,164
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,148
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,151
+ 58311 LUNA,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,146
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,193
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,188
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,195
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,210
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,202
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,209
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,216
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,204
+ 58311 LUNA,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,200
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,171
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,177
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,188
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,181
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,175
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,171
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,171
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,176
+ 58311 LUNA,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,189
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,162
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,185
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,208
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,223
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,220
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,205
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,192
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,193
+ 58311 LUNA,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,201
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,156
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,175
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,183
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,199
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,183
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,170
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,180
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,185
+ 58311 LUNA,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,180
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,144
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,136
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,131
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,123
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,149
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,173
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,194
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,213
+ 58311 LUNA,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,228
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,120
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,110
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,111
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,112
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,133
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,163
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,175
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,183
+ 58311 LUNA,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,194
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,141
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,138
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,142
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,136
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,140
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,143
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,138
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,134
+ 58311 LUNA,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,125
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,141
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,135
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,133
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,126
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,129
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,119
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,109
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,110
+ 58311 LUNA,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,115
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,141
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,137
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,142
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,141
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,134
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,137
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,132
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,134
+ 58311 LUNA,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,138
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,151
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,155
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,142
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,140
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,141
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,151
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,141
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,138
+ 58311 LUNA,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,127
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,115
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,131
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,129
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,131
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,132
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,128
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,123
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,130
+ 58311 LUNA,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,125
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,137
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,139
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,150
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,157
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,158
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,150
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,151
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,141
+ 58311 LUNA,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,140
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,109
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,94
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,91
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,98
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,101
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,105
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,119
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,109
+ 58311 LUNA,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,113
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,150
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,139
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,136
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,146
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,137
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,125
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,130
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,141
+ 58311 LUNA,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,144
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,98
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,115
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,110
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,100
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,87
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,92
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,81
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,78
+ 58311 LUNA,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,83
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,129
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,134
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,139
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,127
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,129
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,141
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,126
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,123
+ 58311 LUNA,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,132
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,70
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,62
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,70
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,74
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,79
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,81
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,83
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,79
+ 58311 LUNA,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,72
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,99
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,104
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,98
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,101
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,102
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,103
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,113
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,114
+ 58311 LUNA,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,104
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,38
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,39
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,37
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,45
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,48
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,45
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,44
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,47
+ 58311 LUNA,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,49
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,49
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,57
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,68
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,62
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,64
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,65
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,66
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,68
+ 58311 LUNA,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,72
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,21
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,23
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,21
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,18
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,20
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,16
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,19
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,20
+ 58311 LUNA,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,26
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,36
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,36
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,31
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,36
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,37
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,36
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,42
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,50
+ 58311 LUNA,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,46

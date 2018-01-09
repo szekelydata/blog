@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,160
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,129
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,119
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,111
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,115
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,127
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,124
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,130
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,135
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,161
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,160
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,153
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,145
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,139
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,128
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,113
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,118
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,128
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,125
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,120
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,128
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,136
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,142
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,140
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,122
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,109
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,107
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,132
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,136
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,140
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,138
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,140
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,139
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,145
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,136
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,131
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,200
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,188
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,156
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,141
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,119
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,111
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,113
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,128
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,137
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,150
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,137
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,117
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,113
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,118
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,132
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,135
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,138
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,140
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,291
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,270
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,259
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,232
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,213
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,201
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,187
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,159
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,149
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,280
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,267
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,250
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,210
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,172
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,151
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,135
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,122
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,123
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,361
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,355
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,311
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,302
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,283
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,271
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,249
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,250
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,228
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,246
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,237
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,232
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,250
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,239
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,235
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,218
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,210
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,173
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,201
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,219
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,266
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,278
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,298
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,290
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,279
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,251
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,246
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,97
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,101
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,125
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,138
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,155
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,161
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,158
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,163
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,181
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,161
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,156
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,149
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,143
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,149
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,159
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,181
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,215
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,220
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,66
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,64
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,66
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,73
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,67
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,70
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,74
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,83
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,97
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,117
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,117
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,126
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,139
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,140
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,137
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,131
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,134
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,133
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,97
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,83
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,64
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,52
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,60
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,53
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,60
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,71
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,71
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,125
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,118
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,104
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,102
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,105
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,108
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,112
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,113
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,124
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,137
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,131
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,128
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,113
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,98
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,92
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,79
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,64
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,54
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,151
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,141
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,145
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,133
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,128
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,119
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,112
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,102
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,99
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,145
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,147
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,144
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,138
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,138
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,131
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,130
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,125
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,116
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,211
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,201
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,190
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,167
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,151
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,142
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,127
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,133
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,128
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,193
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,186
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,168
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,162
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,152
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,143
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,145
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,148
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,145
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,159
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,160
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,156
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,170
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,174
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,194
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,187
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,175
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,159
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,209
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,198
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,199
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,196
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,183
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,187
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,177
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,166
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,157
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,183
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,183
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,176
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,164
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,154
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,145
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,144
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,141
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,155
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,193
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,189
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,193
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,197
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,206
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,199
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,189
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,188
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,191
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,143
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,149
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,152
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,155
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,166
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,162
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,162
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,158
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,143
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,158
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,169
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,164
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,171
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,179
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,178
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,173
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,181
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,180
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,71
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,90
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,99
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,104
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,104
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,109
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,111
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,116
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,124
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,92
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,113
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,126
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,129
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,120
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,125
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,136
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,142
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,149
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,50
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,37
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,37
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,41
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,45
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,50
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,63
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,70
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,79
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,74
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,60
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,50
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,50
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,66
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,72
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,78
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,86
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,89
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,36
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,43
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,35
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,37
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,26
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,25
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,23
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,28
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,28
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,44
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,47
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,48
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,55
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,47
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,48
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,36
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,31
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,32
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,15
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,15
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,17
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,16
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,22
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,16
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,19
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,17
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,14
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,17
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,19
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,17
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,15
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,16
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,23
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,26
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,25
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,27
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,128
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,123
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,114
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,112
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,104
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,101
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,94
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,94
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,129
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,132
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,130
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,114
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,98
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,101
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,98
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,97
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,111
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,121
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,125
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,120
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,125
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,122
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,118
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,111
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,121
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,109
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,112
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,117
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,129
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,131
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,134
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,131
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,149
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,145
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,128
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,113
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,107
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,111
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,120
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,128
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,141
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,135
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,136
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,128
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,126
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,131
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,114
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,117
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,125
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,116
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,123
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,144
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,138
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,144
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,147
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,132
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,134
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,139
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,139
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,146
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,142
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,145
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,143
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,138
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,217
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,205
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,182
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,153
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,153
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,135
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,123
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,123
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,147
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,135
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,125
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,115
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,117
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,116
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,135
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,134
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,234
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,233
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,223
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,221
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,200
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,185
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,180
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,167
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,181
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,176
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,172
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,171
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,152
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,133
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,123
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,120
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,235
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,228
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,227
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,208
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,206
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,192
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,194
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,184
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,114
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,125
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,134
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,136
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,155
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,162
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,159
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,164
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,142
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,145
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,167
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,187
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,188
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,198
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,196
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,196
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,70
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,68
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,75
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,80
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,91
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,105
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,122
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,125
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,128
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,124
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,125
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,123
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,122
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,135
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,139
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,157
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,58
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,58
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,67
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,78
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,81
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,81
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,78
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,76
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,109
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,114
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,118
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,123
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,130
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,126
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,115
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,119
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,107
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,96
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,83
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,73
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,62
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,64
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,65
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,77
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,122
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,115
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,110
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,102
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,105
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,115
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,121
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,122
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,143
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,136
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,138
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,137
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,126
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,117
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,105
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,90
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,144
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,133
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,121
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,133
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,127
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,120
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,118
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,115
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,152
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,142
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,147
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,147
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,148
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,142
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,138
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,137
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,160
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,175
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,166
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,157
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,147
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,135
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,126
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,119
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,182
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,187
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,179
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,167
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,157
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,152
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,141
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,146
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,136
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,132
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,121
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,115
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,126
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,134
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,151
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,147
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,187
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,184
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,177
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,178
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,179
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,166
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,176
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,167
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,137
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,128
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,129
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,127
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,117
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,112
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,103
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,98
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,161
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,163
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,153
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,159
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,161
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,172
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,160
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,152
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,79
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,90
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,86
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,87
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,95
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,99
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,92
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,100
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,84
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,100
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,117
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,116
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,124
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,126
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,130
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,130
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,28
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,28
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,43
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,52
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,58
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,55
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,54
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,48
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,36
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,43
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,52
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,60
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,63
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,62
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,72
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,82
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,18
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,15
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,14
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,14
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,17
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,18
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,17
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,20
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,24
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,23
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,18
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,16
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,23
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,23
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,24
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,27
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,99
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,100
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,89
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,78
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,81
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,70
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,68
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,63
+ 56844 CEANU MARE,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,59
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,85
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,81
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,79
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,76
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,68
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,67
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,68
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,66
+ 56844 CEANU MARE,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,70
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,106
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,98
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,100
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,98
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,97
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,101
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,98
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,88
+ 56844 CEANU MARE,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,77
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,121
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,103
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,104
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,102
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,98
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,84
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,85
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,77
+ 56844 CEANU MARE,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,70
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,120
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,119
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,118
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,119
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,117
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,105
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,100
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,105
+ 56844 CEANU MARE,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,99
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,120
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,131
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,134
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,130
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,125
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,114
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,98
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,98
+ 56844 CEANU MARE,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,98
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,124
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,117
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,123
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,128
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,134
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,135
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,131
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,126
+ 56844 CEANU MARE,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,124
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,139
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,137
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,123
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,121
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,124
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,118
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,129
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,126
+ 56844 CEANU MARE,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,123
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,141
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,143
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,147
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,143
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,132
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,130
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,126
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,123
+ 56844 CEANU MARE,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,126
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,137
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,130
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,129
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,118
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,119
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,124
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,123
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,112
+ 56844 CEANU MARE,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,109
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,141
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,135
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,122
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,110
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,112
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,132
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,139
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,141
+ 56844 CEANU MARE,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,139
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,112
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,118
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,117
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,125
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,126
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,119
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,119
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,118
+ 56844 CEANU MARE,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,113
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,198
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,184
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,168
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,167
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,149
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,121
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,115
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,113
+ 56844 CEANU MARE,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,109
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,162
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,139
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,132
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,128
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,122
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,114
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,113
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,110
+ 56844 CEANU MARE,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,117
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,176
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,181
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,168
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,166
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,166
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,175
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,162
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,151
+ 56844 CEANU MARE,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,158
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,134
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,155
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,159
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,158
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,164
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,162
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,141
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,127
+ 56844 CEANU MARE,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,118
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,175
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,176
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,188
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,189
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,193
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,172
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,173
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,160
+ 56844 CEANU MARE,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,161
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,79
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,86
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,103
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,118
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,122
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,132
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,154
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,151
+ 56844 CEANU MARE,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,152
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,129
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,120
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,139
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,141
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,156
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,172
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,176
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,186
+ 56844 CEANU MARE,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,188
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,89
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,88
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,84
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,78
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,77
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,83
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,89
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,107
+ 56844 CEANU MARE,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,120
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,119
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,137
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,126
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,118
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,129
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,135
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,121
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,136
+ 56844 CEANU MARE,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,144
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,78
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,64
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,67
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,70
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,80
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,93
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,91
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,86
+ 56844 CEANU MARE,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,84
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,106
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,104
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,114
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,122
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,123
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,120
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,135
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,130
+ 56844 CEANU MARE,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,119
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,137
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,129
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,119
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,107
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,91
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,75
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,67
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,70
+ 56844 CEANU MARE,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,71
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,128
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,119
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,109
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,111
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,103
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,101
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,100
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,108
+ 56844 CEANU MARE,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,114
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,144
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,142
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,139
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,141
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,139
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,141
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,133
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,123
+ 56844 CEANU MARE,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,107
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,135
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,125
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,112
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,98
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,97
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,107
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,106
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,104
+ 56844 CEANU MARE,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,102
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,155
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,149
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,143
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,133
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,138
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,135
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,137
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,136
+ 56844 CEANU MARE,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,138
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,93
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,105
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,111
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,122
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,117
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,110
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,102
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,93
+ 56844 CEANU MARE,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,90
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,155
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,160
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,146
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,154
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,146
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,136
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,133
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,130
+ 56844 CEANU MARE,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,122
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,94
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,86
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,80
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,77
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,74
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,75
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,84
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,88
+ 56844 CEANU MARE,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,94
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,132
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,131
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,141
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,134
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,135
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,138
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,140
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,132
+ 56844 CEANU MARE,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,138
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,49
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,50
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,54
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,56
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,63
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,58
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,54
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,57
+ 56844 CEANU MARE,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,52
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,81
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,78
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,79
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,83
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,83
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,85
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,95
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,103
+ 56844 CEANU MARE,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,104
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,25
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,27
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,29
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,30
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,26
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,31
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,33
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,28
+ 56844 CEANU MARE,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,31
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,35
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,39
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,37
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,42
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,47
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,48
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,48
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,55
+ 56844 CEANU MARE,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,55

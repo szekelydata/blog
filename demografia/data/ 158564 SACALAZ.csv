@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 1992, Numar persoane,252
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 1993, Numar persoane,236
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 1994, Numar persoane,229
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 1995, Numar persoane,221
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 1996, Numar persoane,215
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 1997, Numar persoane,193
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 1998, Numar persoane,199
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 1992, Numar persoane,195
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 1993, Numar persoane,208
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 1994, Numar persoane,229
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 1995, Numar persoane,218
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 1996, Numar persoane,216
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 1997, Numar persoane,197
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 1998, Numar persoane,192
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 1992, Numar persoane,235
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 1993, Numar persoane,261
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 1994, Numar persoane,280
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 1995, Numar persoane,295
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 1996, Numar persoane,311
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 1997, Numar persoane,302
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 1998, Numar persoane,266
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 1992, Numar persoane,216
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 1993, Numar persoane,226
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 1994, Numar persoane,232
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 1995, Numar persoane,230
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 1996, Numar persoane,227
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 1997, Numar persoane,225
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 1998, Numar persoane,228
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 1992, Numar persoane,265
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 1993, Numar persoane,265
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 1994, Numar persoane,261
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 1995, Numar persoane,264
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 1996, Numar persoane,252
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 1997, Numar persoane,256
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 1998, Numar persoane,271
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 1992, Numar persoane,251
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 1993, Numar persoane,241
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 1994, Numar persoane,261
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 1995, Numar persoane,265
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 1996, Numar persoane,260
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 1997, Numar persoane,244
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 1998, Numar persoane,250
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 1992, Numar persoane,218
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 1993, Numar persoane,246
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 1994, Numar persoane,264
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 1995, Numar persoane,280
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 1996, Numar persoane,289
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 1997, Numar persoane,286
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 1998, Numar persoane,281
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 1992, Numar persoane,256
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 1993, Numar persoane,264
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 1994, Numar persoane,281
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 1995, Numar persoane,296
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 1996, Numar persoane,266
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 1997, Numar persoane,274
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 1998, Numar persoane,260
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 1992, Numar persoane,292
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 1993, Numar persoane,266
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 1994, Numar persoane,257
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 1995, Numar persoane,256
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 1996, Numar persoane,231
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 1997, Numar persoane,254
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 1998, Numar persoane,272
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 1992, Numar persoane,248
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 1993, Numar persoane,256
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 1994, Numar persoane,257
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 1995, Numar persoane,261
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 1996, Numar persoane,301
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 1997, Numar persoane,291
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 1998, Numar persoane,296
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 1992, Numar persoane,167
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 1993, Numar persoane,206
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 1994, Numar persoane,249
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 1995, Numar persoane,281
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 1996, Numar persoane,312
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 1997, Numar persoane,328
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 1998, Numar persoane,305
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 1992, Numar persoane,123
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 1993, Numar persoane,145
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 1994, Numar persoane,188
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 1995, Numar persoane,229
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 1996, Numar persoane,244
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 1997, Numar persoane,272
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 1998, Numar persoane,271
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 1992, Numar persoane,160
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 1993, Numar persoane,174
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 1994, Numar persoane,192
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 1995, Numar persoane,192
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 1996, Numar persoane,194
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 1997, Numar persoane,192
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 1998, Numar persoane,226
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 1992, Numar persoane,158
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 1993, Numar persoane,161
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 1994, Numar persoane,160
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 1995, Numar persoane,156
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 1996, Numar persoane,152
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 1997, Numar persoane,152
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 1998, Numar persoane,173
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 1992, Numar persoane,181
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 1993, Numar persoane,176
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 1994, Numar persoane,174
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 1995, Numar persoane,183
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 1996, Numar persoane,177
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 1997, Numar persoane,194
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 1998, Numar persoane,201
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 1992, Numar persoane,185
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 1993, Numar persoane,189
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 1994, Numar persoane,193
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 1995, Numar persoane,188
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 1996, Numar persoane,182
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 1997, Numar persoane,187
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 1998, Numar persoane,193
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 1992, Numar persoane,197
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 1993, Numar persoane,210
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 1994, Numar persoane,232
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 1995, Numar persoane,227
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 1996, Numar persoane,222
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 1997, Numar persoane,210
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 1998, Numar persoane,195
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 1992, Numar persoane,174
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 1993, Numar persoane,175
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 1994, Numar persoane,198
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 1995, Numar persoane,208
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 1996, Numar persoane,198
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 1997, Numar persoane,201
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 1998, Numar persoane,204
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 1992, Numar persoane,129
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 1993, Numar persoane,130
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 1994, Numar persoane,140
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 1995, Numar persoane,162
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 1996, Numar persoane,191
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 1997, Numar persoane,216
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 1998, Numar persoane,229
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 1992, Numar persoane,128
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 1993, Numar persoane,138
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 1994, Numar persoane,136
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 1995, Numar persoane,152
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 1996, Numar persoane,179
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 1997, Numar persoane,193
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 1998, Numar persoane,186
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 1992, Numar persoane,163
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 1993, Numar persoane,158
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 1994, Numar persoane,149
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 1995, Numar persoane,137
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 1996, Numar persoane,125
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 1997, Numar persoane,124
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 1998, Numar persoane,132
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 1992, Numar persoane,151
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 1993, Numar persoane,144
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 1994, Numar persoane,149
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 1995, Numar persoane,148
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 1996, Numar persoane,128
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 1997, Numar persoane,135
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 1998, Numar persoane,146
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 1992, Numar persoane,141
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 1993, Numar persoane,133
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 1994, Numar persoane,147
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 1995, Numar persoane,159
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 1996, Numar persoane,152
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 1997, Numar persoane,157
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 1998, Numar persoane,151
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 1992, Numar persoane,148
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 1993, Numar persoane,149
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 1994, Numar persoane,148
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 1995, Numar persoane,137
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 1996, Numar persoane,151
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 1997, Numar persoane,147
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 1998, Numar persoane,147
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 1992, Numar persoane,98
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 1993, Numar persoane,114
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 1994, Numar persoane,118
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 1995, Numar persoane,112
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 1996, Numar persoane,117
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 1997, Numar persoane,120
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 1998, Numar persoane,123
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 1992, Numar persoane,168
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 1993, Numar persoane,163
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 1994, Numar persoane,156
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 1995, Numar persoane,166
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 1996, Numar persoane,156
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 1997, Numar persoane,148
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 1998, Numar persoane,144
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 1992, Numar persoane,89
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 1993, Numar persoane,88
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 1994, Numar persoane,86
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 1995, Numar persoane,94
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 1996, Numar persoane,91
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 1997, Numar persoane,90
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 1998, Numar persoane,91
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 1992, Numar persoane,140
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 1993, Numar persoane,144
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 1994, Numar persoane,137
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 1995, Numar persoane,145
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 1996, Numar persoane,144
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 1997, Numar persoane,150
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 1998, Numar persoane,149
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 1992, Numar persoane,46
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 1993, Numar persoane,53
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 1994, Numar persoane,64
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 1995, Numar persoane,65
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 1996, Numar persoane,71
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 1997, Numar persoane,70
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 1998, Numar persoane,70
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 1992, Numar persoane,73
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 1993, Numar persoane,91
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 1994, Numar persoane,105
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 1995, Numar persoane,105
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 1996, Numar persoane,118
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 1997, Numar persoane,117
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 1998, Numar persoane,115
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 1992, Numar persoane,38
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 1993, Numar persoane,28
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 1994, Numar persoane,22
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 1995, Numar persoane,19
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 1996, Numar persoane,23
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 1997, Numar persoane,29
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 1998, Numar persoane,38
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 1992, Numar persoane,47
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 1993, Numar persoane,50
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 1994, Numar persoane,43
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 1995, Numar persoane,41
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 1996, Numar persoane,46
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 1997, Numar persoane,53
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 1998, Numar persoane,72
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 1992, Numar persoane,22
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 1993, Numar persoane,20
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 1994, Numar persoane,23
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 1995, Numar persoane,24
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 1996, Numar persoane,23
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 1997, Numar persoane,21
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 1998, Numar persoane,17
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 1992, Numar persoane,47
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 1993, Numar persoane,45
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 1994, Numar persoane,40
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 1995, Numar persoane,35
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 1996, Numar persoane,35
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 1997, Numar persoane,31
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 1998, Numar persoane,31
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 1992, Numar persoane,13
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 1993, Numar persoane,12
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 1994, Numar persoane,12
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 1995, Numar persoane,13
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 1996, Numar persoane,11
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 1997, Numar persoane,11
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 1998, Numar persoane,9
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 1992, Numar persoane,11
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 1993, Numar persoane,13
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 1994, Numar persoane,21
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 1995, Numar persoane,25
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 1996, Numar persoane,23
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 1997, Numar persoane,24
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 1998, Numar persoane,27
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 1999, Numar persoane,210
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2000, Numar persoane,220
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2001, Numar persoane,217
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2002, Numar persoane,213
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2003, Numar persoane,204
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2004, Numar persoane,196
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,182
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,189
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 1999, Numar persoane,183
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2000, Numar persoane,191
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2001, Numar persoane,185
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2002, Numar persoane,190
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2003, Numar persoane,190
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2004, Numar persoane,170
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,171
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,179
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 1999, Numar persoane,237
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2000, Numar persoane,214
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2001, Numar persoane,207
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2002, Numar persoane,191
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2003, Numar persoane,201
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2004, Numar persoane,210
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,221
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,221
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 1999, Numar persoane,234
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2000, Numar persoane,217
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2001, Numar persoane,208
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2002, Numar persoane,192
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2003, Numar persoane,182
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2004, Numar persoane,180
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,192
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,193
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 1999, Numar persoane,283
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2000, Numar persoane,289
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2001, Numar persoane,295
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2002, Numar persoane,284
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2003, Numar persoane,255
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2004, Numar persoane,232
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,218
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,218
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 1999, Numar persoane,239
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2000, Numar persoane,231
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2001, Numar persoane,232
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2002, Numar persoane,220
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2003, Numar persoane,228
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2004, Numar persoane,231
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,226
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,210
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 1999, Numar persoane,272
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2000, Numar persoane,266
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2001, Numar persoane,249
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2002, Numar persoane,251
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2003, Numar persoane,270
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2004, Numar persoane,286
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,299
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,306
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 1999, Numar persoane,270
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2000, Numar persoane,273
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2001, Numar persoane,266
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2002, Numar persoane,252
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2003, Numar persoane,260
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2004, Numar persoane,255
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,252
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,252
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 1999, Numar persoane,285
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2000, Numar persoane,292
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2001, Numar persoane,297
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2002, Numar persoane,299
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2003, Numar persoane,292
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2004, Numar persoane,288
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,293
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,271
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 1999, Numar persoane,296
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2000, Numar persoane,313
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2001, Numar persoane,279
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2002, Numar persoane,292
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2003, Numar persoane,269
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2004, Numar persoane,280
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,287
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,294
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 1999, Numar persoane,281
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2000, Numar persoane,267
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2001, Numar persoane,245
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2002, Numar persoane,265
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2003, Numar persoane,275
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2004, Numar persoane,295
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,310
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,336
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 1999, Numar persoane,270
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2000, Numar persoane,269
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2001, Numar persoane,302
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2002, Numar persoane,296
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2003, Numar persoane,306
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2004, Numar persoane,303
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,327
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,312
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 1999, Numar persoane,262
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2000, Numar persoane,288
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2001, Numar persoane,323
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2002, Numar persoane,340
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2003, Numar persoane,306
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2004, Numar persoane,276
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,276
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,255
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 1999, Numar persoane,203
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2000, Numar persoane,223
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2001, Numar persoane,232
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2002, Numar persoane,262
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2003, Numar persoane,264
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2004, Numar persoane,278
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,274
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,313
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 1999, Numar persoane,210
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2000, Numar persoane,204
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2001, Numar persoane,194
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2002, Numar persoane,187
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2003, Numar persoane,228
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2004, Numar persoane,262
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,293
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,347
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 1999, Numar persoane,182
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2000, Numar persoane,170
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2001, Numar persoane,167
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2002, Numar persoane,157
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2003, Numar persoane,174
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2004, Numar persoane,192
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,224
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,239
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 1999, Numar persoane,189
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2000, Numar persoane,191
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2001, Numar persoane,189
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2002, Numar persoane,198
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2003, Numar persoane,198
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2004, Numar persoane,203
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,200
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,194
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 1999, Numar persoane,203
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2000, Numar persoane,199
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2001, Numar persoane,193
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2002, Numar persoane,192
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2003, Numar persoane,188
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2004, Numar persoane,177
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,178
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,181
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 1999, Numar persoane,248
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2000, Numar persoane,239
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2001, Numar persoane,241
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2002, Numar persoane,222
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2003, Numar persoane,210
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2004, Numar persoane,205
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,199
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,188
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 1999, Numar persoane,205
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2000, Numar persoane,211
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2001, Numar persoane,209
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2002, Numar persoane,211
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2003, Numar persoane,219
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2004, Numar persoane,218
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,211
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,207
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 1999, Numar persoane,142
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2000, Numar persoane,168
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2001, Numar persoane,195
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2002, Numar persoane,208
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2003, Numar persoane,224
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2004, Numar persoane,244
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,236
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,239
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 1999, Numar persoane,140
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2000, Numar persoane,161
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2001, Numar persoane,186
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2002, Numar persoane,200
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2003, Numar persoane,197
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2004, Numar persoane,211
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,220
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,214
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 1999, Numar persoane,140
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2000, Numar persoane,128
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2001, Numar persoane,120
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2002, Numar persoane,125
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2003, Numar persoane,126
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2004, Numar persoane,127
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,145
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,173
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 1999, Numar persoane,152
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2000, Numar persoane,143
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2001, Numar persoane,127
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2002, Numar persoane,137
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2003, Numar persoane,149
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2004, Numar persoane,148
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,167
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,193
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 1999, Numar persoane,134
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2000, Numar persoane,144
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2001, Numar persoane,139
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2002, Numar persoane,141
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2003, Numar persoane,133
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2004, Numar persoane,123
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,114
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,101
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 1999, Numar persoane,146
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2000, Numar persoane,132
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2001, Numar persoane,144
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2002, Numar persoane,139
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2003, Numar persoane,132
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2004, Numar persoane,138
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,136
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,124
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 1999, Numar persoane,98
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2000, Numar persoane,98
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2001, Numar persoane,102
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2002, Numar persoane,106
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2003, Numar persoane,105
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2004, Numar persoane,110
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,115
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,112
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 1999, Numar persoane,145
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2000, Numar persoane,153
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2001, Numar persoane,137
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2002, Numar persoane,130
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2003, Numar persoane,132
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2004, Numar persoane,129
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,119
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,135
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 1999, Numar persoane,66
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2000, Numar persoane,66
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2001, Numar persoane,68
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2002, Numar persoane,63
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2003, Numar persoane,72
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2004, Numar persoane,76
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,79
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,81
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 1999, Numar persoane,113
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2000, Numar persoane,117
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2001, Numar persoane,122
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2002, Numar persoane,133
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2003, Numar persoane,132
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2004, Numar persoane,125
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,132
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,117
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 1999, Numar persoane,46
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2000, Numar persoane,46
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2001, Numar persoane,50
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2002, Numar persoane,52
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2003, Numar persoane,54
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2004, Numar persoane,51
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,50
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,51
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 1999, Numar persoane,86
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2000, Numar persoane,89
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2001, Numar persoane,92
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2002, Numar persoane,88
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2003, Numar persoane,84
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2004, Numar persoane,87
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,92
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,102
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 1999, Numar persoane,16
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2000, Numar persoane,15
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2001, Numar persoane,18
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2002, Numar persoane,24
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2003, Numar persoane,27
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2004, Numar persoane,31
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,26
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,32
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 1999, Numar persoane,30
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2000, Numar persoane,34
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2001, Numar persoane,36
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2002, Numar persoane,40
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2003, Numar persoane,52
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2004, Numar persoane,63
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,68
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,69
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 1999, Numar persoane,8
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2000, Numar persoane,10
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2001, Numar persoane,8
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2002, Numar persoane,9
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2003, Numar persoane,8
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2004, Numar persoane,10
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,11
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,8
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 1999, Numar persoane,23
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2000, Numar persoane,23
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2001, Numar persoane,23
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2002, Numar persoane,25
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2003, Numar persoane,24
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2004, Numar persoane,22
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,21
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,21
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,195
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,195
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,210
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,230
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,222
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,218
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,193
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,198
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,208
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,225
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,224
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,218
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,221
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,216
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,206
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,192
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,196
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,203
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,198
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,206
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,180
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,185
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,177
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,189
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,199
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,210
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,226
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,236
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,227
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,225
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,201
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,191
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,200
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,204
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,209
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,199
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,307
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,283
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,260
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,245
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,261
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,249
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,251
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,254
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,256
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,241
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,239
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,240
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,279
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,299
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,321
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,342
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,343
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,339
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,286
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,291
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,304
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,291
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,306
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,283
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,337
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,339
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,340
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,351
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,332
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,336
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,335
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,318
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,340
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,361
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,378
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,374
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,294
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,328
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,363
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,375
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,406
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,404
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,317
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,342
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,362
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,390
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,371
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,394
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,361
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,336
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,327
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,335
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,350
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,392
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,274
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,278
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,296
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,303
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,364
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,366
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,188
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,234
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,271
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,309
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,365
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,393
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,175
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,196
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,214
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,255
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,285
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,325
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,196
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,198
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,207
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,212
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,210
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,204
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,213
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,209
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,197
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,192
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,195
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,200
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,232
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,218
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,220
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,214
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,191
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,196
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,224
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,233
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,240
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,238
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,239
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,234
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,181
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,209
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,236
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,243
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,257
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,254
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,208
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,208
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,221
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,227
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,229
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,233
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,104
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,110
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,110
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,133
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,170
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,182
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,133
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,143
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,148
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,167
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,195
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,212
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,118
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,109
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,105
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,100
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,91
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,92
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,129
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,123
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,131
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,133
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,125
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,134
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,80
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,80
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,88
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,98
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,95
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,100
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,112
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,120
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,127
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,123
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,137
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,128
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,44
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,53
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,59
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,61
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,59
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,58
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,110
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,109
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,107
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,119
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,99
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,100
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,33
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,37
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,34
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,33
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,34
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,32
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,63
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,61
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,58
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,68
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,80
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,85
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,10
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,11
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,15
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,14
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,16
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,18
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,26
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,35
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,45
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,48
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,41
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,39
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,209
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,216
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,213
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,224
+ 158564 SACALAZ,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,236
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,215
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,221
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,210
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,213
+ 158564 SACALAZ,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,234
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,201
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,208
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,212
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,214
+ 158564 SACALAZ,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,223
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,191
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,196
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,199
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,223
+ 158564 SACALAZ,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,222
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,214
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,206
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,190
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,192
+ 158564 SACALAZ,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,212
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,208
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,182
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,187
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,194
+ 158564 SACALAZ,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,212
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,258
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,267
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,268
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,274
+ 158564 SACALAZ,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,274
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,226
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,238
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,250
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,249
+ 158564 SACALAZ,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,259
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,318
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,289
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,283
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,278
+ 158564 SACALAZ,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,264
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,292
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,292
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,277
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,278
+ 158564 SACALAZ,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,280
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,359
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,367
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,379
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,397
+ 158564 SACALAZ,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,414
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,372
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,365
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,363
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,356
+ 158564 SACALAZ,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,346
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,416
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,398
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,405
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,385
+ 158564 SACALAZ,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,388
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,387
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,413
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,411
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,419
+ 158564 SACALAZ,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,433
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,418
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,446
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,456
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,475
+ 158564 SACALAZ,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,482
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,398
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,409
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,439
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,423
+ 158564 SACALAZ,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,446
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,382
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,378
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,395
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,407
+ 158564 SACALAZ,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,437
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,332
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,336
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,341
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,384
+ 158564 SACALAZ,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,390
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,263
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,304
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,343
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,399
+ 158564 SACALAZ,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,440
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,228
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,260
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,304
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,334
+ 158564 SACALAZ,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,368
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,199
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,212
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,227
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,219
+ 158564 SACALAZ,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,223
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,225
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,215
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,214
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,216
+ 158564 SACALAZ,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,220
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,235
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,232
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,227
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,209
+ 158564 SACALAZ,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,203
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,255
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,268
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,251
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,249
+ 158564 SACALAZ,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,245
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,212
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,234
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,234
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,241
+ 158564 SACALAZ,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,252
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,214
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,228
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,243
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,241
+ 158564 SACALAZ,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,248
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,104
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,102
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,128
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,167
+ 158564 SACALAZ,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,173
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,142
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,149
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,167
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,195
+ 158564 SACALAZ,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,211
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,90
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,91
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,87
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,80
+ 158564 SACALAZ,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,86
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,125
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,125
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,129
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,121
+ 158564 SACALAZ,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,129
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,62
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,67
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,80
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,84
+ 158564 SACALAZ,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,85
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,106
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,107
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,105
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,117
+ 158564 SACALAZ,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,116
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,38
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,39
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,34
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,37
+ 158564 SACALAZ,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,39
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,82
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,82
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,84
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,76
+ 158564 SACALAZ,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,72
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,20
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,21
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,25
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,25
+ 158564 SACALAZ,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,21
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,46
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,53
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,61
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,70
+ 158564 SACALAZ,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,73

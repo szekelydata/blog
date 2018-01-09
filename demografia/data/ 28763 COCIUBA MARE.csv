@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,111
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,112
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,104
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,94
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,99
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,87
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,87
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,88
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,100
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,97
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,90
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,83
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,85
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,83
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,80
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,85
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,99
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,91
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,100
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,99
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,105
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,113
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,103
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,97
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,80
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,87
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,99
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,102
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,101
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,102
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,94
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,90
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,114
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,110
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,107
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,107
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,104
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,97
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,91
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,101
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,92
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,89
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,73
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,78
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,79
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,78
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,83
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,93
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,142
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,137
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,127
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,127
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,120
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,115
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,110
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,107
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,127
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,115
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,116
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,106
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,95
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,94
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,85
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,72
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,150
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,152
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,145
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,143
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,136
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,139
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,136
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,126
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,151
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,147
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,125
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,125
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,117
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,109
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,106
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,104
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,85
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,89
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,103
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,108
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,109
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,126
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,130
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,127
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,75
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,76
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,97
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,100
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,107
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,107
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,112
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,112
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,87
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,90
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,91
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,85
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,85
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,75
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,79
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,91
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,56
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,57
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,58
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,51
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,55
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,63
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,60
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,73
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,83
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,78
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,78
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,77
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,71
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,77
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,79
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,79
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,70
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,67
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,57
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,53
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,47
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,52
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,53
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,55
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,79
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,72
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,71
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,76
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,86
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,82
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,74
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,72
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,102
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,98
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,93
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,83
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,74
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,71
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,65
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,56
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,80
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,86
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,87
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,88
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,82
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,78
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,75
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,74
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,111
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,114
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,121
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,123
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,123
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,106
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,100
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,93
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,121
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,98
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,95
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,76
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,74
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,81
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,82
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,82
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,157
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,141
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,120
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,106
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,101
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,109
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,113
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,121
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,175
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,173
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,151
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,157
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,143
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,110
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,94
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,89
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,184
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,171
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,177
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,168
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,170
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,155
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,140
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,120
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,183
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,180
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,191
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,162
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,142
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,152
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,147
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,130
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,190
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,203
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,201
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,207
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,192
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,182
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,163
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,170
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,149
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,149
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,133
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,144
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,159
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,157
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,146
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,158
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,148
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,142
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,142
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,149
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,155
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,162
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,181
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,173
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,92
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,105
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,117
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,124
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,125
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,115
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,116
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,100
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,112
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,118
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,126
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,120
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,122
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,128
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,118
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,119
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,52
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,46
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,43
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,36
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,41
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,58
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,78
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,85
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,56
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,57
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,60
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,66
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,77
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,84
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,88
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,96
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,44
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,38
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,43
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,46
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,36
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,25
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,20
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,22
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,31
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,29
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,23
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,33
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,29
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,26
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,28
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,29
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,13
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,16
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,10
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,15
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,20
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,18
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,16
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,15
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,17
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,18
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,19
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,12
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,10
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,10
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,9
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,10
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,97
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,100
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,98
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,102
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,109
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,113
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,102
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,84
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,86
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,95
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,87
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,89
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,89
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,83
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,87
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,90
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,82
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,90
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,91
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,100
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,104
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,84
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,89
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,81
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,86
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,89
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,87
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,87
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,100
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,104
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,108
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,105
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,99
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,86
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,90
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,99
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,104
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,100
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,95
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,94
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,86
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,93
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,110
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,101
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,96
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,98
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,105
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,106
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,109
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,75
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,75
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,77
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,87
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,94
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,100
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,103
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,126
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,124
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,117
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,109
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,106
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,107
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,96
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,103
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,98
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,96
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,95
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,79
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,83
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,88
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,133
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,133
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,134
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,138
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,126
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,123
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,118
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,112
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,108
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,103
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,99
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,102
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,98
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,83
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,95
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,95
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,104
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,110
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,114
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,121
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,127
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,83
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,95
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,93
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,108
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,101
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,101
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,103
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,74
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,77
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,69
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,77
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,81
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,88
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,84
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,54
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,56
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,64
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,63
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,72
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,82
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,88
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,73
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,73
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,73
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,75
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,79
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,76
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,78
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,51
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,52
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,56
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,58
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,57
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,57
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,58
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,76
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,86
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,77
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,71
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,70
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,72
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,73
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,84
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,77
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,75
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,69
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,62
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,54
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,50
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,80
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,76
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,73
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,71
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,73
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,79
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,81
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,124
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,121
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,105
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,100
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,96
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,87
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,77
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,75
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,70
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,75
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,77
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,74
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,70
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,71
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,103
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,98
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,105
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,109
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,118
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,120
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,118
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,140
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,128
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,98
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,85
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,82
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,72
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,64
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,164
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,168
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,153
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,132
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,111
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,98
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,98
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,133
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,122
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,132
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,129
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,114
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,118
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,107
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,180
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,163
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,155
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,147
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,154
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,158
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,156
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,108
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,120
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,120
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,115
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,122
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,107
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,99
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,124
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,128
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,136
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,147
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,145
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,144
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,138
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,91
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,98
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,82
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,79
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,72
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,71
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,83
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,86
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,92
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,94
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,90
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,97
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,101
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,95
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,20
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,21
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,34
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,52
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,51
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,48
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,48
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,40
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,49
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,52
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,54
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,55
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,48
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,58
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,20
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,16
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,17
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,16
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,17
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,22
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,17
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,12
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,11
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,14
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,21
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,17
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,23
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,21
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,96
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,84
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,81
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,88
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,84
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,84
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,72
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,67
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,67
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,70
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,67
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,65
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,103
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,108
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,109
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,109
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,98
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,90
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,99
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,92
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,90
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,89
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,83
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,75
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,85
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,93
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,95
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,101
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,107
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,108
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,90
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,88
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,88
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,84
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,87
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,95
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,111
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,104
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,100
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,88
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,90
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,83
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,106
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,101
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,98
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,88
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,91
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,86
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,90
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,92
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,101
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,99
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,106
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,109
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,84
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,91
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,97
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,100
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,98
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,92
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,116
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,109
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,106
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,100
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,86
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,81
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,86
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,81
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,75
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,73
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,77
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,79
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,131
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,124
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,114
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,116
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,113
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,113
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,97
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,91
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,89
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,87
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,82
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,83
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,97
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,107
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,114
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,118
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,127
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,132
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,89
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,101
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,100
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,102
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,95
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,92
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,70
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,76
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,79
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,87
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,83
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,99
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,64
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,62
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,74
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,80
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,93
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,89
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,80
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,80
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,83
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,80
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,88
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,73
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,55
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,61
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,58
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,61
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,58
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,63
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,76
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,74
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,75
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,76
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,79
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,85
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,73
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,69
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,65
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,59
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,63
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,64
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,74
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,66
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,69
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,76
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,79
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,80
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,104
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,95
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,92
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,86
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,78
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,78
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,71
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,70
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,69
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,67
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,67
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,66
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,103
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,111
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,117
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,116
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,109
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,96
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,77
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,70
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,73
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,63
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,58
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,61
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,140
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,123
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,108
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,96
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,94
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,103
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,115
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,108
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,96
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,102
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,90
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,66
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,138
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,130
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,137
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,136
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,136
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,130
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,77
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,77
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,83
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,71
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,75
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,85
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,104
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,113
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,115
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,113
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,109
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,107
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,42
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,45
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,43
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,49
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,58
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,55
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,53
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,49
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,49
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,56
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,59
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,72
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,26
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,29
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,28
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,31
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,25
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,28
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,21
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,29
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,30
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,28
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,27
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,26
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,86
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,80
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,66
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,65
+ 28763 COCIUBA MARE,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,63
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,60
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,66
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,76
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,71
+ 28763 COCIUBA MARE,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,81
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,80
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,76
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,84
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,81
+ 28763 COCIUBA MARE,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,87
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,74
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,69
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,73
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,71
+ 28763 COCIUBA MARE,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,69
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,111
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,107
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,103
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,101
+ 28763 COCIUBA MARE,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,92
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,89
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,89
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,85
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,76
+ 28763 COCIUBA MARE,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,75
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,90
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,92
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,99
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,106
+ 28763 COCIUBA MARE,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,110
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,91
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,83
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,86
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,86
+ 28763 COCIUBA MARE,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,88
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,106
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,99
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,84
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,88
+ 28763 COCIUBA MARE,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,83
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,90
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,95
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,88
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,102
+ 28763 COCIUBA MARE,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,98
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,92
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,102
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,105
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,109
+ 28763 COCIUBA MARE,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,112
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,82
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,82
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,85
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,82
+ 28763 COCIUBA MARE,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,90
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,106
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,109
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,105
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,93
+ 28763 COCIUBA MARE,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,89
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,80
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,73
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,67
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,73
+ 28763 COCIUBA MARE,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,72
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,126
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,117
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,119
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,119
+ 28763 COCIUBA MARE,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,112
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,90
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,90
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,87
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,84
+ 28763 COCIUBA MARE,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,84
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,109
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,112
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,120
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,130
+ 28763 COCIUBA MARE,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,137
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,101
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,100
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,103
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,100
+ 28763 COCIUBA MARE,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,96
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,82
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,85
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,95
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,94
+ 28763 COCIUBA MARE,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,114
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,59
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,67
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,80
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,91
+ 28763 COCIUBA MARE,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,88
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,86
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,93
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,81
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,86
+ 28763 COCIUBA MARE,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,74
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,66
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,63
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,59
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,57
+ 28763 COCIUBA MARE,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,61
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,81
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,78
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,84
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,81
+ 28763 COCIUBA MARE,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,84
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,76
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,72
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,65
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,67
+ 28763 COCIUBA MARE,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,68
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,55
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,59
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,58
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,65
+ 28763 COCIUBA MARE,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,72
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,88
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,88
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,83
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,79
+ 28763 COCIUBA MARE,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,80
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,65
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,60
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,62
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,61
+ 28763 COCIUBA MARE,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,55
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,109
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,108
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,106
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,99
+ 28763 COCIUBA MARE,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,87
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,60
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,63
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,53
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,48
+ 28763 COCIUBA MARE,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,54
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,109
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,95
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,91
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,88
+ 28763 COCIUBA MARE,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,94
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,83
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,74
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,73
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,63
+ 28763 COCIUBA MARE,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,49
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,108
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,114
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,114
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,114
+ 28763 COCIUBA MARE,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,109
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,51
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,54
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,48
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,49
+ 28763 COCIUBA MARE,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,56
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,82
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,79
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,73
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,73
+ 28763 COCIUBA MARE,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,68
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,30
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,29
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,34
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,40
+ 28763 COCIUBA MARE,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,37
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,27
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,32
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,36
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,37
+ 28763 COCIUBA MARE,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,44

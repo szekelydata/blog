@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,169
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,168
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,178
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,161
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,175
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,170
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,179
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,189
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,185
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,160
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,142
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,168
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,185
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,194
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,196
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,202
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,217
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,209
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,126
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,145
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,166
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,209
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,213
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,211
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,217
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,229
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,210
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,90
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,131
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,136
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,168
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,186
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,195
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,194
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,205
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,219
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,170
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,138
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,151
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,136
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,141
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,166
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,182
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,189
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,236
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,181
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,145
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,129
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,93
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,77
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,95
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,144
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,156
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,191
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,220
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,232
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,198
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,186
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,177
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,180
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,152
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,166
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,147
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,224
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,217
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,213
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,210
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,199
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,183
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,159
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,144
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,112
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,306
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,287
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,277
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,258
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,264
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,230
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,252
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,222
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,214
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,247
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,233
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,246
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,238
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,246
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,243
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,235
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,250
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,256
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,165
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,191
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,248
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,274
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,304
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,317
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,308
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,299
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,285
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,118
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,170
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,206
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,227
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,257
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,266
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,267
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,271
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,275
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,183
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,174
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,189
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,197
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,188
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,198
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,227
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,271
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,300
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,137
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,125
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,135
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,137
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,141
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,155
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,198
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,226
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,264
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,172
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,171
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,180
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,185
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,194
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,194
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,192
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,197
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,220
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,181
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,180
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,180
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,164
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,160
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,156
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,151
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,156
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,163
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,182
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,199
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,201
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,202
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,192
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,180
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,185
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,190
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,193
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,195
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,200
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,195
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,205
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,188
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,190
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,194
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,201
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,182
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,192
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,194
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,184
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,181
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,184
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,191
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,210
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,208
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,209
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,188
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,192
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,190
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,188
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,210
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,201
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,207
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,202
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,213
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,193
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,174
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,178
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,167
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,183
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,192
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,194
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,183
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,185
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,227
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,205
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,200
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,190
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,181
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,184
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,198
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,200
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,196
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,180
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,172
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,175
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,197
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,180
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,170
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,163
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,172
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,169
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,186
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,192
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,193
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,211
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,206
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,216
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,196
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,193
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,185
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,219
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,214
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,202
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,184
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,165
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,154
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,143
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,149
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,163
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,195
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,191
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,192
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,193
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,179
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,173
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,186
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,181
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,201
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,131
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,148
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,157
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,161
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,180
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,194
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,191
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,180
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,165
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,198
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,190
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,196
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,172
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,183
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,180
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,179
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,174
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,179
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,117
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,121
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,126
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,120
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,105
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,101
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,113
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,117
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,123
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,105
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,129
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,146
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,162
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,169
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,168
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,167
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,180
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,163
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,67
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,59
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,56
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,61
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,69
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,75
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,75
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,77
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,77
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,84
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,77
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,68
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,72
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,64
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,74
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,92
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,107
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,125
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,36
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,41
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,47
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,47
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,42
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,41
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,36
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,29
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,33
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,44
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,46
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,48
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,56
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,62
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,59
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,53
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,50
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,48
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,9
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,12
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,13
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,12
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,15
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,15
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,20
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,22
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,24
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,19
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,20
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,21
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,25
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,20
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,21
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,28
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,28
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,35
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,202
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,217
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,206
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,211
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,220
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,208
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,221
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,282
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,205
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,205
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,197
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,182
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,187
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,193
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,206
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,266
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,199
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,196
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,194
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,197
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,195
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,211
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,224
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,229
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,209
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,214
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,215
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,222
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,207
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,203
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,206
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,211
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,242
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,241
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,237
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,236
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,220
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,205
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,212
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,220
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,212
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,206
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,204
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,214
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,226
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,217
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,229
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,231
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,151
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,175
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,201
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,225
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,281
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,288
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,292
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,303
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,102
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,113
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,156
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,175
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,224
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,250
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,274
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,279
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,198
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,205
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,175
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,192
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,183
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,183
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,205
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,235
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,243
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,231
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,187
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,189
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,148
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,127
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,149
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,215
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,298
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,261
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,277
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,246
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,235
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,235
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,254
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,277
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,287
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,290
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,277
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,286
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,292
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,286
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,291
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,303
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,322
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,345
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,322
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,321
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,314
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,309
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,299
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,367
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,294
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,311
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,305
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,309
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,314
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,329
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,341
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,377
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,219
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,219
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,250
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,294
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,321
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,355
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,388
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,387
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,168
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,185
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,228
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,258
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,297
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,329
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,359
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,373
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,209
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,207
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,207
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,218
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,238
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,236
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,242
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,292
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,177
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,175
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,177
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,187
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,194
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,193
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,213
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,272
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,200
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,200
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,201
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,211
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,220
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,233
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,236
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,243
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,199
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,209
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,215
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,226
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,217
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,211
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,203
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,224
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,191
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,211
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,220
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,216
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,228
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,210
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,225
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,244
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,218
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,208
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,218
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,214
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,230
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,222
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,232
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,254
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,184
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,184
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,191
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,185
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,189
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,196
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,202
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,219
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,182
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,193
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,202
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,207
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,208
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,228
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,220
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,231
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,154
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,156
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,155
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,157
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,160
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,171
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,180
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,187
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,198
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,198
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,189
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,185
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,178
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,180
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,187
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,198
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,145
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,142
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,129
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,131
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,138
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,138
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,138
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,143
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,172
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,171
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,177
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,171
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,189
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,185
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,187
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,181
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,143
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,157
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,161
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,149
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,134
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,126
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,119
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,106
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,168
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,169
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,161
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,158
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,158
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,150
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,155
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,162
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,75
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,75
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,79
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,85
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,84
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,95
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,104
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,116
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,139
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,133
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,135
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,147
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,133
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,137
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,138
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,134
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,34
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,40
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,46
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,48
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,51
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,45
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,42
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,45
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,42
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,49
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,52
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,64
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,76
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,89
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,92
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,94
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,28
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,27
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,25
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,28
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,31
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,32
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,28
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,31
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,37
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,33
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,29
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,27
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,30
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,30
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,32
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,42
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,356
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,475
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,705
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,868
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,1007
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,1161
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,1289
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,1378
+ 57706 FLORESTI,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,1545
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,334
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,480
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,670
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,789
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,965
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,1084
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,1184
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,1270
+ 57706 FLORESTI,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,1441
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,261
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,308
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,369
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,400
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,496
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,606
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,777
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,1015
+ 57706 FLORESTI,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,1186
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,217
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,252
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,327
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,397
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,507
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,613
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,776
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,956
+ 57706 FLORESTI,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,1056
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,244
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,265
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,327
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,365
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,395
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,458
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,492
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,571
+ 57706 FLORESTI,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,644
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,248
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,266
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,301
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,329
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,341
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,398
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,448
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,528
+ 57706 FLORESTI,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,650
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,321
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,329
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,365
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,422
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,428
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,477
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,517
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,564
+ 57706 FLORESTI,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,616
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,298
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,319
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,357
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,419
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,442
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,433
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,486
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,558
+ 57706 FLORESTI,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,587
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,309
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,428
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,519
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,536
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,572
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,591
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,609
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,636
+ 57706 FLORESTI,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,650
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,309
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,449
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,644
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,654
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,670
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,705
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,704
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,766
+ 57706 FLORESTI,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,802
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,457
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,638
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,950
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,1053
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,1155
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,1208
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,1229
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,1319
+ 57706 FLORESTI,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,1405
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,515
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,766
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,1239
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,1462
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,1670
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,1797
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,1791
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,1835
+ 57706 FLORESTI,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,1956
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,464
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,680
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,1054
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,1297
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,1554
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,1777
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,1943
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,2078
+ 57706 FLORESTI,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,2195
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,487
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,690
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,1000
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,1219
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,1479
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,1770
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,2056
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,2311
+ 57706 FLORESTI,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,2539
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,457
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,545
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,705
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,896
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,1115
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,1347
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,1560
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,1790
+ 57706 FLORESTI,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,2083
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,432
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,535
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,707
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,814
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,964
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,1189
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,1398
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,1678
+ 57706 FLORESTI,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,1964
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,364
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,455
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,565
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,675
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,720
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,832
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,921
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,1120
+ 57706 FLORESTI,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,1361
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,341
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,426
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,574
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,686
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,738
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,810
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,957
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,1115
+ 57706 FLORESTI,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,1299
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,281
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,311
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,347
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,373
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,496
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,579
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,711
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,861
+ 57706 FLORESTI,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,1018
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,248
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,267
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,322
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,373
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,510
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,626
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,747
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,909
+ 57706 FLORESTI,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,1083
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,286
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,295
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,338
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,365
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,381
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,416
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,454
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,502
+ 57706 FLORESTI,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,537
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,293
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,317
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,348
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,363
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,394
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,440
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,466
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,523
+ 57706 FLORESTI,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,607
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,219
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,265
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,308
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,342
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,386
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,443
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,451
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,482
+ 57706 FLORESTI,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,517
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,240
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,302
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,356
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,396
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,437
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,489
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,534
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,594
+ 57706 FLORESTI,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,639
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,199
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,210
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,261
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,279
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,326
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,338
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,392
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,430
+ 57706 FLORESTI,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,501
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,226
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,240
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,293
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,326
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,351
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,391
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,468
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,573
+ 57706 FLORESTI,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,676
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,161
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,167
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,187
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,201
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,219
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,234
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,278
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,339
+ 57706 FLORESTI,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,385
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,186
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,184
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,195
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,219
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,252
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,287
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,321
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,388
+ 57706 FLORESTI,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,455
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,115
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,136
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,142
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,151
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,150
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,171
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,176
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,192
+ 57706 FLORESTI,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,221
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,162
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,186
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,196
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,197
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,195
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,209
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,197
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,231
+ 57706 FLORESTI,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,253
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,111
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,104
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,99
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,96
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,89
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,98
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,122
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,128
+ 57706 FLORESTI,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,144
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,123
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,134
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,140
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,151
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,161
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,153
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,190
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,195
+ 57706 FLORESTI,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,208
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,51
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,52
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,62
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,67
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,80
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,79
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,75
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,71
+ 57706 FLORESTI,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,69
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,108
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,95
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,90
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,95
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,91
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,103
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,112
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,113
+ 57706 FLORESTI,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,116
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,31
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,35
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,32
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,31
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,34
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,37
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,39
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,55
+ 57706 FLORESTI,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,60
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,49
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,62
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,69
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,65
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,70
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,84
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,82
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,89
+ 57706 FLORESTI,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,96

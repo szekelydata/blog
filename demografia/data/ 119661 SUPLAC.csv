@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 1992, Numar persoane,83
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 1993, Numar persoane,63
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 1994, Numar persoane,48
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 1995, Numar persoane,57
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 1996, Numar persoane,53
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 1997, Numar persoane,58
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 1998, Numar persoane,65
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 1999, Numar persoane,69
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2000, Numar persoane,57
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2001, Numar persoane,65
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2002, Numar persoane,63
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2003, Numar persoane,59
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2004, Numar persoane,55
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2005, Numar persoane,59
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 1992, Numar persoane,78
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 1993, Numar persoane,83
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 1994, Numar persoane,95
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 1995, Numar persoane,86
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 1996, Numar persoane,84
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 1997, Numar persoane,75
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 1998, Numar persoane,68
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 1999, Numar persoane,55
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2000, Numar persoane,65
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2001, Numar persoane,66
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2002, Numar persoane,69
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2003, Numar persoane,73
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2004, Numar persoane,72
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2005, Numar persoane,66
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 1992, Numar persoane,83
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 1993, Numar persoane,77
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 1994, Numar persoane,68
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 1995, Numar persoane,65
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 1996, Numar persoane,65
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 1997, Numar persoane,87
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 1998, Numar persoane,91
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 1999, Numar persoane,103
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2000, Numar persoane,98
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2001, Numar persoane,100
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2002, Numar persoane,86
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2003, Numar persoane,79
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2004, Numar persoane,68
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2005, Numar persoane,73
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 1992, Numar persoane,91
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 1993, Numar persoane,84
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 1994, Numar persoane,94
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 1995, Numar persoane,91
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 1996, Numar persoane,89
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 1997, Numar persoane,80
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 1998, Numar persoane,81
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 1999, Numar persoane,75
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2000, Numar persoane,73
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2001, Numar persoane,73
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2002, Numar persoane,88
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2003, Numar persoane,93
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2004, Numar persoane,104
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2005, Numar persoane,95
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 1992, Numar persoane,113
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 1993, Numar persoane,117
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 1994, Numar persoane,102
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 1995, Numar persoane,94
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 1996, Numar persoane,93
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 1997, Numar persoane,93
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 1998, Numar persoane,87
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 1999, Numar persoane,100
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2000, Numar persoane,93
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2001, Numar persoane,89
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2002, Numar persoane,83
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2003, Numar persoane,80
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2004, Numar persoane,74
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2005, Numar persoane,76
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 1992, Numar persoane,69
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 1993, Numar persoane,65
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 1994, Numar persoane,69
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 1995, Numar persoane,82
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 1996, Numar persoane,95
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 1997, Numar persoane,96
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 1998, Numar persoane,108
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 1999, Numar persoane,104
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2000, Numar persoane,95
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2001, Numar persoane,95
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2002, Numar persoane,92
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2003, Numar persoane,89
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2004, Numar persoane,99
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2005, Numar persoane,96
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 1992, Numar persoane,79
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 1993, Numar persoane,69
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 1994, Numar persoane,73
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 1995, Numar persoane,66
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 1996, Numar persoane,64
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 1997, Numar persoane,62
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 1998, Numar persoane,63
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 1999, Numar persoane,62
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2000, Numar persoane,77
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2001, Numar persoane,88
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2002, Numar persoane,96
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2003, Numar persoane,103
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2004, Numar persoane,100
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2005, Numar persoane,100
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 1992, Numar persoane,79
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 1993, Numar persoane,74
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 1994, Numar persoane,72
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 1995, Numar persoane,79
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 1996, Numar persoane,74
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 1997, Numar persoane,73
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 1998, Numar persoane,68
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 1999, Numar persoane,74
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2000, Numar persoane,65
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2001, Numar persoane,66
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2002, Numar persoane,57
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2003, Numar persoane,61
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2004, Numar persoane,61
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2005, Numar persoane,80
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 1992, Numar persoane,63
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 1993, Numar persoane,69
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 1994, Numar persoane,66
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 1995, Numar persoane,68
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 1996, Numar persoane,76
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 1997, Numar persoane,77
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 1998, Numar persoane,80
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 1999, Numar persoane,75
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2000, Numar persoane,84
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2001, Numar persoane,79
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2002, Numar persoane,78
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2003, Numar persoane,70
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2004, Numar persoane,72
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2005, Numar persoane,61
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 1992, Numar persoane,74
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 1993, Numar persoane,71
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 1994, Numar persoane,71
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 1995, Numar persoane,71
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 1996, Numar persoane,63
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 1997, Numar persoane,63
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 1998, Numar persoane,68
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 1999, Numar persoane,74
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2000, Numar persoane,78
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2001, Numar persoane,77
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2002, Numar persoane,79
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2003, Numar persoane,82
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2004, Numar persoane,79
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2005, Numar persoane,82
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 1992, Numar persoane,76
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 1993, Numar persoane,69
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 1994, Numar persoane,67
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 1995, Numar persoane,59
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 1996, Numar persoane,58
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 1997, Numar persoane,67
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 1998, Numar persoane,69
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 1999, Numar persoane,74
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2000, Numar persoane,74
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2001, Numar persoane,70
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2002, Numar persoane,67
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2003, Numar persoane,72
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2004, Numar persoane,74
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2005, Numar persoane,80
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 1992, Numar persoane,83
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 1993, Numar persoane,70
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 1994, Numar persoane,71
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 1995, Numar persoane,74
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 1996, Numar persoane,76
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 1997, Numar persoane,67
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 1998, Numar persoane,57
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 1999, Numar persoane,54
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2000, Numar persoane,53
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2001, Numar persoane,57
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2002, Numar persoane,63
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2003, Numar persoane,64
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2004, Numar persoane,67
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2005, Numar persoane,68
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 1992, Numar persoane,102
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 1993, Numar persoane,104
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 1994, Numar persoane,103
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 1995, Numar persoane,94
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 1996, Numar persoane,81
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 1997, Numar persoane,73
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 1998, Numar persoane,69
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 1999, Numar persoane,68
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2000, Numar persoane,71
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2001, Numar persoane,70
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2002, Numar persoane,59
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2003, Numar persoane,56
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2004, Numar persoane,55
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2005, Numar persoane,53
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 1992, Numar persoane,90
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 1993, Numar persoane,88
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 1994, Numar persoane,79
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 1995, Numar persoane,78
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 1996, Numar persoane,78
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 1997, Numar persoane,87
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 1998, Numar persoane,89
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 1999, Numar persoane,90
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2000, Numar persoane,75
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2001, Numar persoane,70
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2002, Numar persoane,61
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2003, Numar persoane,58
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2004, Numar persoane,60
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2005, Numar persoane,61
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 1992, Numar persoane,51
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 1993, Numar persoane,60
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 1994, Numar persoane,65
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 1995, Numar persoane,67
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 1996, Numar persoane,69
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 1997, Numar persoane,73
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 1998, Numar persoane,71
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 1999, Numar persoane,64
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2000, Numar persoane,62
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2001, Numar persoane,60
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2002, Numar persoane,72
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2003, Numar persoane,67
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2004, Numar persoane,68
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2005, Numar persoane,58
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 1992, Numar persoane,35
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 1993, Numar persoane,25
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 1994, Numar persoane,24
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 1995, Numar persoane,28
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 1996, Numar persoane,33
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 1997, Numar persoane,34
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 1998, Numar persoane,36
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 1999, Numar persoane,46
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2000, Numar persoane,54
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2001, Numar persoane,54
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2002, Numar persoane,55
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2003, Numar persoane,54
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2004, Numar persoane,47
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2005, Numar persoane,45
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 1992, Numar persoane,22
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 1993, Numar persoane,23
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 1994, Numar persoane,23
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 1995, Numar persoane,16
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 1996, Numar persoane,18
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 1997, Numar persoane,18
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 1998, Numar persoane,17
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 1999, Numar persoane,12
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2000, Numar persoane,14
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2001, Numar persoane,20
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2002, Numar persoane,19
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2003, Numar persoane,17
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2004, Numar persoane,24
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2005, Numar persoane,27
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 1992, Numar persoane,14
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 1993, Numar persoane,12
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 1994, Numar persoane,11
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 1995, Numar persoane,9
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 1996, Numar persoane,8
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 1997, Numar persoane,7
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 1998, Numar persoane,6
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 1999, Numar persoane,7
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2000, Numar persoane,9
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2001, Numar persoane,10
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2002, Numar persoane,9
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2003, Numar persoane,10
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2004, Numar persoane,6
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2005, Numar persoane,5
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 1992, Numar persoane,68
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 1993, Numar persoane,69
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 1994, Numar persoane,64
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 1995, Numar persoane,62
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 1996, Numar persoane,65
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 1997, Numar persoane,82
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 1998, Numar persoane,72
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 1999, Numar persoane,77
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2000, Numar persoane,84
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2001, Numar persoane,81
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2002, Numar persoane,75
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2003, Numar persoane,67
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2004, Numar persoane,64
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2005, Numar persoane,61
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2006, Numar persoane,54
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 1992, Numar persoane,72
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 1993, Numar persoane,66
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 1994, Numar persoane,70
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 1995, Numar persoane,72
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 1996, Numar persoane,71
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 1997, Numar persoane,66
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 1998, Numar persoane,70
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 1999, Numar persoane,69
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2000, Numar persoane,67
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2001, Numar persoane,72
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2002, Numar persoane,89
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2003, Numar persoane,82
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2004, Numar persoane,84
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2005, Numar persoane,88
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2006, Numar persoane,82
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 1992, Numar persoane,79
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 1993, Numar persoane,72
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 1994, Numar persoane,64
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 1995, Numar persoane,67
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 1996, Numar persoane,64
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 1997, Numar persoane,69
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 1998, Numar persoane,66
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 1999, Numar persoane,75
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2000, Numar persoane,81
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2001, Numar persoane,85
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2002, Numar persoane,79
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2003, Numar persoane,80
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2004, Numar persoane,73
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2005, Numar persoane,68
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2006, Numar persoane,76
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 1992, Numar persoane,96
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 1993, Numar persoane,92
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 1994, Numar persoane,96
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 1995, Numar persoane,89
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 1996, Numar persoane,88
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 1997, Numar persoane,82
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 1998, Numar persoane,80
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 1999, Numar persoane,72
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2000, Numar persoane,75
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2001, Numar persoane,73
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2002, Numar persoane,73
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2003, Numar persoane,69
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2004, Numar persoane,73
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2005, Numar persoane,77
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2006, Numar persoane,77
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 1992, Numar persoane,98
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 1993, Numar persoane,89
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 1994, Numar persoane,81
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 1995, Numar persoane,88
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 1996, Numar persoane,88
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 1997, Numar persoane,86
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 1998, Numar persoane,95
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 1999, Numar persoane,106
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2000, Numar persoane,89
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2001, Numar persoane,84
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2002, Numar persoane,86
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2003, Numar persoane,83
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2004, Numar persoane,77
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2005, Numar persoane,77
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2006, Numar persoane,65
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 1992, Numar persoane,45
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 1993, Numar persoane,51
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 1994, Numar persoane,58
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 1995, Numar persoane,64
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 1996, Numar persoane,68
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 1997, Numar persoane,81
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 1998, Numar persoane,80
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 1999, Numar persoane,72
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2000, Numar persoane,81
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2001, Numar persoane,83
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2002, Numar persoane,78
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2003, Numar persoane,91
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2004, Numar persoane,95
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2005, Numar persoane,92
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2006, Numar persoane,89
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 1992, Numar persoane,60
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 1993, Numar persoane,47
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 1994, Numar persoane,40
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 1995, Numar persoane,42
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 1996, Numar persoane,46
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 1997, Numar persoane,46
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 1998, Numar persoane,52
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 1999, Numar persoane,60
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2000, Numar persoane,68
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2001, Numar persoane,76
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2002, Numar persoane,87
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2003, Numar persoane,82
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2004, Numar persoane,73
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2005, Numar persoane,76
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2006, Numar persoane,78
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 1992, Numar persoane,67
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 1993, Numar persoane,71
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 1994, Numar persoane,76
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 1995, Numar persoane,61
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 1996, Numar persoane,51
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 1997, Numar persoane,59
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 1998, Numar persoane,54
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 1999, Numar persoane,45
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2000, Numar persoane,46
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2001, Numar persoane,50
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2002, Numar persoane,46
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2003, Numar persoane,51
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2004, Numar persoane,59
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2005, Numar persoane,71
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2006, Numar persoane,79
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 1992, Numar persoane,71
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 1993, Numar persoane,72
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 1994, Numar persoane,59
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 1995, Numar persoane,67
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 1996, Numar persoane,69
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 1997, Numar persoane,70
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 1998, Numar persoane,69
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 1999, Numar persoane,77
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2000, Numar persoane,68
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2001, Numar persoane,63
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2002, Numar persoane,64
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2003, Numar persoane,57
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2004, Numar persoane,48
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2005, Numar persoane,46
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2006, Numar persoane,46
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 1992, Numar persoane,51
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 1993, Numar persoane,51
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 1994, Numar persoane,62
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 1995, Numar persoane,69
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 1996, Numar persoane,72
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 1997, Numar persoane,73
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 1998, Numar persoane,77
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 1999, Numar persoane,66
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2000, Numar persoane,75
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2001, Numar persoane,77
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2002, Numar persoane,77
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2003, Numar persoane,76
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2004, Numar persoane,84
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2005, Numar persoane,74
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2006, Numar persoane,68
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 1992, Numar persoane,78
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 1993, Numar persoane,68
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 1994, Numar persoane,62
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 1995, Numar persoane,58
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 1996, Numar persoane,54
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 1997, Numar persoane,52
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 1998, Numar persoane,53
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 1999, Numar persoane,63
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2000, Numar persoane,70
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2001, Numar persoane,72
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2002, Numar persoane,73
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2003, Numar persoane,78
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2004, Numar persoane,71
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2005, Numar persoane,77
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2006, Numar persoane,79
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 1992, Numar persoane,102
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 1993, Numar persoane,87
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 1994, Numar persoane,87
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 1995, Numar persoane,84
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 1996, Numar persoane,79
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 1997, Numar persoane,71
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 1998, Numar persoane,65
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 1999, Numar persoane,61
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2000, Numar persoane,56
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2001, Numar persoane,55
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2002, Numar persoane,52
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2003, Numar persoane,54
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2004, Numar persoane,60
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2005, Numar persoane,69
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2006, Numar persoane,71
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 1992, Numar persoane,109
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 1993, Numar persoane,116
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 1994, Numar persoane,112
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 1995, Numar persoane,93
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 1996, Numar persoane,86
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 1997, Numar persoane,92
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 1998, Numar persoane,84
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 1999, Numar persoane,83
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2000, Numar persoane,77
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2001, Numar persoane,74
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2002, Numar persoane,67
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2003, Numar persoane,62
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2004, Numar persoane,61
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2005, Numar persoane,54
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2006, Numar persoane,50
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 1992, Numar persoane,120
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 1993, Numar persoane,112
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 1994, Numar persoane,103
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 1995, Numar persoane,115
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 1996, Numar persoane,119
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 1997, Numar persoane,103
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 1998, Numar persoane,108
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 1999, Numar persoane,103
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2000, Numar persoane,82
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2001, Numar persoane,73
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2002, Numar persoane,81
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2003, Numar persoane,71
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2004, Numar persoane,72
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2005, Numar persoane,74
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2006, Numar persoane,76
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 1992, Numar persoane,68
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 1993, Numar persoane,86
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 1994, Numar persoane,96
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 1995, Numar persoane,101
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 1996, Numar persoane,96
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 1997, Numar persoane,100
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 1998, Numar persoane,92
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 1999, Numar persoane,89
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2000, Numar persoane,99
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2001, Numar persoane,105
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2002, Numar persoane,91
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2003, Numar persoane,94
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2004, Numar persoane,92
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2005, Numar persoane,69
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2006, Numar persoane,63
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 1992, Numar persoane,51
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 1993, Numar persoane,40
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 1994, Numar persoane,27
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 1995, Numar persoane,30
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 1996, Numar persoane,42
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 1997, Numar persoane,54
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 1998, Numar persoane,65
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 1999, Numar persoane,72
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2000, Numar persoane,79
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2001, Numar persoane,73
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2002, Numar persoane,77
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2003, Numar persoane,72
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2004, Numar persoane,70
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2005, Numar persoane,82
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2006, Numar persoane,81
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 1992, Numar persoane,42
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 1993, Numar persoane,41
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 1994, Numar persoane,50
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 1995, Numar persoane,47
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 1996, Numar persoane,40
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 1997, Numar persoane,33
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 1998, Numar persoane,28
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 1999, Numar persoane,21
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2000, Numar persoane,19
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2001, Numar persoane,23
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2002, Numar persoane,30
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2003, Numar persoane,36
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2004, Numar persoane,43
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2005, Numar persoane,49
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2006, Numar persoane,52
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 1992, Numar persoane,11
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 1993, Numar persoane,8
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 1994, Numar persoane,8
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 1995, Numar persoane,13
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 1996, Numar persoane,23
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 1997, Numar persoane,29
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 1998, Numar persoane,29
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 1999, Numar persoane,30
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2000, Numar persoane,27
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2001, Numar persoane,26
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2002, Numar persoane,24
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2003, Numar persoane,22
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2004, Numar persoane,18
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2005, Numar persoane,16
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2006, Numar persoane,13
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2007, Numar persoane,53
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2008, Numar persoane,57
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2009, Numar persoane,58
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2010, Numar persoane,52
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2011, Numar persoane,46
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2012, Numar persoane,51
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2013, Numar persoane,52
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2014, Numar persoane,49
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2015, Numar persoane,50
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2016, Numar persoane,53
+ 119661 SUPLAC,0- 4 ani, Feminin, Mures, Anul 2017, Numar persoane,50
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2007, Numar persoane,71
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2008, Numar persoane,66
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2009, Numar persoane,64
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2010, Numar persoane,63
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2011, Numar persoane,57
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2012, Numar persoane,59
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2013, Numar persoane,62
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2014, Numar persoane,65
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2015, Numar persoane,55
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2016, Numar persoane,52
+ 119661 SUPLAC,5- 9 ani, Feminin, Mures, Anul 2017, Numar persoane,56
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2007, Numar persoane,91
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2008, Numar persoane,85
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2009, Numar persoane,87
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2010, Numar persoane,87
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2011, Numar persoane,84
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2012, Numar persoane,82
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2013, Numar persoane,73
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2014, Numar persoane,70
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2015, Numar persoane,71
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2016, Numar persoane,62
+ 119661 SUPLAC,10-14 ani, Feminin, Mures, Anul 2017, Numar persoane,62
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2007, Numar persoane,71
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2008, Numar persoane,76
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2009, Numar persoane,71
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2010, Numar persoane,74
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2011, Numar persoane,78
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2012, Numar persoane,86
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2013, Numar persoane,82
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2014, Numar persoane,78
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2015, Numar persoane,84
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2016, Numar persoane,89
+ 119661 SUPLAC,15-19 ani, Feminin, Mures, Anul 2017, Numar persoane,86
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2007, Numar persoane,65
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2008, Numar persoane,61
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2009, Numar persoane,65
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2010, Numar persoane,70
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2011, Numar persoane,76
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2012, Numar persoane,81
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2013, Numar persoane,83
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2014, Numar persoane,78
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2015, Numar persoane,71
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2016, Numar persoane,69
+ 119661 SUPLAC,20-24 ani, Feminin, Mures, Anul 2017, Numar persoane,78
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2007, Numar persoane,85
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2008, Numar persoane,81
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2009, Numar persoane,78
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2010, Numar persoane,77
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2011, Numar persoane,70
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2012, Numar persoane,69
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2013, Numar persoane,63
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2014, Numar persoane,62
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2015, Numar persoane,71
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2016, Numar persoane,76
+ 119661 SUPLAC,25-29 ani, Feminin, Mures, Anul 2017, Numar persoane,77
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2007, Numar persoane,76
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2008, Numar persoane,89
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2009, Numar persoane,90
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2010, Numar persoane,88
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2011, Numar persoane,88
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2012, Numar persoane,89
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2013, Numar persoane,80
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2014, Numar persoane,78
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2015, Numar persoane,70
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2016, Numar persoane,66
+ 119661 SUPLAC,30-34 ani, Feminin, Mures, Anul 2017, Numar persoane,66
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2007, Numar persoane,85
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2008, Numar persoane,79
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2009, Numar persoane,73
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2010, Numar persoane,71
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2011, Numar persoane,75
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2012, Numar persoane,76
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2013, Numar persoane,88
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2014, Numar persoane,91
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2015, Numar persoane,92
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2016, Numar persoane,93
+ 119661 SUPLAC,35-39 ani, Feminin, Mures, Anul 2017, Numar persoane,92
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2007, Numar persoane,43
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2008, Numar persoane,51
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2009, Numar persoane,61
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2010, Numar persoane,72
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2011, Numar persoane,82
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2012, Numar persoane,91
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2013, Numar persoane,86
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2014, Numar persoane,77
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2015, Numar persoane,74
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2016, Numar persoane,75
+ 119661 SUPLAC,40-44 ani, Feminin, Mures, Anul 2017, Numar persoane,74
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2007, Numar persoane,67
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2008, Numar persoane,54
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2009, Numar persoane,45
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2010, Numar persoane,46
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2011, Numar persoane,49
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2012, Numar persoane,44
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2013, Numar persoane,53
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2014, Numar persoane,63
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2015, Numar persoane,73
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2016, Numar persoane,81
+ 119661 SUPLAC,45-49 ani, Feminin, Mures, Anul 2017, Numar persoane,90
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2007, Numar persoane,83
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2008, Numar persoane,83
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2009, Numar persoane,92
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2010, Numar persoane,76
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2011, Numar persoane,70
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2012, Numar persoane,71
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2013, Numar persoane,59
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2014, Numar persoane,48
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2015, Numar persoane,46
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2016, Numar persoane,49
+ 119661 SUPLAC,50-54 ani, Feminin, Mures, Anul 2017, Numar persoane,46
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2007, Numar persoane,73
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2008, Numar persoane,81
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2009, Numar persoane,76
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2010, Numar persoane,85
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2011, Numar persoane,86
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2012, Numar persoane,87
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2013, Numar persoane,85
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2014, Numar persoane,91
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2015, Numar persoane,77
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2016, Numar persoane,68
+ 119661 SUPLAC,55-59 ani, Feminin, Mures, Anul 2017, Numar persoane,70
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2007, Numar persoane,50
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2008, Numar persoane,53
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2009, Numar persoane,59
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2010, Numar persoane,71
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2011, Numar persoane,72
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2012, Numar persoane,76
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2013, Numar persoane,83
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2014, Numar persoane,75
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2015, Numar persoane,83
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2016, Numar persoane,85
+ 119661 SUPLAC,60-64 ani, Feminin, Mures, Anul 2017, Numar persoane,80
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2007, Numar persoane,68
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2008, Numar persoane,64
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2009, Numar persoane,59
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2010, Numar persoane,53
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2011, Numar persoane,52
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2012, Numar persoane,50
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2013, Numar persoane,52
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2014, Numar persoane,59
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2015, Numar persoane,68
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2016, Numar persoane,67
+ 119661 SUPLAC,65-69 ani, Feminin, Mures, Anul 2017, Numar persoane,71
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2007, Numar persoane,69
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2008, Numar persoane,64
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2009, Numar persoane,67
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2010, Numar persoane,68
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2011, Numar persoane,67
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2012, Numar persoane,63
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2013, Numar persoane,59
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2014, Numar persoane,59
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2015, Numar persoane,52
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2016, Numar persoane,50
+ 119661 SUPLAC,70-74 ani, Feminin, Mures, Anul 2017, Numar persoane,46
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2007, Numar persoane,75
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2008, Numar persoane,78
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2009, Numar persoane,72
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2010, Numar persoane,53
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2011, Numar persoane,50
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2012, Numar persoane,50
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2013, Numar persoane,50
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2014, Numar persoane,53
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2015, Numar persoane,55
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2016, Numar persoane,55
+ 119661 SUPLAC,75-79 ani, Feminin, Mures, Anul 2017, Numar persoane,54
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2007, Numar persoane,45
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2008, Numar persoane,41
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2009, Numar persoane,41
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2010, Numar persoane,52
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2011, Numar persoane,53
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2012, Numar persoane,53
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2013, Numar persoane,59
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2014, Numar persoane,50
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2015, Numar persoane,37
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2016, Numar persoane,37
+ 119661 SUPLAC,80-84 ani, Feminin, Mures, Anul 2017, Numar persoane,41
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2007, Numar persoane,15
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2008, Numar persoane,17
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2009, Numar persoane,24
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2010, Numar persoane,26
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2011, Numar persoane,29
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2012, Numar persoane,29
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2013, Numar persoane,26
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2014, Numar persoane,29
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2015, Numar persoane,37
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2016, Numar persoane,40
+ 119661 SUPLAC,85 ani si peste, Feminin, Mures, Anul 2017, Numar persoane,39
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2006, Numar persoane,52
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2007, Numar persoane,49
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2008, Numar persoane,51
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2009, Numar persoane,45
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2010, Numar persoane,43
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2011, Numar persoane,48
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2012, Numar persoane,60
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2013, Numar persoane,57
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2014, Numar persoane,55
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2015, Numar persoane,57
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2016, Numar persoane,55
+ 119661 SUPLAC,0- 4 ani, Masculin, Mures, Anul 2017, Numar persoane,62
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2006, Numar persoane,66
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2007, Numar persoane,60
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2008, Numar persoane,54
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2009, Numar persoane,53
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2010, Numar persoane,59
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2011, Numar persoane,55
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2012, Numar persoane,54
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2013, Numar persoane,54
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2014, Numar persoane,48
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2015, Numar persoane,46
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2016, Numar persoane,58
+ 119661 SUPLAC,5- 9 ani, Masculin, Mures, Anul 2017, Numar persoane,64
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2006, Numar persoane,66
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2007, Numar persoane,61
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2008, Numar persoane,65
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2009, Numar persoane,70
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2010, Numar persoane,68
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2011, Numar persoane,69
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2012, Numar persoane,64
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2013, Numar persoane,58
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2014, Numar persoane,58
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2015, Numar persoane,60
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2016, Numar persoane,52
+ 119661 SUPLAC,10-14 ani, Masculin, Mures, Anul 2017, Numar persoane,52
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2006, Numar persoane,96
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2007, Numar persoane,88
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2008, Numar persoane,78
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2009, Numar persoane,61
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2010, Numar persoane,65
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2011, Numar persoane,69
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2012, Numar persoane,71
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2013, Numar persoane,75
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2014, Numar persoane,74
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2015, Numar persoane,71
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2016, Numar persoane,71
+ 119661 SUPLAC,15-19 ani, Masculin, Mures, Anul 2017, Numar persoane,64
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2006, Numar persoane,72
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2007, Numar persoane,79
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2008, Numar persoane,81
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2009, Numar persoane,98
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2010, Numar persoane,92
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2011, Numar persoane,97
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2012, Numar persoane,93
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2013, Numar persoane,78
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2014, Numar persoane,61
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2015, Numar persoane,66
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2016, Numar persoane,65
+ 119661 SUPLAC,20-24 ani, Masculin, Mures, Anul 2017, Numar persoane,66
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2006, Numar persoane,94
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2007, Numar persoane,89
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2008, Numar persoane,83
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2009, Numar persoane,76
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2010, Numar persoane,74
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2011, Numar persoane,71
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2012, Numar persoane,81
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2013, Numar persoane,86
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2014, Numar persoane,99
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2015, Numar persoane,92
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2016, Numar persoane,94
+ 119661 SUPLAC,25-29 ani, Masculin, Mures, Anul 2017, Numar persoane,85
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2006, Numar persoane,100
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2007, Numar persoane,101
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2008, Numar persoane,94
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2009, Numar persoane,99
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2010, Numar persoane,94
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2011, Numar persoane,92
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2012, Numar persoane,96
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2013, Numar persoane,94
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2014, Numar persoane,89
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2015, Numar persoane,81
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2016, Numar persoane,74
+ 119661 SUPLAC,30-34 ani, Masculin, Mures, Anul 2017, Numar persoane,77
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2006, Numar persoane,94
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2007, Numar persoane,98
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2008, Numar persoane,105
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2009, Numar persoane,101
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2010, Numar persoane,101
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2011, Numar persoane,93
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2012, Numar persoane,93
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2013, Numar persoane,92
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2014, Numar persoane,95
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2015, Numar persoane,95
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2016, Numar persoane,96
+ 119661 SUPLAC,35-39 ani, Masculin, Mures, Anul 2017, Numar persoane,95
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2006, Numar persoane,62
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2007, Numar persoane,57
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2008, Numar persoane,63
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2009, Numar persoane,65
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2010, Numar persoane,80
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2011, Numar persoane,96
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2012, Numar persoane,101
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2013, Numar persoane,107
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2014, Numar persoane,107
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2015, Numar persoane,104
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2016, Numar persoane,99
+ 119661 SUPLAC,40-44 ani, Masculin, Mures, Anul 2017, Numar persoane,102
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2006, Numar persoane,77
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2007, Numar persoane,76
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2008, Numar persoane,66
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2009, Numar persoane,74
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2010, Numar persoane,63
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2011, Numar persoane,63
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2012, Numar persoane,59
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2013, Numar persoane,66
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2014, Numar persoane,63
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2015, Numar persoane,79
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2016, Numar persoane,99
+ 119661 SUPLAC,45-49 ani, Masculin, Mures, Anul 2017, Numar persoane,105
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2006, Numar persoane,80
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2007, Numar persoane,80
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2008, Numar persoane,83
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2009, Numar persoane,82
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2010, Numar persoane,86
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2011, Numar persoane,80
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2012, Numar persoane,79
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2013, Numar persoane,64
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2014, Numar persoane,75
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2015, Numar persoane,66
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2016, Numar persoane,63
+ 119661 SUPLAC,50-54 ani, Masculin, Mures, Anul 2017, Numar persoane,58
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2006, Numar persoane,68
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2007, Numar persoane,66
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2008, Numar persoane,72
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2009, Numar persoane,73
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2010, Numar persoane,76
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2011, Numar persoane,76
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2012, Numar persoane,79
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2013, Numar persoane,86
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2014, Numar persoane,81
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2015, Numar persoane,83
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2016, Numar persoane,75
+ 119661 SUPLAC,55-59 ani, Masculin, Mures, Anul 2017, Numar persoane,76
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2006, Numar persoane,53
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2007, Numar persoane,58
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2008, Numar persoane,60
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2009, Numar persoane,62
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2010, Numar persoane,70
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2011, Numar persoane,72
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2012, Numar persoane,66
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2013, Numar persoane,67
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2014, Numar persoane,67
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2015, Numar persoane,66
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2016, Numar persoane,74
+ 119661 SUPLAC,60-64 ani, Masculin, Mures, Anul 2017, Numar persoane,76
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2006, Numar persoane,59
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2007, Numar persoane,56
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2008, Numar persoane,52
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2009, Numar persoane,51
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2010, Numar persoane,47
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2011, Numar persoane,44
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2012, Numar persoane,50
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2013, Numar persoane,53
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2014, Numar persoane,57
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2015, Numar persoane,67
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2016, Numar persoane,64
+ 119661 SUPLAC,65-69 ani, Masculin, Mures, Anul 2017, Numar persoane,60
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2006, Numar persoane,56
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2007, Numar persoane,49
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2008, Numar persoane,45
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2009, Numar persoane,44
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2010, Numar persoane,48
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2011, Numar persoane,50
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2012, Numar persoane,45
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2013, Numar persoane,39
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2014, Numar persoane,41
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2015, Numar persoane,39
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2016, Numar persoane,37
+ 119661 SUPLAC,70-74 ani, Masculin, Mures, Anul 2017, Numar persoane,45
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2006, Numar persoane,42
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2007, Numar persoane,45
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2008, Numar persoane,50
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2009, Numar persoane,47
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2010, Numar persoane,39
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2011, Numar persoane,41
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2012, Numar persoane,39
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2013, Numar persoane,34
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2014, Numar persoane,34
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2015, Numar persoane,35
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2016, Numar persoane,33
+ 119661 SUPLAC,75-79 ani, Masculin, Mures, Anul 2017, Numar persoane,29
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2006, Numar persoane,24
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2007, Numar persoane,26
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2008, Numar persoane,26
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2009, Numar persoane,27
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2010, Numar persoane,25
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2011, Numar persoane,23
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2012, Numar persoane,23
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2013, Numar persoane,30
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2014, Numar persoane,34
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2015, Numar persoane,28
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2016, Numar persoane,29
+ 119661 SUPLAC,80-84 ani, Masculin, Mures, Anul 2017, Numar persoane,25
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2006, Numar persoane,8
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2007, Numar persoane,8
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2008, Numar persoane,8
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2009, Numar persoane,8
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2010, Numar persoane,9
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2011, Numar persoane,10
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2012, Numar persoane,12
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2013, Numar persoane,14
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2014, Numar persoane,11
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2015, Numar persoane,16
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2016, Numar persoane,11
+ 119661 SUPLAC,85 ani si peste, Masculin, Mures, Anul 2017, Numar persoane,15

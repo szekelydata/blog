@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,122
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,117
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,105
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,104
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,100
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,90
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,83
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,79
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,71
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,100
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,92
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,89
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,95
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,88
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,86
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,91
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,88
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,80
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,76
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,82
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,92
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,94
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,105
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,113
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,107
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,100
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,96
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,89
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,87
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,93
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,99
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,97
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,99
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,93
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,87
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,92
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,120
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,108
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,85
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,83
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,77
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,73
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,79
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,88
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,90
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,111
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,104
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,99
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,88
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,89
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,82
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,81
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,91
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,96
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,193
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,186
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,172
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,154
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,137
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,119
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,107
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,83
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,82
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,169
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,160
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,136
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,124
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,119
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,106
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,103
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,99
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,84
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,213
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,201
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,206
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,199
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,195
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,185
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,174
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,161
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,148
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,170
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,168
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,189
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,176
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,157
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,159
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,150
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,124
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,115
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,116
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,127
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,146
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,166
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,172
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,186
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,179
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,185
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,180
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,78
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,85
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,84
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,107
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,130
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,139
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,140
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,152
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,144
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,125
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,107
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,103
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,99
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,100
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,97
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,112
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,127
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,142
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,55
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,59
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,58
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,61
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,62
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,71
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,77
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,82
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,96
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,106
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,104
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,107
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,104
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,99
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,100
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,93
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,95
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,89
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,98
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,79
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,81
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,70
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,68
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,51
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,55
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,51
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,54
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,97
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,95
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,92
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,84
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,86
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,93
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,90
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,92
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,95
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,112
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,105
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,101
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,99
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,92
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,92
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,73
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,75
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,65
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,117
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,118
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,115
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,118
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,113
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,95
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,91
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,89
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,81
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,117
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,117
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,116
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,115
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,118
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,110
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,105
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,100
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,98
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,131
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,124
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,117
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,111
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,113
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,107
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,112
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,109
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,112
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,131
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,139
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,139
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,129
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,120
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,114
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,114
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,112
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,109
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,126
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,120
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,122
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,122
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,112
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,118
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,112
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,106
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,102
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,150
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,135
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,122
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,125
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,126
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,134
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,139
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,138
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,125
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,125
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,129
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,126
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,122
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,127
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,119
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,110
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,114
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,114
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,140
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,147
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,146
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,149
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,150
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,145
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,130
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,117
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,119
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,122
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,126
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,115
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,109
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,111
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,114
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,117
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,116
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,112
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,122
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,116
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,126
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,118
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,118
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,125
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,131
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,132
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,135
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,63
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,73
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,86
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,89
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,94
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,92
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,94
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,86
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,84
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,50
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,67
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,77
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,95
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,98
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,103
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,104
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,112
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,107
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,33
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,30
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,20
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,28
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,37
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,45
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,51
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,58
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,54
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,53
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,42
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,33
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,31
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,33
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,44
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,50
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,56
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,69
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,19
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,22
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,21
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,20
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,19
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,16
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,16
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,11
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,17
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,33
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,37
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,38
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,39
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,43
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,36
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,31
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,28
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,22
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,8
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,8
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,9
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,8
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,9
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,6
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,6
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,5
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,6
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,13
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,15
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,13
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,12
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,11
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,11
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,16
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,18
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,23
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,71
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,72
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,79
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,79
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,76
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,71
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,68
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,64
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,82
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,67
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,62
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,56
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,56
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,57
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,62
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,59
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,91
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,83
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,76
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,74
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,71
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,70
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,72
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,79
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,85
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,85
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,89
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,85
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,76
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,82
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,69
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,63
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,99
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,105
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,104
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,98
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,94
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,90
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,83
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,77
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,94
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,95
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,86
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,84
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,89
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,82
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,83
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,90
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,73
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,72
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,72
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,78
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,80
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,87
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,96
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,95
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,85
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,82
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,79
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,87
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,89
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,84
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,82
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,77
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,133
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,112
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,104
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,82
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,76
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,72
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,69
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,72
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,101
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,91
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,93
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,88
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,79
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,79
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,81
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,77
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,172
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,166
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,153
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,147
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,136
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,123
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,107
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,99
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,137
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,138
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,137
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,117
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,104
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,89
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,81
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,85
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,156
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,169
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,166
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,164
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,152
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,146
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,141
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,133
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,113
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,116
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,122
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,143
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,138
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,138
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,142
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,137
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,94
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,88
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,97
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,110
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,124
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,135
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,152
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,144
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,54
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,63
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,71
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,76
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,95
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,108
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,114
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,116
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,96
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,99
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,91
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,91
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,85
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,89
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,81
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,89
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,64
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,47
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,54
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,50
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,54
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,52
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,58
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,67
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,79
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,87
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,92
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,97
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,95
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,91
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,94
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,87
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,91
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,92
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,75
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,73
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,62
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,63
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,46
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,52
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,105
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,88
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,81
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,82
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,80
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,80
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,85
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,89
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,113
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,105
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,103
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,98
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,98
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,92
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,91
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,72
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,105
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,102
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,107
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,103
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,99
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,95
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,82
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,75
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,117
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,108
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,106
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,109
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,106
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,111
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,102
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,100
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,101
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,109
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,108
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,105
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,101
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,99
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,98
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,101
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,119
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,128
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,136
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,132
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,121
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,115
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,108
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,105
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,114
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,106
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,97
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,96
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,102
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,93
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,99
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,101
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,139
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,134
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,120
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,107
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,113
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,110
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,122
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,129
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,87
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,92
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,99
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,98
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,89
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,88
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,86
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,74
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,108
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,111
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,112
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,111
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,119
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,122
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,114
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,101
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,58
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,56
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,60
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,59
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,63
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,73
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,72
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,75
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,68
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,76
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,83
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,96
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,88
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,85
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,83
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,90
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,18
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,22
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,28
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,33
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,33
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,31
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,33
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,39
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,24
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,25
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,32
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,35
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,44
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,46
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,50
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,56
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,9
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,10
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,10
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,8
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,8
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,8
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,12
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,16
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,23
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,20
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,16
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,16
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,14
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,17
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,18
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,20
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,68
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,72
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,70
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,71
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,69
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,60
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,57
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,55
+ 59880 UNGURAS,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,49
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,59
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,53
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,46
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,40
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,38
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,42
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,41
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,44
+ 59880 UNGURAS,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,42
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,78
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,79
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,75
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,70
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,64
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,66
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,69
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,69
+ 59880 UNGURAS,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,69
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,56
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,57
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,56
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,62
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,58
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,60
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,52
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,47
+ 59880 UNGURAS,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,44
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,78
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,70
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,68
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,68
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,73
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,75
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,74
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,72
+ 59880 UNGURAS,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,66
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,83
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,74
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,79
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,67
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,62
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,56
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,54
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,59
+ 59880 UNGURAS,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,65
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,89
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,87
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,81
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,73
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,67
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,67
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,66
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,69
+ 59880 UNGURAS,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,69
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,78
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,86
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,79
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,79
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,84
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,79
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,69
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,76
+ 59880 UNGURAS,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,66
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,80
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,80
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,91
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,97
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,96
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,92
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,88
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,79
+ 59880 UNGURAS,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,69
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,85
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,83
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,78
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,77
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,72
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,74
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,81
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,73
+ 59880 UNGURAS,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,77
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,79
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,77
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,72
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,69
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,74
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,81
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,80
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,85
+ 59880 UNGURAS,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,94
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,82
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,78
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,78
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,75
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,66
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,68
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,68
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,65
+ 59880 UNGURAS,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,65
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,129
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,125
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,117
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,102
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,96
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,71
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,69
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,70
+ 59880 UNGURAS,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,66
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,111
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,100
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,82
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,75
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,75
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,72
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,65
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,68
+ 59880 UNGURAS,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,67
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,148
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,136
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,126
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,127
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,124
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,125
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,121
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,115
+ 59880 UNGURAS,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,102
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,134
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,133
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,134
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,137
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,135
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,108
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,96
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,80
+ 59880 UNGURAS,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,70
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,105
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,119
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,132
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,146
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,141
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,145
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,133
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,120
+ 59880 UNGURAS,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,124
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,79
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,93
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,108
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,113
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,115
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,131
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,134
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,132
+ 59880 UNGURAS,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,135
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,85
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,80
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,80
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,75
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,88
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,104
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,118
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,130
+ 59880 UNGURAS,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,142
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,48
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,52
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,49
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,58
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,67
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,78
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,90
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,104
+ 59880 UNGURAS,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,111
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,92
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,87
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,83
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,89
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,82
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,75
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,72
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,79
+ 59880 UNGURAS,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,71
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,71
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,61
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,64
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,47
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,53
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,48
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,52
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,49
+ 59880 UNGURAS,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,59
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,78
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,78
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,79
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,81
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,86
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,90
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,88
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,81
+ 59880 UNGURAS,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,84
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,97
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,97
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,91
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,92
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,72
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,72
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,63
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,66
+ 59880 UNGURAS,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,48
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,94
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,91
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,88
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,76
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,67
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,68
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,71
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,72
+ 59880 UNGURAS,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,73
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,105
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,101
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,104
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,98
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,97
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,96
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,97
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,91
+ 59880 UNGURAS,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,91
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,99
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,93
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,95
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,96
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,95
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,87
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,86
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,83
+ 59880 UNGURAS,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,67
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,128
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,118
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,111
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,106
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,105
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,102
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,98
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,103
+ 59880 UNGURAS,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,97
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,78
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,82
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,74
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,83
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,84
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,84
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,80
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,80
+ 59880 UNGURAS,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,79
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,91
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,98
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,100
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,113
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,120
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,118
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,109
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,102
+ 59880 UNGURAS,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,99
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,70
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,66
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,68
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,65
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,60
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,62
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,61
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,54
+ 59880 UNGURAS,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,60
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,88
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,94
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,96
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,93
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,81
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,78
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,88
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,84
+ 59880 UNGURAS,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,97
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,41
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,44
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,48
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,47
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,45
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,43
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,46
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,49
+ 59880 UNGURAS,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,45
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,64
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,61
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,57
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,55
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,64
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,66
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,68
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,69
+ 59880 UNGURAS,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,64
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,14
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,17
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,19
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,21
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,24
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,23
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,25
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,26
+ 59880 UNGURAS,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,24
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,18
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,22
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,27
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,39
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,42
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,46
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,41
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,37
+ 59880 UNGURAS,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,39

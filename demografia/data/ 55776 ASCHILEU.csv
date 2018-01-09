@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,47
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,43
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,37
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,37
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,42
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,43
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,41
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,39
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,51
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,49
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,49
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,47
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,56
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,54
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,53
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,53
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,53
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,50
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,43
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,36
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,41
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,40
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,40
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,46
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,50
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,46
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,45
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,33
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,36
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,35
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,36
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,48
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,50
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,60
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,60
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,63
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,65
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,60
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,57
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,54
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,51
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,49
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,46
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,48
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,47
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,80
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,63
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,57
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,50
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,48
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,41
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,48
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,46
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,53
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,91
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,78
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,79
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,69
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,70
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,61
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,59
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,60
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,61
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,68
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,68
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,68
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,74
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,77
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,82
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,68
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,64
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,58
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,124
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,113
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,101
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,97
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,84
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,80
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,72
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,75
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,66
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,72
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,72
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,68
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,64
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,60
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,61
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,65
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,66
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,74
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,73
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,86
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,95
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,97
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,101
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,98
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,93
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,85
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,83
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,33
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,31
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,38
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,44
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,55
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,54
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,64
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,65
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,57
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,51
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,56
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,58
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,62
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,65
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,66
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,78
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,81
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,82
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,43
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,31
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,30
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,24
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,24
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,23
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,28
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,36
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,48
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,41
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,40
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,40
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,40
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,46
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,51
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,53
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,54
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,59
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,42
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,41
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,44
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,45
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,42
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,38
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,31
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,30
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,27
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,48
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,48
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,44
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,40
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,41
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,42
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,41
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,40
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,41
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,40
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,41
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,35
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,37
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,45
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,42
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,43
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,48
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,51
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,49
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,47
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,46
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,43
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,47
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,49
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,49
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,46
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,42
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,74
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,60
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,54
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,46
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,41
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,39
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,43
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,36
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,37
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,83
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,74
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,66
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,68
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,61
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,46
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,43
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,46
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,43
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,75
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,84
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,84
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,77
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,75
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,70
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,58
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,55
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,48
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,70
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,63
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,69
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,64
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,63
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,75
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,66
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,57
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,60
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,94
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,81
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,70
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,76
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,84
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,81
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,88
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,84
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,78
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,92
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,87
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,79
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,71
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,74
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,64
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,59
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,63
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,62
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,100
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,95
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,98
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,96
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,88
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,89
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,78
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,70
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,73
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,94
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,95
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,90
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,85
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,78
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,81
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,77
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,74
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,67
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,89
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,95
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,103
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,98
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,94
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,89
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,87
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,89
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,90
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,56
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,62
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,74
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,77
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,74
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,69
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,78
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,75
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,74
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,63
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,72
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,77
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,79
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,87
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,81
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,82
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,89
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,85
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,39
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,37
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,23
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,24
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,35
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,39
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,43
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,48
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,51
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,36
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,38
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,26
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,33
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,33
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,51
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,61
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,65
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,64
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,24
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,21
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,30
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,28
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,20
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,19
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,18
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,15
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,14
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,38
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,26
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,28
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,26
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,28
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,24
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,27
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,16
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,21
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,8
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,9
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,9
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,9
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,9
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,8
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,8
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,11
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,11
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,13
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,16
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,15
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,15
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,18
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,17
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,13
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,15
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,14
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,48
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,48
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,51
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,50
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,46
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,49
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,44
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,46
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,51
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,54
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,56
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,58
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,59
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,50
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,50
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,61
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,45
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,47
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,39
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,34
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,47
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,46
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,49
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,53
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,60
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,56
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,54
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,55
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,46
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,50
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,55
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,57
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,44
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,53
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,53
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,50
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,45
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,45
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,43
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,40
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,57
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,59
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,60
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,56
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,60
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,57
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,51
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,48
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,56
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,49
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,45
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,43
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,48
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,42
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,47
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,45
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,51
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,47
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,51
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,49
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,53
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,57
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,58
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,56
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,70
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,62
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,57
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,62
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,61
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,57
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,52
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,49
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,74
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,78
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,63
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,58
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,48
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,45
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,40
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,45
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,72
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,76
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,70
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,71
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,63
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,65
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,56
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,52
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,51
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,57
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,56
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,57
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,62
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,60
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,64
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,58
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,90
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,92
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,88
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,78
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,76
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,67
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,73
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,68
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,60
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,58
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,65
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,58
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,45
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,47
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,54
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,54
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,62
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,57
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,67
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,70
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,70
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,81
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,76
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,70
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,21
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,21
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,27
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,37
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,43
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,47
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,48
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,55
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,47
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,54
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,55
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,55
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,59
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,56
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,55
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,63
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,50
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,44
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,34
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,32
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,30
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,19
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,22
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,28
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,39
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,41
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,40
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,41
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,40
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,47
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,53
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,55
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,46
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,45
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,46
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,53
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,51
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,49
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,43
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,37
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,46
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,49
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,50
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,47
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,47
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,45
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,44
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,42
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,42
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,40
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,44
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,34
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,40
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,50
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,50
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,49
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,57
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,41
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,42
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,46
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,42
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,45
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,48
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,51
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,72
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,68
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,52
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,50
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,44
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,42
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,37
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,42
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,60
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,71
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,58
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,53
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,54
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,50
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,39
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,39
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,80
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,76
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,82
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,78
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,74
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,66
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,61
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,51
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,65
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,55
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,53
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,54
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,53
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,53
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,58
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,52
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,85
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,83
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,72
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,64
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,67
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,72
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,66
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,70
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,66
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,67
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,63
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,59
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,57
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,52
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,48
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,43
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,79
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,75
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,72
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,78
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,76
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,68
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,72
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,62
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,55
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,50
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,56
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,55
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,55
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,49
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,51
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,51
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,69
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,61
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,63
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,70
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,66
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,66
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,61
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,60
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,18
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,25
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,22
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,27
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,29
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,33
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,32
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,37
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,19
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,33
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,38
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,39
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,42
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,48
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,48
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,55
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,11
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,12
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,9
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,8
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,9
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,10
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,13
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,13
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,15
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,11
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,8
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,5
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,10
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,9
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,18
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,21
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,50
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,48
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,45
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,43
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,44
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,39
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,36
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,35
+ 55776 ASCHILEU,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,27
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,55
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,53
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,54
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,51
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,37
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,37
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,40
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,39
+ 55776 ASCHILEU,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,33
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,52
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,48
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,49
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,43
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,46
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,47
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,46
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,46
+ 55776 ASCHILEU,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,49
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,59
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,57
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,51
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,49
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,65
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,60
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,55
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,52
+ 55776 ASCHILEU,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,50
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,38
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,48
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,47
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,45
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,45
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,46
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,48
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,54
+ 55776 ASCHILEU,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,43
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,46
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,43
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,49
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,51
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,54
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,56
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,58
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,55
+ 55776 ASCHILEU,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,50
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,42
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,37
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,35
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,39
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,38
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,32
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,38
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,37
+ 55776 ASCHILEU,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,41
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,55
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,54
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,50
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,43
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,43
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,45
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,38
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,49
+ 55776 ASCHILEU,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,52
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,43
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,47
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,47
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,52
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,47
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,45
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,38
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,36
+ 55776 ASCHILEU,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,37
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,46
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,51
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,55
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,54
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,55
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,51
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,51
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,45
+ 55776 ASCHILEU,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,40
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,60
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,54
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,49
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,43
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,46
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,45
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,48
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,46
+ 55776 ASCHILEU,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,49
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,51
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,44
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,45
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,43
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,43
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,41
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,42
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,45
+ 55776 ASCHILEU,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,45
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,73
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,63
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,60
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,48
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,46
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,50
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,47
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,45
+ 55776 ASCHILEU,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,41
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,61
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,66
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,57
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,60
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,56
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,52
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,46
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,41
+ 55776 ASCHILEU,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,37
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,63
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,62
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,53
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,65
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,65
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,64
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,57
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,58
+ 55776 ASCHILEU,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,52
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,47
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,41
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,43
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,47
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,45
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,50
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,57
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,57
+ 55776 ASCHILEU,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,59
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,67
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,66
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,72
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,67
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,64
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,60
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,61
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,57
+ 55776 ASCHILEU,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,64
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,37
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,45
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,51
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,44
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,50
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,44
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,41
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,40
+ 55776 ASCHILEU,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,46
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,54
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,61
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,57
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,51
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,57
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,61
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,65
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,67
+ 55776 ASCHILEU,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,61
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,35
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,32
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,23
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,25
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,30
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,37
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,43
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,48
+ 55776 ASCHILEU,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,44
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,46
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,41
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,47
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,53
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,54
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,50
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,56
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,54
+ 55776 ASCHILEU,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,52
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,56
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,53
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,50
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,43
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,37
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,34
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,30
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,24
+ 55776 ASCHILEU,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,26
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,44
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,41
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,40
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,39
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,41
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,44
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,43
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,48
+ 55776 ASCHILEU,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,51
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,36
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,43
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,53
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,54
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,51
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,55
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,54
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,50
+ 55776 ASCHILEU,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,44
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,42
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,45
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,48
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,46
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,47
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,41
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,34
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,35
+ 55776 ASCHILEU,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,40
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,51
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,43
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,41
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,37
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,43
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,38
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,41
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,52
+ 55776 ASCHILEU,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,50
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,45
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,46
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,44
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,35
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,34
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,40
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,41
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,44
+ 55776 ASCHILEU,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,45
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,69
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,64
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,57
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,54
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,46
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,48
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,42
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,43
+ 55776 ASCHILEU,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,38
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,42
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,41
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,40
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,49
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,41
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,36
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,37
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,34
+ 55776 ASCHILEU,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,26
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,55
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,58
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,65
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,63
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,64
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,65
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,59
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,47
+ 55776 ASCHILEU,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,51
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,49
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,45
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,39
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,38
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,33
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,36
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,35
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,34
+ 55776 ASCHILEU,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,37
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,60
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,61
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,57
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,60
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,55
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,51
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,50
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,56
+ 55776 ASCHILEU,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,54
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,33
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,33
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,35
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,31
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,34
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,32
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,29
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,27
+ 55776 ASCHILEU,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,25
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,56
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,49
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,47
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,40
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,44
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,45
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,46
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,41
+ 55776 ASCHILEU,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,44
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,16
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,14
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,16
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,18
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,20
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,22
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,27
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,30
+ 55776 ASCHILEU,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,32
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,22
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,28
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,31
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,29
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,28
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,33
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,28
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,31
+ 55776 ASCHILEU,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,31

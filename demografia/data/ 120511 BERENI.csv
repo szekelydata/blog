@@ -1,0 +1,469 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 120511 BERENI,0- 4 ani, Masculin, Mures, Anul 2005, Numar persoane,26
+ 120511 BERENI,5- 9 ani, Masculin, Mures, Anul 2005, Numar persoane,40
+ 120511 BERENI,10-14 ani, Masculin, Mures, Anul 2005, Numar persoane,34
+ 120511 BERENI,15-19 ani, Masculin, Mures, Anul 2005, Numar persoane,35
+ 120511 BERENI,20-24 ani, Masculin, Mures, Anul 2005, Numar persoane,42
+ 120511 BERENI,25-29 ani, Masculin, Mures, Anul 2005, Numar persoane,42
+ 120511 BERENI,30-34 ani, Masculin, Mures, Anul 2005, Numar persoane,55
+ 120511 BERENI,35-39 ani, Masculin, Mures, Anul 2005, Numar persoane,53
+ 120511 BERENI,40-44 ani, Masculin, Mures, Anul 2005, Numar persoane,29
+ 120511 BERENI,45-49 ani, Masculin, Mures, Anul 2005, Numar persoane,45
+ 120511 BERENI,50-54 ani, Masculin, Mures, Anul 2005, Numar persoane,23
+ 120511 BERENI,55-59 ani, Masculin, Mures, Anul 2005, Numar persoane,40
+ 120511 BERENI,60-64 ani, Masculin, Mures, Anul 2005, Numar persoane,41
+ 120511 BERENI,65-69 ani, Masculin, Mures, Anul 2005, Numar persoane,33
+ 120511 BERENI,70-74 ani, Masculin, Mures, Anul 2005, Numar persoane,25
+ 120511 BERENI,75-79 ani, Masculin, Mures, Anul 2005, Numar persoane,28
+ 120511 BERENI,80-84 ani, Masculin, Mures, Anul 2005, Numar persoane,16
+ 120511 BERENI,85 ani si peste, Masculin, Mures, Anul 2005, Numar persoane,12
+ 120511 BERENI,0- 4 ani, Feminin, Mures, Anul 2005, Numar persoane,27
+ 120511 BERENI,0- 4 ani, Feminin, Mures, Anul 2006, Numar persoane,27
+ 120511 BERENI,5- 9 ani, Feminin, Mures, Anul 2005, Numar persoane,30
+ 120511 BERENI,5- 9 ani, Feminin, Mures, Anul 2006, Numar persoane,28
+ 120511 BERENI,10-14 ani, Feminin, Mures, Anul 2005, Numar persoane,37
+ 120511 BERENI,10-14 ani, Feminin, Mures, Anul 2006, Numar persoane,39
+ 120511 BERENI,15-19 ani, Feminin, Mures, Anul 2005, Numar persoane,29
+ 120511 BERENI,15-19 ani, Feminin, Mures, Anul 2006, Numar persoane,30
+ 120511 BERENI,20-24 ani, Feminin, Mures, Anul 2005, Numar persoane,35
+ 120511 BERENI,20-24 ani, Feminin, Mures, Anul 2006, Numar persoane,32
+ 120511 BERENI,25-29 ani, Feminin, Mures, Anul 2005, Numar persoane,37
+ 120511 BERENI,25-29 ani, Feminin, Mures, Anul 2006, Numar persoane,38
+ 120511 BERENI,30-34 ani, Feminin, Mures, Anul 2005, Numar persoane,35
+ 120511 BERENI,30-34 ani, Feminin, Mures, Anul 2006, Numar persoane,32
+ 120511 BERENI,35-39 ani, Feminin, Mures, Anul 2005, Numar persoane,36
+ 120511 BERENI,35-39 ani, Feminin, Mures, Anul 2006, Numar persoane,39
+ 120511 BERENI,40-44 ani, Feminin, Mures, Anul 2005, Numar persoane,21
+ 120511 BERENI,40-44 ani, Feminin, Mures, Anul 2006, Numar persoane,20
+ 120511 BERENI,45-49 ani, Feminin, Mures, Anul 2005, Numar persoane,21
+ 120511 BERENI,45-49 ani, Feminin, Mures, Anul 2006, Numar persoane,20
+ 120511 BERENI,50-54 ani, Feminin, Mures, Anul 2005, Numar persoane,39
+ 120511 BERENI,50-54 ani, Feminin, Mures, Anul 2006, Numar persoane,38
+ 120511 BERENI,55-59 ani, Feminin, Mures, Anul 2005, Numar persoane,36
+ 120511 BERENI,55-59 ani, Feminin, Mures, Anul 2006, Numar persoane,44
+ 120511 BERENI,60-64 ani, Feminin, Mures, Anul 2005, Numar persoane,49
+ 120511 BERENI,60-64 ani, Feminin, Mures, Anul 2006, Numar persoane,48
+ 120511 BERENI,65-69 ani, Feminin, Mures, Anul 2005, Numar persoane,31
+ 120511 BERENI,65-69 ani, Feminin, Mures, Anul 2006, Numar persoane,32
+ 120511 BERENI,70-74 ani, Feminin, Mures, Anul 2005, Numar persoane,44
+ 120511 BERENI,70-74 ani, Feminin, Mures, Anul 2006, Numar persoane,39
+ 120511 BERENI,75-79 ani, Feminin, Mures, Anul 2005, Numar persoane,51
+ 120511 BERENI,75-79 ani, Feminin, Mures, Anul 2006, Numar persoane,50
+ 120511 BERENI,80-84 ani, Feminin, Mures, Anul 2005, Numar persoane,24
+ 120511 BERENI,80-84 ani, Feminin, Mures, Anul 2006, Numar persoane,23
+ 120511 BERENI,85 ani si peste, Feminin, Mures, Anul 2005, Numar persoane,15
+ 120511 BERENI,85 ani si peste, Feminin, Mures, Anul 2006, Numar persoane,15
+ 120511 BERENI,0- 4 ani, Feminin, Mures, Anul 2007, Numar persoane,27
+ 120511 BERENI,0- 4 ani, Feminin, Mures, Anul 2008, Numar persoane,33
+ 120511 BERENI,0- 4 ani, Feminin, Mures, Anul 2009, Numar persoane,30
+ 120511 BERENI,0- 4 ani, Feminin, Mures, Anul 2010, Numar persoane,34
+ 120511 BERENI,0- 4 ani, Feminin, Mures, Anul 2011, Numar persoane,29
+ 120511 BERENI,0- 4 ani, Feminin, Mures, Anul 2012, Numar persoane,28
+ 120511 BERENI,0- 4 ani, Feminin, Mures, Anul 2013, Numar persoane,26
+ 120511 BERENI,0- 4 ani, Feminin, Mures, Anul 2014, Numar persoane,27
+ 120511 BERENI,0- 4 ani, Feminin, Mures, Anul 2015, Numar persoane,29
+ 120511 BERENI,0- 4 ani, Feminin, Mures, Anul 2016, Numar persoane,28
+ 120511 BERENI,0- 4 ani, Feminin, Mures, Anul 2017, Numar persoane,37
+ 120511 BERENI,5- 9 ani, Feminin, Mures, Anul 2007, Numar persoane,29
+ 120511 BERENI,5- 9 ani, Feminin, Mures, Anul 2008, Numar persoane,30
+ 120511 BERENI,5- 9 ani, Feminin, Mures, Anul 2009, Numar persoane,31
+ 120511 BERENI,5- 9 ani, Feminin, Mures, Anul 2010, Numar persoane,30
+ 120511 BERENI,5- 9 ani, Feminin, Mures, Anul 2011, Numar persoane,31
+ 120511 BERENI,5- 9 ani, Feminin, Mures, Anul 2012, Numar persoane,31
+ 120511 BERENI,5- 9 ani, Feminin, Mures, Anul 2013, Numar persoane,33
+ 120511 BERENI,5- 9 ani, Feminin, Mures, Anul 2014, Numar persoane,31
+ 120511 BERENI,5- 9 ani, Feminin, Mures, Anul 2015, Numar persoane,38
+ 120511 BERENI,5- 9 ani, Feminin, Mures, Anul 2016, Numar persoane,29
+ 120511 BERENI,5- 9 ani, Feminin, Mures, Anul 2017, Numar persoane,29
+ 120511 BERENI,10-14 ani, Feminin, Mures, Anul 2007, Numar persoane,35
+ 120511 BERENI,10-14 ani, Feminin, Mures, Anul 2008, Numar persoane,36
+ 120511 BERENI,10-14 ani, Feminin, Mures, Anul 2009, Numar persoane,36
+ 120511 BERENI,10-14 ani, Feminin, Mures, Anul 2010, Numar persoane,31
+ 120511 BERENI,10-14 ani, Feminin, Mures, Anul 2011, Numar persoane,31
+ 120511 BERENI,10-14 ani, Feminin, Mures, Anul 2012, Numar persoane,34
+ 120511 BERENI,10-14 ani, Feminin, Mures, Anul 2013, Numar persoane,29
+ 120511 BERENI,10-14 ani, Feminin, Mures, Anul 2014, Numar persoane,31
+ 120511 BERENI,10-14 ani, Feminin, Mures, Anul 2015, Numar persoane,31
+ 120511 BERENI,10-14 ani, Feminin, Mures, Anul 2016, Numar persoane,39
+ 120511 BERENI,10-14 ani, Feminin, Mures, Anul 2017, Numar persoane,40
+ 120511 BERENI,15-19 ani, Feminin, Mures, Anul 2007, Numar persoane,35
+ 120511 BERENI,15-19 ani, Feminin, Mures, Anul 2008, Numar persoane,30
+ 120511 BERENI,15-19 ani, Feminin, Mures, Anul 2009, Numar persoane,32
+ 120511 BERENI,15-19 ani, Feminin, Mures, Anul 2010, Numar persoane,39
+ 120511 BERENI,15-19 ani, Feminin, Mures, Anul 2011, Numar persoane,42
+ 120511 BERENI,15-19 ani, Feminin, Mures, Anul 2012, Numar persoane,40
+ 120511 BERENI,15-19 ani, Feminin, Mures, Anul 2013, Numar persoane,40
+ 120511 BERENI,15-19 ani, Feminin, Mures, Anul 2014, Numar persoane,41
+ 120511 BERENI,15-19 ani, Feminin, Mures, Anul 2015, Numar persoane,33
+ 120511 BERENI,15-19 ani, Feminin, Mures, Anul 2016, Numar persoane,34
+ 120511 BERENI,15-19 ani, Feminin, Mures, Anul 2017, Numar persoane,36
+ 120511 BERENI,20-24 ani, Feminin, Mures, Anul 2007, Numar persoane,24
+ 120511 BERENI,20-24 ani, Feminin, Mures, Anul 2008, Numar persoane,28
+ 120511 BERENI,20-24 ani, Feminin, Mures, Anul 2009, Numar persoane,29
+ 120511 BERENI,20-24 ani, Feminin, Mures, Anul 2010, Numar persoane,33
+ 120511 BERENI,20-24 ani, Feminin, Mures, Anul 2011, Numar persoane,32
+ 120511 BERENI,20-24 ani, Feminin, Mures, Anul 2012, Numar persoane,35
+ 120511 BERENI,20-24 ani, Feminin, Mures, Anul 2013, Numar persoane,35
+ 120511 BERENI,20-24 ani, Feminin, Mures, Anul 2014, Numar persoane,32
+ 120511 BERENI,20-24 ani, Feminin, Mures, Anul 2015, Numar persoane,41
+ 120511 BERENI,20-24 ani, Feminin, Mures, Anul 2016, Numar persoane,41
+ 120511 BERENI,20-24 ani, Feminin, Mures, Anul 2017, Numar persoane,38
+ 120511 BERENI,25-29 ani, Feminin, Mures, Anul 2007, Numar persoane,44
+ 120511 BERENI,25-29 ani, Feminin, Mures, Anul 2008, Numar persoane,45
+ 120511 BERENI,25-29 ani, Feminin, Mures, Anul 2009, Numar persoane,41
+ 120511 BERENI,25-29 ani, Feminin, Mures, Anul 2010, Numar persoane,36
+ 120511 BERENI,25-29 ani, Feminin, Mures, Anul 2011, Numar persoane,33
+ 120511 BERENI,25-29 ani, Feminin, Mures, Anul 2012, Numar persoane,26
+ 120511 BERENI,25-29 ani, Feminin, Mures, Anul 2013, Numar persoane,27
+ 120511 BERENI,25-29 ani, Feminin, Mures, Anul 2014, Numar persoane,26
+ 120511 BERENI,25-29 ani, Feminin, Mures, Anul 2015, Numar persoane,28
+ 120511 BERENI,25-29 ani, Feminin, Mures, Anul 2016, Numar persoane,31
+ 120511 BERENI,25-29 ani, Feminin, Mures, Anul 2017, Numar persoane,32
+ 120511 BERENI,30-34 ani, Feminin, Mures, Anul 2007, Numar persoane,37
+ 120511 BERENI,30-34 ani, Feminin, Mures, Anul 2008, Numar persoane,39
+ 120511 BERENI,30-34 ani, Feminin, Mures, Anul 2009, Numar persoane,35
+ 120511 BERENI,30-34 ani, Feminin, Mures, Anul 2010, Numar persoane,37
+ 120511 BERENI,30-34 ani, Feminin, Mures, Anul 2011, Numar persoane,44
+ 120511 BERENI,30-34 ani, Feminin, Mures, Anul 2012, Numar persoane,41
+ 120511 BERENI,30-34 ani, Feminin, Mures, Anul 2013, Numar persoane,44
+ 120511 BERENI,30-34 ani, Feminin, Mures, Anul 2014, Numar persoane,44
+ 120511 BERENI,30-34 ani, Feminin, Mures, Anul 2015, Numar persoane,39
+ 120511 BERENI,30-34 ani, Feminin, Mures, Anul 2016, Numar persoane,36
+ 120511 BERENI,30-34 ani, Feminin, Mures, Anul 2017, Numar persoane,30
+ 120511 BERENI,35-39 ani, Feminin, Mures, Anul 2007, Numar persoane,38
+ 120511 BERENI,35-39 ani, Feminin, Mures, Anul 2008, Numar persoane,36
+ 120511 BERENI,35-39 ani, Feminin, Mures, Anul 2009, Numar persoane,38
+ 120511 BERENI,35-39 ani, Feminin, Mures, Anul 2010, Numar persoane,34
+ 120511 BERENI,35-39 ani, Feminin, Mures, Anul 2011, Numar persoane,32
+ 120511 BERENI,35-39 ani, Feminin, Mures, Anul 2012, Numar persoane,44
+ 120511 BERENI,35-39 ani, Feminin, Mures, Anul 2013, Numar persoane,44
+ 120511 BERENI,35-39 ani, Feminin, Mures, Anul 2014, Numar persoane,38
+ 120511 BERENI,35-39 ani, Feminin, Mures, Anul 2015, Numar persoane,43
+ 120511 BERENI,35-39 ani, Feminin, Mures, Anul 2016, Numar persoane,46
+ 120511 BERENI,35-39 ani, Feminin, Mures, Anul 2017, Numar persoane,46
+ 120511 BERENI,40-44 ani, Feminin, Mures, Anul 2007, Numar persoane,17
+ 120511 BERENI,40-44 ani, Feminin, Mures, Anul 2008, Numar persoane,25
+ 120511 BERENI,40-44 ani, Feminin, Mures, Anul 2009, Numar persoane,34
+ 120511 BERENI,40-44 ani, Feminin, Mures, Anul 2010, Numar persoane,39
+ 120511 BERENI,40-44 ani, Feminin, Mures, Anul 2011, Numar persoane,41
+ 120511 BERENI,40-44 ani, Feminin, Mures, Anul 2012, Numar persoane,43
+ 120511 BERENI,40-44 ani, Feminin, Mures, Anul 2013, Numar persoane,42
+ 120511 BERENI,40-44 ani, Feminin, Mures, Anul 2014, Numar persoane,42
+ 120511 BERENI,40-44 ani, Feminin, Mures, Anul 2015, Numar persoane,37
+ 120511 BERENI,40-44 ani, Feminin, Mures, Anul 2016, Numar persoane,36
+ 120511 BERENI,40-44 ani, Feminin, Mures, Anul 2017, Numar persoane,47
+ 120511 BERENI,45-49 ani, Feminin, Mures, Anul 2007, Numar persoane,24
+ 120511 BERENI,45-49 ani, Feminin, Mures, Anul 2008, Numar persoane,22
+ 120511 BERENI,45-49 ani, Feminin, Mures, Anul 2009, Numar persoane,19
+ 120511 BERENI,45-49 ani, Feminin, Mures, Anul 2010, Numar persoane,23
+ 120511 BERENI,45-49 ani, Feminin, Mures, Anul 2011, Numar persoane,23
+ 120511 BERENI,45-49 ani, Feminin, Mures, Anul 2012, Numar persoane,20
+ 120511 BERENI,45-49 ani, Feminin, Mures, Anul 2013, Numar persoane,28
+ 120511 BERENI,45-49 ani, Feminin, Mures, Anul 2014, Numar persoane,39
+ 120511 BERENI,45-49 ani, Feminin, Mures, Anul 2015, Numar persoane,42
+ 120511 BERENI,45-49 ani, Feminin, Mures, Anul 2016, Numar persoane,44
+ 120511 BERENI,45-49 ani, Feminin, Mures, Anul 2017, Numar persoane,45
+ 120511 BERENI,50-54 ani, Feminin, Mures, Anul 2007, Numar persoane,33
+ 120511 BERENI,50-54 ani, Feminin, Mures, Anul 2008, Numar persoane,26
+ 120511 BERENI,50-54 ani, Feminin, Mures, Anul 2009, Numar persoane,25
+ 120511 BERENI,50-54 ani, Feminin, Mures, Anul 2010, Numar persoane,25
+ 120511 BERENI,50-54 ani, Feminin, Mures, Anul 2011, Numar persoane,19
+ 120511 BERENI,50-54 ani, Feminin, Mures, Anul 2012, Numar persoane,24
+ 120511 BERENI,50-54 ani, Feminin, Mures, Anul 2013, Numar persoane,23
+ 120511 BERENI,50-54 ani, Feminin, Mures, Anul 2014, Numar persoane,21
+ 120511 BERENI,50-54 ani, Feminin, Mures, Anul 2015, Numar persoane,26
+ 120511 BERENI,50-54 ani, Feminin, Mures, Anul 2016, Numar persoane,24
+ 120511 BERENI,50-54 ani, Feminin, Mures, Anul 2017, Numar persoane,20
+ 120511 BERENI,55-59 ani, Feminin, Mures, Anul 2007, Numar persoane,49
+ 120511 BERENI,55-59 ani, Feminin, Mures, Anul 2008, Numar persoane,52
+ 120511 BERENI,55-59 ani, Feminin, Mures, Anul 2009, Numar persoane,54
+ 120511 BERENI,55-59 ani, Feminin, Mures, Anul 2010, Numar persoane,42
+ 120511 BERENI,55-59 ani, Feminin, Mures, Anul 2011, Numar persoane,43
+ 120511 BERENI,55-59 ani, Feminin, Mures, Anul 2012, Numar persoane,39
+ 120511 BERENI,55-59 ani, Feminin, Mures, Anul 2013, Numar persoane,29
+ 120511 BERENI,55-59 ani, Feminin, Mures, Anul 2014, Numar persoane,26
+ 120511 BERENI,55-59 ani, Feminin, Mures, Anul 2015, Numar persoane,25
+ 120511 BERENI,55-59 ani, Feminin, Mures, Anul 2016, Numar persoane,20
+ 120511 BERENI,55-59 ani, Feminin, Mures, Anul 2017, Numar persoane,23
+ 120511 BERENI,60-64 ani, Feminin, Mures, Anul 2007, Numar persoane,39
+ 120511 BERENI,60-64 ani, Feminin, Mures, Anul 2008, Numar persoane,33
+ 120511 BERENI,60-64 ani, Feminin, Mures, Anul 2009, Numar persoane,33
+ 120511 BERENI,60-64 ani, Feminin, Mures, Anul 2010, Numar persoane,43
+ 120511 BERENI,60-64 ani, Feminin, Mures, Anul 2011, Numar persoane,52
+ 120511 BERENI,60-64 ani, Feminin, Mures, Anul 2012, Numar persoane,56
+ 120511 BERENI,60-64 ani, Feminin, Mures, Anul 2013, Numar persoane,60
+ 120511 BERENI,60-64 ani, Feminin, Mures, Anul 2014, Numar persoane,56
+ 120511 BERENI,60-64 ani, Feminin, Mures, Anul 2015, Numar persoane,46
+ 120511 BERENI,60-64 ani, Feminin, Mures, Anul 2016, Numar persoane,44
+ 120511 BERENI,60-64 ani, Feminin, Mures, Anul 2017, Numar persoane,38
+ 120511 BERENI,65-69 ani, Feminin, Mures, Anul 2007, Numar persoane,36
+ 120511 BERENI,65-69 ani, Feminin, Mures, Anul 2008, Numar persoane,46
+ 120511 BERENI,65-69 ani, Feminin, Mures, Anul 2009, Numar persoane,47
+ 120511 BERENI,65-69 ani, Feminin, Mures, Anul 2010, Numar persoane,49
+ 120511 BERENI,65-69 ani, Feminin, Mures, Anul 2011, Numar persoane,48
+ 120511 BERENI,65-69 ani, Feminin, Mures, Anul 2012, Numar persoane,39
+ 120511 BERENI,65-69 ani, Feminin, Mures, Anul 2013, Numar persoane,33
+ 120511 BERENI,65-69 ani, Feminin, Mures, Anul 2014, Numar persoane,33
+ 120511 BERENI,65-69 ani, Feminin, Mures, Anul 2015, Numar persoane,42
+ 120511 BERENI,65-69 ani, Feminin, Mures, Anul 2016, Numar persoane,48
+ 120511 BERENI,65-69 ani, Feminin, Mures, Anul 2017, Numar persoane,51
+ 120511 BERENI,70-74 ani, Feminin, Mures, Anul 2007, Numar persoane,38
+ 120511 BERENI,70-74 ani, Feminin, Mures, Anul 2008, Numar persoane,33
+ 120511 BERENI,70-74 ani, Feminin, Mures, Anul 2009, Numar persoane,31
+ 120511 BERENI,70-74 ani, Feminin, Mures, Anul 2010, Numar persoane,25
+ 120511 BERENI,70-74 ani, Feminin, Mures, Anul 2011, Numar persoane,26
+ 120511 BERENI,70-74 ani, Feminin, Mures, Anul 2012, Numar persoane,32
+ 120511 BERENI,70-74 ani, Feminin, Mures, Anul 2013, Numar persoane,41
+ 120511 BERENI,70-74 ani, Feminin, Mures, Anul 2014, Numar persoane,45
+ 120511 BERENI,70-74 ani, Feminin, Mures, Anul 2015, Numar persoane,45
+ 120511 BERENI,70-74 ani, Feminin, Mures, Anul 2016, Numar persoane,46
+ 120511 BERENI,70-74 ani, Feminin, Mures, Anul 2017, Numar persoane,39
+ 120511 BERENI,75-79 ani, Feminin, Mures, Anul 2007, Numar persoane,50
+ 120511 BERENI,75-79 ani, Feminin, Mures, Anul 2008, Numar persoane,48
+ 120511 BERENI,75-79 ani, Feminin, Mures, Anul 2009, Numar persoane,41
+ 120511 BERENI,75-79 ani, Feminin, Mures, Anul 2010, Numar persoane,36
+ 120511 BERENI,75-79 ani, Feminin, Mures, Anul 2011, Numar persoane,32
+ 120511 BERENI,75-79 ani, Feminin, Mures, Anul 2012, Numar persoane,30
+ 120511 BERENI,75-79 ani, Feminin, Mures, Anul 2013, Numar persoane,26
+ 120511 BERENI,75-79 ani, Feminin, Mures, Anul 2014, Numar persoane,28
+ 120511 BERENI,75-79 ani, Feminin, Mures, Anul 2015, Numar persoane,23
+ 120511 BERENI,75-79 ani, Feminin, Mures, Anul 2016, Numar persoane,23
+ 120511 BERENI,75-79 ani, Feminin, Mures, Anul 2017, Numar persoane,26
+ 120511 BERENI,80-84 ani, Feminin, Mures, Anul 2007, Numar persoane,26
+ 120511 BERENI,80-84 ani, Feminin, Mures, Anul 2008, Numar persoane,28
+ 120511 BERENI,80-84 ani, Feminin, Mures, Anul 2009, Numar persoane,35
+ 120511 BERENI,80-84 ani, Feminin, Mures, Anul 2010, Numar persoane,39
+ 120511 BERENI,80-84 ani, Feminin, Mures, Anul 2011, Numar persoane,35
+ 120511 BERENI,80-84 ani, Feminin, Mures, Anul 2012, Numar persoane,35
+ 120511 BERENI,80-84 ani, Feminin, Mures, Anul 2013, Numar persoane,33
+ 120511 BERENI,80-84 ani, Feminin, Mures, Anul 2014, Numar persoane,27
+ 120511 BERENI,80-84 ani, Feminin, Mures, Anul 2015, Numar persoane,28
+ 120511 BERENI,80-84 ani, Feminin, Mures, Anul 2016, Numar persoane,26
+ 120511 BERENI,80-84 ani, Feminin, Mures, Anul 2017, Numar persoane,25
+ 120511 BERENI,85 ani si peste, Feminin, Mures, Anul 2007, Numar persoane,16
+ 120511 BERENI,85 ani si peste, Feminin, Mures, Anul 2008, Numar persoane,13
+ 120511 BERENI,85 ani si peste, Feminin, Mures, Anul 2009, Numar persoane,14
+ 120511 BERENI,85 ani si peste, Feminin, Mures, Anul 2010, Numar persoane,16
+ 120511 BERENI,85 ani si peste, Feminin, Mures, Anul 2011, Numar persoane,19
+ 120511 BERENI,85 ani si peste, Feminin, Mures, Anul 2012, Numar persoane,23
+ 120511 BERENI,85 ani si peste, Feminin, Mures, Anul 2013, Numar persoane,24
+ 120511 BERENI,85 ani si peste, Feminin, Mures, Anul 2014, Numar persoane,25
+ 120511 BERENI,85 ani si peste, Feminin, Mures, Anul 2015, Numar persoane,24
+ 120511 BERENI,85 ani si peste, Feminin, Mures, Anul 2016, Numar persoane,23
+ 120511 BERENI,85 ani si peste, Feminin, Mures, Anul 2017, Numar persoane,24
+ 120511 BERENI,0- 4 ani, Masculin, Mures, Anul 2006, Numar persoane,29
+ 120511 BERENI,0- 4 ani, Masculin, Mures, Anul 2007, Numar persoane,30
+ 120511 BERENI,0- 4 ani, Masculin, Mures, Anul 2008, Numar persoane,35
+ 120511 BERENI,0- 4 ani, Masculin, Mures, Anul 2009, Numar persoane,28
+ 120511 BERENI,0- 4 ani, Masculin, Mures, Anul 2010, Numar persoane,27
+ 120511 BERENI,0- 4 ani, Masculin, Mures, Anul 2011, Numar persoane,31
+ 120511 BERENI,0- 4 ani, Masculin, Mures, Anul 2012, Numar persoane,33
+ 120511 BERENI,0- 4 ani, Masculin, Mures, Anul 2013, Numar persoane,29
+ 120511 BERENI,0- 4 ani, Masculin, Mures, Anul 2014, Numar persoane,35
+ 120511 BERENI,0- 4 ani, Masculin, Mures, Anul 2015, Numar persoane,38
+ 120511 BERENI,0- 4 ani, Masculin, Mures, Anul 2016, Numar persoane,33
+ 120511 BERENI,0- 4 ani, Masculin, Mures, Anul 2017, Numar persoane,32
+ 120511 BERENI,5- 9 ani, Masculin, Mures, Anul 2006, Numar persoane,35
+ 120511 BERENI,5- 9 ani, Masculin, Mures, Anul 2007, Numar persoane,30
+ 120511 BERENI,5- 9 ani, Masculin, Mures, Anul 2008, Numar persoane,28
+ 120511 BERENI,5- 9 ani, Masculin, Mures, Anul 2009, Numar persoane,26
+ 120511 BERENI,5- 9 ani, Masculin, Mures, Anul 2010, Numar persoane,27
+ 120511 BERENI,5- 9 ani, Masculin, Mures, Anul 2011, Numar persoane,28
+ 120511 BERENI,5- 9 ani, Masculin, Mures, Anul 2012, Numar persoane,32
+ 120511 BERENI,5- 9 ani, Masculin, Mures, Anul 2013, Numar persoane,38
+ 120511 BERENI,5- 9 ani, Masculin, Mures, Anul 2014, Numar persoane,32
+ 120511 BERENI,5- 9 ani, Masculin, Mures, Anul 2015, Numar persoane,32
+ 120511 BERENI,5- 9 ani, Masculin, Mures, Anul 2016, Numar persoane,34
+ 120511 BERENI,5- 9 ani, Masculin, Mures, Anul 2017, Numar persoane,35
+ 120511 BERENI,10-14 ani, Masculin, Mures, Anul 2006, Numar persoane,36
+ 120511 BERENI,10-14 ani, Masculin, Mures, Anul 2007, Numar persoane,42
+ 120511 BERENI,10-14 ani, Masculin, Mures, Anul 2008, Numar persoane,41
+ 120511 BERENI,10-14 ani, Masculin, Mures, Anul 2009, Numar persoane,40
+ 120511 BERENI,10-14 ani, Masculin, Mures, Anul 2010, Numar persoane,39
+ 120511 BERENI,10-14 ani, Masculin, Mures, Anul 2011, Numar persoane,40
+ 120511 BERENI,10-14 ani, Masculin, Mures, Anul 2012, Numar persoane,32
+ 120511 BERENI,10-14 ani, Masculin, Mures, Anul 2013, Numar persoane,31
+ 120511 BERENI,10-14 ani, Masculin, Mures, Anul 2014, Numar persoane,28
+ 120511 BERENI,10-14 ani, Masculin, Mures, Anul 2015, Numar persoane,30
+ 120511 BERENI,10-14 ani, Masculin, Mures, Anul 2016, Numar persoane,33
+ 120511 BERENI,10-14 ani, Masculin, Mures, Anul 2017, Numar persoane,39
+ 120511 BERENI,15-19 ani, Masculin, Mures, Anul 2006, Numar persoane,36
+ 120511 BERENI,15-19 ani, Masculin, Mures, Anul 2007, Numar persoane,28
+ 120511 BERENI,15-19 ani, Masculin, Mures, Anul 2008, Numar persoane,30
+ 120511 BERENI,15-19 ani, Masculin, Mures, Anul 2009, Numar persoane,33
+ 120511 BERENI,15-19 ani, Masculin, Mures, Anul 2010, Numar persoane,31
+ 120511 BERENI,15-19 ani, Masculin, Mures, Anul 2011, Numar persoane,43
+ 120511 BERENI,15-19 ani, Masculin, Mures, Anul 2012, Numar persoane,59
+ 120511 BERENI,15-19 ani, Masculin, Mures, Anul 2013, Numar persoane,53
+ 120511 BERENI,15-19 ani, Masculin, Mures, Anul 2014, Numar persoane,54
+ 120511 BERENI,15-19 ani, Masculin, Mures, Anul 2015, Numar persoane,57
+ 120511 BERENI,15-19 ani, Masculin, Mures, Anul 2016, Numar persoane,48
+ 120511 BERENI,15-19 ani, Masculin, Mures, Anul 2017, Numar persoane,44
+ 120511 BERENI,20-24 ani, Masculin, Mures, Anul 2006, Numar persoane,39
+ 120511 BERENI,20-24 ani, Masculin, Mures, Anul 2007, Numar persoane,35
+ 120511 BERENI,20-24 ani, Masculin, Mures, Anul 2008, Numar persoane,33
+ 120511 BERENI,20-24 ani, Masculin, Mures, Anul 2009, Numar persoane,31
+ 120511 BERENI,20-24 ani, Masculin, Mures, Anul 2010, Numar persoane,31
+ 120511 BERENI,20-24 ani, Masculin, Mures, Anul 2011, Numar persoane,31
+ 120511 BERENI,20-24 ani, Masculin, Mures, Anul 2012, Numar persoane,26
+ 120511 BERENI,20-24 ani, Masculin, Mures, Anul 2013, Numar persoane,31
+ 120511 BERENI,20-24 ani, Masculin, Mures, Anul 2014, Numar persoane,36
+ 120511 BERENI,20-24 ani, Masculin, Mures, Anul 2015, Numar persoane,35
+ 120511 BERENI,20-24 ani, Masculin, Mures, Anul 2016, Numar persoane,45
+ 120511 BERENI,20-24 ani, Masculin, Mures, Anul 2017, Numar persoane,57
+ 120511 BERENI,25-29 ani, Masculin, Mures, Anul 2006, Numar persoane,38
+ 120511 BERENI,25-29 ani, Masculin, Mures, Anul 2007, Numar persoane,43
+ 120511 BERENI,25-29 ani, Masculin, Mures, Anul 2008, Numar persoane,48
+ 120511 BERENI,25-29 ani, Masculin, Mures, Anul 2009, Numar persoane,45
+ 120511 BERENI,25-29 ani, Masculin, Mures, Anul 2010, Numar persoane,45
+ 120511 BERENI,25-29 ani, Masculin, Mures, Anul 2011, Numar persoane,42
+ 120511 BERENI,25-29 ani, Masculin, Mures, Anul 2012, Numar persoane,37
+ 120511 BERENI,25-29 ani, Masculin, Mures, Anul 2013, Numar persoane,34
+ 120511 BERENI,25-29 ani, Masculin, Mures, Anul 2014, Numar persoane,35
+ 120511 BERENI,25-29 ani, Masculin, Mures, Anul 2015, Numar persoane,34
+ 120511 BERENI,25-29 ani, Masculin, Mures, Anul 2016, Numar persoane,33
+ 120511 BERENI,25-29 ani, Masculin, Mures, Anul 2017, Numar persoane,28
+ 120511 BERENI,30-34 ani, Masculin, Mures, Anul 2006, Numar persoane,56
+ 120511 BERENI,30-34 ani, Masculin, Mures, Anul 2007, Numar persoane,52
+ 120511 BERENI,30-34 ani, Masculin, Mures, Anul 2008, Numar persoane,47
+ 120511 BERENI,30-34 ani, Masculin, Mures, Anul 2009, Numar persoane,43
+ 120511 BERENI,30-34 ani, Masculin, Mures, Anul 2010, Numar persoane,44
+ 120511 BERENI,30-34 ani, Masculin, Mures, Anul 2011, Numar persoane,44
+ 120511 BERENI,30-34 ani, Masculin, Mures, Anul 2012, Numar persoane,44
+ 120511 BERENI,30-34 ani, Masculin, Mures, Anul 2013, Numar persoane,50
+ 120511 BERENI,30-34 ani, Masculin, Mures, Anul 2014, Numar persoane,44
+ 120511 BERENI,30-34 ani, Masculin, Mures, Anul 2015, Numar persoane,45
+ 120511 BERENI,30-34 ani, Masculin, Mures, Anul 2016, Numar persoane,43
+ 120511 BERENI,30-34 ani, Masculin, Mures, Anul 2017, Numar persoane,42
+ 120511 BERENI,35-39 ani, Masculin, Mures, Anul 2006, Numar persoane,56
+ 120511 BERENI,35-39 ani, Masculin, Mures, Anul 2007, Numar persoane,57
+ 120511 BERENI,35-39 ani, Masculin, Mures, Anul 2008, Numar persoane,54
+ 120511 BERENI,35-39 ani, Masculin, Mures, Anul 2009, Numar persoane,52
+ 120511 BERENI,35-39 ani, Masculin, Mures, Anul 2010, Numar persoane,54
+ 120511 BERENI,35-39 ani, Masculin, Mures, Anul 2011, Numar persoane,55
+ 120511 BERENI,35-39 ani, Masculin, Mures, Anul 2012, Numar persoane,52
+ 120511 BERENI,35-39 ani, Masculin, Mures, Anul 2013, Numar persoane,49
+ 120511 BERENI,35-39 ani, Masculin, Mures, Anul 2014, Numar persoane,48
+ 120511 BERENI,35-39 ani, Masculin, Mures, Anul 2015, Numar persoane,51
+ 120511 BERENI,35-39 ani, Masculin, Mures, Anul 2016, Numar persoane,50
+ 120511 BERENI,35-39 ani, Masculin, Mures, Anul 2017, Numar persoane,48
+ 120511 BERENI,40-44 ani, Masculin, Mures, Anul 2006, Numar persoane,29
+ 120511 BERENI,40-44 ani, Masculin, Mures, Anul 2007, Numar persoane,35
+ 120511 BERENI,40-44 ani, Masculin, Mures, Anul 2008, Numar persoane,38
+ 120511 BERENI,40-44 ani, Masculin, Mures, Anul 2009, Numar persoane,46
+ 120511 BERENI,40-44 ani, Masculin, Mures, Anul 2010, Numar persoane,53
+ 120511 BERENI,40-44 ani, Masculin, Mures, Anul 2011, Numar persoane,55
+ 120511 BERENI,40-44 ani, Masculin, Mures, Anul 2012, Numar persoane,57
+ 120511 BERENI,40-44 ani, Masculin, Mures, Anul 2013, Numar persoane,54
+ 120511 BERENI,40-44 ani, Masculin, Mures, Anul 2014, Numar persoane,56
+ 120511 BERENI,40-44 ani, Masculin, Mures, Anul 2015, Numar persoane,53
+ 120511 BERENI,40-44 ani, Masculin, Mures, Anul 2016, Numar persoane,56
+ 120511 BERENI,40-44 ani, Masculin, Mures, Anul 2017, Numar persoane,52
+ 120511 BERENI,45-49 ani, Masculin, Mures, Anul 2006, Numar persoane,47
+ 120511 BERENI,45-49 ani, Masculin, Mures, Anul 2007, Numar persoane,43
+ 120511 BERENI,45-49 ani, Masculin, Mures, Anul 2008, Numar persoane,37
+ 120511 BERENI,45-49 ani, Masculin, Mures, Anul 2009, Numar persoane,33
+ 120511 BERENI,45-49 ani, Masculin, Mures, Anul 2010, Numar persoane,27
+ 120511 BERENI,45-49 ani, Masculin, Mures, Anul 2011, Numar persoane,28
+ 120511 BERENI,45-49 ani, Masculin, Mures, Anul 2012, Numar persoane,34
+ 120511 BERENI,45-49 ani, Masculin, Mures, Anul 2013, Numar persoane,40
+ 120511 BERENI,45-49 ani, Masculin, Mures, Anul 2014, Numar persoane,46
+ 120511 BERENI,45-49 ani, Masculin, Mures, Anul 2015, Numar persoane,55
+ 120511 BERENI,45-49 ani, Masculin, Mures, Anul 2016, Numar persoane,56
+ 120511 BERENI,45-49 ani, Masculin, Mures, Anul 2017, Numar persoane,60
+ 120511 BERENI,50-54 ani, Masculin, Mures, Anul 2006, Numar persoane,23
+ 120511 BERENI,50-54 ani, Masculin, Mures, Anul 2007, Numar persoane,27
+ 120511 BERENI,50-54 ani, Masculin, Mures, Anul 2008, Numar persoane,34
+ 120511 BERENI,50-54 ani, Masculin, Mures, Anul 2009, Numar persoane,37
+ 120511 BERENI,50-54 ani, Masculin, Mures, Anul 2010, Numar persoane,42
+ 120511 BERENI,50-54 ani, Masculin, Mures, Anul 2011, Numar persoane,41
+ 120511 BERENI,50-54 ani, Masculin, Mures, Anul 2012, Numar persoane,39
+ 120511 BERENI,50-54 ani, Masculin, Mures, Anul 2013, Numar persoane,35
+ 120511 BERENI,50-54 ani, Masculin, Mures, Anul 2014, Numar persoane,32
+ 120511 BERENI,50-54 ani, Masculin, Mures, Anul 2015, Numar persoane,28
+ 120511 BERENI,50-54 ani, Masculin, Mures, Anul 2016, Numar persoane,30
+ 120511 BERENI,50-54 ani, Masculin, Mures, Anul 2017, Numar persoane,36
+ 120511 BERENI,55-59 ani, Masculin, Mures, Anul 2006, Numar persoane,32
+ 120511 BERENI,55-59 ani, Masculin, Mures, Anul 2007, Numar persoane,29
+ 120511 BERENI,55-59 ani, Masculin, Mures, Anul 2008, Numar persoane,25
+ 120511 BERENI,55-59 ani, Masculin, Mures, Anul 2009, Numar persoane,33
+ 120511 BERENI,55-59 ani, Masculin, Mures, Anul 2010, Numar persoane,25
+ 120511 BERENI,55-59 ani, Masculin, Mures, Anul 2011, Numar persoane,24
+ 120511 BERENI,55-59 ani, Masculin, Mures, Anul 2012, Numar persoane,27
+ 120511 BERENI,55-59 ani, Masculin, Mures, Anul 2013, Numar persoane,32
+ 120511 BERENI,55-59 ani, Masculin, Mures, Anul 2014, Numar persoane,31
+ 120511 BERENI,55-59 ani, Masculin, Mures, Anul 2015, Numar persoane,37
+ 120511 BERENI,55-59 ani, Masculin, Mures, Anul 2016, Numar persoane,37
+ 120511 BERENI,55-59 ani, Masculin, Mures, Anul 2017, Numar persoane,36
+ 120511 BERENI,60-64 ani, Masculin, Mures, Anul 2006, Numar persoane,51
+ 120511 BERENI,60-64 ani, Masculin, Mures, Anul 2007, Numar persoane,43
+ 120511 BERENI,60-64 ani, Masculin, Mures, Anul 2008, Numar persoane,44
+ 120511 BERENI,60-64 ani, Masculin, Mures, Anul 2009, Numar persoane,33
+ 120511 BERENI,60-64 ani, Masculin, Mures, Anul 2010, Numar persoane,35
+ 120511 BERENI,60-64 ani, Masculin, Mures, Anul 2011, Numar persoane,31
+ 120511 BERENI,60-64 ani, Masculin, Mures, Anul 2012, Numar persoane,32
+ 120511 BERENI,60-64 ani, Masculin, Mures, Anul 2013, Numar persoane,29
+ 120511 BERENI,60-64 ani, Masculin, Mures, Anul 2014, Numar persoane,37
+ 120511 BERENI,60-64 ani, Masculin, Mures, Anul 2015, Numar persoane,27
+ 120511 BERENI,60-64 ani, Masculin, Mures, Anul 2016, Numar persoane,24
+ 120511 BERENI,60-64 ani, Masculin, Mures, Anul 2017, Numar persoane,27
+ 120511 BERENI,65-69 ani, Masculin, Mures, Anul 2006, Numar persoane,31
+ 120511 BERENI,65-69 ani, Masculin, Mures, Anul 2007, Numar persoane,38
+ 120511 BERENI,65-69 ani, Masculin, Mures, Anul 2008, Numar persoane,36
+ 120511 BERENI,65-69 ani, Masculin, Mures, Anul 2009, Numar persoane,42
+ 120511 BERENI,65-69 ani, Masculin, Mures, Anul 2010, Numar persoane,39
+ 120511 BERENI,65-69 ani, Masculin, Mures, Anul 2011, Numar persoane,44
+ 120511 BERENI,65-69 ani, Masculin, Mures, Anul 2012, Numar persoane,35
+ 120511 BERENI,65-69 ani, Masculin, Mures, Anul 2013, Numar persoane,35
+ 120511 BERENI,65-69 ani, Masculin, Mures, Anul 2014, Numar persoane,32
+ 120511 BERENI,65-69 ani, Masculin, Mures, Anul 2015, Numar persoane,35
+ 120511 BERENI,65-69 ani, Masculin, Mures, Anul 2016, Numar persoane,30
+ 120511 BERENI,65-69 ani, Masculin, Mures, Anul 2017, Numar persoane,28
+ 120511 BERENI,70-74 ani, Masculin, Mures, Anul 2006, Numar persoane,24
+ 120511 BERENI,70-74 ani, Masculin, Mures, Anul 2007, Numar persoane,23
+ 120511 BERENI,70-74 ani, Masculin, Mures, Anul 2008, Numar persoane,24
+ 120511 BERENI,70-74 ani, Masculin, Mures, Anul 2009, Numar persoane,22
+ 120511 BERENI,70-74 ani, Masculin, Mures, Anul 2010, Numar persoane,24
+ 120511 BERENI,70-74 ani, Masculin, Mures, Anul 2011, Numar persoane,24
+ 120511 BERENI,70-74 ani, Masculin, Mures, Anul 2012, Numar persoane,34
+ 120511 BERENI,70-74 ani, Masculin, Mures, Anul 2013, Numar persoane,30
+ 120511 BERENI,70-74 ani, Masculin, Mures, Anul 2014, Numar persoane,33
+ 120511 BERENI,70-74 ani, Masculin, Mures, Anul 2015, Numar persoane,34
+ 120511 BERENI,70-74 ani, Masculin, Mures, Anul 2016, Numar persoane,36
+ 120511 BERENI,70-74 ani, Masculin, Mures, Anul 2017, Numar persoane,29
+ 120511 BERENI,75-79 ani, Masculin, Mures, Anul 2006, Numar persoane,27
+ 120511 BERENI,75-79 ani, Masculin, Mures, Anul 2007, Numar persoane,27
+ 120511 BERENI,75-79 ani, Masculin, Mures, Anul 2008, Numar persoane,30
+ 120511 BERENI,75-79 ani, Masculin, Mures, Anul 2009, Numar persoane,23
+ 120511 BERENI,75-79 ani, Masculin, Mures, Anul 2010, Numar persoane,14
+ 120511 BERENI,75-79 ani, Masculin, Mures, Anul 2011, Numar persoane,16
+ 120511 BERENI,75-79 ani, Masculin, Mures, Anul 2012, Numar persoane,13
+ 120511 BERENI,75-79 ani, Masculin, Mures, Anul 2013, Numar persoane,16
+ 120511 BERENI,75-79 ani, Masculin, Mures, Anul 2014, Numar persoane,14
+ 120511 BERENI,75-79 ani, Masculin, Mures, Anul 2015, Numar persoane,15
+ 120511 BERENI,75-79 ani, Masculin, Mures, Anul 2016, Numar persoane,18
+ 120511 BERENI,75-79 ani, Masculin, Mures, Anul 2017, Numar persoane,27
+ 120511 BERENI,80-84 ani, Masculin, Mures, Anul 2006, Numar persoane,15
+ 120511 BERENI,80-84 ani, Masculin, Mures, Anul 2007, Numar persoane,14
+ 120511 BERENI,80-84 ani, Masculin, Mures, Anul 2008, Numar persoane,13
+ 120511 BERENI,80-84 ani, Masculin, Mures, Anul 2009, Numar persoane,16
+ 120511 BERENI,80-84 ani, Masculin, Mures, Anul 2010, Numar persoane,19
+ 120511 BERENI,80-84 ani, Masculin, Mures, Anul 2011, Numar persoane,19
+ 120511 BERENI,80-84 ani, Masculin, Mures, Anul 2012, Numar persoane,15
+ 120511 BERENI,80-84 ani, Masculin, Mures, Anul 2013, Numar persoane,18
+ 120511 BERENI,80-84 ani, Masculin, Mures, Anul 2014, Numar persoane,14
+ 120511 BERENI,80-84 ani, Masculin, Mures, Anul 2015, Numar persoane,11
+ 120511 BERENI,80-84 ani, Masculin, Mures, Anul 2016, Numar persoane,11
+ 120511 BERENI,80-84 ani, Masculin, Mures, Anul 2017, Numar persoane,6
+ 120511 BERENI,85 ani si peste, Masculin, Mures, Anul 2006, Numar persoane,12
+ 120511 BERENI,85 ani si peste, Masculin, Mures, Anul 2007, Numar persoane,10
+ 120511 BERENI,85 ani si peste, Masculin, Mures, Anul 2008, Numar persoane,8
+ 120511 BERENI,85 ani si peste, Masculin, Mures, Anul 2009, Numar persoane,10
+ 120511 BERENI,85 ani si peste, Masculin, Mures, Anul 2010, Numar persoane,14
+ 120511 BERENI,85 ani si peste, Masculin, Mures, Anul 2011, Numar persoane,12
+ 120511 BERENI,85 ani si peste, Masculin, Mures, Anul 2012, Numar persoane,9
+ 120511 BERENI,85 ani si peste, Masculin, Mures, Anul 2013, Numar persoane,6
+ 120511 BERENI,85 ani si peste, Masculin, Mures, Anul 2014, Numar persoane,11
+ 120511 BERENI,85 ani si peste, Masculin, Mures, Anul 2015, Numar persoane,13
+ 120511 BERENI,85 ani si peste, Masculin, Mures, Anul 2016, Numar persoane,13
+ 120511 BERENI,85 ani si peste, Masculin, Mures, Anul 2017, Numar persoane,11

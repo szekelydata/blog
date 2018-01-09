@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 1992, Numar persoane,91
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 1993, Numar persoane,100
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 1994, Numar persoane,107
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 1995, Numar persoane,93
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 1996, Numar persoane,92
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 1997, Numar persoane,83
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 1998, Numar persoane,72
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 1992, Numar persoane,102
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 1993, Numar persoane,91
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 1994, Numar persoane,82
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 1995, Numar persoane,81
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 1996, Numar persoane,68
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 1997, Numar persoane,66
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 1998, Numar persoane,68
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 1992, Numar persoane,71
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 1993, Numar persoane,89
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 1994, Numar persoane,89
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 1995, Numar persoane,97
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 1996, Numar persoane,97
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 1997, Numar persoane,97
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 1998, Numar persoane,98
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 1992, Numar persoane,67
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 1993, Numar persoane,71
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 1994, Numar persoane,83
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 1995, Numar persoane,86
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 1996, Numar persoane,98
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 1997, Numar persoane,104
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 1998, Numar persoane,92
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 1992, Numar persoane,77
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 1993, Numar persoane,70
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 1994, Numar persoane,68
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 1995, Numar persoane,74
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 1996, Numar persoane,75
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 1997, Numar persoane,76
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 1998, Numar persoane,92
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 1992, Numar persoane,78
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 1993, Numar persoane,78
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 1994, Numar persoane,71
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 1995, Numar persoane,65
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 1996, Numar persoane,66
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 1997, Numar persoane,68
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 1998, Numar persoane,71
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 1992, Numar persoane,109
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 1993, Numar persoane,103
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 1994, Numar persoane,97
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 1995, Numar persoane,96
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 1996, Numar persoane,80
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 1997, Numar persoane,80
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 1998, Numar persoane,73
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 1992, Numar persoane,95
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 1993, Numar persoane,96
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 1994, Numar persoane,97
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 1995, Numar persoane,94
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 1996, Numar persoane,99
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 1997, Numar persoane,83
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 1998, Numar persoane,81
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 1992, Numar persoane,123
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 1993, Numar persoane,119
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 1994, Numar persoane,115
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 1995, Numar persoane,104
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 1996, Numar persoane,118
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 1997, Numar persoane,109
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 1998, Numar persoane,106
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 1992, Numar persoane,109
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 1993, Numar persoane,114
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 1994, Numar persoane,99
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 1995, Numar persoane,102
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 1996, Numar persoane,92
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 1997, Numar persoane,103
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 1998, Numar persoane,101
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 1992, Numar persoane,79
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 1993, Numar persoane,88
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 1994, Numar persoane,95
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 1995, Numar persoane,110
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 1996, Numar persoane,117
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 1997, Numar persoane,125
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 1998, Numar persoane,121
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 1992, Numar persoane,51
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 1993, Numar persoane,56
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 1994, Numar persoane,71
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 1995, Numar persoane,83
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 1996, Numar persoane,90
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 1997, Numar persoane,102
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 1998, Numar persoane,105
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 1992, Numar persoane,68
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 1993, Numar persoane,72
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 1994, Numar persoane,71
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 1995, Numar persoane,68
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 1996, Numar persoane,72
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 1997, Numar persoane,83
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 1998, Numar persoane,88
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 1992, Numar persoane,79
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 1993, Numar persoane,65
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 1994, Numar persoane,58
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 1995, Numar persoane,52
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 1996, Numar persoane,57
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 1997, Numar persoane,51
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 1998, Numar persoane,56
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 1992, Numar persoane,77
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 1993, Numar persoane,70
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 1994, Numar persoane,68
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 1995, Numar persoane,70
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 1996, Numar persoane,68
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 1997, Numar persoane,69
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 1998, Numar persoane,76
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 1992, Numar persoane,86
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 1993, Numar persoane,82
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 1994, Numar persoane,78
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 1995, Numar persoane,75
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 1996, Numar persoane,71
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 1997, Numar persoane,72
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 1998, Numar persoane,63
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 1992, Numar persoane,80
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 1993, Numar persoane,77
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 1994, Numar persoane,82
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 1995, Numar persoane,84
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 1996, Numar persoane,78
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 1997, Numar persoane,77
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 1998, Numar persoane,73
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 1992, Numar persoane,91
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 1993, Numar persoane,91
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 1994, Numar persoane,93
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 1995, Numar persoane,92
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 1996, Numar persoane,86
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 1997, Numar persoane,84
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 1998, Numar persoane,82
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 1992, Numar persoane,72
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 1993, Numar persoane,73
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 1994, Numar persoane,73
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 1995, Numar persoane,70
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 1996, Numar persoane,84
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 1997, Numar persoane,82
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 1998, Numar persoane,78
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 1992, Numar persoane,95
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 1993, Numar persoane,99
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 1994, Numar persoane,97
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 1995, Numar persoane,97
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 1996, Numar persoane,92
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 1997, Numar persoane,84
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 1998, Numar persoane,84
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 1992, Numar persoane,103
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 1993, Numar persoane,107
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 1994, Numar persoane,88
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 1995, Numar persoane,82
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 1996, Numar persoane,71
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 1997, Numar persoane,67
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 1998, Numar persoane,70
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 1992, Numar persoane,103
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 1993, Numar persoane,92
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 1994, Numar persoane,90
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 1995, Numar persoane,89
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 1996, Numar persoane,87
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 1997, Numar persoane,92
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 1998, Numar persoane,96
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 1992, Numar persoane,106
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 1993, Numar persoane,97
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 1994, Numar persoane,106
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 1995, Numar persoane,108
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 1996, Numar persoane,102
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 1997, Numar persoane,100
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 1998, Numar persoane,101
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 1992, Numar persoane,98
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 1993, Numar persoane,105
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 1994, Numar persoane,106
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 1995, Numar persoane,108
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 1996, Numar persoane,112
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 1997, Numar persoane,101
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 1998, Numar persoane,88
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 1992, Numar persoane,87
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 1993, Numar persoane,97
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 1994, Numar persoane,92
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 1995, Numar persoane,87
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 1996, Numar persoane,91
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 1997, Numar persoane,100
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 1998, Numar persoane,90
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 1992, Numar persoane,86
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 1993, Numar persoane,90
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 1994, Numar persoane,91
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 1995, Numar persoane,91
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 1996, Numar persoane,92
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 1997, Numar persoane,98
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 1998, Numar persoane,105
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 1992, Numar persoane,88
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 1993, Numar persoane,77
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 1994, Numar persoane,70
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 1995, Numar persoane,78
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 1996, Numar persoane,74
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 1997, Numar persoane,69
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 1998, Numar persoane,79
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 1992, Numar persoane,124
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 1993, Numar persoane,111
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 1994, Numar persoane,113
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 1995, Numar persoane,105
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 1996, Numar persoane,92
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 1997, Numar persoane,90
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 1998, Numar persoane,91
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 1992, Numar persoane,43
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 1993, Numar persoane,53
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 1994, Numar persoane,72
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 1995, Numar persoane,67
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 1996, Numar persoane,65
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 1997, Numar persoane,61
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 1998, Numar persoane,56
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 1992, Numar persoane,71
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 1993, Numar persoane,94
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 1994, Numar persoane,100
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 1995, Numar persoane,107
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 1996, Numar persoane,115
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 1997, Numar persoane,106
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 1998, Numar persoane,95
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 1992, Numar persoane,29
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 1993, Numar persoane,24
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 1994, Numar persoane,15
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 1995, Numar persoane,18
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 1996, Numar persoane,27
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 1997, Numar persoane,27
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 1998, Numar persoane,32
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 1992, Numar persoane,40
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 1993, Numar persoane,30
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 1994, Numar persoane,27
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 1995, Numar persoane,24
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 1996, Numar persoane,41
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 1997, Numar persoane,55
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 1998, Numar persoane,72
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 1992, Numar persoane,22
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 1993, Numar persoane,22
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 1994, Numar persoane,25
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 1995, Numar persoane,23
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 1996, Numar persoane,17
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 1997, Numar persoane,15
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 1998, Numar persoane,13
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 1992, Numar persoane,38
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 1993, Numar persoane,39
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 1994, Numar persoane,38
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 1995, Numar persoane,39
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 1996, Numar persoane,28
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 1997, Numar persoane,17
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 1998, Numar persoane,13
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 1992, Numar persoane,9
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 1993, Numar persoane,8
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 1994, Numar persoane,7
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 1995, Numar persoane,6
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 1996, Numar persoane,7
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 1997, Numar persoane,7
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 1998, Numar persoane,6
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 1992, Numar persoane,14
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 1993, Numar persoane,15
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 1994, Numar persoane,17
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 1995, Numar persoane,18
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 1996, Numar persoane,18
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 1997, Numar persoane,17
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 1998, Numar persoane,16
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 1999, Numar persoane,65
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2000, Numar persoane,58
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2001, Numar persoane,57
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2002, Numar persoane,62
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2003, Numar persoane,58
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2004, Numar persoane,53
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,70
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,70
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 1999, Numar persoane,67
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2000, Numar persoane,58
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2001, Numar persoane,59
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2002, Numar persoane,60
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2003, Numar persoane,60
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2004, Numar persoane,60
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,63
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,62
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 1999, Numar persoane,103
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2000, Numar persoane,90
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2001, Numar persoane,90
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2002, Numar persoane,88
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2003, Numar persoane,79
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2004, Numar persoane,69
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,59
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,63
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 1999, Numar persoane,83
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2000, Numar persoane,80
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2001, Numar persoane,67
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2002, Numar persoane,65
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2003, Numar persoane,69
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2004, Numar persoane,63
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,62
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,66
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 1999, Numar persoane,90
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2000, Numar persoane,95
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2001, Numar persoane,93
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2002, Numar persoane,91
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2003, Numar persoane,93
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2004, Numar persoane,100
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,91
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,89
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 1999, Numar persoane,84
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2000, Numar persoane,88
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2001, Numar persoane,97
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2002, Numar persoane,104
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2003, Numar persoane,88
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2004, Numar persoane,83
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,78
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,63
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 1999, Numar persoane,72
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2000, Numar persoane,78
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2001, Numar persoane,77
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2002, Numar persoane,75
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2003, Numar persoane,89
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2004, Numar persoane,91
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,95
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,97
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 1999, Numar persoane,73
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2000, Numar persoane,64
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2001, Numar persoane,64
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2002, Numar persoane,64
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2003, Numar persoane,75
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2004, Numar persoane,92
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,101
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,106
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 1999, Numar persoane,96
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2000, Numar persoane,99
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2001, Numar persoane,87
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2002, Numar persoane,85
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2003, Numar persoane,82
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2004, Numar persoane,76
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,84
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,76
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 1999, Numar persoane,107
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2000, Numar persoane,105
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2001, Numar persoane,102
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2002, Numar persoane,82
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2003, Numar persoane,78
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2004, Numar persoane,73
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,70
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,74
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 1999, Numar persoane,115
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2000, Numar persoane,103
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2001, Numar persoane,112
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2002, Numar persoane,107
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2003, Numar persoane,110
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2004, Numar persoane,122
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,125
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,111
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 1999, Numar persoane,98
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2000, Numar persoane,96
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2001, Numar persoane,87
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2002, Numar persoane,96
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2003, Numar persoane,100
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2004, Numar persoane,108
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,112
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,110
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 1999, Numar persoane,101
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2000, Numar persoane,112
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2001, Numar persoane,117
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2002, Numar persoane,130
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2003, Numar persoane,121
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2004, Numar persoane,122
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,112
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,120
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 1999, Numar persoane,76
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2000, Numar persoane,89
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2001, Numar persoane,94
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2002, Numar persoane,106
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2003, Numar persoane,110
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2004, Numar persoane,103
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,101
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,95
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 1999, Numar persoane,79
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2000, Numar persoane,76
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2001, Numar persoane,77
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2002, Numar persoane,83
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2003, Numar persoane,89
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2004, Numar persoane,115
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,127
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,134
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 1999, Numar persoane,57
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2000, Numar persoane,50
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2001, Numar persoane,58
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2002, Numar persoane,50
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2003, Numar persoane,55
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2004, Numar persoane,83
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,90
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,98
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 1999, Numar persoane,73
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2000, Numar persoane,71
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2001, Numar persoane,72
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2002, Numar persoane,71
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2003, Numar persoane,77
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2004, Numar persoane,80
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,77
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,82
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 1999, Numar persoane,77
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2000, Numar persoane,76
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2001, Numar persoane,68
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2002, Numar persoane,71
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2003, Numar persoane,66
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2004, Numar persoane,60
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,60
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,66
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 1999, Numar persoane,79
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2000, Numar persoane,84
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2001, Numar persoane,76
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2002, Numar persoane,77
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2003, Numar persoane,76
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2004, Numar persoane,80
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,78
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,80
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 1999, Numar persoane,91
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2000, Numar persoane,91
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2001, Numar persoane,87
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2002, Numar persoane,89
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2003, Numar persoane,84
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2004, Numar persoane,84
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,81
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,77
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 1999, Numar persoane,74
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2000, Numar persoane,73
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2001, Numar persoane,84
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2002, Numar persoane,84
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2003, Numar persoane,74
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2004, Numar persoane,75
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,85
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,80
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 1999, Numar persoane,95
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2000, Numar persoane,99
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2001, Numar persoane,96
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2002, Numar persoane,93
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2003, Numar persoane,91
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2004, Numar persoane,96
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,96
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,92
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 1999, Numar persoane,84
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2000, Numar persoane,81
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2001, Numar persoane,70
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2002, Numar persoane,63
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2003, Numar persoane,71
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2004, Numar persoane,78
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,73
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,88
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 1999, Numar persoane,89
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2000, Numar persoane,89
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2001, Numar persoane,88
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2002, Numar persoane,94
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2003, Numar persoane,100
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2004, Numar persoane,98
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,101
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,97
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 1999, Numar persoane,102
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2000, Numar persoane,104
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2001, Numar persoane,96
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2002, Numar persoane,93
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2003, Numar persoane,94
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2004, Numar persoane,78
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,72
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,69
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 1999, Numar persoane,109
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2000, Numar persoane,109
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2001, Numar persoane,113
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2002, Numar persoane,102
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2003, Numar persoane,91
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2004, Numar persoane,91
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,91
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,88
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 1999, Numar persoane,81
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2000, Numar persoane,82
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2001, Numar persoane,85
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2002, Numar persoane,92
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2003, Numar persoane,80
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2004, Numar persoane,88
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,96
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,88
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 1999, Numar persoane,89
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2000, Numar persoane,91
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2001, Numar persoane,88
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2002, Numar persoane,91
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2003, Numar persoane,100
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2004, Numar persoane,98
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,100
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,106
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 1999, Numar persoane,58
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2000, Numar persoane,65
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2001, Numar persoane,61
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2002, Numar persoane,56
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2003, Numar persoane,70
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2004, Numar persoane,69
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,68
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,70
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 1999, Numar persoane,99
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2000, Numar persoane,95
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2001, Numar persoane,86
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2002, Numar persoane,84
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2003, Numar persoane,80
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2004, Numar persoane,76
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,77
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,70
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 1999, Numar persoane,43
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2000, Numar persoane,44
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2001, Numar persoane,49
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2002, Numar persoane,49
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2003, Numar persoane,44
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2004, Numar persoane,39
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,41
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,41
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 1999, Numar persoane,78
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2000, Numar persoane,88
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2001, Numar persoane,90
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2002, Numar persoane,88
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2003, Numar persoane,83
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2004, Numar persoane,79
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,80
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,67
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 1999, Numar persoane,10
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2000, Numar persoane,13
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2001, Numar persoane,20
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2002, Numar persoane,20
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2003, Numar persoane,20
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2004, Numar persoane,27
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,27
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,25
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 1999, Numar persoane,16
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2000, Numar persoane,18
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2001, Numar persoane,31
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2002, Numar persoane,35
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2003, Numar persoane,48
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2004, Numar persoane,51
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,53
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,56
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 1999, Numar persoane,11
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2000, Numar persoane,13
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2001, Numar persoane,7
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2002, Numar persoane,9
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2003, Numar persoane,5
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2004, Numar persoane,3
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,6
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,10
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 1999, Numar persoane,16
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2000, Numar persoane,23
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2001, Numar persoane,18
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2002, Numar persoane,17
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2003, Numar persoane,11
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2004, Numar persoane,11
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,11
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,16
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,69
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,62
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,75
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,71
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,64
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,55
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,63
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,64
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,60
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,66
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,71
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,69
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,67
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,64
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,61
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,74
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,76
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,75
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,66
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,63
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,65
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,64
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,66
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,66
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,82
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,78
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,73
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,59
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,72
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,73
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,66
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,71
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,77
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,67
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,76
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,70
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,98
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,98
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,103
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,100
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,98
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,97
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,105
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,90
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,81
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,87
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,84
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,87
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,79
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,95
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,93
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,98
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,104
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,97
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,72
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,75
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,92
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,96
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,111
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,107
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,114
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,107
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,99
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,94
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,100
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,102
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,100
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,95
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,89
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,74
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,77
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,80
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,124
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,133
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,135
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,143
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,124
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,119
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,105
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,108
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,111
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,112
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,122
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,112
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,140
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,124
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,125
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,127
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,139
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,138
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,116
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,121
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,118
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,123
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,120
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,119
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,94
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,104
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,116
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,126
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,141
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,154
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,57
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,63
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,85
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,96
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,106
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,126
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,76
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,77
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,78
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,77
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,82
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,91
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,82
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,77
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,72
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,63
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,71
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,62
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,84
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,91
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,89
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,84
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,88
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,77
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,97
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,95
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,91
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,88
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,87
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,90
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,91
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,87
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,85
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,94
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,94
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,97
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,94
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,99
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,106
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,101
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,99
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,102
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,61
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,67
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,74
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,70
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,87
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,90
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,94
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,100
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,99
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,105
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,103
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,98
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,86
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,85
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,68
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,62
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,58
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,52
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,99
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,89
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,87
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,90
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,85
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,93
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,73
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,68
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,77
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,79
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,71
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,70
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,73
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,83
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,82
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,86
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,95
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,90
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,41
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,52
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,52
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,51
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,50
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,53
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,66
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,62
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,63
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,50
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,48
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,54
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,28
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,27
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,28
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,25
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,27
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,23
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,53
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,53
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,48
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,49
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,43
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,40
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,12
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,10
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,15
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,15
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,14
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,14
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,15
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,17
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,22
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,24
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,30
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,30
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,49
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,46
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,45
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,47
+ 157031 GAVOJDIA,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,58
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,73
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,70
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,65
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,63
+ 157031 GAVOJDIA,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,64
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,72
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,78
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,67
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,59
+ 157031 GAVOJDIA,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,52
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,64
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,62
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,69
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,74
+ 157031 GAVOJDIA,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,69
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,69
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,66
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,85
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,79
+ 157031 GAVOJDIA,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,79
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,68
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,69
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,67
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,72
+ 157031 GAVOJDIA,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,67
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,90
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,89
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,83
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,93
+ 157031 GAVOJDIA,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,104
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,91
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,99
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,84
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,84
+ 157031 GAVOJDIA,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,80
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,101
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,105
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,99
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,105
+ 157031 GAVOJDIA,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,101
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,101
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,87
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,92
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,86
+ 157031 GAVOJDIA,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,91
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,112
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,108
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,110
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,100
+ 157031 GAVOJDIA,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,99
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,80
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,99
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,100
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,99
+ 157031 GAVOJDIA,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,92
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,117
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,112
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,105
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,106
+ 157031 GAVOJDIA,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,99
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,108
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,93
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,83
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,83
+ 157031 GAVOJDIA,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,85
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,143
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,133
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,138
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,127
+ 157031 GAVOJDIA,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,123
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,115
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,116
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,111
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,118
+ 157031 GAVOJDIA,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,107
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,137
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,143
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,133
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,137
+ 157031 GAVOJDIA,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,139
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,132
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,126
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,129
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,120
+ 157031 GAVOJDIA,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,114
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,107
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,115
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,134
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,144
+ 157031 GAVOJDIA,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,147
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,68
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,89
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,100
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,109
+ 157031 GAVOJDIA,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,127
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,81
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,83
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,78
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,83
+ 157031 GAVOJDIA,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,92
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,82
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,70
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,60
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,65
+ 157031 GAVOJDIA,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,62
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,90
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,91
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,87
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,86
+ 157031 GAVOJDIA,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,76
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,101
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,99
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,95
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,88
+ 157031 GAVOJDIA,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,81
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,91
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,88
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,94
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,83
+ 157031 GAVOJDIA,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,78
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,100
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,105
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,103
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,99
+ 157031 GAVOJDIA,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,96
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,56
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,63
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,63
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,79
+ 157031 GAVOJDIA,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,80
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,98
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,98
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,104
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,97
+ 157031 GAVOJDIA,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,95
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,71
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,57
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,51
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,44
+ 157031 GAVOJDIA,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,43
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,77
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,80
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,83
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,85
+ 157031 GAVOJDIA,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,92
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,45
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,49
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,59
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,57
+ 157031 GAVOJDIA,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,60
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,69
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,65
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,68
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,77
+ 157031 GAVOJDIA,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,77
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,31
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,31
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,22
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,27
+ 157031 GAVOJDIA,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,33
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,33
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,36
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,29
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,28
+ 157031 GAVOJDIA,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,30
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,12
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,10
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,12
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,13
+ 157031 GAVOJDIA,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,14
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,32
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,31
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,36
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,38
+ 157031 GAVOJDIA,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,30

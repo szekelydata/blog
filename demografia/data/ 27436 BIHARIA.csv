@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,154
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,150
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,154
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,140
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,148
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,143
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,143
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,149
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,158
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,149
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,144
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,133
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,119
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,110
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,97
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,101
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,167
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,166
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,165
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,163
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,155
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,147
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,149
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,150
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,171
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,187
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,181
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,185
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,176
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,161
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,153
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,149
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,216
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,202
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,190
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,182
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,175
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,168
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,168
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,169
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,207
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,180
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,181
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,178
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,172
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,175
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,190
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,185
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,236
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,229
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,233
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,246
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,231
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,217
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,203
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,193
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,210
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,236
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,220
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,189
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,198
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,202
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,175
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,181
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,257
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,261
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,233
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,221
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,220
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,223
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,222
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,231
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,260
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,236
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,228
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,228
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,209
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,192
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,221
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,208
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,170
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,171
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,197
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,206
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,224
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,239
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,251
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,227
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,133
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,148
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,171
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,196
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,205
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,228
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,213
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,214
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,172
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,174
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,172
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,168
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,153
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,150
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,155
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,189
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,169
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,138
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,138
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,124
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,127
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,126
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,145
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,162
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,201
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,197
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,187
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,184
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,173
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,163
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,167
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,161
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,174
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,193
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,185
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,186
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,167
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,164
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,137
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,137
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,185
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,175
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,186
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,190
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,209
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,193
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,195
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,189
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,180
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,180
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,185
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,186
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,185
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,167
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,187
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,188
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,181
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,189
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,166
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,161
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,158
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,170
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,160
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,176
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,201
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,190
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,186
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,164
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,165
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,176
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,176
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,180
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,200
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,182
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,190
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,183
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,165
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,170
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,183
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,163
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,216
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,211
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,192
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,205
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,206
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,194
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,183
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,182
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,190
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,190
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,174
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,160
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,168
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,175
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,160
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,172
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,193
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,195
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,205
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,201
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,190
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,199
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,200
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,191
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,156
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,158
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,159
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,179
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,168
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,151
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,160
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,150
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,206
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,199
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,193
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,191
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,192
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,172
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,179
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,191
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,145
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,132
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,130
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,125
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,121
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,114
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,121
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,128
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,203
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,186
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,176
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,176
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,166
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,182
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,177
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,173
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,90
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,109
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,123
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,111
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,102
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,103
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,83
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,91
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,156
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,177
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,192
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,188
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,180
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,170
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,156
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,148
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,59
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,45
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,37
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,41
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,49
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,61
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,74
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,71
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,110
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,103
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,83
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,83
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,107
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,113
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,131
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,143
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,47
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,43
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,43
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,42
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,42
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,31
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,27
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,26
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,94
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,76
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,83
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,80
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,71
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,58
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,54
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,49
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,19
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,21
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,20
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,23
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,21
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,21
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,24
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,21
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,34
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,41
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,42
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,40
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,44
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,42
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,37
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,35
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,147
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,131
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,131
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,130
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,95
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,94
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,88
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,111
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,119
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,126
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,121
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,85
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,80
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,77
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,137
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,148
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,147
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,146
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,105
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,113
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,99
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,141
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,124
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,114
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,98
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,64
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,70
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,80
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,174
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,171
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,165
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,164
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,115
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,99
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,114
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,186
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,184
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,173
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,165
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,118
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,102
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,90
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,187
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,182
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,184
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,179
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,123
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,139
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,139
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,187
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,178
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,177
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,199
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,132
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,147
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,145
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,246
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,237
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,227
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,222
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,145
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,144
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,135
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,181
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,187
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,202
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,186
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,131
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,137
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,140
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,222
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,226
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,241
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,242
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,157
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,169
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,168
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,219
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,203
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,189
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,221
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,148
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,127
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,135
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,207
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,230
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,248
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,265
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,162
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,164
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,168
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,194
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,215
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,235
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,238
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,165
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,174
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,166
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,158
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,148
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,159
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,176
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,149
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,165
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,178
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,125
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,127
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,134
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,157
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,133
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,151
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,171
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,187
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,176
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,170
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,171
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,123
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,122
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,117
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,200
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,184
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,186
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,158
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,113
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,105
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,111
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,187
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,210
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,209
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,214
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,158
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,148
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,143
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,183
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,197
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,188
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,207
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,155
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,176
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,164
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,158
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,156
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,165
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,160
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,126
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,137
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,159
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,170
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,169
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,186
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,188
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,138
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,134
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,151
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,168
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,158
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,171
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,178
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,116
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,113
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,109
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,206
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,204
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,193
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,192
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,114
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,116
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,120
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,144
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,153
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,158
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,158
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,112
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,107
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,104
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,191
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,189
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,200
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,194
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,123
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,131
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,125
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,152
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,149
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,135
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,142
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,77
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,76
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,81
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,178
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,179
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,163
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,165
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,114
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,114
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,121
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,87
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,97
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,95
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,104
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,73
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,80
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,69
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,150
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,146
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,157
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,160
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,100
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,104
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,91
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,71
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,59
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,70
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,58
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,44
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,41
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,40
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,140
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,135
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,135
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,128
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,70
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,72
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,69
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,20
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,25
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,30
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,42
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,24
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,24
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,25
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,49
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,67
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,68
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,88
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,59
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,50
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,58
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,26
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,24
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,17
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,14
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,9
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,7
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,9
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,38
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,33
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,28
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,24
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,17
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,24
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,27
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,85
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,86
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,79
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,83
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,108
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,112
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,80
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,86
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,75
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,78
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,81
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,83
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,94
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,90
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,96
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,95
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,86
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,82
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,77
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,72
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,84
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,77
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,73
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,77
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,113
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,115
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,118
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,115
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,105
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,96
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,83
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,65
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,69
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,73
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,85
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,83
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,135
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,132
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,132
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,115
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,122
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,134
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,135
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,136
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,129
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,114
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,103
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,95
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,131
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,136
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,139
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,147
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,147
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,140
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,142
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,147
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,146
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,160
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,155
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,147
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,179
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,174
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,171
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,167
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,161
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,154
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,146
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,139
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,150
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,162
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,175
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,171
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,173
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,176
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,188
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,208
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,209
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,219
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,159
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,175
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,177
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,152
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,162
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,182
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,185
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,196
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,182
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,176
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,183
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,193
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,190
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,182
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,176
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,186
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,183
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,174
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,128
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,135
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,151
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,167
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,190
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,201
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,114
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,136
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,146
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,161
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,180
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,205
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,126
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,123
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,122
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,119
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,119
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,127
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,155
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,131
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,124
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,112
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,125
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,118
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,170
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,169
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,160
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,151
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,143
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,135
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,145
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,169
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,169
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,188
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,168
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,167
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,108
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,109
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,137
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,146
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,163
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,166
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,142
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,141
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,147
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,143
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,156
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,150
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,110
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,120
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,107
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,106
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,103
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,104
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,117
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,113
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,112
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,113
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,119
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,141
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,87
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,88
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,89
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,92
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,92
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,97
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,121
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,124
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,117
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,121
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,112
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,106
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,59
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,62
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,58
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,61
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,68
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,69
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,92
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,97
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,97
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,99
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,107
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,106
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,39
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,38
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,48
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,51
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,49
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,46
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,70
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,73
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,76
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,81
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,77
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,80
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,22
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,17
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,21
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,21
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,23
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,23
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,55
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,51
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,45
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,43
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,39
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,32
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,13
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,19
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,15
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,11
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,12
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,12
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,24
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,30
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,31
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,33
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,36
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,37
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,110
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,122
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,126
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,121
+ 27436 BIHARIA,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,129
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,87
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,98
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,98
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,94
+ 27436 BIHARIA,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,89
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,87
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,81
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,89
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,113
+ 27436 BIHARIA,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,113
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,81
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,70
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,77
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,82
+ 27436 BIHARIA,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,87
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,96
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,103
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,108
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,95
+ 27436 BIHARIA,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,88
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,86
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,93
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,84
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,81
+ 27436 BIHARIA,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,83
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,136
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,140
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,131
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,123
+ 27436 BIHARIA,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,125
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,78
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,90
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,93
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,101
+ 27436 BIHARIA,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,105
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,135
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,133
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,121
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,130
+ 27436 BIHARIA,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,131
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,154
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,139
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,123
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,106
+ 27436 BIHARIA,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,102
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,159
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,158
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,155
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,155
+ 27436 BIHARIA,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,154
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,170
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,169
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,174
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,170
+ 27436 BIHARIA,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,156
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,208
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,201
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,189
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,179
+ 27436 BIHARIA,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,167
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,183
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,179
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,194
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,191
+ 27436 BIHARIA,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,177
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,198
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,212
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,228
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,221
+ 27436 BIHARIA,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,225
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,187
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,190
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,167
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,168
+ 27436 BIHARIA,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,191
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,204
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,195
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,194
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,197
+ 27436 BIHARIA,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,212
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,202
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,203
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,207
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,194
+ 27436 BIHARIA,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,189
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,138
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,152
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,171
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,191
+ 27436 BIHARIA,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,203
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,138
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,153
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,168
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,195
+ 27436 BIHARIA,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,218
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,126
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,122
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,118
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,125
+ 27436 BIHARIA,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,132
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,137
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,133
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,120
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,122
+ 27436 BIHARIA,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,123
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,166
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,159
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,149
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,139
+ 27436 BIHARIA,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,131
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,179
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,180
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,196
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,177
+ 27436 BIHARIA,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,169
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,109
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,129
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,132
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,149
+ 27436 BIHARIA,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,147
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,139
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,145
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,146
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,165
+ 27436 BIHARIA,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,164
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,103
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,96
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,95
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,90
+ 27436 BIHARIA,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,96
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,106
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,109
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,107
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,113
+ 27436 BIHARIA,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,128
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,71
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,75
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,78
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,74
+ 27436 BIHARIA,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,75
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,106
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,101
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,111
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,105
+ 27436 BIHARIA,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,102
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,46
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,43
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,47
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,46
+ 27436 BIHARIA,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,48
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,80
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,80
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,76
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,87
+ 27436 BIHARIA,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,89
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,24
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,21
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,26
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,32
+ 27436 BIHARIA,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,32
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,46
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,54
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,58
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,59
+ 27436 BIHARIA,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,65
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,11
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,16
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,14
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,16
+ 27436 BIHARIA,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,13
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,33
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,33
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,28
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,33
+ 27436 BIHARIA,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,29

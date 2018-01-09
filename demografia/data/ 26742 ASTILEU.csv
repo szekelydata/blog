@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,177
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,166
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,150
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,136
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,135
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,130
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,131
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,119
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,136
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,140
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,140
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,142
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,130
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,133
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,120
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,114
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,160
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,171
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,187
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,182
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,184
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,180
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,162
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,141
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,155
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,158
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,156
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,153
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,153
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,136
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,141
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,135
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,189
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,187
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,177
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,187
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,173
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,168
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,175
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,189
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,157
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,159
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,143
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,156
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,174
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,165
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,159
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,156
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,202
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,206
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,208
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,192
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,185
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,197
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,191
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,179
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,145
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,155
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,167
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,152
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,138
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,156
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,155
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,143
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,198
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,195
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,196
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,200
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,216
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,203
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,201
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,200
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,183
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,167
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,162
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,165
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,156
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,139
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,146
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,153
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,118
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,124
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,146
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,170
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,179
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,196
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,194
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,190
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,97
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,112
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,130
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,151
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,156
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,170
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,153
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,149
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,130
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,135
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,128
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,125
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,107
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,108
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,116
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,136
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,108
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,101
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,96
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,89
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,88
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,93
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,105
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,120
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,151
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,153
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,150
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,144
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,146
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,128
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,132
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,122
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,131
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,135
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,127
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,133
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,125
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,110
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,106
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,97
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,118
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,122
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,131
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,135
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,138
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,150
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,148
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,144
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,108
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,109
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,123
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,123
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,133
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,134
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,127
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,119
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,98
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,99
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,102
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,101
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,108
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,109
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,112
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,123
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,109
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,111
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,110
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,99
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,96
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,103
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,103
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,119
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,102
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,99
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,96
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,98
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,85
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,91
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,90
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,92
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,120
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,115
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,115
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,118
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,113
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,106
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,108
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,104
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,120
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,117
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,112
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,107
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,110
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,96
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,91
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,89
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,142
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,141
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,126
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,128
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,132
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,118
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,112
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,113
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,121
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,124
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,120
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,114
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,104
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,98
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,98
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,96
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,115
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,128
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,133
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,132
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,124
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,133
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,131
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,113
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,98
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,88
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,92
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,93
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,105
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,100
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,101
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,97
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,116
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,102
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,107
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,101
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,96
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,94
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,112
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,119
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,53
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,66
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,69
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,72
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,70
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,72
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,63
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,64
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,70
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,81
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,80
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,84
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,83
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,89
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,82
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,86
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,33
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,30
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,25
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,22
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,23
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,32
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,41
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,42
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,50
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,37
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,37
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,39
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,48
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,47
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,54
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,54
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,23
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,22
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,26
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,29
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,30
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,23
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,16
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,9
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,18
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,24
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,29
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,32
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,32
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,29
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,22
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,18
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,5
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,4
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,6
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,6
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,8
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,6
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,9
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,8
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,12
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,9
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,8
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,8
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,5
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,7
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,8
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,10
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,119
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,113
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,110
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,100
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,101
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,101
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,101
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,109
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,109
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,103
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,106
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,104
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,98
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,92
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,125
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,128
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,123
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,125
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,114
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,116
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,108
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,139
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,127
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,130
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,119
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,114
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,107
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,109
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,181
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,180
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,178
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,162
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,133
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,123
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,127
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,146
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,145
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,132
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,140
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,134
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,139
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,126
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,188
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,172
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,167
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,171
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,187
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,177
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,180
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,154
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,168
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,160
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,156
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,152
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,144
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,143
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,186
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,184
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,193
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,184
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,175
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,185
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,171
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,136
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,124
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,143
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,142
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,133
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,142
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,153
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,192
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,202
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,187
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,189
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,186
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,169
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,172
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,146
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,141
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,125
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,126
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,140
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,131
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,127
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,158
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,171
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,188
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,182
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,180
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,180
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,184
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,141
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,148
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,164
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,151
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,146
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,147
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,142
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,116
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,98
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,101
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,115
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,132
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,157
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,177
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,83
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,82
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,89
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,108
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,124
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,140
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,147
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,141
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,145
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,122
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,124
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,119
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,114
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,98
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,128
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,123
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,107
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,104
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,96
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,88
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,88
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,124
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,129
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,143
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,143
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,143
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,138
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,139
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,117
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,125
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,125
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,123
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,115
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,123
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,122
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,90
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,99
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,103
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,107
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,113
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,119
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,123
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,93
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,92
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,101
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,100
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,116
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,114
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,122
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,92
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,77
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,78
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,80
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,82
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,83
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,92
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,117
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,113
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,103
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,106
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,102
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,92
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,91
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,88
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,96
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,84
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,81
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,74
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,75
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,63
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,120
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,122
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,114
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,108
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,107
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,111
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,106
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,93
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,83
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,81
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,83
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,81
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,75
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,82
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,114
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,110
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,120
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,118
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,104
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,109
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,114
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,69
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,85
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,86
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,80
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,78
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,77
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,69
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,81
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,84
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,82
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,100
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,108
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,98
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,95
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,41
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,41
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,48
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,50
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,49
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,55
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,68
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,63
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,58
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,67
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,61
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,69
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,62
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,63
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,10
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,10
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,12
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,20
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,23
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,21
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,19
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,20
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,25
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,25
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,28
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,25
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,37
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,36
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,8
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,8
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,5
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,4
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,4
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,4
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,5
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,13
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,14
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,10
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,8
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,8
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,11
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,13
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,90
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,97
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,107
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,106
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,98
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,100
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,97
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,92
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,87
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,93
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,96
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,94
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,107
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,98
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,100
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,101
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,104
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,91
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,102
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,105
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,103
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,97
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,90
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,93
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,122
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,123
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,115
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,114
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,114
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,108
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,127
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,119
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,113
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,106
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,105
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,102
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,175
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,156
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,135
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,128
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,127
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,126
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,129
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,139
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,137
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,143
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,131
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,132
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,170
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,175
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,192
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,184
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,177
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,173
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,146
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,146
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,140
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,135
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,139
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,133
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,177
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,169
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,163
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,176
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,164
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,157
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,141
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,138
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,133
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,140
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,144
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,137
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,175
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,181
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,183
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,170
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,169
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,174
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,130
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,127
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,137
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,129
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,122
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,127
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,187
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,174
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,168
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,165
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,177
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,171
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,162
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,148
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,142
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,143
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,138
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,127
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,102
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,117
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,130
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,157
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,167
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,177
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,99
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,113
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,128
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,145
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,151
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,162
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,123
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,124
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,120
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,112
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,94
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,96
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,111
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,107
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,101
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,89
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,93
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,98
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,140
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,143
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,142
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,136
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,137
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,121
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,123
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,121
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,117
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,127
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,122
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,112
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,95
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,96
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,107
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,111
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,117
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,134
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,98
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,100
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,116
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,117
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,125
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,122
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,64
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,69
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,74
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,80
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,88
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,90
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,99
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,100
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,98
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,89
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,88
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,100
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,70
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,69
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,63
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,63
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,57
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,63
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,106
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,99
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,94
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,98
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,97
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,90
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,63
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,64
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,61
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,56
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,64
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,60
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,101
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,103
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,87
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,96
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,96
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,88
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,68
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,64
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,59
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,53
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,51
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,42
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,65
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,81
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,84
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,75
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,69
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,80
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,26
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,25
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,27
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,35
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,41
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,47
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,40
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,39
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,43
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,41
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,45
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,43
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,5
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,10
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,13
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,11
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,10
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,15
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,11
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,11
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,11
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,18
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,21
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,21
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,92
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,83
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,85
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,97
+ 26742 ASTILEU,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,98
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,95
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,99
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,91
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,92
+ 26742 ASTILEU,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,88
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,96
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,101
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,104
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,97
+ 26742 ASTILEU,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,102
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,91
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,88
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,93
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,98
+ 26742 ASTILEU,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,99
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,105
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,102
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,105
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,103
+ 26742 ASTILEU,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,96
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,102
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,102
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,96
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,91
+ 26742 ASTILEU,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,94
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,124
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,116
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,120
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,115
+ 26742 ASTILEU,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,110
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,118
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,114
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,105
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,102
+ 26742 ASTILEU,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,101
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,149
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,131
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,125
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,125
+ 26742 ASTILEU,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,122
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,149
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,143
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,149
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,132
+ 26742 ASTILEU,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,128
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,165
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,177
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,164
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,160
+ 26742 ASTILEU,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,159
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,125
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,125
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,118
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,123
+ 26742 ASTILEU,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,128
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,155
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,147
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,151
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,148
+ 26742 ASTILEU,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,154
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,137
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,135
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,143
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,136
+ 26742 ASTILEU,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,125
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,177
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,175
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,168
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,160
+ 26742 ASTILEU,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,157
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,124
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,132
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,121
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,127
+ 26742 ASTILEU,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,130
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,164
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,162
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,156
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,165
+ 26742 ASTILEU,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,159
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,147
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,139
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,140
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,137
+ 26742 ASTILEU,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,129
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,113
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,125
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,150
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,163
+ 26742 ASTILEU,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,171
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,110
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,125
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,142
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,146
+ 26742 ASTILEU,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,158
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,122
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,116
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,106
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,92
+ 26742 ASTILEU,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,92
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,106
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,99
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,89
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,90
+ 26742 ASTILEU,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,97
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,136
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,137
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,132
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,130
+ 26742 ASTILEU,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,117
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,120
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,114
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,124
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,120
+ 26742 ASTILEU,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,107
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,90
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,99
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,103
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,106
+ 26742 ASTILEU,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,123
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,105
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,121
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,119
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,123
+ 26742 ASTILEU,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,118
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,68
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,72
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,76
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,83
+ 26742 ASTILEU,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,81
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,97
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,94
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,85
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,86
+ 26742 ASTILEU,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,96
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,57
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,52
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,52
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,46
+ 26742 ASTILEU,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,55
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,77
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,80
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,88
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,88
+ 26742 ASTILEU,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,83
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,45
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,46
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,41
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,44
+ 26742 ASTILEU,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,38
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,77
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,66
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,68
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,67
+ 26742 ASTILEU,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,66
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,41
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,35
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,37
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,34
+ 26742 ASTILEU,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,28
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,54
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,54
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,53
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,48
+ 26742 ASTILEU,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,55
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,16
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,19
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,20
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,19
+ 26742 ASTILEU,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,21
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,23
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,25
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,26
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,28
+ 26742 ASTILEU,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,27

@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,36
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,35
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,30
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,34
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,33
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,39
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,43
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,50
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,49
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,35
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,43
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,47
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,48
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,46
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,51
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,47
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,39
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,44
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,30
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,30
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,30
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,32
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,39
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,36
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,42
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,36
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,40
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,23
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,22
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,28
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,31
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,32
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,40
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,46
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,47
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,46
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,53
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,45
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,40
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,35
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,28
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,27
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,28
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,30
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,37
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,52
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,45
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,35
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,30
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,34
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,25
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,24
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,32
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,36
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,77
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,79
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,69
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,62
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,58
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,52
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,44
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,37
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,31
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,62
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,60
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,58
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,57
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,53
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,53
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,47
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,41
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,35
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,93
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,82
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,82
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,82
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,81
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,75
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,77
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,67
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,63
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,68
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,68
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,69
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,64
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,61
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,59
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,59
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,59
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,57
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,57
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,63
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,70
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,74
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,73
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,77
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,68
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,74
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,72
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,25
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,27
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,31
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,36
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,48
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,56
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,56
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,52
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,51
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,37
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,35
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,36
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,41
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,46
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,46
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,54
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,61
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,65
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,25
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,19
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,16
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,18
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,14
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,14
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,21
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,28
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,37
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,24
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,24
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,26
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,30
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,31
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,34
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,35
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,36
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,42
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,36
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,33
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,33
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,23
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,20
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,25
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,22
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,16
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,13
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,43
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,41
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,30
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,29
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,27
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,27
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,26
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,29
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,32
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,57
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,43
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,39
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,43
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,41
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,35
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,31
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,36
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,31
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,56
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,45
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,46
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,42
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,46
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,43
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,42
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,32
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,32
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,63
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,77
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,71
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,62
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,63
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,57
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,45
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,40
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,42
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,65
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,72
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,73
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,67
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,55
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,55
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,45
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,45
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,42
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,67
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,62
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,65
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,71
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,61
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,66
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,78
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,71
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,61
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,61
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,62
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,58
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,55
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,65
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,63
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,68
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,71
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,67
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,71
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,74
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,69
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,67
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,71
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,65
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,62
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,67
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,72
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,52
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,51
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,50
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,56
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,50
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,50
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,52
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,49
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,51
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,56
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,57
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,61
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,65
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,72
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,69
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,71
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,68
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,67
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,54
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,50
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,48
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,42
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,45
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,43
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,42
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,42
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,46
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,62
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,57
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,53
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,48
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,48
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,46
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,47
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,52
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,57
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,31
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,34
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,40
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,40
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,40
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,35
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,34
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,35
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,30
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,42
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,43
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,45
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,49
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,46
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,47
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,44
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,41
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,36
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,22
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,20
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,16
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,20
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,18
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,22
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,26
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,29
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,26
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,30
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,24
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,19
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,19
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,25
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,32
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,34
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,34
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,38
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,10
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,11
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,11
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,14
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,13
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,9
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,8
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,3
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,8
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,18
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,19
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,22
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,19
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,16
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,17
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,15
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,15
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,15
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,8
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,8
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,7
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,7
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,8
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,7
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,7
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,4
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,3
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,4
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,4
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,4
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,7
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,8
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,7
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,7
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,8
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,9
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,43
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,49
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,46
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,39
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,36
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,38
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,28
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,23
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,49
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,45
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,51
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,50
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,45
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,45
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,46
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,41
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,42
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,44
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,44
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,48
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,46
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,42
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,45
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,42
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,44
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,47
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,41
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,39
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,42
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,45
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,41
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,47
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,40
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,40
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,41
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,39
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,39
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,37
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,41
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,43
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,39
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,44
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,45
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,45
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,42
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,38
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,41
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,40
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,28
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,25
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,32
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,32
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,34
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,38
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,37
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,39
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,36
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,30
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,30
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,33
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,36
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,36
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,36
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,41
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,58
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,51
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,39
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,38
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,36
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,30
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,27
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,33
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,51
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,51
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,49
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,40
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,35
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,34
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,28
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,29
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,71
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,69
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,69
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,54
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,52
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,49
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,48
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,40
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,53
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,51
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,54
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,59
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,53
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,49
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,48
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,41
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,68
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,71
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,62
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,66
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,62
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,63
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,58
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,61
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,43
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,51
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,51
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,48
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,48
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,51
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,50
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,50
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,45
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,45
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,52
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,63
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,67
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,64
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,68
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,60
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,14
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,17
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,21
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,27
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,33
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,38
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,44
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,48
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,34
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,38
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,34
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,34
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,38
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,41
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,42
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,51
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,26
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,25
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,20
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,15
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,14
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,14
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,14
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,19
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,28
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,26
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,30
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,31
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,37
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,37
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,37
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,35
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,42
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,36
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,38
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,42
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,35
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,29
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,28
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,24
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,50
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,45
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,42
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,32
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,34
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,32
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,33
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,34
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,62
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,59
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,47
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,43
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,44
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,44
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,40
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,40
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,54
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,52
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,45
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,46
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,41
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,49
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,43
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,43
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,62
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,65
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,77
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,71
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,62
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,61
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,56
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,45
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,60
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,59
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,62
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,64
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,60
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,50
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,50
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,40
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,69
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,65
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,60
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,64
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,70
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,61
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,63
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,73
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,46
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,50
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,50
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,47
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,45
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,49
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,50
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,52
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,64
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,60
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,65
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,64
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,63
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,67
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,60
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,54
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,33
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,32
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,31
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,34
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,38
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,38
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,37
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,43
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,37
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,42
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,43
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,49
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,55
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,60
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,57
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,60
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,23
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,26
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,23
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,27
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,27
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,30
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,28
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,29
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,35
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,34
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,34
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,36
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,33
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,31
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,35
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,37
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,9
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,13
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,13
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,13
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,14
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,15
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,18
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,16
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,14
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,21
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,24
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,26
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,27
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,22
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,20
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,20
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,3
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,2
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,2
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,2
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,4
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,3
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,4
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,5
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,9
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,9
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,7
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,9
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,11
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,12
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,16
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,17
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,27
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,28
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,29
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,28
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,26
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,22
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,26
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,22
+ 56327 BUZA,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,24
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,38
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,40
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,40
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,35
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,31
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,26
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,23
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,19
+ 56327 BUZA,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,16
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,35
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,32
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,35
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,25
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,24
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,28
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,30
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,30
+ 56327 BUZA,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,30
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,49
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,48
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,45
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,48
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,42
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,38
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,40
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,41
+ 56327 BUZA,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,34
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,49
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,47
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,40
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,46
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,39
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,30
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,29
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,34
+ 56327 BUZA,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,25
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,39
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,40
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,39
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,38
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,40
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,48
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,48
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,45
+ 56327 BUZA,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,47
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,36
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,37
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,37
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,39
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,39
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,44
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,41
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,36
+ 56327 BUZA,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,41
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,40
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,38
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,26
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,29
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,31
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,27
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,30
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,36
+ 56327 BUZA,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,38
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,32
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,32
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,34
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,35
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,38
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,32
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,36
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,36
+ 56327 BUZA,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,38
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,30
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,31
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,27
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,28
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,31
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,29
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,28
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,24
+ 56327 BUZA,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,26
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,39
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,34
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,25
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,25
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,31
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,29
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,31
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,37
+ 56327 BUZA,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,33
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,34
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,36
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,35
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,28
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,28
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,26
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,24
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,25
+ 56327 BUZA,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,27
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,52
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,49
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,48
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,48
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,41
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,33
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,25
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,19
+ 56327 BUZA,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,21
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,56
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,52
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,47
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,49
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,40
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,35
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,35
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,31
+ 56327 BUZA,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,26
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,63
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,57
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,55
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,47
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,53
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,51
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,51
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,50
+ 56327 BUZA,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,47
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,46
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,45
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,48
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,44
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,50
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,55
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,50
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,49
+ 56327 BUZA,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,51
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,63
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,65
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,58
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,62
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,55
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,59
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,54
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,57
+ 56327 BUZA,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,49
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,25
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,32
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,34
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,41
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,44
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,40
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,40
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,46
+ 56327 BUZA,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,43
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,33
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,37
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,42
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,39
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,48
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,56
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,61
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,57
+ 56327 BUZA,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,61
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,15
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,13
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,14
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,15
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,19
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,24
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,33
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,36
+ 56327 BUZA,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,41
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,35
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,36
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,35
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,39
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,34
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,32
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,38
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,41
+ 56327 BUZA,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,40
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,45
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,38
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,30
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,29
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,24
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,18
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,14
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,14
+ 56327 BUZA,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,15
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,34
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,34
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,30
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,27
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,27
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,31
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,33
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,33
+ 56327 BUZA,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,37
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,41
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,43
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,44
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,40
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,38
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,44
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,38
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,31
+ 56327 BUZA,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,30
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,42
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,41
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,47
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,44
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,44
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,32
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,31
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,27
+ 56327 BUZA,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,25
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,65
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,59
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,56
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,54
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,44
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,39
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,40
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,42
+ 56327 BUZA,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,38
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,56
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,54
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,44
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,43
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,36
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,35
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,32
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,38
+ 56327 BUZA,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,37
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,59
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,63
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,56
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,57
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,67
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,61
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,55
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,50
+ 56327 BUZA,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,47
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,41
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,41
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,47
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,44
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,44
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,45
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,44
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,36
+ 56327 BUZA,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,35
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,59
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,58
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,62
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,55
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,51
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,54
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,56
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,50
+ 56327 BUZA,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,51
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,30
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,30
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,29
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,29
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,33
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,26
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,27
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,34
+ 56327 BUZA,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,34
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,42
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,45
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,50
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,51
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,54
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,54
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,56
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,59
+ 56327 BUZA,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,52
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,18
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,18
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,23
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,22
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,20
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,21
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,20
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,16
+ 56327 BUZA,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,15
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,20
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,24
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,25
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,28
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,27
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,25
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,29
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,36
+ 56327 BUZA,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,41
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,6
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,7
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,7
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,11
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,11
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,15
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,18
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,20
+ 56327 BUZA,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,17
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,18
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,17
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,16
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,17
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,21
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,25
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,26
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,23
+ 56327 BUZA,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,23

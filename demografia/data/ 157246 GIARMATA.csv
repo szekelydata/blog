@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 1992, Numar persoane,190
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 1993, Numar persoane,193
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 1994, Numar persoane,186
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 1995, Numar persoane,183
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 1996, Numar persoane,166
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 1997, Numar persoane,156
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 1998, Numar persoane,147
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 1992, Numar persoane,202
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 1993, Numar persoane,215
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 1994, Numar persoane,220
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 1995, Numar persoane,196
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 1996, Numar persoane,168
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 1997, Numar persoane,148
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 1998, Numar persoane,142
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 1992, Numar persoane,265
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 1993, Numar persoane,274
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 1994, Numar persoane,271
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 1995, Numar persoane,267
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 1996, Numar persoane,244
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 1997, Numar persoane,222
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 1998, Numar persoane,210
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 1992, Numar persoane,200
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 1993, Numar persoane,214
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 1994, Numar persoane,216
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 1995, Numar persoane,229
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 1996, Numar persoane,236
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 1997, Numar persoane,223
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 1998, Numar persoane,219
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 1992, Numar persoane,241
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 1993, Numar persoane,251
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 1994, Numar persoane,268
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 1995, Numar persoane,261
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 1996, Numar persoane,282
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 1997, Numar persoane,283
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 1998, Numar persoane,278
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 1992, Numar persoane,257
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 1993, Numar persoane,259
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 1994, Numar persoane,255
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 1995, Numar persoane,239
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 1996, Numar persoane,225
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 1997, Numar persoane,230
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 1998, Numar persoane,221
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 1992, Numar persoane,210
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 1993, Numar persoane,228
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 1994, Numar persoane,223
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 1995, Numar persoane,244
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 1996, Numar persoane,250
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 1997, Numar persoane,262
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 1998, Numar persoane,261
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 1992, Numar persoane,201
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 1993, Numar persoane,226
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 1994, Numar persoane,231
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 1995, Numar persoane,236
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 1996, Numar persoane,265
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 1997, Numar persoane,268
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 1998, Numar persoane,262
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 1992, Numar persoane,238
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 1993, Numar persoane,235
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 1994, Numar persoane,245
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 1995, Numar persoane,228
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 1996, Numar persoane,225
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 1997, Numar persoane,215
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 1998, Numar persoane,231
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 1992, Numar persoane,231
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 1993, Numar persoane,219
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 1994, Numar persoane,220
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 1995, Numar persoane,238
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 1996, Numar persoane,211
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 1997, Numar persoane,217
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 1998, Numar persoane,230
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 1992, Numar persoane,125
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 1993, Numar persoane,160
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 1994, Numar persoane,181
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 1995, Numar persoane,217
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 1996, Numar persoane,238
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 1997, Numar persoane,263
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 1998, Numar persoane,250
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 1992, Numar persoane,123
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 1993, Numar persoane,176
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 1994, Numar persoane,205
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 1995, Numar persoane,211
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 1996, Numar persoane,233
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 1997, Numar persoane,240
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 1998, Numar persoane,230
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 1992, Numar persoane,164
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 1993, Numar persoane,166
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 1994, Numar persoane,171
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 1995, Numar persoane,159
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 1996, Numar persoane,151
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 1997, Numar persoane,147
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 1998, Numar persoane,168
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 1992, Numar persoane,152
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 1993, Numar persoane,148
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 1994, Numar persoane,151
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 1995, Numar persoane,137
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 1996, Numar persoane,147
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 1997, Numar persoane,155
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 1998, Numar persoane,185
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 1992, Numar persoane,175
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 1993, Numar persoane,180
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 1994, Numar persoane,175
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 1995, Numar persoane,180
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 1996, Numar persoane,181
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 1997, Numar persoane,196
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 1998, Numar persoane,187
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 1992, Numar persoane,188
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 1993, Numar persoane,217
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 1994, Numar persoane,212
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 1995, Numar persoane,212
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 1996, Numar persoane,184
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 1997, Numar persoane,178
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 1998, Numar persoane,166
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 1992, Numar persoane,170
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 1993, Numar persoane,195
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 1994, Numar persoane,207
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 1995, Numar persoane,201
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 1996, Numar persoane,205
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 1997, Numar persoane,194
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 1998, Numar persoane,187
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 1992, Numar persoane,169
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 1993, Numar persoane,180
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 1994, Numar persoane,192
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 1995, Numar persoane,200
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 1996, Numar persoane,213
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 1997, Numar persoane,208
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 1998, Numar persoane,229
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 1992, Numar persoane,120
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 1993, Numar persoane,119
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 1994, Numar persoane,130
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 1995, Numar persoane,138
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 1996, Numar persoane,159
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 1997, Numar persoane,179
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 1998, Numar persoane,198
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 1992, Numar persoane,100
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 1993, Numar persoane,105
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 1994, Numar persoane,118
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 1995, Numar persoane,140
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 1996, Numar persoane,154
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 1997, Numar persoane,180
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 1998, Numar persoane,178
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 1992, Numar persoane,125
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 1993, Numar persoane,133
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 1994, Numar persoane,121
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 1995, Numar persoane,125
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 1996, Numar persoane,116
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 1997, Numar persoane,121
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 1998, Numar persoane,120
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 1992, Numar persoane,147
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 1993, Numar persoane,158
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 1994, Numar persoane,128
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 1995, Numar persoane,115
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 1996, Numar persoane,107
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 1997, Numar persoane,108
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 1998, Numar persoane,107
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 1992, Numar persoane,121
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 1993, Numar persoane,119
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 1994, Numar persoane,115
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 1995, Numar persoane,110
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 1996, Numar persoane,113
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 1997, Numar persoane,108
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 1998, Numar persoane,112
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 1992, Numar persoane,101
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 1993, Numar persoane,101
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 1994, Numar persoane,101
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 1995, Numar persoane,113
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 1996, Numar persoane,120
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 1997, Numar persoane,132
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 1998, Numar persoane,133
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 1992, Numar persoane,101
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 1993, Numar persoane,95
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 1994, Numar persoane,102
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 1995, Numar persoane,108
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 1996, Numar persoane,111
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 1997, Numar persoane,109
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 1998, Numar persoane,105
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 1992, Numar persoane,129
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 1993, Numar persoane,131
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 1994, Numar persoane,126
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 1995, Numar persoane,123
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 1996, Numar persoane,114
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 1997, Numar persoane,100
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 1998, Numar persoane,97
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 1992, Numar persoane,77
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 1993, Numar persoane,87
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 1994, Numar persoane,84
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 1995, Numar persoane,81
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 1996, Numar persoane,81
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 1997, Numar persoane,88
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 1998, Numar persoane,78
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 1992, Numar persoane,110
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 1993, Numar persoane,111
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 1994, Numar persoane,123
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 1995, Numar persoane,120
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 1996, Numar persoane,128
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 1997, Numar persoane,131
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 1998, Numar persoane,128
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 1992, Numar persoane,49
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 1993, Numar persoane,54
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 1994, Numar persoane,60
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 1995, Numar persoane,68
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 1996, Numar persoane,69
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 1997, Numar persoane,57
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 1998, Numar persoane,68
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 1992, Numar persoane,50
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 1993, Numar persoane,69
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 1994, Numar persoane,79
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 1995, Numar persoane,95
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 1996, Numar persoane,95
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 1997, Numar persoane,101
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 1998, Numar persoane,104
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 1992, Numar persoane,27
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 1993, Numar persoane,29
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 1994, Numar persoane,28
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 1995, Numar persoane,28
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 1996, Numar persoane,29
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 1997, Numar persoane,32
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 1998, Numar persoane,34
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 1992, Numar persoane,36
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 1993, Numar persoane,28
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 1994, Numar persoane,24
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 1995, Numar persoane,25
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 1996, Numar persoane,32
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 1997, Numar persoane,44
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 1998, Numar persoane,58
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 1992, Numar persoane,22
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 1993, Numar persoane,15
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 1994, Numar persoane,14
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 1995, Numar persoane,16
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 1996, Numar persoane,17
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 1997, Numar persoane,15
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 1998, Numar persoane,17
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 1992, Numar persoane,36
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 1993, Numar persoane,33
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 1994, Numar persoane,37
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 1995, Numar persoane,37
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 1996, Numar persoane,32
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 1997, Numar persoane,22
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 1998, Numar persoane,17
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 1992, Numar persoane,6
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 1993, Numar persoane,8
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 1994, Numar persoane,9
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 1995, Numar persoane,9
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 1996, Numar persoane,8
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 1997, Numar persoane,7
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 1998, Numar persoane,5
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 1992, Numar persoane,12
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 1993, Numar persoane,16
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 1994, Numar persoane,13
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 1995, Numar persoane,19
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 1996, Numar persoane,18
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 1997, Numar persoane,22
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 1998, Numar persoane,19
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 1999, Numar persoane,156
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2000, Numar persoane,173
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2001, Numar persoane,177
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2002, Numar persoane,181
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2003, Numar persoane,188
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2004, Numar persoane,179
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,179
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,175
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 1999, Numar persoane,142
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2000, Numar persoane,148
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2001, Numar persoane,166
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2002, Numar persoane,168
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2003, Numar persoane,165
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2004, Numar persoane,173
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,175
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,172
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 1999, Numar persoane,191
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2000, Numar persoane,183
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2001, Numar persoane,173
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2002, Numar persoane,158
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2003, Numar persoane,154
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2004, Numar persoane,161
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,173
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,175
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 1999, Numar persoane,215
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2000, Numar persoane,192
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2001, Numar persoane,162
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2002, Numar persoane,142
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2003, Numar persoane,140
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2004, Numar persoane,140
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,147
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,156
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 1999, Numar persoane,265
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2000, Numar persoane,258
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2001, Numar persoane,243
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2002, Numar persoane,229
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2003, Numar persoane,232
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2004, Numar persoane,217
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,195
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,179
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 1999, Numar persoane,218
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2000, Numar persoane,225
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2001, Numar persoane,236
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2002, Numar persoane,222
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2003, Numar persoane,222
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2004, Numar persoane,219
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,191
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,162
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 1999, Numar persoane,272
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2000, Numar persoane,262
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2001, Numar persoane,277
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2002, Numar persoane,281
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2003, Numar persoane,276
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2004, Numar persoane,271
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,278
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,265
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 1999, Numar persoane,256
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2000, Numar persoane,239
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2001, Numar persoane,225
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2002, Numar persoane,235
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2003, Numar persoane,228
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2004, Numar persoane,241
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,251
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,263
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 1999, Numar persoane,237
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2000, Numar persoane,259
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2001, Numar persoane,261
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2002, Numar persoane,276
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2003, Numar persoane,271
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2004, Numar persoane,286
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,279
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,294
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 1999, Numar persoane,240
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2000, Numar persoane,241
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2001, Numar persoane,258
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2002, Numar persoane,266
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2003, Numar persoane,265
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2004, Numar persoane,265
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,257
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,252
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 1999, Numar persoane,242
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2000, Numar persoane,226
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2001, Numar persoane,222
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2002, Numar persoane,201
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2003, Numar persoane,227
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2004, Numar persoane,242
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,274
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,280
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 1999, Numar persoane,211
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2000, Numar persoane,230
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2001, Numar persoane,208
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2002, Numar persoane,214
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2003, Numar persoane,223
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2004, Numar persoane,223
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,238
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,267
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 1999, Numar persoane,188
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2000, Numar persoane,225
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2001, Numar persoane,248
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2002, Numar persoane,269
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2003, Numar persoane,251
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2004, Numar persoane,240
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,233
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,235
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 1999, Numar persoane,212
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2000, Numar persoane,218
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2001, Numar persoane,238
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2002, Numar persoane,231
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2003, Numar persoane,218
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2004, Numar persoane,215
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,233
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,216
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 1999, Numar persoane,181
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2000, Numar persoane,168
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2001, Numar persoane,141
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2002, Numar persoane,145
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2003, Numar persoane,167
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2004, Numar persoane,200
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,237
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,261
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 1999, Numar persoane,163
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2000, Numar persoane,148
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2001, Numar persoane,160
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2002, Numar persoane,170
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2003, Numar persoane,198
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2004, Numar persoane,224
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,223
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,242
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 1999, Numar persoane,190
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2000, Numar persoane,190
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2001, Numar persoane,201
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2002, Numar persoane,203
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2003, Numar persoane,195
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2004, Numar persoane,184
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,168
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,153
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 1999, Numar persoane,222
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2000, Numar persoane,219
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2001, Numar persoane,191
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2002, Numar persoane,185
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2003, Numar persoane,173
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2004, Numar persoane,178
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,163
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,174
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 1999, Numar persoane,219
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2000, Numar persoane,205
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2001, Numar persoane,204
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2002, Numar persoane,197
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2003, Numar persoane,188
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2004, Numar persoane,190
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,205
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,210
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 1999, Numar persoane,201
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2000, Numar persoane,210
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2001, Numar persoane,224
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2002, Numar persoane,216
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2003, Numar persoane,239
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2004, Numar persoane,232
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,238
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,208
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 1999, Numar persoane,131
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2000, Numar persoane,137
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2001, Numar persoane,160
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2002, Numar persoane,177
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2003, Numar persoane,197
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2004, Numar persoane,214
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,202
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,212
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 1999, Numar persoane,117
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2000, Numar persoane,136
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2001, Numar persoane,153
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2002, Numar persoane,181
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2003, Numar persoane,178
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2004, Numar persoane,202
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,223
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,234
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 1999, Numar persoane,113
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2000, Numar persoane,121
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2001, Numar persoane,111
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2002, Numar persoane,113
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2003, Numar persoane,115
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2004, Numar persoane,125
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,136
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,159
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 1999, Numar persoane,131
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2000, Numar persoane,117
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2001, Numar persoane,110
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2002, Numar persoane,107
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2003, Numar persoane,106
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2004, Numar persoane,116
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,136
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,162
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 1999, Numar persoane,99
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2000, Numar persoane,93
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2001, Numar persoane,99
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2002, Numar persoane,94
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2003, Numar persoane,101
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2004, Numar persoane,98
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,113
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,103
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 1999, Numar persoane,96
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2000, Numar persoane,103
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2001, Numar persoane,110
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2002, Numar persoane,115
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2003, Numar persoane,126
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2004, Numar persoane,122
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,110
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,104
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 1999, Numar persoane,91
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2000, Numar persoane,97
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2001, Numar persoane,100
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2002, Numar persoane,94
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2003, Numar persoane,88
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2004, Numar persoane,78
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,79
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,84
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 1999, Numar persoane,121
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2000, Numar persoane,115
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2001, Numar persoane,107
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2002, Numar persoane,98
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2003, Numar persoane,90
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2004, Numar persoane,86
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,93
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,100
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 1999, Numar persoane,67
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2000, Numar persoane,63
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2001, Numar persoane,69
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2002, Numar persoane,74
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2003, Numar persoane,65
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2004, Numar persoane,74
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,78
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,76
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 1999, Numar persoane,110
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2000, Numar persoane,110
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2001, Numar persoane,113
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2002, Numar persoane,107
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2003, Numar persoane,101
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2004, Numar persoane,96
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,97
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,95
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 1999, Numar persoane,34
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2000, Numar persoane,41
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2001, Numar persoane,44
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2002, Numar persoane,47
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2003, Numar persoane,51
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2004, Numar persoane,49
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,44
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,47
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 1999, Numar persoane,66
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2000, Numar persoane,71
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2001, Numar persoane,76
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2002, Numar persoane,73
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2003, Numar persoane,83
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2004, Numar persoane,92
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,97
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,92
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 1999, Numar persoane,14
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2000, Numar persoane,15
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2001, Numar persoane,16
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2002, Numar persoane,16
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2003, Numar persoane,20
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2004, Numar persoane,21
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,26
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,27
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 1999, Numar persoane,14
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2000, Numar persoane,16
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2001, Numar persoane,21
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2002, Numar persoane,30
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2003, Numar persoane,37
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2004, Numar persoane,41
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,49
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,56
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 1999, Numar persoane,8
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2000, Numar persoane,6
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2001, Numar persoane,11
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2002, Numar persoane,13
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2003, Numar persoane,12
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2004, Numar persoane,11
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,11
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,11
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 1999, Numar persoane,16
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2000, Numar persoane,17
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2001, Numar persoane,16
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2002, Numar persoane,13
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2003, Numar persoane,10
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2004, Numar persoane,8
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,13
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,14
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,180
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,181
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,183
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,175
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,182
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,176
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,163
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,166
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,166
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,150
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,165
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,174
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,180
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,191
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,181
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,178
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,181
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,194
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,166
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,170
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,178
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,185
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,178
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,172
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,165
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,153
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,157
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,180
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,187
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,185
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,144
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,145
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,148
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,158
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,173
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,180
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,254
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,257
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,246
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,219
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,199
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,199
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,255
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,251
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,238
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,216
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,203
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,198
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,304
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,307
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,313
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,317
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,298
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,279
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,251
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,250
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,271
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,281
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,301
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,285
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,295
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,302
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,323
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,330
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,345
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,350
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,290
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,291
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,292
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,289
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,283
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,291
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,232
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,263
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,292
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,315
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,309
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,331
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,232
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,238
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,257
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,271
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,299
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,312
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,289
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,279
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,273
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,270
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,275
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,269
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,242
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,239
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,237
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,257
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,253
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,268
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,159
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,177
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,209
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,257
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,281
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,317
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,182
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,210
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,235
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,239
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,252
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,257
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,205
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,204
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,194
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,179
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,174
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,169
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,201
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,193
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,192
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,173
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,187
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,198
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,206
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,200
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,207
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,218
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,226
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,219
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,236
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,252
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,251
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,247
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,226
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,210
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,186
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,200
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,216
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,209
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,214
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,205
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,199
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,197
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,221
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,236
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,247
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,256
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,112
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,121
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,138
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,143
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,159
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,180
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,105
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,111
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,119
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,143
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,161
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,184
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,81
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,87
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,86
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,101
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,108
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,112
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,108
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,116
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,114
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,104
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,101
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,100
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,72
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,68
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,66
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,60
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,66
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,69
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,91
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,89
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,82
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,90
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,99
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,105
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,49
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,49
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,59
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,64
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,61
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,56
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,87
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,83
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,83
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,89
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,85
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,79
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,25
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,29
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,30
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,27
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,32
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,36
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,61
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,68
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,73
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,66
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,68
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,64
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,11
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,14
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,15
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,20
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,24
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,24
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,22
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,30
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,32
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,38
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,37
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,48
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,195
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,200
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,222
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,236
+ 157246 GIARMATA,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,240
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,168
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,174
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,180
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,183
+ 157246 GIARMATA,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,187
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,192
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,198
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,183
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,190
+ 157246 GIARMATA,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,189
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,184
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,179
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,171
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,184
+ 157246 GIARMATA,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,189
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,192
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,197
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,203
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,207
+ 157246 GIARMATA,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,211
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,182
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,193
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,191
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,192
+ 157246 GIARMATA,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,179
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,192
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,182
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,198
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,209
+ 157246 GIARMATA,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,209
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,198
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,201
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,213
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,206
+ 157246 GIARMATA,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,206
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,284
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,270
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,249
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,223
+ 157246 GIARMATA,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,226
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,269
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,248
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,229
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,205
+ 157246 GIARMATA,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,196
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,339
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,345
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,346
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,333
+ 157246 GIARMATA,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,321
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,305
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,310
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,309
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,318
+ 157246 GIARMATA,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,303
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,354
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,367
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,362
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,379
+ 157246 GIARMATA,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,390
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,300
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,317
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,304
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,292
+ 157246 GIARMATA,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,294
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,295
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,314
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,335
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,333
+ 157246 GIARMATA,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,347
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,279
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,275
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,290
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,317
+ 157246 GIARMATA,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,332
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,307
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,282
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,274
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,287
+ 157246 GIARMATA,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,282
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,255
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,251
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,281
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,279
+ 157246 GIARMATA,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,286
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,188
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,224
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,260
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,286
+ 157246 GIARMATA,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,322
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,229
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,249
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,248
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,261
+ 157246 GIARMATA,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,272
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,216
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,201
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,188
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,179
+ 157246 GIARMATA,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,167
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,195
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,196
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,184
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,195
+ 157246 GIARMATA,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,206
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,207
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,210
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,217
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,213
+ 157246 GIARMATA,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,206
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,268
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,264
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,257
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,232
+ 157246 GIARMATA,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,220
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,196
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,214
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,201
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,204
+ 157246 GIARMATA,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,188
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,187
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,210
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,235
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,256
+ 157246 GIARMATA,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,266
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,118
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,121
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,126
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,146
+ 157246 GIARMATA,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,170
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,103
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,114
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,134
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,152
+ 157246 GIARMATA,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,177
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,70
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,79
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,87
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,83
+ 157246 GIARMATA,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,90
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,116
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,109
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,98
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,89
+ 157246 GIARMATA,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,95
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,54
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,54
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,56
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,57
+ 157246 GIARMATA,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,54
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,76
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,77
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,83
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,88
+ 157246 GIARMATA,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,91
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,37
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,45
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,48
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,48
+ 157246 GIARMATA,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,45
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,61
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,53
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,63
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,62
+ 157246 GIARMATA,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,57
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,28
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,27
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,27
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,36
+ 157246 GIARMATA,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,39
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,51
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,59
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,61
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,62
+ 157246 GIARMATA,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,62

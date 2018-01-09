@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,55
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,46
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,49
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,50
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,44
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,42
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,43
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,38
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,35
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,58
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,58
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,52
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,45
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,42
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,42
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,37
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,44
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,49
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,35
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,35
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,36
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,45
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,41
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,43
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,40
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,44
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,44
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,23
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,21
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,29
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,31
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,38
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,39
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,46
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,41
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,40
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,67
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,52
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,35
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,30
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,29
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,30
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,32
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,33
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,39
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,46
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,40
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,33
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,31
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,22
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,20
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,21
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,28
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,28
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,95
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,84
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,82
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,79
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,75
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,61
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,46
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,33
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,29
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,84
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,80
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,73
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,56
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,46
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,43
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,40
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,32
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,29
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,143
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,142
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,134
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,119
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,100
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,86
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,76
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,76
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,74
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,88
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,82
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,73
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,76
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,76
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,66
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,59
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,59
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,50
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,68
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,71
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,72
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,79
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,93
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,110
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,117
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,112
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,99
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,34
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,30
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,41
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,44
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,42
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,45
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,43
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,42
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,48
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,52
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,50
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,44
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,52
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,50
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,42
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,50
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,52
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,56
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,14
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,10
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,11
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,14
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,18
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,20
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,22
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,30
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,32
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,46
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,41
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,42
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,40
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,34
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,38
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,39
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,37
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,41
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,45
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,40
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,30
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,28
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,19
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,11
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,6
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,9
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,14
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,46
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,47
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,45
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,44
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,41
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,37
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,33
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,34
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,34
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,58
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,58
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,50
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,40
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,36
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,37
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,41
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,28
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,21
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,55
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,53
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,47
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,40
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,37
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,35
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,39
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,40
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,38
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,71
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,60
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,63
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,65
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,65
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,52
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,50
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,48
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,44
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,83
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,76
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,64
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,58
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,55
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,53
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,47
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,44
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,38
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,92
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,86
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,81
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,69
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,62
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,68
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,58
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,58
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,61
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,92
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,74
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,76
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,78
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,79
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,77
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,75
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,61
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,55
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,129
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,126
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,111
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,103
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,98
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,90
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,85
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,80
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,71
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,103
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,115
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,116
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,115
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,90
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,88
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,71
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,72
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,76
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,127
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,126
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,120
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,117
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,120
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,119
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,117
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,108
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,101
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,101
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,97
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,90
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,85
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,93
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,91
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,102
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,101
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,104
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,119
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,113
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,127
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,126
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,125
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,118
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,118
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,112
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,113
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,69
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,77
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,85
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,91
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,97
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,87
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,84
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,74
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,74
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,79
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,91
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,97
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,107
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,103
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,108
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,101
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,115
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,107
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,25
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,27
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,32
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,35
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,38
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,55
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,67
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,79
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,75
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,47
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,45
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,41
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,50
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,55
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,63
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,77
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,86
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,95
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,19
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,19
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,19
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,17
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,20
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,17
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,19
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,21
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,22
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,38
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,39
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,36
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,30
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,32
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,31
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,33
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,29
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,33
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,9
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,9
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,7
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,10
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,9
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,9
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,9
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,10
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,13
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,13
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,12
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,11
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,12
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,12
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,16
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,17
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,19
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,19
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,33
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,34
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,37
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,40
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,37
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,33
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,31
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,28
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,47
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,43
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,46
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,44
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,36
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,33
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,33
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,26
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,44
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,41
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,43
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,42
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,35
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,39
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,39
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,40
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,40
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,43
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,38
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,45
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,48
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,48
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,45
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,46
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,41
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,39
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,37
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,44
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,46
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,47
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,47
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,44
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,37
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,38
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,45
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,42
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,42
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,40
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,40
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,37
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,31
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,30
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,28
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,27
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,31
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,30
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,31
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,31
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,21
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,20
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,18
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,27
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,31
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,38
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,39
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,41
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,69
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,60
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,46
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,35
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,30
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,31
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,32
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,31
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,36
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,37
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,36
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,34
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,32
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,27
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,21
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,20
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,86
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,79
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,73
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,71
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,70
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,69
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,59
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,44
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,59
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,54
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,52
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,48
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,46
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,37
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,44
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,40
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,70
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,82
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,90
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,86
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,81
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,75
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,67
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,62
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,34
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,39
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,42
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,41
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,43
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,52
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,53
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,47
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,41
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,35
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,38
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,43
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,45
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,55
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,70
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,82
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,17
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,22
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,25
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,29
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,32
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,32
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,34
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,39
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,33
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,37
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,40
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,39
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,41
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,39
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,32
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,38
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,16
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,11
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,8
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,13
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,16
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,17
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,24
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,25
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,37
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,34
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,28
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,30
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,38
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,32
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,40
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,46
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,43
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,39
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,35
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,26
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,22
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,19
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,15
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,13
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,39
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,36
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,38
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,36
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,37
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,39
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,35
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,30
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,64
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,52
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,53
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,49
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,47
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,44
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,43
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,39
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,54
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,52
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,46
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,45
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,40
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,38
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,37
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,33
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,64
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,69
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,59
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,60
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,64
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,65
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,57
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,58
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,75
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,71
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,71
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,60
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,55
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,53
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,53
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,51
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,95
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,87
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,83
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,82
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,73
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,66
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,70
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,58
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,82
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,79
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,61
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,67
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,69
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,71
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,69
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,66
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,118
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,117
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,117
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,105
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,93
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,90
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,83
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,80
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,81
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,74
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,88
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,86
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,86
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,72
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,62
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,52
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,104
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,104
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,107
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,105
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,105
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,110
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,108
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,109
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,76
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,63
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,58
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,48
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,54
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,55
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,56
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,68
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,92
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,87
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,80
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,87
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,86
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,84
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,85
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,85
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,24
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,34
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,43
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,47
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,40
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,45
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,39
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,32
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,40
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,45
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,56
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,60
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,67
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,59
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,54
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,52
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,19
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,15
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,14
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,12
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,14
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,16
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,21
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,23
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,20
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,22
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,25
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,18
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,17
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,25
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,29
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,36
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,29
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,22
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,22
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,26
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,30
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,27
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,23
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,25
+ 57449 CORNESTI,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,30
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,22
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,24
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,18
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,16
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,20
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,19
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,20
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,20
+ 57449 CORNESTI,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,20
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,38
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,40
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,39
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,33
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,32
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,32
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,21
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,25
+ 57449 CORNESTI,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,26
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,42
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,37
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,36
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,33
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,28
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,25
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,21
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,19
+ 57449 CORNESTI,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,18
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,44
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,39
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,37
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,33
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,32
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,33
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,37
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,33
+ 57449 CORNESTI,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,27
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,44
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,46
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,48
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,47
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,43
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,42
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,37
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,38
+ 57449 CORNESTI,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,32
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,33
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,38
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,41
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,42
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,42
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,38
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,33
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,27
+ 57449 CORNESTI,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,28
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,36
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,32
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,25
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,30
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,31
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,37
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,44
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,45
+ 57449 CORNESTI,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,42
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,30
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,31
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,29
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,30
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,31
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,34
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,35
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,40
+ 57449 CORNESTI,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,43
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,29
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,26
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,29
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,27
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,35
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,25
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,24
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,24
+ 57449 CORNESTI,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,31
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,36
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,33
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,33
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,29
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,27
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,26
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,34
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,31
+ 57449 CORNESTI,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,31
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,36
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,33
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,27
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,20
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,16
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,25
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,25
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,29
+ 57449 CORNESTI,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,24
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,63
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,65
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,61
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,56
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,44
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,36
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,29
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,30
+ 57449 CORNESTI,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,28
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,48
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,44
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,32
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,38
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,35
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,27
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,25
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,23
+ 57449 CORNESTI,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,20
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,82
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,77
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,67
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,57
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,50
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,55
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,58
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,56
+ 57449 CORNESTI,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,52
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,35
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,37
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,53
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,48
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,44
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,44
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,42
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,31
+ 57449 CORNESTI,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,33
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,43
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,45
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,57
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,70
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,78
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,81
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,66
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,57
+ 57449 CORNESTI,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,56
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,28
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,30
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,34
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,37
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,42
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,44
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,42
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,52
+ 57449 CORNESTI,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,48
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,46
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,47
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,46
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,42
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,47
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,48
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,55
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,64
+ 57449 CORNESTI,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,71
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,14
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,15
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,16
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,23
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,22
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,23
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,28
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,31
+ 57449 CORNESTI,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,33
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,32
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,36
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,29
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,33
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,40
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,40
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,44
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,45
+ 57449 CORNESTI,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,43
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,30
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,26
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,23
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,16
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,16
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,15
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,13
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,14
+ 57449 CORNESTI,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,20
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,37
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,34
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,38
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,35
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,33
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,37
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,41
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,28
+ 57449 CORNESTI,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,33
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,53
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,49
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,47
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,47
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,42
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,34
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,27
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,21
+ 57449 CORNESTI,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,14
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,44
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,37
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,35
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,34
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,31
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,35
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,32
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,40
+ 57449 CORNESTI,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,36
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,62
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,67
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,67
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,57
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,59
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,52
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,49
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,46
+ 57449 CORNESTI,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,44
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,59
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,55
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,54
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,51
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,47
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,42
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,34
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,31
+ 57449 CORNESTI,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,30
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,77
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,72
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,68
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,71
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,57
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,61
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,62
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,65
+ 57449 CORNESTI,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,55
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,53
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,59
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,59
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,59
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,61
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,52
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,45
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,43
+ 57449 CORNESTI,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,43
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,93
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,84
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,82
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,77
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,76
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,69
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,67
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,56
+ 57449 CORNESTI,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,62
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,67
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,63
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,58
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,55
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,46
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,43
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,52
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,46
+ 57449 CORNESTI,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,47
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,86
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,88
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,91
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,95
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,91
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,79
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,72
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,69
+ 57449 CORNESTI,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,62
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,30
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,32
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,33
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,37
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,48
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,53
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,48
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,41
+ 57449 CORNESTI,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,36
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,55
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,51
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,51
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,51
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,56
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,64
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,71
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,67
+ 57449 CORNESTI,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,71
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,23
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,17
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,23
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,23
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,19
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,19
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,22
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,25
+ 57449 CORNESTI,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,27
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,39
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,44
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,42
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,39
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,36
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,44
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,40
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,45
+ 57449 CORNESTI,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,45

@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,45
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,48
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,43
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,43
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,36
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,36
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,38
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,47
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,42
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,44
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,43
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,44
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,32
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,27
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,26
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,26
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,28
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,29
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,39
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,40
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,39
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,38
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,48
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,47
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,46
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,43
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,46
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,32
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,26
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,27
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,38
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,42
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,42
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,42
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,39
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,31
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,57
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,58
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,46
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,44
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,40
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,37
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,39
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,40
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,43
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,63
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,54
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,45
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,36
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,34
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,33
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,25
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,29
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,40
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,89
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,79
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,82
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,71
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,63
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,57
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,56
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,45
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,38
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,60
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,64
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,62
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,69
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,62
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,58
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,51
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,44
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,36
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,79
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,76
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,74
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,79
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,87
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,87
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,79
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,79
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,69
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,75
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,59
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,58
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,46
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,56
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,53
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,57
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,59
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,61
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,51
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,53
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,51
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,54
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,52
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,57
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,59
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,65
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,74
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,32
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,42
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,44
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,44
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,42
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,44
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,43
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,44
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,38
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,44
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,34
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,38
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,32
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,32
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,33
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,38
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,36
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,43
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,27
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,25
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,26
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,26
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,24
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,22
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,27
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,31
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,40
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,48
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,45
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,37
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,34
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,39
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,36
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,32
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,40
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,33
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,50
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,52
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,41
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,37
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,30
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,22
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,23
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,24
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,22
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,43
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,44
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,47
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,45
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,44
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,44
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,43
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,36
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,36
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,60
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,50
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,47
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,49
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,43
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,47
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,48
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,40
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,36
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,52
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,51
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,45
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,42
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,40
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,36
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,38
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,45
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,43
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,52
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,51
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,60
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,55
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,66
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,60
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,51
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,48
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,50
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,80
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,72
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,64
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,60
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,53
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,50
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,52
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,40
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,37
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,71
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,66
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,53
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,50
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,40
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,48
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,50
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,59
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,54
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,59
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,60
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,70
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,71
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,74
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,72
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,65
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,56
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,55
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,82
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,82
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,80
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,77
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,76
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,69
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,63
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,49
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,48
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,75
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,72
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,66
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,63
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,51
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,51
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,53
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,63
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,59
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,109
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,104
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,101
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,78
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,80
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,78
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,80
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,79
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,76
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,97
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,79
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,76
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,70
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,64
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,64
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,62
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,59
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,55
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,118
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,108
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,106
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,114
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,101
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,99
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,92
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,93
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,70
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,46
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,67
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,68
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,70
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,82
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,73
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,62
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,61
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,58
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,70
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,87
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,92
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,99
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,101
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,95
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,91
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,91
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,103
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,40
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,34
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,30
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,31
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,27
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,28
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,41
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,47
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,50
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,46
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,43
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,36
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,32
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,45
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,55
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,67
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,70
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,74
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,21
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,23
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,30
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,30
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,25
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,24
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,22
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,15
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,17
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,30
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,29
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,33
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,38
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,28
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,23
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,18
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,18
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,23
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,6
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,5
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,3
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,6
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,12
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,13
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,16
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,18
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,16
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,9
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,10
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,10
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,9
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,13
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,16
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,15
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,21
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,21
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,46
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,49
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,39
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,33
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,29
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,28
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,23
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,30
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,38
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,43
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,47
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,41
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,40
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,31
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,27
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,21
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,39
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,39
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,41
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,46
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,44
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,46
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,49
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,38
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,30
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,29
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,32
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,33
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,35
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,41
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,46
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,49
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,49
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,47
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,48
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,45
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,44
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,37
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,39
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,42
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,43
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,42
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,42
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,35
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,28
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,29
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,29
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,29
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,33
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,33
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,37
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,41
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,43
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,49
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,45
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,43
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,35
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,31
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,28
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,31
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,34
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,36
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,31
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,34
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,59
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,53
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,54
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,41
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,37
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,34
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,35
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,40
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,56
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,55
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,49
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,47
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,38
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,33
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,31
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,26
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,81
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,72
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,69
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,74
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,63
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,58
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,52
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,53
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,43
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,45
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,48
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,52
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,58
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,54
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,55
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,54
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,41
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,51
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,54
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,53
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,59
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,69
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,68
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,64
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,46
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,48
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,48
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,47
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,41
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,45
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,42
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,40
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,34
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,34
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,34
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,36
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,37
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,38
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,51
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,53
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,20
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,17
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,27
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,30
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,41
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,43
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,50
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,51
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,38
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,35
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,31
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,36
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,31
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,29
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,28
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,33
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,29
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,23
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,23
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,22
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,26
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,26
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,21
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,26
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,45
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,45
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,43
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,38
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,35
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,41
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,38
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,35
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,40
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,46
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,45
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,36
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,34
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,30
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,26
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,24
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,37
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,34
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,39
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,44
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,46
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,45
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,44
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,49
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,65
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,58
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,53
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,50
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,50
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,42
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,47
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,48
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,53
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,51
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,53
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,46
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,40
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,39
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,40
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,43
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,38
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,46
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,45
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,56
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,58
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,74
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,63
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,58
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,62
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,66
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,56
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,52
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,56
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,58
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,54
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,55
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,76
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,67
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,59
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,46
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,45
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,37
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,49
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,54
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,44
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,43
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,47
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,56
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,53
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,55
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,59
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,54
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,71
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,71
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,75
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,74
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,75
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,76
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,69
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,60
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,52
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,52
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,50
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,42
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,44
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,37
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,35
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,39
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,90
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,86
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,81
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,84
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,67
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,67
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,63
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,68
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,61
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,54
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,43
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,43
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,41
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,41
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,41
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,38
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,80
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,72
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,75
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,73
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,79
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,76
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,78
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,75
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,15
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,21
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,28
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,26
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,35
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,37
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,28
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,24
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,30
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,40
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,43
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,46
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,54
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,58
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,54
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,55
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,15
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,15
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,13
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,12
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,11
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,9
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,15
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,19
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,14
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,17
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,17
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,22
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,21
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,20
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,24
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,28
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,27
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,34
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,29
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,29
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,23
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,24
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,16
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,19
+ 57546 DABICA,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,21
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,24
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,26
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,28
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,35
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,32
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,34
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,34
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,33
+ 57546 DABICA,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,23
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,34
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,27
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,28
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,23
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,32
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,31
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,36
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,35
+ 57546 DABICA,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,31
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,46
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,42
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,33
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,27
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,22
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,23
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,27
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,27
+ 57546 DABICA,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,35
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,45
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,40
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,45
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,45
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,36
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,35
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,30
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,29
+ 57546 DABICA,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,23
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,31
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,33
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,37
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,43
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,45
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,44
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,39
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,35
+ 57546 DABICA,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,27
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,42
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,44
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,35
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,36
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,35
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,38
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,36
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,41
+ 57546 DABICA,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,43
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,29
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,23
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,27
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,29
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,29
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,27
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,31
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,35
+ 57546 DABICA,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,39
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,41
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,42
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,47
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,41
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,41
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,39
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,43
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,34
+ 57546 DABICA,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,34
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,32
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,35
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,35
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,31
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,32
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,31
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,23
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,25
+ 57546 DABICA,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,25
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,40
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,37
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,35
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,37
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,41
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,47
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,44
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,44
+ 57546 DABICA,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,39
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,49
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,39
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,34
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,26
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,25
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,28
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,36
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,34
+ 57546 DABICA,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,28
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,70
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,60
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,50
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,47
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,47
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,34
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,35
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,36
+ 57546 DABICA,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,35
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,47
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,52
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,51
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,55
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,55
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,47
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,39
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,35
+ 57546 DABICA,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,30
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,54
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,65
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,71
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,67
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,60
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,67
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,58
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,52
+ 57546 DABICA,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,48
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,52
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,47
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,47
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,48
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,45
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,48
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,55
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,50
+ 57546 DABICA,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,51
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,36
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,40
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,41
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,54
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,57
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,55
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,67
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,73
+ 57546 DABICA,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,69
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,29
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,37
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,42
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,49
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,55
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,57
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,51
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,53
+ 57546 DABICA,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,50
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,36
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,34
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,31
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,28
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,33
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,38
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,45
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,48
+ 57546 DABICA,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,60
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,25
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,26
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,25
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,21
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,22
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,27
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,37
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,47
+ 57546 DABICA,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,55
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,42
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,39
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,45
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,41
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,36
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,36
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,34
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,33
+ 57546 DABICA,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,29
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,38
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,34
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,30
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,26
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,26
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,26
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,28
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,27
+ 57546 DABICA,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,21
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,50
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,51
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,50
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,51
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,50
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,42
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,41
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,46
+ 57546 DABICA,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,44
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,55
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,52
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,41
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,49
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,50
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,41
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,40
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,31
+ 57546 DABICA,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,26
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,53
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,48
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,44
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,43
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,45
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,47
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,47
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,44
+ 57546 DABICA,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,45
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,63
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,63
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,76
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,60
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,52
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,51
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,52
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,46
+ 57546 DABICA,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,54
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,51
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,55
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,56
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,55
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,52
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,49
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,44
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,44
+ 57546 DABICA,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,41
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,48
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,44
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,35
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,48
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,53
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,61
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,62
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,75
+ 57546 DABICA,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,59
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,45
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,41
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,42
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,44
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,46
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,48
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,52
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,53
+ 57546 DABICA,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,49
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,73
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,71
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,73
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,66
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,55
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,43
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,42
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,31
+ 57546 DABICA,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,45
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,36
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,36
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,29
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,28
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,29
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,31
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,31
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,35
+ 57546 DABICA,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,36
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,68
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,55
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,50
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,51
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,59
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,65
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,63
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,67
+ 57546 DABICA,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,62
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,27
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,31
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,29
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,25
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,27
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,26
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,27
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,19
+ 57546 DABICA,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,18
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,55
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,59
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,52
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,54
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,47
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,42
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,40
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,39
+ 57546 DABICA,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,43
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,17
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,17
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,17
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,18
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,17
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,19
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,20
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,21
+ 57546 DABICA,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,16
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,30
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,33
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,35
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,35
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,38
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,46
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,52
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,49
+ 57546 DABICA,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,47

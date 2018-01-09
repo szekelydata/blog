@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 1992, Numar persoane,55
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 1993, Numar persoane,47
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 1994, Numar persoane,53
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 1995, Numar persoane,57
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 1996, Numar persoane,63
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 1997, Numar persoane,70
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 1998, Numar persoane,74
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 1992, Numar persoane,47
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 1993, Numar persoane,48
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 1994, Numar persoane,51
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 1995, Numar persoane,50
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 1996, Numar persoane,46
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 1997, Numar persoane,45
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 1998, Numar persoane,45
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 1992, Numar persoane,47
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 1993, Numar persoane,50
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 1994, Numar persoane,56
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 1995, Numar persoane,59
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 1996, Numar persoane,58
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 1997, Numar persoane,54
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 1998, Numar persoane,49
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 1992, Numar persoane,46
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 1993, Numar persoane,46
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 1994, Numar persoane,44
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 1995, Numar persoane,46
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 1996, Numar persoane,42
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 1997, Numar persoane,43
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 1998, Numar persoane,45
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 1992, Numar persoane,48
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 1993, Numar persoane,48
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 1994, Numar persoane,45
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 1995, Numar persoane,45
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 1996, Numar persoane,46
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 1997, Numar persoane,46
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 1998, Numar persoane,49
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 1992, Numar persoane,50
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 1993, Numar persoane,49
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 1994, Numar persoane,43
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 1995, Numar persoane,34
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 1996, Numar persoane,37
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 1997, Numar persoane,39
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 1998, Numar persoane,39
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 1992, Numar persoane,43
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 1993, Numar persoane,44
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 1994, Numar persoane,39
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 1995, Numar persoane,39
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 1996, Numar persoane,43
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 1997, Numar persoane,48
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 1998, Numar persoane,48
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 1992, Numar persoane,38
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 1993, Numar persoane,41
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 1994, Numar persoane,48
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 1995, Numar persoane,49
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 1996, Numar persoane,46
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 1997, Numar persoane,48
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 1998, Numar persoane,49
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 1992, Numar persoane,52
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 1993, Numar persoane,45
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 1994, Numar persoane,44
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 1995, Numar persoane,46
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 1996, Numar persoane,42
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 1997, Numar persoane,42
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 1998, Numar persoane,47
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 1992, Numar persoane,46
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 1993, Numar persoane,40
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 1994, Numar persoane,39
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 1995, Numar persoane,35
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 1996, Numar persoane,37
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 1997, Numar persoane,36
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 1998, Numar persoane,40
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 1992, Numar persoane,28
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 1993, Numar persoane,38
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 1994, Numar persoane,45
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 1995, Numar persoane,43
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 1996, Numar persoane,46
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 1997, Numar persoane,52
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 1998, Numar persoane,45
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 1992, Numar persoane,22
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 1993, Numar persoane,25
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 1994, Numar persoane,34
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 1995, Numar persoane,38
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 1996, Numar persoane,43
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 1997, Numar persoane,42
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 1998, Numar persoane,38
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 1992, Numar persoane,40
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 1993, Numar persoane,36
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 1994, Numar persoane,36
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 1995, Numar persoane,38
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 1996, Numar persoane,34
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 1997, Numar persoane,28
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 1998, Numar persoane,38
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 1992, Numar persoane,40
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 1993, Numar persoane,37
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 1994, Numar persoane,35
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 1995, Numar persoane,30
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 1996, Numar persoane,25
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 1997, Numar persoane,22
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 1998, Numar persoane,25
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 1992, Numar persoane,48
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 1993, Numar persoane,46
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 1994, Numar persoane,46
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 1995, Numar persoane,38
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 1996, Numar persoane,40
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 1997, Numar persoane,39
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 1998, Numar persoane,35
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 1992, Numar persoane,33
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 1993, Numar persoane,33
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 1994, Numar persoane,37
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 1995, Numar persoane,40
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 1996, Numar persoane,42
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 1997, Numar persoane,36
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 1998, Numar persoane,34
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 1992, Numar persoane,38
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 1993, Numar persoane,40
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 1994, Numar persoane,42
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 1995, Numar persoane,47
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 1996, Numar persoane,42
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 1997, Numar persoane,42
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 1998, Numar persoane,43
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 1992, Numar persoane,45
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 1993, Numar persoane,37
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 1994, Numar persoane,30
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 1995, Numar persoane,27
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 1996, Numar persoane,27
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 1997, Numar persoane,32
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 1998, Numar persoane,33
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 1992, Numar persoane,30
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 1993, Numar persoane,30
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 1994, Numar persoane,33
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 1995, Numar persoane,31
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 1996, Numar persoane,36
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 1997, Numar persoane,36
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 1998, Numar persoane,37
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 1992, Numar persoane,26
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 1993, Numar persoane,33
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 1994, Numar persoane,41
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 1995, Numar persoane,44
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 1996, Numar persoane,44
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 1997, Numar persoane,43
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 1998, Numar persoane,36
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 1992, Numar persoane,37
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 1993, Numar persoane,36
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 1994, Numar persoane,26
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 1995, Numar persoane,25
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 1996, Numar persoane,24
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 1997, Numar persoane,28
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 1998, Numar persoane,29
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 1992, Numar persoane,36
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 1993, Numar persoane,31
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 1994, Numar persoane,25
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 1995, Numar persoane,26
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 1996, Numar persoane,26
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 1997, Numar persoane,27
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 1998, Numar persoane,34
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 1992, Numar persoane,30
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 1993, Numar persoane,32
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 1994, Numar persoane,37
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 1995, Numar persoane,37
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 1996, Numar persoane,35
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 1997, Numar persoane,34
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 1998, Numar persoane,35
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 1992, Numar persoane,34
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 1993, Numar persoane,35
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 1994, Numar persoane,39
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 1995, Numar persoane,34
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 1996, Numar persoane,35
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 1997, Numar persoane,36
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 1998, Numar persoane,31
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 1992, Numar persoane,41
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 1993, Numar persoane,35
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 1994, Numar persoane,27
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 1995, Numar persoane,29
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 1996, Numar persoane,27
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 1997, Numar persoane,28
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 1998, Numar persoane,27
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 1992, Numar persoane,35
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 1993, Numar persoane,34
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 1994, Numar persoane,32
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 1995, Numar persoane,33
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 1996, Numar persoane,30
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 1997, Numar persoane,31
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 1998, Numar persoane,34
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 1992, Numar persoane,34
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 1993, Numar persoane,37
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 1994, Numar persoane,41
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 1995, Numar persoane,38
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 1996, Numar persoane,38
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 1997, Numar persoane,30
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 1998, Numar persoane,25
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 1992, Numar persoane,47
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 1993, Numar persoane,51
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 1994, Numar persoane,47
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 1995, Numar persoane,42
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 1996, Numar persoane,41
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 1997, Numar persoane,32
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 1998, Numar persoane,30
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 1992, Numar persoane,24
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 1993, Numar persoane,27
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 1994, Numar persoane,30
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 1995, Numar persoane,24
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 1996, Numar persoane,22
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 1997, Numar persoane,26
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 1998, Numar persoane,24
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 1992, Numar persoane,33
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 1993, Numar persoane,34
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 1994, Numar persoane,41
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 1995, Numar persoane,38
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 1996, Numar persoane,36
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 1997, Numar persoane,41
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 1998, Numar persoane,44
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 1992, Numar persoane,23
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 1993, Numar persoane,18
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 1994, Numar persoane,11
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 1995, Numar persoane,15
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 1996, Numar persoane,11
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 1997, Numar persoane,14
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 1998, Numar persoane,14
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 1992, Numar persoane,16
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 1993, Numar persoane,14
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 1994, Numar persoane,12
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 1995, Numar persoane,16
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 1996, Numar persoane,22
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 1997, Numar persoane,27
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 1998, Numar persoane,26
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 1992, Numar persoane,5
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 1993, Numar persoane,8
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 1994, Numar persoane,16
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 1995, Numar persoane,15
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 1996, Numar persoane,19
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 1997, Numar persoane,15
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 1998, Numar persoane,11
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 1992, Numar persoane,12
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 1993, Numar persoane,13
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 1994, Numar persoane,13
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 1995, Numar persoane,16
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 1996, Numar persoane,14
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 1997, Numar persoane,10
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 1998, Numar persoane,7
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 1992, Numar persoane,6
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 1993, Numar persoane,2
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 1994, Numar persoane,3
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 1995, Numar persoane,4
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 1996, Numar persoane,2
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 1997, Numar persoane,4
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 1998, Numar persoane,5
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 1992, Numar persoane,5
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 1993, Numar persoane,6
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 1994, Numar persoane,8
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 1995, Numar persoane,7
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 1996, Numar persoane,10
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 1997, Numar persoane,12
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 1998, Numar persoane,8
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 1999, Numar persoane,76
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2000, Numar persoane,71
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2001, Numar persoane,69
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2002, Numar persoane,68
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2003, Numar persoane,65
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2004, Numar persoane,56
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,57
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,55
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 1999, Numar persoane,44
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2000, Numar persoane,48
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2001, Numar persoane,55
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2002, Numar persoane,53
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2003, Numar persoane,51
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2004, Numar persoane,47
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,37
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,33
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 1999, Numar persoane,52
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2000, Numar persoane,55
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2001, Numar persoane,59
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2002, Numar persoane,69
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2003, Numar persoane,72
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2004, Numar persoane,74
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,69
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,65
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 1999, Numar persoane,46
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2000, Numar persoane,45
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2001, Numar persoane,43
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2002, Numar persoane,41
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2003, Numar persoane,42
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2004, Numar persoane,42
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,43
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,51
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 1999, Numar persoane,55
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2000, Numar persoane,58
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2001, Numar persoane,57
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2002, Numar persoane,52
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2003, Numar persoane,46
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2004, Numar persoane,50
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,50
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,56
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 1999, Numar persoane,42
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2000, Numar persoane,46
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2001, Numar persoane,41
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2002, Numar persoane,42
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2003, Numar persoane,44
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2004, Numar persoane,44
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,45
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,42
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 1999, Numar persoane,45
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2000, Numar persoane,46
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2001, Numar persoane,46
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2002, Numar persoane,45
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2003, Numar persoane,48
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2004, Numar persoane,53
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,58
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,56
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 1999, Numar persoane,43
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2000, Numar persoane,36
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2001, Numar persoane,40
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2002, Numar persoane,41
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2003, Numar persoane,36
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2004, Numar persoane,40
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,42
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,38
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 1999, Numar persoane,43
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2000, Numar persoane,40
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2001, Numar persoane,41
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2002, Numar persoane,49
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2003, Numar persoane,50
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2004, Numar persoane,43
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,43
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,42
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 1999, Numar persoane,45
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2000, Numar persoane,47
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2001, Numar persoane,45
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2002, Numar persoane,49
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2003, Numar persoane,50
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2004, Numar persoane,43
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,34
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,35
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 1999, Numar persoane,45
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2000, Numar persoane,49
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2001, Numar persoane,46
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2002, Numar persoane,42
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2003, Numar persoane,43
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2004, Numar persoane,40
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,37
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,39
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 1999, Numar persoane,34
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2000, Numar persoane,30
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2001, Numar persoane,33
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2002, Numar persoane,30
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2003, Numar persoane,37
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2004, Numar persoane,39
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,39
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,37
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 1999, Numar persoane,42
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2000, Numar persoane,39
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2001, Numar persoane,41
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2002, Numar persoane,47
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2003, Numar persoane,43
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2004, Numar persoane,42
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,45
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,41
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 1999, Numar persoane,31
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2000, Numar persoane,37
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2001, Numar persoane,38
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2002, Numar persoane,38
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2003, Numar persoane,33
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2004, Numar persoane,31
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,29
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,31
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 1999, Numar persoane,34
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2000, Numar persoane,35
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2001, Numar persoane,34
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2002, Numar persoane,27
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2003, Numar persoane,34
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2004, Numar persoane,38
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,35
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,36
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 1999, Numar persoane,32
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2000, Numar persoane,30
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2001, Numar persoane,27
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2002, Numar persoane,23
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2003, Numar persoane,26
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2004, Numar persoane,28
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,33
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,35
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 1999, Numar persoane,46
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2000, Numar persoane,40
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2001, Numar persoane,40
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2002, Numar persoane,37
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2003, Numar persoane,33
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2004, Numar persoane,31
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,32
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,32
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 1999, Numar persoane,37
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2000, Numar persoane,38
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2001, Numar persoane,40
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2002, Numar persoane,35
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2003, Numar persoane,34
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2004, Numar persoane,32
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,30
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,26
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 1999, Numar persoane,37
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2000, Numar persoane,45
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2001, Numar persoane,41
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2002, Numar persoane,41
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2003, Numar persoane,40
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2004, Numar persoane,42
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,34
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,32
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 1999, Numar persoane,30
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2000, Numar persoane,28
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2001, Numar persoane,25
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2002, Numar persoane,31
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2003, Numar persoane,31
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2004, Numar persoane,35
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,38
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,40
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 1999, Numar persoane,32
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2000, Numar persoane,29
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2001, Numar persoane,34
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2002, Numar persoane,34
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2003, Numar persoane,36
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2004, Numar persoane,36
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,43
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,39
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 1999, Numar persoane,40
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2000, Numar persoane,42
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2001, Numar persoane,42
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2002, Numar persoane,41
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2003, Numar persoane,37
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2004, Numar persoane,29
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,27
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,25
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 1999, Numar persoane,26
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2000, Numar persoane,24
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2001, Numar persoane,22
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2002, Numar persoane,25
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2003, Numar persoane,27
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2004, Numar persoane,29
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,28
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,33
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 1999, Numar persoane,24
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2000, Numar persoane,24
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2001, Numar persoane,24
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2002, Numar persoane,25
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2003, Numar persoane,32
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2004, Numar persoane,39
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,41
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,41
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 1999, Numar persoane,32
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2000, Numar persoane,34
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2001, Numar persoane,35
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2002, Numar persoane,32
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2003, Numar persoane,33
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2004, Numar persoane,23
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,20
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,19
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 1999, Numar persoane,37
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2000, Numar persoane,33
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2001, Numar persoane,33
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2002, Numar persoane,34
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2003, Numar persoane,27
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2004, Numar persoane,20
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,22
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,22
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 1999, Numar persoane,17
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2000, Numar persoane,22
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2001, Numar persoane,20
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2002, Numar persoane,23
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2003, Numar persoane,24
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2004, Numar persoane,30
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,32
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,33
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 1999, Numar persoane,28
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2000, Numar persoane,32
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2001, Numar persoane,30
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2002, Numar persoane,30
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2003, Numar persoane,33
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2004, Numar persoane,36
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,30
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,31
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 1999, Numar persoane,28
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2000, Numar persoane,25
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2001, Numar persoane,29
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2002, Numar persoane,23
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2003, Numar persoane,19
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2004, Numar persoane,18
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,21
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,17
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 1999, Numar persoane,38
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2000, Numar persoane,35
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2001, Numar persoane,35
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2002, Numar persoane,27
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2003, Numar persoane,26
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2004, Numar persoane,25
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,29
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,25
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 1999, Numar persoane,16
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2000, Numar persoane,17
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2001, Numar persoane,14
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2002, Numar persoane,15
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2003, Numar persoane,14
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2004, Numar persoane,16
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,16
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,20
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 1999, Numar persoane,27
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2000, Numar persoane,23
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2001, Numar persoane,24
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2002, Numar persoane,32
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2003, Numar persoane,36
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2004, Numar persoane,29
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,26
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,28
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 1999, Numar persoane,7
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2000, Numar persoane,5
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2001, Numar persoane,6
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2002, Numar persoane,9
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2003, Numar persoane,11
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2004, Numar persoane,11
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,10
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,8
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 1999, Numar persoane,7
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2000, Numar persoane,10
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2001, Numar persoane,11
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2002, Numar persoane,14
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2003, Numar persoane,13
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2004, Numar persoane,17
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,17
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,15
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 1999, Numar persoane,7
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2000, Numar persoane,4
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2001, Numar persoane,4
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2002, Numar persoane,4
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2003, Numar persoane,3
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2004, Numar persoane,5
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,6
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,8
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 1999, Numar persoane,7
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2000, Numar persoane,8
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2001, Numar persoane,7
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2002, Numar persoane,6
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2003, Numar persoane,4
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2004, Numar persoane,5
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,4
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,2
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,45
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,44
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,38
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,29
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,24
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,23
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,34
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,35
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,35
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,36
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,33
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,27
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,64
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,62
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,55
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,55
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,53
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,42
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,50
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,49
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,41
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,33
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,28
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,30
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,66
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,68
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,69
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,67
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,66
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,62
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,39
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,37
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,35
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,41
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,47
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,48
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,52
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,47
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,50
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,49
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,54
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,66
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,41
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,43
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,45
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,41
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,36
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,33
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,41
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,45
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,50
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,55
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,49
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,46
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,34
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,28
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,29
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,34
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,31
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,38
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,43
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,44
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,41
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,38
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,39
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,36
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,37
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,39
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,35
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,26
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,26
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,23
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,38
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,37
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,32
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,32
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,34
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,39
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,27
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,34
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,33
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,33
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,30
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,35
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,41
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,38
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,40
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,41
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,37
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,38
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,36
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,30
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,27
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,28
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,28
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,25
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,25
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,33
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,36
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,32
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,35
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,37
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,21
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,24
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,27
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,29
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,31
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,33
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,34
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,28
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,28
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,31
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,30
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,24
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,32
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,32
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,29
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,29
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,26
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,21
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,38
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,38
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,39
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,31
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,29
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,32
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,31
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,31
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,35
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,36
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,38
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,31
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,33
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,33
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,33
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,40
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,38
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,39
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,40
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,34
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,27
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,25
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,24
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,30
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,24
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,25
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,28
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,28
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,31
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,30
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,24
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,31
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,38
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,39
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,40
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,39
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,30
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,31
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,22
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,19
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,19
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,22
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,31
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,24
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,18
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,22
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,22
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,24
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,18
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,19
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,24
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,25
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,24
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,22
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,27
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,29
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,33
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,28
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,28
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,27
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,17
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,12
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,12
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,14
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,10
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,11
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,22
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,24
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,22
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,22
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,18
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,21
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,10
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,7
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,8
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,7
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,8
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,8
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,21
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,23
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,22
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,18
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,21
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,16
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,10
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,9
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,10
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,10
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,9
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,9
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,3
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,3
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,6
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,9
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,9
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,13
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,25
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,28
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,30
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,27
+ 158136 PIETROASA,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,26
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,22
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,25
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,28
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,27
+ 158136 PIETROASA,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,31
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,40
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,35
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,28
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,23
+ 158136 PIETROASA,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,22
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,31
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,35
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,34
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,29
+ 158136 PIETROASA,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,24
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,62
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,53
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,54
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,51
+ 158136 PIETROASA,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,40
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,47
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,38
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,32
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,27
+ 158136 PIETROASA,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,27
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,70
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,72
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,68
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,67
+ 158136 PIETROASA,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,63
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,34
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,36
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,37
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,44
+ 158136 PIETROASA,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,45
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,45
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,49
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,51
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,56
+ 158136 PIETROASA,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,69
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,39
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,38
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,39
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,35
+ 158136 PIETROASA,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,30
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,37
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,42
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,48
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,46
+ 158136 PIETROASA,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,43
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,19
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,25
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,27
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,27
+ 158136 PIETROASA,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,37
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,39
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,36
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,36
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,35
+ 158136 PIETROASA,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,35
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,34
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,28
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,22
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,23
+ 158136 PIETROASA,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,19
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,38
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,34
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,34
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,36
+ 158136 PIETROASA,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,38
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,32
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,32
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,31
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,28
+ 158136 PIETROASA,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,32
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,33
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,36
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,38
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,38
+ 158136 PIETROASA,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,39
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,29
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,29
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,28
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,28
+ 158136 PIETROASA,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,25
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,30
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,30
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,29
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,34
+ 158136 PIETROASA,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,37
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,24
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,25
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,27
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,32
+ 158136 PIETROASA,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,34
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,28
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,28
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,29
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,28
+ 158136 PIETROASA,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,20
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,31
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,29
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,29
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,24
+ 158136 PIETROASA,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,21
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,38
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,38
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,29
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,26
+ 158136 PIETROASA,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,29
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,31
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,35
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,35
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,37
+ 158136 PIETROASA,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,30
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,32
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,31
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,37
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,37
+ 158136 PIETROASA,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,37
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,34
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,28
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,26
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,23
+ 158136 PIETROASA,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,29
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,23
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,25
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,25
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,28
+ 158136 PIETROASA,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,27
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,29
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,33
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,36
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,38
+ 158136 PIETROASA,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,38
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,24
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,18
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,17
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,18
+ 158136 PIETROASA,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,22
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,20
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,16
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,18
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,18
+ 158136 PIETROASA,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,19
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,10
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,14
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,17
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,17
+ 158136 PIETROASA,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,16
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,25
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,27
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,22
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,21
+ 158136 PIETROASA,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,22
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,8
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,8
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,9
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,8
+ 158136 PIETROASA,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,8
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,13
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,11
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,14
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,14
+ 158136 PIETROASA,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,15
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,7
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,8
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,7
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,6
+ 158136 PIETROASA,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,6
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,12
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,13
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,12
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,8
+ 158136 PIETROASA,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,9

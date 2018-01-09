@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,198
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,181
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,182
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,171
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,160
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,163
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,174
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,170
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,176
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,166
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,169
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,167
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,153
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,140
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,153
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,156
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,184
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,181
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,189
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,198
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,207
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,200
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,188
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,184
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,180
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,181
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,180
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,176
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,172
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,162
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,160
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,169
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,196
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,196
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,191
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,166
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,167
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,171
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,184
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,196
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,175
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,184
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,191
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,193
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,189
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,176
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,182
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,176
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,195
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,199
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,206
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,204
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,206
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,202
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,194
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,182
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,160
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,144
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,150
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,156
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,156
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,171
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,187
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,187
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,248
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,233
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,211
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,205
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,202
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,184
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,201
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,217
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,211
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,183
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,178
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,175
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,168
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,162
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,150
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,158
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,154
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,165
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,184
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,214
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,208
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,231
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,215
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,205
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,121
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,148
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,152
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,171
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,195
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,194
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,188
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,185
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,157
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,134
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,145
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,147
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,152
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,156
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,168
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,173
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,110
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,110
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,114
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,106
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,99
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,108
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,137
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,151
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,131
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,147
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,148
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,152
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,148
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,140
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,129
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,143
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,106
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,108
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,110
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,115
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,107
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,104
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,102
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,100
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,138
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,134
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,118
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,111
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,119
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,123
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,147
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,145
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,125
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,118
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,116
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,107
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,108
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,102
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,108
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,106
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,119
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,117
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,126
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,129
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,126
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,132
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,124
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,113
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,122
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,124
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,122
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,128
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,130
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,130
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,116
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,117
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,119
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,120
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,113
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,112
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,108
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,114
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,113
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,120
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,137
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,128
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,121
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,113
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,117
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,122
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,126
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,122
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,135
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,119
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,123
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,116
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,110
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,98
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,101
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,103
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,137
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,138
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,143
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,148
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,135
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,132
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,121
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,115
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,116
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,132
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,132
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,124
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,126
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,120
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,101
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,99
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,133
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,127
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,117
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,121
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,122
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,123
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,128
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,136
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,105
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,101
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,90
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,97
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,97
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,95
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,107
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,109
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,123
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,118
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,125
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,118
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,126
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,118
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,110
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,100
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,76
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,85
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,89
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,76
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,78
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,77
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,79
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,71
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,78
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,92
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,102
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,102
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,104
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,106
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,108
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,105
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,46
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,39
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,40
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,50
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,45
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,51
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,54
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,55
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,50
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,35
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,33
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,32
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,43
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,57
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,68
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,75
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,22
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,21
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,20
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,22
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,25
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,21
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,18
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,22
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,33
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,39
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,38
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,36
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,29
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,22
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,16
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,16
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,10
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,8
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,10
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,9
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,7
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,7
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,5
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,5
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,6
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,6
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,8
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,13
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,15
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,19
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,24
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,16
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,169
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,155
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,152
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,170
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,157
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,160
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,167
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,148
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,160
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,180
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,174
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,170
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,173
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,170
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,178
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,171
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,170
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,167
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,164
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,164
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,147
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,167
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,157
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,144
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,148
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,155
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,146
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,158
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,211
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,210
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,201
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,185
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,179
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,170
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,167
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,176
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,173
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,172
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,159
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,165
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,162
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,155
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,157
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,163
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,178
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,182
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,193
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,204
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,208
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,191
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,192
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,180
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,181
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,177
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,172
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,167
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,207
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,209
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,198
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,188
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,178
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,160
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,164
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,154
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,154
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,171
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,180
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,187
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,196
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,181
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,203
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,197
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,184
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,191
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,191
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,197
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,205
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,177
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,169
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,162
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,144
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,146
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,144
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,150
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,203
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,201
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,226
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,205
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,190
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,175
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,168
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,171
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,191
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,194
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,182
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,172
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,167
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,167
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,144
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,148
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,149
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,164
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,176
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,195
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,189
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,103
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,95
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,107
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,133
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,149
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,165
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,184
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,147
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,143
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,138
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,130
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,145
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,146
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,154
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,109
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,104
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,104
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,98
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,99
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,104
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,96
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,105
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,119
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,128
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,141
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,139
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,147
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,141
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,106
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,108
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,103
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,110
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,106
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,109
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,104
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,122
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,120
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,124
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,119
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,110
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,104
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,119
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,126
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,127
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,121
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,110
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,112
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,105
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,110
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,103
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,98
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,103
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,103
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,108
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,114
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,114
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,109
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,112
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,117
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,120
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,116
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,120
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,114
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,96
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,91
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,84
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,85
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,88
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,87
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,81
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,139
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,126
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,123
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,117
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,111
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,106
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,110
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,103
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,104
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,98
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,83
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,78
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,73
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,72
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,106
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,107
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,111
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,114
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,122
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,122
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,115
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,76
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,78
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,72
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,80
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,81
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,77
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,73
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,98
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,99
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,93
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,93
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,79
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,88
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,90
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,47
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,51
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,53
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,54
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,49
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,52
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,52
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,80
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,81
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,75
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,71
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,76
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,71
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,76
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,26
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,23
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,26
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,30
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,29
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,31
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,29
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,16
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,27
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,38
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,48
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,51
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,52
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,42
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,8
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,9
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,8
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,7
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,10
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,11
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,9
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,19
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,11
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,9
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,5
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,8
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,9
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,12
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,160
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,141
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,154
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,146
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,144
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,155
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,165
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,161
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,156
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,148
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,141
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,142
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,150
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,166
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,154
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,158
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,162
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,160
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,178
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,180
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,180
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,180
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,177
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,171
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,168
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,168
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,168
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,163
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,151
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,147
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,142
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,144
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,154
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,151
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,172
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,186
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,199
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,187
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,185
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,183
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,182
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,188
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,170
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,160
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,162
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,161
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,163
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,153
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,175
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,188
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,199
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,212
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,210
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,198
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,176
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,163
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,166
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,159
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,161
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,175
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,199
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,186
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,186
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,160
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,163
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,178
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,169
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,175
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,164
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,177
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,169
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,165
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,172
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,187
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,187
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,193
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,211
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,198
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,157
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,144
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,146
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,146
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,151
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,161
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,201
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,181
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,170
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,167
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,157
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,165
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,183
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,171
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,162
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,158
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,159
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,153
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,153
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,161
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,172
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,190
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,188
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,198
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,109
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,133
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,152
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,161
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,180
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,180
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,138
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,137
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,152
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,145
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,150
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,142
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,109
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,107
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,103
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,109
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,103
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,113
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,124
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,135
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,138
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,145
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,141
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,137
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,106
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,116
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,116
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,116
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,110
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,112
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,114
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,114
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,104
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,102
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,115
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,120
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,113
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,106
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,112
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,102
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,120
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,118
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,86
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,93
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,105
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,111
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,111
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,108
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,114
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,116
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,109
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,114
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,110
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,110
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,66
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,71
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,70
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,70
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,70
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,80
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,116
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,111
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,107
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,98
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,101
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,101
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,71
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,57
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,58
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,54
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,59
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,58
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,91
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,97
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,104
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,105
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,102
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,107
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,46
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,54
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,48
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,53
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,46
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,42
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,73
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,70
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,63
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,70
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,75
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,75
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,28
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,28
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,27
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,30
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,32
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,25
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,43
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,44
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,50
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,45
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,47
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,47
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,11
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,8
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,9
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,10
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,11
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,14
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,21
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,23
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,26
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,22
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,24
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,29
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,149
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,135
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,132
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,120
+ 31654 TAUTEU,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,110
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,138
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,130
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,125
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,113
+ 31654 TAUTEU,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,114
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,135
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,147
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,140
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,144
+ 31654 TAUTEU,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,151
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,158
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,154
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,145
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,139
+ 31654 TAUTEU,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,134
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,161
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,152
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,153
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,157
+ 31654 TAUTEU,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,150
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,181
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,179
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,180
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,178
+ 31654 TAUTEU,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,164
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,182
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,181
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,172
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,157
+ 31654 TAUTEU,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,153
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,164
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,171
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,161
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,167
+ 31654 TAUTEU,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,186
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,190
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,185
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,183
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,176
+ 31654 TAUTEU,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,179
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,184
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,165
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,160
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,154
+ 31654 TAUTEU,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,140
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,189
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,196
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,207
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,214
+ 31654 TAUTEU,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,203
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,151
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,171
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,176
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,167
+ 31654 TAUTEU,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,170
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,187
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,182
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,165
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,158
+ 31654 TAUTEU,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,165
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,170
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,159
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,165
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,161
+ 31654 TAUTEU,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,152
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,180
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,181
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,186
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,204
+ 31654 TAUTEU,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,193
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,141
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,151
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,151
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,155
+ 31654 TAUTEU,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,162
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,180
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,168
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,164
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,159
+ 31654 TAUTEU,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,166
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,170
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,157
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,156
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,158
+ 31654 TAUTEU,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,154
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,152
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,164
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,184
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,183
+ 31654 TAUTEU,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,191
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,140
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,156
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,161
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,181
+ 31654 TAUTEU,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,180
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,129
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,144
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,138
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,138
+ 31654 TAUTEU,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,136
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,109
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,108
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,112
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,104
+ 31654 TAUTEU,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,113
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,126
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,123
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,129
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,124
+ 31654 TAUTEU,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,129
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,128
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,121
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,121
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,110
+ 31654 TAUTEU,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,109
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,108
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,95
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,97
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,107
+ 31654 TAUTEU,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,106
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,105
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,114
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,108
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,121
+ 31654 TAUTEU,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,118
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,86
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,91
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,91
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,97
+ 31654 TAUTEU,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,91
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,111
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,106
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,111
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,103
+ 31654 TAUTEU,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,103
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,60
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,60
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,61
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,61
+ 31654 TAUTEU,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,70
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,101
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,90
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,82
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,93
+ 31654 TAUTEU,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,98
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,37
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,41
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,41
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,50
+ 31654 TAUTEU,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,45
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,80
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,94
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,96
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,87
+ 31654 TAUTEU,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,84
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,27
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,22
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,22
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,19
+ 31654 TAUTEU,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,24
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,47
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,41
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,44
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,58
+ 31654 TAUTEU,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,57
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,16
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,16
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,16
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,16
+ 31654 TAUTEU,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,16
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,30
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,29
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,24
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,21
+ 31654 TAUTEU,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,23

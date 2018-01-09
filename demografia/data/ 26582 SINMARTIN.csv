@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,333
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,306
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,278
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,269
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,267
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,237
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,239
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,236
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,325
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,293
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,261
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,240
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,221
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,196
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,196
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,217
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,296
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,314
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,339
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,333
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,329
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,336
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,309
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,284
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,276
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,309
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,332
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,355
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,347
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,328
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,293
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,259
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,306
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,305
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,304
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,304
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,305
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,295
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,309
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,331
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,318
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,295
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,285
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,276
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,269
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,282
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,313
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,337
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,318
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,320
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,304
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,294
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,301
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,310
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,306
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,315
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,302
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,305
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,309
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,300
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,321
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,317
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,292
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,283
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,356
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,333
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,344
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,351
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,337
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,312
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,316
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,305
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,336
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,343
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,304
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,305
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,294
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,295
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,299
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,316
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,215
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,245
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,261
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,286
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,312
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,338
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,329
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,332
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,196
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,220
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,272
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,305
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,319
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,335
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,345
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,316
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,290
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,255
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,261
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,232
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,226
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,229
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,261
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,275
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,281
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,263
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,242
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,218
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,216
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,211
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,237
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,287
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,281
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,305
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,303
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,311
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,300
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,278
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,255
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,254
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,286
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,291
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,297
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,309
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,289
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,276
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,253
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,231
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,265
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,275
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,279
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,281
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,277
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,274
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,286
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,288
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,251
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,270
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,281
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,271
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,279
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,291
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,287
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,297
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,183
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,189
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,202
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,232
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,243
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,243
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,253
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,257
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,193
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,189
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,185
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,211
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,238
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,245
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,266
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,283
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,196
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,177
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,162
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,150
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,151
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,166
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,172
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,181
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,206
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,207
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,216
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,203
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,186
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,189
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,181
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,182
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,202
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,206
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,199
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,194
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,184
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,174
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,156
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,139
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,206
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,199
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,193
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,197
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,214
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,207
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,206
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,206
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,196
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,198
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,194
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,192
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,178
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,181
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,183
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,173
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,210
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,222
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,206
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,208
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,194
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,196
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,190
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,186
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,121
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,135
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,151
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,160
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,167
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,162
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,159
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,168
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,160
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,155
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,173
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,173
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,195
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,188
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,198
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,192
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,79
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,84
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,83
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,81
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,86
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,86
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,90
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,107
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,108
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,125
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,131
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,141
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,139
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,141
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,132
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,146
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,57
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,43
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,36
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,40
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,40
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,53
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,55
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,54
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,79
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,75
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,61
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,55
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,62
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,83
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,99
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,108
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,30
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,36
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,39
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,38
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,34
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,24
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,19
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,16
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,50
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,48
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,50
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,53
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,54
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,43
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,41
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,34
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,7
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,10
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,10
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,10
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,13
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,16
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,17
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,12
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,26
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,19
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,23
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,22
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,23
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,18
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,21
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,25
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,241
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,227
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,242
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,237
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,234
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,239
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,268
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,209
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,220
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,224
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,245
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,239
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,243
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,249
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,278
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,264
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,241
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,235
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,234
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,237
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,228
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,239
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,221
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,206
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,203
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,215
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,213
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,225
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,320
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,318
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,330
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,318
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,295
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,284
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,273
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,354
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,341
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,324
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,295
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,267
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,253
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,233
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,312
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,314
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,301
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,312
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,336
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,334
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,332
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,274
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,269
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,276
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,304
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,331
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,368
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,372
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,299
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,304
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,317
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,319
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,319
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,336
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,350
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,315
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,321
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,326
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,297
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,294
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,285
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,290
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,331
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,326
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,312
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,326
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,325
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,326
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,354
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,300
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,296
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,306
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,319
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,328
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,328
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,342
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,300
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,319
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,348
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,330
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,346
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,372
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,364
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,312
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,313
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,336
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,346
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,317
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,319
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,326
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,227
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,231
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,240
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,273
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,286
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,318
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,341
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,208
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,224
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,217
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,242
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,306
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,342
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,361
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,303
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,296
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,278
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,259
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,259
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,249
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,252
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,311
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,284
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,272
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,253
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,227
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,228
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,243
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,253
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,258
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,260
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,289
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,305
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,316
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,319
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,268
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,278
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,290
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,294
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,304
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,308
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,294
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,207
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,223
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,233
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,245
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,248
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,249
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,258
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,213
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,230
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,247
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,265
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,275
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,271
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,284
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,130
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,129
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,146
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,154
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,166
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,197
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,217
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,195
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,181
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,180
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,176
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,179
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,207
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,223
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,169
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,159
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,151
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,138
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,124
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,114
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,120
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,192
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,201
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,198
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,197
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,201
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,182
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,165
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,162
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,157
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,147
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,150
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,146
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,139
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,131
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,189
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,177
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,181
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,178
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,173
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,177
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,194
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,122
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,132
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,128
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,131
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,128
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,121
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,115
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,151
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,173
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,171
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,171
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,170
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,169
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,152
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,52
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,58
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,60
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,66
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,81
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,90
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,89
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,116
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,111
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,114
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,117
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,125
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,137
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,152
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,23
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,25
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,27
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,32
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,35
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,26
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,32
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,34
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,38
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,52
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,63
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,70
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,71
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,68
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,12
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,10
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,5
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,6
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,8
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,16
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,17
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,24
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,27
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,26
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,25
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,28
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,27
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,31
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,268
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,287
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,321
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,347
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,354
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,382
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,284
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,275
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,281
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,302
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,317
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,316
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,242
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,241
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,235
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,261
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,312
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,319
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,225
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,246
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,244
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,252
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,274
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,313
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,244
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,243
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,237
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,255
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,256
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,284
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,213
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,213
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,225
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,218
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,251
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,266
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,353
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,347
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,346
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,345
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,341
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,318
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,372
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,347
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,315
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,304
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,269
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,249
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,346
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,348
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,394
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,380
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,380
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,386
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,316
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,350
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,416
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,431
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,438
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,401
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,376
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,399
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,419
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,432
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,424
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,420
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,355
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,355
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,382
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,376
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,374
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,397
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,370
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,394
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,415
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,407
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,437
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,448
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,352
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,359
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,392
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,403
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,435
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,443
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,374
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,372
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,400
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,436
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,432
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,434
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,384
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,407
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,380
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,380
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,396
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,417
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,263
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,291
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,327
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,343
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,396
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,441
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,237
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,274
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,346
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,384
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,404
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,445
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,301
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,271
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,279
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,276
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,287
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,297
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,282
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,263
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,246
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,248
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,276
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,273
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,270
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,299
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,318
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,336
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,342
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,328
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,304
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,309
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,316
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,322
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,309
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,307
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,227
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,245
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,262
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,257
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,267
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,279
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,233
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,258
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,271
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,266
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,292
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,309
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,137
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,142
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,159
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,186
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,212
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,224
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,170
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,166
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,174
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,199
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,215
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,225
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,132
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,124
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,110
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,102
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,107
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,121
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,192
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,187
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,183
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,173
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,158
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,163
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,109
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,121
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,118
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,115
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,110
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,106
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,148
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,154
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,155
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,160
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,180
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,181
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,91
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,90
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,92
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,82
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,86
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,87
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,148
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,144
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,144
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,133
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,117
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,121
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,38
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,40
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,42
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,51
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,44
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,49
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,74
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,82
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,78
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,93
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,106
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,105
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,20
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,22
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,20
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,18
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,26
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,21
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,35
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,41
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,44
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,48
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,43
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,46
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,396
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,364
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,363
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,382
+ 26582 SINMARTIN,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,396
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,326
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,333
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,328
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,342
+ 26582 SINMARTIN,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,341
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,347
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,390
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,407
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,395
+ 26582 SINMARTIN,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,422
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,314
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,325
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,347
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,357
+ 26582 SINMARTIN,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,363
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,293
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,298
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,325
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,365
+ 26582 SINMARTIN,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,366
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,293
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,292
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,304
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,326
+ 26582 SINMARTIN,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,350
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,311
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,307
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,314
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,305
+ 26582 SINMARTIN,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,330
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,249
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,264
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,260
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,274
+ 26582 SINMARTIN,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,291
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,386
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,378
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,355
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,352
+ 26582 SINMARTIN,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,329
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,375
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,350
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,335
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,292
+ 26582 SINMARTIN,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,268
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,413
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,439
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,427
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,402
+ 26582 SINMARTIN,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,406
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,424
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,454
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,472
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,469
+ 26582 SINMARTIN,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,444
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,475
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,468
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,462
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,461
+ 26582 SINMARTIN,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,452
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,436
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,433
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,428
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,416
+ 26582 SINMARTIN,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,439
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,472
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,479
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,476
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,489
+ 26582 SINMARTIN,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,517
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,430
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,454
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,459
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,473
+ 26582 SINMARTIN,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,482
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,434
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,450
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,484
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,491
+ 26582 SINMARTIN,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,487
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,461
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,428
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,423
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,422
+ 26582 SINMARTIN,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,438
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,340
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,362
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,384
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,417
+ 26582 SINMARTIN,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,467
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,310
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,383
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,421
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,442
+ 26582 SINMARTIN,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,478
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,310
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,314
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,305
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,296
+ 26582 SINMARTIN,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,303
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,296
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,273
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,272
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,297
+ 26582 SINMARTIN,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,288
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,313
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,331
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,349
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,360
+ 26582 SINMARTIN,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,344
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,322
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,330
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,333
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,327
+ 26582 SINMARTIN,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,328
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,225
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,232
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,236
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,246
+ 26582 SINMARTIN,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,271
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,250
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,271
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,264
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,294
+ 26582 SINMARTIN,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,310
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,131
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,140
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,167
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,194
+ 26582 SINMARTIN,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,207
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,161
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,164
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,193
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,201
+ 26582 SINMARTIN,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,213
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,103
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,95
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,86
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,87
+ 26582 SINMARTIN,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,99
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,176
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,166
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,158
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,151
+ 26582 SINMARTIN,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,155
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,97
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,93
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,92
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,88
+ 26582 SINMARTIN,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,82
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,132
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,136
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,137
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,153
+ 26582 SINMARTIN,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,151
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,56
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,59
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,59
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,61
+ 26582 SINMARTIN,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,58
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,94
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,92
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,94
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,84
+ 26582 SINMARTIN,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,89
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,21
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,21
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,28
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,32
+ 26582 SINMARTIN,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,37
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,52
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,61
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,64
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,71
+ 26582 SINMARTIN,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,70

@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 1992, Numar persoane,65
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 1993, Numar persoane,65
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 1994, Numar persoane,60
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 1995, Numar persoane,48
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 1996, Numar persoane,36
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 1997, Numar persoane,41
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 1998, Numar persoane,43
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 1999, Numar persoane,49
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2000, Numar persoane,53
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2001, Numar persoane,65
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2002, Numar persoane,77
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2003, Numar persoane,86
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2004, Numar persoane,91
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 1992, Numar persoane,73
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 1993, Numar persoane,66
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 1994, Numar persoane,55
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 1995, Numar persoane,45
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 1996, Numar persoane,51
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 1997, Numar persoane,54
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 1998, Numar persoane,61
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 1999, Numar persoane,69
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2000, Numar persoane,75
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2001, Numar persoane,75
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2002, Numar persoane,76
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2003, Numar persoane,69
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2004, Numar persoane,74
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 1992, Numar persoane,87
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 1993, Numar persoane,83
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 1994, Numar persoane,84
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 1995, Numar persoane,97
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 1996, Numar persoane,94
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 1997, Numar persoane,84
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 1998, Numar persoane,96
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 1999, Numar persoane,95
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2000, Numar persoane,81
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2001, Numar persoane,69
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2002, Numar persoane,59
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2003, Numar persoane,52
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2004, Numar persoane,53
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 1992, Numar persoane,103
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 1993, Numar persoane,93
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 1994, Numar persoane,100
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 1995, Numar persoane,103
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 1996, Numar persoane,95
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 1997, Numar persoane,90
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 1998, Numar persoane,87
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 1999, Numar persoane,86
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2000, Numar persoane,78
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2001, Numar persoane,78
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2002, Numar persoane,71
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2003, Numar persoane,73
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2004, Numar persoane,73
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 1992, Numar persoane,128
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 1993, Numar persoane,114
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 1994, Numar persoane,119
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 1995, Numar persoane,123
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 1996, Numar persoane,108
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 1997, Numar persoane,107
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 1998, Numar persoane,105
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 1999, Numar persoane,122
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2000, Numar persoane,134
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2001, Numar persoane,134
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2002, Numar persoane,123
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2003, Numar persoane,120
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2004, Numar persoane,102
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 1992, Numar persoane,126
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 1993, Numar persoane,130
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 1994, Numar persoane,125
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 1995, Numar persoane,117
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 1996, Numar persoane,111
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 1997, Numar persoane,115
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 1998, Numar persoane,120
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 1999, Numar persoane,135
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2000, Numar persoane,142
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2001, Numar persoane,136
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2002, Numar persoane,112
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2003, Numar persoane,97
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2004, Numar persoane,87
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 1992, Numar persoane,134
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 1993, Numar persoane,138
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 1994, Numar persoane,128
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 1995, Numar persoane,125
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 1996, Numar persoane,136
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 1997, Numar persoane,140
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 1998, Numar persoane,143
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 1999, Numar persoane,156
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2000, Numar persoane,147
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2001, Numar persoane,135
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2002, Numar persoane,124
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2003, Numar persoane,129
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2004, Numar persoane,138
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 1992, Numar persoane,120
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 1993, Numar persoane,119
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 1994, Numar persoane,123
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 1995, Numar persoane,128
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 1996, Numar persoane,141
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 1997, Numar persoane,138
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 1998, Numar persoane,148
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 1999, Numar persoane,151
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2000, Numar persoane,144
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2001, Numar persoane,133
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2002, Numar persoane,137
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2003, Numar persoane,133
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2004, Numar persoane,138
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 1992, Numar persoane,187
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 1993, Numar persoane,173
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 1994, Numar persoane,157
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 1995, Numar persoane,147
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 1996, Numar persoane,132
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 1997, Numar persoane,135
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 1998, Numar persoane,147
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 1999, Numar persoane,137
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2000, Numar persoane,139
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2001, Numar persoane,151
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2002, Numar persoane,156
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2003, Numar persoane,156
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2004, Numar persoane,169
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 1992, Numar persoane,136
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 1993, Numar persoane,133
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 1994, Numar persoane,123
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 1995, Numar persoane,113
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 1996, Numar persoane,110
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 1997, Numar persoane,127
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 1998, Numar persoane,135
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 1999, Numar persoane,143
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2000, Numar persoane,146
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2001, Numar persoane,154
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2002, Numar persoane,151
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2003, Numar persoane,158
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2004, Numar persoane,154
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 1992, Numar persoane,83
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 1993, Numar persoane,107
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 1994, Numar persoane,130
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 1995, Numar persoane,157
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 1996, Numar persoane,176
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 1997, Numar persoane,186
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 1998, Numar persoane,176
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 1999, Numar persoane,165
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2000, Numar persoane,157
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2001, Numar persoane,144
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2002, Numar persoane,153
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2003, Numar persoane,160
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2004, Numar persoane,164
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 1992, Numar persoane,67
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 1993, Numar persoane,85
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 1994, Numar persoane,96
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 1995, Numar persoane,116
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 1996, Numar persoane,124
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 1997, Numar persoane,137
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 1998, Numar persoane,143
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 1999, Numar persoane,131
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2000, Numar persoane,130
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2001, Numar persoane,134
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2002, Numar persoane,141
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2003, Numar persoane,147
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2004, Numar persoane,149
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 1992, Numar persoane,97
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 1993, Numar persoane,95
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 1994, Numar persoane,86
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 1995, Numar persoane,82
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 1996, Numar persoane,80
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 1997, Numar persoane,78
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 1998, Numar persoane,103
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 1999, Numar persoane,130
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2000, Numar persoane,164
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2001, Numar persoane,188
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2002, Numar persoane,192
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2003, Numar persoane,188
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2004, Numar persoane,171
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 1992, Numar persoane,76
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 1993, Numar persoane,74
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 1994, Numar persoane,77
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 1995, Numar persoane,78
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 1996, Numar persoane,74
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 1997, Numar persoane,77
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 1998, Numar persoane,100
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 1999, Numar persoane,120
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2000, Numar persoane,148
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2001, Numar persoane,152
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2002, Numar persoane,159
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2003, Numar persoane,152
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2004, Numar persoane,152
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 1992, Numar persoane,120
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 1993, Numar persoane,117
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 1994, Numar persoane,113
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 1995, Numar persoane,101
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 1996, Numar persoane,89
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 1997, Numar persoane,96
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 1998, Numar persoane,97
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 1999, Numar persoane,105
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2000, Numar persoane,100
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2001, Numar persoane,100
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2002, Numar persoane,98
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2003, Numar persoane,116
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2004, Numar persoane,144
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 1992, Numar persoane,112
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 1993, Numar persoane,106
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 1994, Numar persoane,100
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 1995, Numar persoane,102
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 1996, Numar persoane,88
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 1997, Numar persoane,92
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 1998, Numar persoane,103
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 1999, Numar persoane,115
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2000, Numar persoane,108
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2001, Numar persoane,107
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2002, Numar persoane,98
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2003, Numar persoane,115
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2004, Numar persoane,130
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 1992, Numar persoane,107
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 1993, Numar persoane,105
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 1994, Numar persoane,110
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 1995, Numar persoane,106
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 1996, Numar persoane,108
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 1997, Numar persoane,121
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 1998, Numar persoane,132
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 1999, Numar persoane,131
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2000, Numar persoane,121
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2001, Numar persoane,116
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2002, Numar persoane,113
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2003, Numar persoane,111
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2004, Numar persoane,112
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 1992, Numar persoane,105
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 1993, Numar persoane,111
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 1994, Numar persoane,107
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 1995, Numar persoane,101
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 1996, Numar persoane,107
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 1997, Numar persoane,117
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 1998, Numar persoane,122
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 1999, Numar persoane,128
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2000, Numar persoane,133
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2001, Numar persoane,112
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2002, Numar persoane,114
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2003, Numar persoane,116
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2004, Numar persoane,124
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 1992, Numar persoane,101
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 1993, Numar persoane,106
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 1994, Numar persoane,85
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 1995, Numar persoane,99
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 1996, Numar persoane,103
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 1997, Numar persoane,106
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 1998, Numar persoane,115
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 1999, Numar persoane,123
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2000, Numar persoane,119
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2001, Numar persoane,119
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2002, Numar persoane,137
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2003, Numar persoane,139
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2004, Numar persoane,135
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 1992, Numar persoane,100
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 1993, Numar persoane,99
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 1994, Numar persoane,93
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 1995, Numar persoane,104
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 1996, Numar persoane,114
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 1997, Numar persoane,107
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 1998, Numar persoane,116
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 1999, Numar persoane,118
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2000, Numar persoane,114
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2001, Numar persoane,124
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2002, Numar persoane,131
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2003, Numar persoane,138
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2004, Numar persoane,146
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 1992, Numar persoane,113
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 1993, Numar persoane,97
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 1994, Numar persoane,85
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 1995, Numar persoane,90
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 1996, Numar persoane,79
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 1997, Numar persoane,76
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 1998, Numar persoane,77
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 1999, Numar persoane,78
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2000, Numar persoane,93
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2001, Numar persoane,105
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2002, Numar persoane,106
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2003, Numar persoane,124
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2004, Numar persoane,141
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 1992, Numar persoane,130
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 1993, Numar persoane,118
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 1994, Numar persoane,111
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 1995, Numar persoane,102
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 1996, Numar persoane,97
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 1997, Numar persoane,96
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 1998, Numar persoane,100
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 1999, Numar persoane,102
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2000, Numar persoane,107
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2001, Numar persoane,118
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2002, Numar persoane,115
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2003, Numar persoane,125
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2004, Numar persoane,130
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 1992, Numar persoane,124
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 1993, Numar persoane,124
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 1994, Numar persoane,126
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 1995, Numar persoane,114
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 1996, Numar persoane,113
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 1997, Numar persoane,104
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 1998, Numar persoane,92
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 1999, Numar persoane,80
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2000, Numar persoane,82
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2001, Numar persoane,71
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2002, Numar persoane,74
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2003, Numar persoane,73
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2004, Numar persoane,76
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 1992, Numar persoane,130
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 1993, Numar persoane,122
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 1994, Numar persoane,129
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 1995, Numar persoane,133
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 1996, Numar persoane,125
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 1997, Numar persoane,123
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 1998, Numar persoane,111
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 1999, Numar persoane,110
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2000, Numar persoane,106
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2001, Numar persoane,100
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2002, Numar persoane,101
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2003, Numar persoane,97
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2004, Numar persoane,101
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 1992, Numar persoane,101
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 1993, Numar persoane,107
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 1994, Numar persoane,105
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 1995, Numar persoane,104
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 1996, Numar persoane,111
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 1997, Numar persoane,115
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 1998, Numar persoane,110
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 1999, Numar persoane,117
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2000, Numar persoane,111
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2001, Numar persoane,111
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2002, Numar persoane,103
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2003, Numar persoane,91
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2004, Numar persoane,74
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 1992, Numar persoane,128
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 1993, Numar persoane,143
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 1994, Numar persoane,137
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 1995, Numar persoane,123
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 1996, Numar persoane,117
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 1997, Numar persoane,124
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 1998, Numar persoane,116
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 1999, Numar persoane,123
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2000, Numar persoane,122
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2001, Numar persoane,118
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2002, Numar persoane,114
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2003, Numar persoane,106
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2004, Numar persoane,108
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 1992, Numar persoane,89
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 1993, Numar persoane,85
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 1994, Numar persoane,82
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 1995, Numar persoane,87
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 1996, Numar persoane,84
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 1997, Numar persoane,83
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 1998, Numar persoane,88
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 1999, Numar persoane,89
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2000, Numar persoane,89
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2001, Numar persoane,96
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2002, Numar persoane,97
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2003, Numar persoane,98
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2004, Numar persoane,107
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 1992, Numar persoane,97
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 1993, Numar persoane,90
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 1994, Numar persoane,87
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 1995, Numar persoane,104
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 1996, Numar persoane,116
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 1997, Numar persoane,115
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 1998, Numar persoane,132
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 1999, Numar persoane,127
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2000, Numar persoane,118
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2001, Numar persoane,109
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2002, Numar persoane,114
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2003, Numar persoane,107
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2004, Numar persoane,109
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 1992, Numar persoane,35
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 1993, Numar persoane,43
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 1994, Numar persoane,60
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 1995, Numar persoane,56
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 1996, Numar persoane,60
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 1997, Numar persoane,67
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 1998, Numar persoane,67
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 1999, Numar persoane,62
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2000, Numar persoane,68
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2001, Numar persoane,67
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2002, Numar persoane,66
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2003, Numar persoane,75
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2004, Numar persoane,75
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 1992, Numar persoane,54
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 1993, Numar persoane,68
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 1994, Numar persoane,83
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 1995, Numar persoane,86
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 1996, Numar persoane,80
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 1997, Numar persoane,86
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 1998, Numar persoane,81
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 1999, Numar persoane,78
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2000, Numar persoane,91
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2001, Numar persoane,106
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2002, Numar persoane,107
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2003, Numar persoane,121
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2004, Numar persoane,114
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 1992, Numar persoane,26
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 1993, Numar persoane,28
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 1994, Numar persoane,26
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 1995, Numar persoane,26
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 1996, Numar persoane,24
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 1997, Numar persoane,24
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 1998, Numar persoane,31
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 1999, Numar persoane,44
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2000, Numar persoane,41
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2001, Numar persoane,48
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2002, Numar persoane,50
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2003, Numar persoane,49
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2004, Numar persoane,43
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 1992, Numar persoane,46
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 1993, Numar persoane,40
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 1994, Numar persoane,25
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 1995, Numar persoane,28
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 1996, Numar persoane,38
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 1997, Numar persoane,43
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 1998, Numar persoane,55
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 1999, Numar persoane,68
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2000, Numar persoane,70
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2001, Numar persoane,66
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2002, Numar persoane,71
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2003, Numar persoane,70
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2004, Numar persoane,67
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 1992, Numar persoane,14
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 1993, Numar persoane,11
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 1994, Numar persoane,12
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 1995, Numar persoane,13
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 1996, Numar persoane,12
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 1997, Numar persoane,14
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 1998, Numar persoane,17
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 1999, Numar persoane,14
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2000, Numar persoane,17
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2001, Numar persoane,11
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2002, Numar persoane,14
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2003, Numar persoane,20
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2004, Numar persoane,35
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 1992, Numar persoane,36
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 1993, Numar persoane,40
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 1994, Numar persoane,46
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 1995, Numar persoane,37
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 1996, Numar persoane,31
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 1997, Numar persoane,28
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 1998, Numar persoane,26
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 1999, Numar persoane,18
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2000, Numar persoane,20
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2001, Numar persoane,25
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2002, Numar persoane,30
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2003, Numar persoane,40
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2004, Numar persoane,53
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 1992, Numar persoane,8
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 1993, Numar persoane,10
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 1994, Numar persoane,10
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 1995, Numar persoane,11
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 1996, Numar persoane,7
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 1997, Numar persoane,7
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 1998, Numar persoane,6
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 1999, Numar persoane,6
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2000, Numar persoane,6
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2001, Numar persoane,6
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2002, Numar persoane,8
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2003, Numar persoane,8
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2004, Numar persoane,9
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 1992, Numar persoane,15
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 1993, Numar persoane,13
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 1994, Numar persoane,13
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 1995, Numar persoane,22
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 1996, Numar persoane,22
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 1997, Numar persoane,21
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 1998, Numar persoane,22
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 1999, Numar persoane,31
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2000, Numar persoane,28
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2001, Numar persoane,28
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2002, Numar persoane,22
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2003, Numar persoane,19
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2004, Numar persoane,19
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2005, Numar persoane,92
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2006, Numar persoane,92
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2007, Numar persoane,93
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2008, Numar persoane,89
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2009, Numar persoane,97
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2010, Numar persoane,105
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2011, Numar persoane,111
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2012, Numar persoane,116
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2013, Numar persoane,120
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2014, Numar persoane,109
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2015, Numar persoane,114
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2016, Numar persoane,116
+ 40900 CRISTIAN,0- 4 ani, Masculin, Brasov, Anul 2017, Numar persoane,128
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2005, Numar persoane,78
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2006, Numar persoane,91
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2007, Numar persoane,101
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2008, Numar persoane,113
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2009, Numar persoane,105
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2010, Numar persoane,117
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2011, Numar persoane,126
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2012, Numar persoane,125
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2013, Numar persoane,124
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2014, Numar persoane,133
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2015, Numar persoane,119
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2016, Numar persoane,109
+ 40900 CRISTIAN,0- 4 ani, Feminin, Brasov, Anul 2017, Numar persoane,127
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2005, Numar persoane,58
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2006, Numar persoane,72
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2007, Numar persoane,88
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2008, Numar persoane,97
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2009, Numar persoane,102
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2010, Numar persoane,103
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2011, Numar persoane,104
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2012, Numar persoane,103
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2013, Numar persoane,109
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2014, Numar persoane,120
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2015, Numar persoane,128
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2016, Numar persoane,133
+ 40900 CRISTIAN,5- 9 ani, Masculin, Brasov, Anul 2017, Numar persoane,146
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2005, Numar persoane,72
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2006, Numar persoane,69
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2007, Numar persoane,72
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2008, Numar persoane,69
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2009, Numar persoane,76
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2010, Numar persoane,83
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2011, Numar persoane,93
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2012, Numar persoane,105
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2013, Numar persoane,125
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2014, Numar persoane,124
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2015, Numar persoane,133
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2016, Numar persoane,143
+ 40900 CRISTIAN,5- 9 ani, Feminin, Brasov, Anul 2017, Numar persoane,142
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2005, Numar persoane,88
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2006, Numar persoane,74
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2007, Numar persoane,67
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2008, Numar persoane,56
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2009, Numar persoane,61
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2010, Numar persoane,69
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2011, Numar persoane,94
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2012, Numar persoane,104
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2013, Numar persoane,113
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2014, Numar persoane,131
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2015, Numar persoane,131
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2016, Numar persoane,131
+ 40900 CRISTIAN,10-14 ani, Masculin, Brasov, Anul 2017, Numar persoane,129
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2005, Numar persoane,78
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2006, Numar persoane,79
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2007, Numar persoane,76
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2008, Numar persoane,78
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2009, Numar persoane,77
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2010, Numar persoane,71
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2011, Numar persoane,70
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2012, Numar persoane,79
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2013, Numar persoane,81
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2014, Numar persoane,93
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2015, Numar persoane,98
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2016, Numar persoane,114
+ 40900 CRISTIAN,10-14 ani, Feminin, Brasov, Anul 2017, Numar persoane,126
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2005, Numar persoane,155
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2006, Numar persoane,159
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2007, Numar persoane,149
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2008, Numar persoane,141
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2009, Numar persoane,119
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2010, Numar persoane,105
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2011, Numar persoane,96
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2012, Numar persoane,97
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2013, Numar persoane,88
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2014, Numar persoane,94
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2015, Numar persoane,101
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2016, Numar persoane,114
+ 40900 CRISTIAN,15-19 ani, Masculin, Brasov, Anul 2017, Numar persoane,128
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2005, Numar persoane,143
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2006, Numar persoane,140
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2007, Numar persoane,126
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2008, Numar persoane,113
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2009, Numar persoane,104
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2010, Numar persoane,99
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2011, Numar persoane,100
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2012, Numar persoane,91
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2013, Numar persoane,91
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2014, Numar persoane,99
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2015, Numar persoane,99
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2016, Numar persoane,97
+ 40900 CRISTIAN,15-19 ani, Feminin, Brasov, Anul 2017, Numar persoane,111
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2005, Numar persoane,161
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2006, Numar persoane,156
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2007, Numar persoane,146
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2008, Numar persoane,150
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2009, Numar persoane,154
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2010, Numar persoane,173
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2011, Numar persoane,167
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2012, Numar persoane,161
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2013, Numar persoane,148
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2014, Numar persoane,130
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2015, Numar persoane,120
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2016, Numar persoane,106
+ 40900 CRISTIAN,20-24 ani, Masculin, Brasov, Anul 2017, Numar persoane,111
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2005, Numar persoane,158
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2006, Numar persoane,155
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2007, Numar persoane,156
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2008, Numar persoane,151
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2009, Numar persoane,152
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2010, Numar persoane,159
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2011, Numar persoane,163
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2012, Numar persoane,148
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2013, Numar persoane,138
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2014, Numar persoane,130
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2015, Numar persoane,121
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2016, Numar persoane,118
+ 40900 CRISTIAN,20-24 ani, Feminin, Brasov, Anul 2017, Numar persoane,122
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2005, Numar persoane,176
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2006, Numar persoane,195
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2007, Numar persoane,208
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2008, Numar persoane,201
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2009, Numar persoane,201
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2010, Numar persoane,183
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2011, Numar persoane,175
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2012, Numar persoane,165
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2013, Numar persoane,179
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2014, Numar persoane,179
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2015, Numar persoane,182
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2016, Numar persoane,187
+ 40900 CRISTIAN,25-29 ani, Masculin, Brasov, Anul 2017, Numar persoane,171
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2005, Numar persoane,154
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2006, Numar persoane,172
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2007, Numar persoane,180
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2008, Numar persoane,184
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2009, Numar persoane,186
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2010, Numar persoane,184
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2011, Numar persoane,176
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2012, Numar persoane,187
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2013, Numar persoane,189
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2014, Numar persoane,185
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2015, Numar persoane,183
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2016, Numar persoane,181
+ 40900 CRISTIAN,25-29 ani, Feminin, Brasov, Anul 2017, Numar persoane,168
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2005, Numar persoane,164
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2006, Numar persoane,160
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2007, Numar persoane,181
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2008, Numar persoane,198
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2009, Numar persoane,197
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2010, Numar persoane,210
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2011, Numar persoane,215
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2012, Numar persoane,226
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2013, Numar persoane,217
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2014, Numar persoane,225
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2015, Numar persoane,206
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2016, Numar persoane,185
+ 40900 CRISTIAN,30-34 ani, Masculin, Brasov, Anul 2017, Numar persoane,172
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2005, Numar persoane,149
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2006, Numar persoane,159
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2007, Numar persoane,173
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2008, Numar persoane,191
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2009, Numar persoane,189
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2010, Numar persoane,189
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2011, Numar persoane,210
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2012, Numar persoane,218
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2013, Numar persoane,215
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2014, Numar persoane,222
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2015, Numar persoane,219
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2016, Numar persoane,218
+ 40900 CRISTIAN,30-34 ani, Feminin, Brasov, Anul 2017, Numar persoane,207
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2005, Numar persoane,182
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2006, Numar persoane,201
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2007, Numar persoane,213
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2008, Numar persoane,207
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2009, Numar persoane,202
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2010, Numar persoane,198
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2011, Numar persoane,196
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2012, Numar persoane,201
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2013, Numar persoane,219
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2014, Numar persoane,219
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2015, Numar persoane,233
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2016, Numar persoane,247
+ 40900 CRISTIAN,35-39 ani, Masculin, Brasov, Anul 2017, Numar persoane,257
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2005, Numar persoane,158
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2006, Numar persoane,173
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2007, Numar persoane,187
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2008, Numar persoane,170
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2009, Numar persoane,170
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2010, Numar persoane,169
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2011, Numar persoane,180
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2012, Numar persoane,201
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2013, Numar persoane,226
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2014, Numar persoane,226
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2015, Numar persoane,233
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2016, Numar persoane,246
+ 40900 CRISTIAN,35-39 ani, Feminin, Brasov, Anul 2017, Numar persoane,262
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2005, Numar persoane,107
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2006, Numar persoane,107
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2007, Numar persoane,104
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2008, Numar persoane,129
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2009, Numar persoane,164
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2010, Numar persoane,200
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2011, Numar persoane,230
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2012, Numar persoane,249
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2013, Numar persoane,240
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2014, Numar persoane,234
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2015, Numar persoane,226
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2016, Numar persoane,215
+ 40900 CRISTIAN,40-44 ani, Masculin, Brasov, Anul 2017, Numar persoane,230
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2005, Numar persoane,118
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2006, Numar persoane,109
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2007, Numar persoane,108
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2008, Numar persoane,132
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2009, Numar persoane,152
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2010, Numar persoane,186
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2011, Numar persoane,195
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2012, Numar persoane,207
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2013, Numar persoane,200
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2014, Numar persoane,196
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2015, Numar persoane,192
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2016, Numar persoane,206
+ 40900 CRISTIAN,40-44 ani, Feminin, Brasov, Anul 2017, Numar persoane,228
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2005, Numar persoane,130
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2006, Numar persoane,128
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2007, Numar persoane,127
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2008, Numar persoane,128
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2009, Numar persoane,122
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2010, Numar persoane,115
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2011, Numar persoane,117
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2012, Numar persoane,115
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2013, Numar persoane,145
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2014, Numar persoane,182
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2015, Numar persoane,221
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2016, Numar persoane,254
+ 40900 CRISTIAN,45-49 ani, Masculin, Brasov, Anul 2017, Numar persoane,282
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2005, Numar persoane,152
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2006, Numar persoane,141
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2007, Numar persoane,138
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2008, Numar persoane,130
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2009, Numar persoane,134
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2010, Numar persoane,129
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2011, Numar persoane,120
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2012, Numar persoane,121
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2013, Numar persoane,146
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2014, Numar persoane,168
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2015, Numar persoane,206
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2016, Numar persoane,223
+ 40900 CRISTIAN,45-49 ani, Feminin, Brasov, Anul 2017, Numar persoane,241
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2005, Numar persoane,131
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2006, Numar persoane,138
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2007, Numar persoane,161
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2008, Numar persoane,157
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2009, Numar persoane,144
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2010, Numar persoane,140
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2011, Numar persoane,137
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2012, Numar persoane,140
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2013, Numar persoane,138
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2014, Numar persoane,133
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2015, Numar persoane,131
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2016, Numar persoane,138
+ 40900 CRISTIAN,50-54 ani, Masculin, Brasov, Anul 2017, Numar persoane,133
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2005, Numar persoane,132
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2006, Numar persoane,140
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2007, Numar persoane,156
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2008, Numar persoane,168
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2009, Numar persoane,177
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2010, Numar persoane,177
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2011, Numar persoane,162
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2012, Numar persoane,162
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2013, Numar persoane,153
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2014, Numar persoane,148
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2015, Numar persoane,147
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2016, Numar persoane,131
+ 40900 CRISTIAN,50-54 ani, Feminin, Brasov, Anul 2017, Numar persoane,137
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2005, Numar persoane,101
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2006, Numar persoane,112
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2007, Numar persoane,117
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2008, Numar persoane,134
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2009, Numar persoane,151
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2010, Numar persoane,144
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2011, Numar persoane,155
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2012, Numar persoane,165
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2013, Numar persoane,169
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2014, Numar persoane,160
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2015, Numar persoane,155
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2016, Numar persoane,143
+ 40900 CRISTIAN,55-59 ani, Masculin, Brasov, Anul 2017, Numar persoane,139
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2005, Numar persoane,110
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2006, Numar persoane,127
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2007, Numar persoane,123
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2008, Numar persoane,133
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2009, Numar persoane,142
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2010, Numar persoane,142
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2011, Numar persoane,160
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2012, Numar persoane,173
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2013, Numar persoane,195
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2014, Numar persoane,200
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2015, Numar persoane,192
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2016, Numar persoane,175
+ 40900 CRISTIAN,55-59 ani, Feminin, Brasov, Anul 2017, Numar persoane,172
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2005, Numar persoane,81
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2006, Numar persoane,68
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2007, Numar persoane,69
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2008, Numar persoane,70
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2009, Numar persoane,72
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2010, Numar persoane,95
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2011, Numar persoane,114
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2012, Numar persoane,127
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2013, Numar persoane,143
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2014, Numar persoane,154
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2015, Numar persoane,145
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2016, Numar persoane,155
+ 40900 CRISTIAN,60-64 ani, Masculin, Brasov, Anul 2017, Numar persoane,172
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2005, Numar persoane,97
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2006, Numar persoane,93
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2007, Numar persoane,98
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2008, Numar persoane,96
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2009, Numar persoane,97
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2010, Numar persoane,111
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2011, Numar persoane,129
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2012, Numar persoane,130
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2013, Numar persoane,142
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2014, Numar persoane,155
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2015, Numar persoane,162
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2016, Numar persoane,175
+ 40900 CRISTIAN,60-64 ani, Feminin, Brasov, Anul 2017, Numar persoane,187
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2005, Numar persoane,103
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2006, Numar persoane,98
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2007, Numar persoane,91
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2008, Numar persoane,78
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2009, Numar persoane,73
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2010, Numar persoane,75
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2011, Numar persoane,66
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2012, Numar persoane,69
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2013, Numar persoane,67
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2014, Numar persoane,75
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2015, Numar persoane,98
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2016, Numar persoane,111
+ 40900 CRISTIAN,65-69 ani, Masculin, Brasov, Anul 2017, Numar persoane,128
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2005, Numar persoane,110
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2006, Numar persoane,108
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2007, Numar persoane,108
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2008, Numar persoane,103
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2009, Numar persoane,110
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2010, Numar persoane,107
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2011, Numar persoane,100
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2012, Numar persoane,98
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2013, Numar persoane,92
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2014, Numar persoane,96
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2015, Numar persoane,110
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2016, Numar persoane,129
+ 40900 CRISTIAN,65-69 ani, Feminin, Brasov, Anul 2017, Numar persoane,129
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2005, Numar persoane,72
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2006, Numar persoane,72
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2007, Numar persoane,74
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2008, Numar persoane,84
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2009, Numar persoane,95
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2010, Numar persoane,94
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2011, Numar persoane,92
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2012, Numar persoane,89
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2013, Numar persoane,76
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2014, Numar persoane,59
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2015, Numar persoane,66
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2016, Numar persoane,59
+ 40900 CRISTIAN,70-74 ani, Masculin, Brasov, Anul 2017, Numar persoane,56
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2005, Numar persoane,106
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2006, Numar persoane,98
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2007, Numar persoane,102
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2008, Numar persoane,100
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2009, Numar persoane,101
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2010, Numar persoane,99
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2011, Numar persoane,106
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2012, Numar persoane,110
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2013, Numar persoane,108
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2014, Numar persoane,111
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2015, Numar persoane,105
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2016, Numar persoane,96
+ 40900 CRISTIAN,70-74 ani, Feminin, Brasov, Anul 2017, Numar persoane,95
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2005, Numar persoane,50
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2006, Numar persoane,55
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2007, Numar persoane,54
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2008, Numar persoane,61
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2009, Numar persoane,56
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2010, Numar persoane,53
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2011, Numar persoane,60
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2012, Numar persoane,61
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2013, Numar persoane,70
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2014, Numar persoane,75
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2015, Numar persoane,70
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2016, Numar persoane,74
+ 40900 CRISTIAN,75-79 ani, Masculin, Brasov, Anul 2017, Numar persoane,68
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2005, Numar persoane,81
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2006, Numar persoane,93
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2007, Numar persoane,91
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2008, Numar persoane,100
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2009, Numar persoane,101
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2010, Numar persoane,92
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2011, Numar persoane,88
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2012, Numar persoane,87
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2013, Numar persoane,82
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2014, Numar persoane,86
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2015, Numar persoane,94
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2016, Numar persoane,100
+ 40900 CRISTIAN,75-79 ani, Feminin, Brasov, Anul 2017, Numar persoane,104
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2005, Numar persoane,31
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2006, Numar persoane,30
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2007, Numar persoane,35
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2008, Numar persoane,31
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2009, Numar persoane,30
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2010, Numar persoane,37
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2011, Numar persoane,40
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2012, Numar persoane,38
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2013, Numar persoane,44
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2014, Numar persoane,45
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2015, Numar persoane,38
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2016, Numar persoane,37
+ 40900 CRISTIAN,80-84 ani, Masculin, Brasov, Anul 2017, Numar persoane,40
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2005, Numar persoane,52
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2006, Numar persoane,51
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2007, Numar persoane,50
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2008, Numar persoane,47
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2009, Numar persoane,50
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2010, Numar persoane,61
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2011, Numar persoane,63
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2012, Numar persoane,69
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2013, Numar persoane,72
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2014, Numar persoane,73
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2015, Numar persoane,63
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2016, Numar persoane,58
+ 40900 CRISTIAN,80-84 ani, Feminin, Brasov, Anul 2017, Numar persoane,67
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2005, Numar persoane,12
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2006, Numar persoane,11
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2007, Numar persoane,12
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2008, Numar persoane,15
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2009, Numar persoane,22
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2010, Numar persoane,21
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2011, Numar persoane,22
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2012, Numar persoane,27
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2013, Numar persoane,27
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2014, Numar persoane,34
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2015, Numar persoane,31
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2016, Numar persoane,33
+ 40900 CRISTIAN,85 ani si peste, Masculin, Brasov, Anul 2017, Numar persoane,36
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2005, Numar persoane,18
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2006, Numar persoane,17
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2007, Numar persoane,24
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2008, Numar persoane,29
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2009, Numar persoane,38
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2010, Numar persoane,38
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2011, Numar persoane,39
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2012, Numar persoane,42
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2013, Numar persoane,45
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2014, Numar persoane,42
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2015, Numar persoane,54
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2016, Numar persoane,58
+ 40900 CRISTIAN,85 ani si peste, Feminin, Brasov, Anul 2017, Numar persoane,58

@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 1992, Numar persoane,156
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 1993, Numar persoane,133
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 1994, Numar persoane,126
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 1995, Numar persoane,122
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 1996, Numar persoane,110
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 1997, Numar persoane,95
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 1998, Numar persoane,91
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 1992, Numar persoane,140
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 1993, Numar persoane,129
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 1994, Numar persoane,113
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 1995, Numar persoane,119
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 1996, Numar persoane,103
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 1997, Numar persoane,82
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 1998, Numar persoane,75
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 1992, Numar persoane,152
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 1993, Numar persoane,169
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 1994, Numar persoane,172
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 1995, Numar persoane,158
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 1996, Numar persoane,156
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 1997, Numar persoane,150
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 1998, Numar persoane,128
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 1992, Numar persoane,158
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 1993, Numar persoane,157
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 1994, Numar persoane,164
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 1995, Numar persoane,150
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 1996, Numar persoane,150
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 1997, Numar persoane,146
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 1998, Numar persoane,132
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 1992, Numar persoane,188
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 1993, Numar persoane,176
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 1994, Numar persoane,164
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 1995, Numar persoane,157
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 1996, Numar persoane,162
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 1997, Numar persoane,150
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 1998, Numar persoane,168
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 1992, Numar persoane,170
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 1993, Numar persoane,167
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 1994, Numar persoane,156
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 1995, Numar persoane,149
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 1996, Numar persoane,149
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 1997, Numar persoane,152
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 1998, Numar persoane,158
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 1992, Numar persoane,202
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 1993, Numar persoane,204
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 1994, Numar persoane,205
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 1995, Numar persoane,205
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 1996, Numar persoane,201
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 1997, Numar persoane,196
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 1998, Numar persoane,188
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 1992, Numar persoane,175
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 1993, Numar persoane,169
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 1994, Numar persoane,188
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 1995, Numar persoane,182
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 1996, Numar persoane,185
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 1997, Numar persoane,165
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 1998, Numar persoane,161
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 1992, Numar persoane,232
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 1993, Numar persoane,208
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 1994, Numar persoane,198
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 1995, Numar persoane,204
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 1996, Numar persoane,191
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 1997, Numar persoane,201
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 1998, Numar persoane,203
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 1992, Numar persoane,189
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 1993, Numar persoane,193
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 1994, Numar persoane,177
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 1995, Numar persoane,185
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 1996, Numar persoane,165
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 1997, Numar persoane,170
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 1998, Numar persoane,161
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 1992, Numar persoane,107
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 1993, Numar persoane,132
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 1994, Numar persoane,154
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 1995, Numar persoane,177
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 1996, Numar persoane,199
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 1997, Numar persoane,220
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 1998, Numar persoane,206
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 1992, Numar persoane,106
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 1993, Numar persoane,124
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 1994, Numar persoane,151
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 1995, Numar persoane,165
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 1996, Numar persoane,178
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 1997, Numar persoane,182
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 1998, Numar persoane,184
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 1992, Numar persoane,164
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 1993, Numar persoane,155
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 1994, Numar persoane,150
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 1995, Numar persoane,128
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 1996, Numar persoane,106
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 1997, Numar persoane,98
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 1998, Numar persoane,124
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 1992, Numar persoane,152
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 1993, Numar persoane,146
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 1994, Numar persoane,129
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 1995, Numar persoane,123
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 1996, Numar persoane,109
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 1997, Numar persoane,104
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 1998, Numar persoane,114
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 1992, Numar persoane,176
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 1993, Numar persoane,168
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 1994, Numar persoane,166
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 1995, Numar persoane,169
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 1996, Numar persoane,169
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 1997, Numar persoane,158
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 1998, Numar persoane,147
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 1992, Numar persoane,178
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 1993, Numar persoane,168
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 1994, Numar persoane,178
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 1995, Numar persoane,172
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 1996, Numar persoane,163
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 1997, Numar persoane,152
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 1998, Numar persoane,149
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 1992, Numar persoane,205
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 1993, Numar persoane,205
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 1994, Numar persoane,195
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 1995, Numar persoane,181
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 1996, Numar persoane,184
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 1997, Numar persoane,179
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 1998, Numar persoane,167
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 1992, Numar persoane,217
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 1993, Numar persoane,210
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 1994, Numar persoane,200
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 1995, Numar persoane,186
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 1996, Numar persoane,170
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 1997, Numar persoane,179
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 1998, Numar persoane,175
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 1992, Numar persoane,165
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 1993, Numar persoane,170
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 1994, Numar persoane,181
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 1995, Numar persoane,192
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 1996, Numar persoane,194
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 1997, Numar persoane,197
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 1998, Numar persoane,205
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 1992, Numar persoane,153
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 1993, Numar persoane,163
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 1994, Numar persoane,175
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 1995, Numar persoane,190
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 1996, Numar persoane,216
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 1997, Numar persoane,217
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 1998, Numar persoane,207
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 1992, Numar persoane,177
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 1993, Numar persoane,163
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 1994, Numar persoane,159
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 1995, Numar persoane,155
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 1996, Numar persoane,141
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 1997, Numar persoane,150
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 1998, Numar persoane,153
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 1992, Numar persoane,155
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 1993, Numar persoane,131
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 1994, Numar persoane,132
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 1995, Numar persoane,131
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 1996, Numar persoane,135
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 1997, Numar persoane,142
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 1998, Numar persoane,157
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 1992, Numar persoane,142
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 1993, Numar persoane,140
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 1994, Numar persoane,141
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 1995, Numar persoane,136
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 1996, Numar persoane,150
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 1997, Numar persoane,151
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 1998, Numar persoane,147
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 1992, Numar persoane,158
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 1993, Numar persoane,166
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 1994, Numar persoane,160
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 1995, Numar persoane,157
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 1996, Numar persoane,160
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 1997, Numar persoane,144
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 1998, Numar persoane,121
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 1992, Numar persoane,145
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 1993, Numar persoane,154
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 1994, Numar persoane,135
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 1995, Numar persoane,134
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 1996, Numar persoane,121
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 1997, Numar persoane,117
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 1998, Numar persoane,112
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 1992, Numar persoane,169
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 1993, Numar persoane,171
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 1994, Numar persoane,163
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 1995, Numar persoane,161
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 1996, Numar persoane,137
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 1997, Numar persoane,143
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 1998, Numar persoane,152
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 1992, Numar persoane,127
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 1993, Numar persoane,118
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 1994, Numar persoane,120
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 1995, Numar persoane,118
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 1996, Numar persoane,106
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 1997, Numar persoane,103
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 1998, Numar persoane,116
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 1992, Numar persoane,147
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 1993, Numar persoane,146
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 1994, Numar persoane,154
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 1995, Numar persoane,159
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 1996, Numar persoane,162
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 1997, Numar persoane,161
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 1998, Numar persoane,155
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 1992, Numar persoane,75
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 1993, Numar persoane,88
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 1994, Numar persoane,104
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 1995, Numar persoane,103
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 1996, Numar persoane,102
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 1997, Numar persoane,92
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 1998, Numar persoane,80
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 1992, Numar persoane,86
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 1993, Numar persoane,105
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 1994, Numar persoane,118
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 1995, Numar persoane,118
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 1996, Numar persoane,129
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 1997, Numar persoane,121
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 1998, Numar persoane,123
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 1992, Numar persoane,33
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 1993, Numar persoane,30
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 1994, Numar persoane,26
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 1995, Numar persoane,28
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 1996, Numar persoane,40
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 1997, Numar persoane,52
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 1998, Numar persoane,55
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 1992, Numar persoane,67
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 1993, Numar persoane,58
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 1994, Numar persoane,52
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 1995, Numar persoane,57
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 1996, Numar persoane,53
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 1997, Numar persoane,70
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 1998, Numar persoane,80
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 1992, Numar persoane,20
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 1993, Numar persoane,23
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 1994, Numar persoane,22
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 1995, Numar persoane,25
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 1996, Numar persoane,23
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 1997, Numar persoane,18
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 1998, Numar persoane,15
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 1992, Numar persoane,48
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 1993, Numar persoane,46
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 1994, Numar persoane,48
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 1995, Numar persoane,51
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 1996, Numar persoane,58
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 1997, Numar persoane,48
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 1998, Numar persoane,42
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 1992, Numar persoane,13
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 1993, Numar persoane,9
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 1994, Numar persoane,8
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 1995, Numar persoane,8
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 1996, Numar persoane,10
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 1997, Numar persoane,9
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 1998, Numar persoane,12
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 1992, Numar persoane,22
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 1993, Numar persoane,24
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 1994, Numar persoane,21
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 1995, Numar persoane,21
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 1996, Numar persoane,18
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 1997, Numar persoane,22
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 1998, Numar persoane,29
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 1999, Numar persoane,95
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2000, Numar persoane,101
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2001, Numar persoane,94
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2002, Numar persoane,100
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2003, Numar persoane,90
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2004, Numar persoane,85
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,77
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,84
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 1999, Numar persoane,76
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2000, Numar persoane,69
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2001, Numar persoane,67
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2002, Numar persoane,73
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2003, Numar persoane,76
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2004, Numar persoane,80
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,88
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,97
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 1999, Numar persoane,121
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2000, Numar persoane,120
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2001, Numar persoane,114
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2002, Numar persoane,104
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2003, Numar persoane,100
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2004, Numar persoane,104
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,107
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,99
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 1999, Numar persoane,109
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2000, Numar persoane,113
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2001, Numar persoane,102
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2002, Numar persoane,85
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2003, Numar persoane,80
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2004, Numar persoane,76
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,71
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,69
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 1999, Numar persoane,170
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2000, Numar persoane,157
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2001, Numar persoane,161
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2002, Numar persoane,147
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2003, Numar persoane,133
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2004, Numar persoane,126
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,123
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,122
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 1999, Numar persoane,163
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2000, Numar persoane,147
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2001, Numar persoane,147
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2002, Numar persoane,148
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2003, Numar persoane,132
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2004, Numar persoane,116
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,114
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,106
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 1999, Numar persoane,168
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2000, Numar persoane,167
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2001, Numar persoane,166
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2002, Numar persoane,160
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2003, Numar persoane,166
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2004, Numar persoane,168
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,160
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,163
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 1999, Numar persoane,151
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2000, Numar persoane,150
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2001, Numar persoane,149
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2002, Numar persoane,151
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2003, Numar persoane,159
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2004, Numar persoane,166
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,159
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,165
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 1999, Numar persoane,205
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2000, Numar persoane,211
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2001, Numar persoane,205
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2002, Numar persoane,200
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2003, Numar persoane,197
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2004, Numar persoane,182
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,182
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,185
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 1999, Numar persoane,182
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2000, Numar persoane,182
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2001, Numar persoane,189
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2002, Numar persoane,178
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2003, Numar persoane,167
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2004, Numar persoane,169
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,170
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,171
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 1999, Numar persoane,203
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2000, Numar persoane,199
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2001, Numar persoane,186
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2002, Numar persoane,198
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2003, Numar persoane,204
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2004, Numar persoane,218
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,221
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,219
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 1999, Numar persoane,168
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2000, Numar persoane,172
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2001, Numar persoane,162
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2002, Numar persoane,178
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2003, Numar persoane,169
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2004, Numar persoane,182
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,196
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,198
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 1999, Numar persoane,149
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2000, Numar persoane,165
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2001, Numar persoane,196
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2002, Numar persoane,215
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2003, Numar persoane,202
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2004, Numar persoane,195
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,204
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,200
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 1999, Numar persoane,140
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2000, Numar persoane,155
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2001, Numar persoane,174
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2002, Numar persoane,178
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2003, Numar persoane,190
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2004, Numar persoane,172
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,184
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,181
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 1999, Numar persoane,145
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2000, Numar persoane,130
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2001, Numar persoane,110
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2002, Numar persoane,100
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2003, Numar persoane,126
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2004, Numar persoane,140
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,172
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,206
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 1999, Numar persoane,133
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2000, Numar persoane,124
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2001, Numar persoane,113
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2002, Numar persoane,107
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2003, Numar persoane,121
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2004, Numar persoane,152
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,176
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,196
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 1999, Numar persoane,168
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2000, Numar persoane,167
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2001, Numar persoane,173
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2002, Numar persoane,160
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2003, Numar persoane,150
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2004, Numar persoane,151
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,137
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,124
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 1999, Numar persoane,179
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2000, Numar persoane,175
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2001, Numar persoane,165
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2002, Numar persoane,155
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2003, Numar persoane,152
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2004, Numar persoane,140
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,139
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,138
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 1999, Numar persoane,189
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2000, Numar persoane,184
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2001, Numar persoane,184
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2002, Numar persoane,185
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2003, Numar persoane,175
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2004, Numar persoane,178
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,176
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,183
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 1999, Numar persoane,204
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2000, Numar persoane,192
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2001, Numar persoane,178
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2002, Numar persoane,199
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2003, Numar persoane,196
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2004, Numar persoane,201
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,190
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,179
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 1999, Numar persoane,166
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2000, Numar persoane,182
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2001, Numar persoane,192
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2002, Numar persoane,193
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2003, Numar persoane,197
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2004, Numar persoane,193
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,186
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,191
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 1999, Numar persoane,167
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2000, Numar persoane,188
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2001, Numar persoane,220
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2002, Numar persoane,216
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2003, Numar persoane,207
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2004, Numar persoane,216
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,210
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,196
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 1999, Numar persoane,145
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2000, Numar persoane,143
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2001, Numar persoane,132
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2002, Numar persoane,136
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2003, Numar persoane,147
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2004, Numar persoane,161
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,186
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,191
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 1999, Numar persoane,124
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2000, Numar persoane,124
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2001, Numar persoane,122
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2002, Numar persoane,131
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2003, Numar persoane,152
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2004, Numar persoane,160
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,186
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,224
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 1999, Numar persoane,116
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2000, Numar persoane,116
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2001, Numar persoane,135
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2002, Numar persoane,135
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2003, Numar persoane,130
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2004, Numar persoane,135
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,131
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,122
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 1999, Numar persoane,146
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2000, Numar persoane,150
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2001, Numar persoane,152
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2002, Numar persoane,136
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2003, Numar persoane,117
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2004, Numar persoane,121
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,120
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,119
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 1999, Numar persoane,106
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2000, Numar persoane,108
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2001, Numar persoane,105
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2002, Numar persoane,98
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2003, Numar persoane,97
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2004, Numar persoane,100
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,99
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,111
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 1999, Numar persoane,150
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2000, Numar persoane,138
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2001, Numar persoane,123
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2002, Numar persoane,129
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2003, Numar persoane,136
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2004, Numar persoane,132
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,140
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,142
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 1999, Numar persoane,80
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2000, Numar persoane,89
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2001, Numar persoane,83
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2002, Numar persoane,92
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2003, Numar persoane,103
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2004, Numar persoane,95
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,93
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,87
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 1999, Numar persoane,128
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2000, Numar persoane,136
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2001, Numar persoane,139
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2002, Numar persoane,140
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2003, Numar persoane,137
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2004, Numar persoane,132
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,126
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,114
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 1999, Numar persoane,66
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2000, Numar persoane,69
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2001, Numar persoane,64
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2002, Numar persoane,60
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2003, Numar persoane,54
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2004, Numar persoane,60
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,64
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,63
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 1999, Numar persoane,90
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2000, Numar persoane,92
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2001, Numar persoane,102
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2002, Numar persoane,93
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2003, Numar persoane,97
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2004, Numar persoane,100
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,108
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,110
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 1999, Numar persoane,15
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2000, Numar persoane,13
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2001, Numar persoane,20
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2002, Numar persoane,25
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2003, Numar persoane,34
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2004, Numar persoane,37
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,35
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,32
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 1999, Numar persoane,34
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2000, Numar persoane,30
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2001, Numar persoane,31
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2002, Numar persoane,45
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2003, Numar persoane,52
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2004, Numar persoane,61
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,61
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,66
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 1999, Numar persoane,10
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2000, Numar persoane,10
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2001, Numar persoane,10
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2002, Numar persoane,6
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2003, Numar persoane,8
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2004, Numar persoane,7
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,10
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,12
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 1999, Numar persoane,29
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2000, Numar persoane,30
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2001, Numar persoane,34
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2002, Numar persoane,33
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2003, Numar persoane,31
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2004, Numar persoane,28
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,27
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,31
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,96
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,110
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,119
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,134
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,144
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,141
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,120
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,128
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,135
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,136
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,157
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,147
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,101
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,98
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,97
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,88
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,109
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,119
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,75
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,81
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,89
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,91
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,108
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,140
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,113
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,105
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,121
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,119
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,120
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,122
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,93
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,92
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,86
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,87
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,90
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,94
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,154
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,149
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,146
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,147
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,155
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,166
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,168
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,149
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,142
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,140
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,149
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,141
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,175
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,179
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,189
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,186
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,198
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,193
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,183
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,193
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,197
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,185
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,186
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,194
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,232
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,234
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,223
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,213
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,208
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,214
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,194
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,205
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,222
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,227
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,220
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,219
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,221
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,239
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,244
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,255
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,282
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,286
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,204
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,208
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,226
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,229
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,264
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,275
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,230
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,237
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,248
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,248
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,251
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,277
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,204
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,222
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,210
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,220
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,227
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,249
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,125
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,150
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,166
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,202
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,260
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,290
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,126
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,151
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,195
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,214
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,248
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,264
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,169
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,167
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,186
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,171
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,156
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,152
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,176
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,173
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,163
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,155
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,158
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,147
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,199
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,187
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,193
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,189
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,203
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,193
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,226
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,225
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,231
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,223
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,207
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,192
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,193
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,205
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,199
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,195
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,201
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,202
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,220
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,224
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,230
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,220
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,214
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,244
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,129
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,139
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,156
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,178
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,189
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,195
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,129
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,143
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,156
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,189
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,231
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,226
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,120
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,119
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,126
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,118
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,111
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,115
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,136
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,114
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,118
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,115
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,113
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,129
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,78
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,79
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,83
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,87
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,91
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,105
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,112
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,125
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,121
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,126
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,137
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,127
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,72
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,77
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,67
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,71
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,68
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,61
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,118
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,113
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,112
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,104
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,88
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,95
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,32
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,29
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,38
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,37
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,35
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,40
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,62
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,65
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,65
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,71
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,78
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,81
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,15
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,18
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,18
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,23
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,21
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,23
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,33
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,38
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,40
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,44
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,45
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,42
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,164
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,174
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,179
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,205
+ 155289 GHIRODA,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,217
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,147
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,138
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,145
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,146
+ 155289 GHIRODA,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,154
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,129
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,141
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,161
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,175
+ 155289 GHIRODA,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,182
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,157
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,172
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,177
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,182
+ 155289 GHIRODA,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,170
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,124
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,121
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,119
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,137
+ 155289 GHIRODA,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,151
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,92
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,115
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,120
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,142
+ 155289 GHIRODA,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,172
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,160
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,172
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,165
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,150
+ 155289 GHIRODA,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,162
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,146
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,140
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,137
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,140
+ 155289 GHIRODA,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,136
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,181
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,179
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,175
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,183
+ 155289 GHIRODA,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,186
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,194
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,191
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,180
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,178
+ 155289 GHIRODA,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,174
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,231
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,253
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,249
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,251
+ 155289 GHIRODA,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,222
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,227
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,237
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,235
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,253
+ 155289 GHIRODA,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,247
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,278
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,274
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,280
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,269
+ 155289 GHIRODA,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,283
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,285
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,295
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,284
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,282
+ 155289 GHIRODA,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,285
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,312
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,320
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,332
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,354
+ 155289 GHIRODA,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,353
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,270
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,293
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,318
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,333
+ 155289 GHIRODA,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,342
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,293
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,297
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,305
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,296
+ 155289 GHIRODA,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,328
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,278
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,249
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,263
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,263
+ 155289 GHIRODA,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,285
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,185
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,208
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,244
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,299
+ 155289 GHIRODA,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,336
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,180
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,230
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,245
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,274
+ 155289 GHIRODA,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,296
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,188
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,201
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,188
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,178
+ 155289 GHIRODA,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,167
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,180
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,172
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,174
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,183
+ 155289 GHIRODA,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,172
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,185
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,189
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,184
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,197
+ 155289 GHIRODA,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,197
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,237
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,241
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,228
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,207
+ 155289 GHIRODA,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,195
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,206
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,192
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,192
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,183
+ 155289 GHIRODA,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,184
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,228
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,236
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,225
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,225
+ 155289 GHIRODA,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,252
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,128
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,147
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,166
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,180
+ 155289 GHIRODA,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,190
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,150
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,164
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,198
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,232
+ 155289 GHIRODA,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,232
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,105
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,107
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,101
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,101
+ 155289 GHIRODA,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,104
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,113
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,109
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,109
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,114
+ 155289 GHIRODA,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,126
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,55
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,61
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,67
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,74
+ 155289 GHIRODA,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,85
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,110
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,112
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,113
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,116
+ 155289 GHIRODA,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,109
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,51
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,47
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,49
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,45
+ 155289 GHIRODA,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,42
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,74
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,70
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,66
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,65
+ 155289 GHIRODA,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,67
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,23
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,31
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,30
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,29
+ 155289 GHIRODA,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,34
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,47
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,47
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,48
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,51
+ 155289 GHIRODA,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,57

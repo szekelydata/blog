@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2009, Numar persoane,243
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2010, Numar persoane,272
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2011, Numar persoane,275
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2012, Numar persoane,255
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2013, Numar persoane,225
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2014, Numar persoane,216
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2015, Numar persoane,204
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2016, Numar persoane,198
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2017, Numar persoane,190
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2009, Numar persoane,207
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2010, Numar persoane,200
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2011, Numar persoane,210
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2012, Numar persoane,220
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2013, Numar persoane,228
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2014, Numar persoane,240
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2015, Numar persoane,260
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2016, Numar persoane,254
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2017, Numar persoane,239
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2009, Numar persoane,224
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2010, Numar persoane,221
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2011, Numar persoane,232
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2012, Numar persoane,243
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2013, Numar persoane,247
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2014, Numar persoane,220
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2015, Numar persoane,198
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2016, Numar persoane,198
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2017, Numar persoane,211
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2009, Numar persoane,256
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2010, Numar persoane,243
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2011, Numar persoane,214
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2012, Numar persoane,203
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2013, Numar persoane,199
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2014, Numar persoane,216
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2015, Numar persoane,214
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2016, Numar persoane,224
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2017, Numar persoane,230
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2009, Numar persoane,310
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2010, Numar persoane,303
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2011, Numar persoane,319
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2012, Numar persoane,288
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2013, Numar persoane,270
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2014, Numar persoane,249
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2015, Numar persoane,242
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2016, Numar persoane,210
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2017, Numar persoane,196
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2009, Numar persoane,373
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2010, Numar persoane,360
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2011, Numar persoane,341
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2012, Numar persoane,323
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2013, Numar persoane,308
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2014, Numar persoane,304
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2015, Numar persoane,300
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2016, Numar persoane,317
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2017, Numar persoane,287
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2009, Numar persoane,369
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2010, Numar persoane,369
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2011, Numar persoane,355
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2012, Numar persoane,370
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2013, Numar persoane,373
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2014, Numar persoane,357
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2015, Numar persoane,341
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2016, Numar persoane,323
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2017, Numar persoane,309
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2009, Numar persoane,309
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2010, Numar persoane,321
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2011, Numar persoane,325
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2012, Numar persoane,337
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2013, Numar persoane,348
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2014, Numar persoane,358
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2015, Numar persoane,359
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2016, Numar persoane,342
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2017, Numar persoane,355
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2009, Numar persoane,262
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2010, Numar persoane,279
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2011, Numar persoane,310
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2012, Numar persoane,325
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2013, Numar persoane,324
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2014, Numar persoane,312
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2015, Numar persoane,320
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2016, Numar persoane,322
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2017, Numar persoane,330
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2009, Numar persoane,246
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2010, Numar persoane,248
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2011, Numar persoane,249
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2012, Numar persoane,256
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2013, Numar persoane,255
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2014, Numar persoane,268
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2015, Numar persoane,281
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2016, Numar persoane,312
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2017, Numar persoane,326
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2009, Numar persoane,265
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2010, Numar persoane,273
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2011, Numar persoane,253
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2012, Numar persoane,238
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2013, Numar persoane,236
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2014, Numar persoane,248
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2015, Numar persoane,252
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2016, Numar persoane,248
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2017, Numar persoane,256
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2009, Numar persoane,260
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2010, Numar persoane,242
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2011, Numar persoane,261
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2012, Numar persoane,253
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2013, Numar persoane,257
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2014, Numar persoane,250
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2015, Numar persoane,258
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2016, Numar persoane,244
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2017, Numar persoane,236
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2009, Numar persoane,149
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2010, Numar persoane,169
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2011, Numar persoane,176
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2012, Numar persoane,192
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2013, Numar persoane,216
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2014, Numar persoane,233
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2015, Numar persoane,216
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2016, Numar persoane,229
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2017, Numar persoane,226
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2009, Numar persoane,138
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2010, Numar persoane,139
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2011, Numar persoane,140
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2012, Numar persoane,130
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2013, Numar persoane,133
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2014, Numar persoane,127
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2015, Numar persoane,152
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2016, Numar persoane,156
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2017, Numar persoane,170
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2009, Numar persoane,112
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2010, Numar persoane,114
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2011, Numar persoane,111
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2012, Numar persoane,123
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2013, Numar persoane,115
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2014, Numar persoane,115
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2015, Numar persoane,109
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2016, Numar persoane,114
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2017, Numar persoane,109
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2009, Numar persoane,68
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2010, Numar persoane,77
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2011, Numar persoane,77
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2012, Numar persoane,77
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2013, Numar persoane,73
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2014, Numar persoane,81
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2015, Numar persoane,84
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2016, Numar persoane,87
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2017, Numar persoane,96
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2009, Numar persoane,44
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2010, Numar persoane,44
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2011, Numar persoane,40
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2012, Numar persoane,44
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2013, Numar persoane,51
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2014, Numar persoane,55
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2015, Numar persoane,54
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2016, Numar persoane,56
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2017, Numar persoane,52
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2009, Numar persoane,14
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2010, Numar persoane,11
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2011, Numar persoane,19
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2012, Numar persoane,22
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2013, Numar persoane,27
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2014, Numar persoane,26
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2015, Numar persoane,23
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2016, Numar persoane,26
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2017, Numar persoane,32
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 1992, Numar persoane,312
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 1993, Numar persoane,306
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 1994, Numar persoane,296
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 1995, Numar persoane,277
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 1996, Numar persoane,248
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 1997, Numar persoane,238
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 1998, Numar persoane,221
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 1999, Numar persoane,235
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2000, Numar persoane,226
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2001, Numar persoane,233
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2002, Numar persoane,244
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2003, Numar persoane,236
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2004, Numar persoane,212
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2005, Numar persoane,205
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2006, Numar persoane,202
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2007, Numar persoane,210
+ 83749 ORAS VLAHITA,0- 4 ani, Masculin, Harghita, Anul 2008, Numar persoane,229
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 1992, Numar persoane,346
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 1993, Numar persoane,325
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 1994, Numar persoane,321
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 1995, Numar persoane,328
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 1996, Numar persoane,337
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 1997, Numar persoane,311
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 1998, Numar persoane,296
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 1999, Numar persoane,273
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2000, Numar persoane,252
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2001, Numar persoane,229
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2002, Numar persoane,220
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2003, Numar persoane,214
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2004, Numar persoane,226
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2005, Numar persoane,219
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2006, Numar persoane,226
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2007, Numar persoane,234
+ 83749 ORAS VLAHITA,5- 9 ani, Masculin, Harghita, Anul 2008, Numar persoane,234
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 1992, Numar persoane,411
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 1993, Numar persoane,412
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 1994, Numar persoane,408
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 1995, Numar persoane,381
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 1996, Numar persoane,363
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 1997, Numar persoane,339
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 1998, Numar persoane,331
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 1999, Numar persoane,327
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2000, Numar persoane,318
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2001, Numar persoane,331
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2002, Numar persoane,298
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2003, Numar persoane,282
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2004, Numar persoane,267
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2005, Numar persoane,250
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2006, Numar persoane,225
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2007, Numar persoane,211
+ 83749 ORAS VLAHITA,10-14 ani, Masculin, Harghita, Anul 2008, Numar persoane,203
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 1992, Numar persoane,392
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 1993, Numar persoane,398
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 1994, Numar persoane,415
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 1995, Numar persoane,403
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 1996, Numar persoane,389
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 1997, Numar persoane,401
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 1998, Numar persoane,405
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 1999, Numar persoane,393
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2000, Numar persoane,379
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2001, Numar persoane,362
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2002, Numar persoane,337
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2003, Numar persoane,326
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2004, Numar persoane,310
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2005, Numar persoane,307
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2006, Numar persoane,321
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2007, Numar persoane,294
+ 83749 ORAS VLAHITA,15-19 ani, Masculin, Harghita, Anul 2008, Numar persoane,277
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 1992, Numar persoane,356
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 1993, Numar persoane,353
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 1994, Numar persoane,341
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 1995, Numar persoane,363
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 1996, Numar persoane,368
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 1997, Numar persoane,378
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 1998, Numar persoane,381
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 1999, Numar persoane,402
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2000, Numar persoane,394
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2001, Numar persoane,380
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2002, Numar persoane,393
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2003, Numar persoane,398
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2004, Numar persoane,391
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2005, Numar persoane,374
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2006, Numar persoane,355
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2007, Numar persoane,330
+ 83749 ORAS VLAHITA,20-24 ani, Masculin, Harghita, Anul 2008, Numar persoane,320
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 1992, Numar persoane,285
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 1993, Numar persoane,278
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 1994, Numar persoane,291
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 1995, Numar persoane,310
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 1996, Numar persoane,319
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 1997, Numar persoane,341
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 1998, Numar persoane,340
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 1999, Numar persoane,329
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2000, Numar persoane,351
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2001, Numar persoane,350
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2002, Numar persoane,372
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2003, Numar persoane,375
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2004, Numar persoane,387
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2005, Numar persoane,381
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2006, Numar persoane,362
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2007, Numar persoane,379
+ 83749 ORAS VLAHITA,25-29 ani, Masculin, Harghita, Anul 2008, Numar persoane,384
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 1992, Numar persoane,298
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 1993, Numar persoane,288
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 1994, Numar persoane,288
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 1995, Numar persoane,280
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 1996, Numar persoane,276
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 1997, Numar persoane,273
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 1998, Numar persoane,257
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 1999, Numar persoane,271
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2000, Numar persoane,289
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2001, Numar persoane,314
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2002, Numar persoane,334
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2003, Numar persoane,333
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2004, Numar persoane,327
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2005, Numar persoane,335
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2006, Numar persoane,337
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2007, Numar persoane,349
+ 83749 ORAS VLAHITA,30-34 ani, Masculin, Harghita, Anul 2008, Numar persoane,360
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 1992, Numar persoane,330
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 1993, Numar persoane,328
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 1994, Numar persoane,327
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 1995, Numar persoane,323
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 1996, Numar persoane,297
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 1997, Numar persoane,274
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 1998, Numar persoane,270
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 1999, Numar persoane,266
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2000, Numar persoane,265
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2001, Numar persoane,256
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2002, Numar persoane,258
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2003, Numar persoane,253
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2004, Numar persoane,267
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2005, Numar persoane,281
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2006, Numar persoane,305
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2007, Numar persoane,320
+ 83749 ORAS VLAHITA,35-39 ani, Masculin, Harghita, Anul 2008, Numar persoane,319
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 1992, Numar persoane,256
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 1993, Numar persoane,285
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 1994, Numar persoane,304
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 1995, Numar persoane,292
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 1996, Numar persoane,315
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 1997, Numar persoane,311
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 1998, Numar persoane,305
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 1999, Numar persoane,301
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2000, Numar persoane,295
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2001, Numar persoane,271
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2002, Numar persoane,253
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2003, Numar persoane,252
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2004, Numar persoane,255
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2005, Numar persoane,252
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2006, Numar persoane,250
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2007, Numar persoane,253
+ 83749 ORAS VLAHITA,40-44 ani, Masculin, Harghita, Anul 2008, Numar persoane,249
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 1992, Numar persoane,211
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 1993, Numar persoane,212
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 1994, Numar persoane,205
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 1995, Numar persoane,221
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 1996, Numar persoane,227
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 1997, Numar persoane,239
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 1998, Numar persoane,266
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 1999, Numar persoane,281
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2000, Numar persoane,271
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2001, Numar persoane,292
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2002, Numar persoane,285
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2003, Numar persoane,281
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2004, Numar persoane,281
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2005, Numar persoane,280
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2006, Numar persoane,263
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2007, Numar persoane,251
+ 83749 ORAS VLAHITA,45-49 ani, Masculin, Harghita, Anul 2008, Numar persoane,242
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 1992, Numar persoane,222
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 1993, Numar persoane,203
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 1994, Numar persoane,191
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 1995, Numar persoane,205
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 1996, Numar persoane,208
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 1997, Numar persoane,199
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 1998, Numar persoane,203
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 1999, Numar persoane,192
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2000, Numar persoane,206
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2001, Numar persoane,207
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2002, Numar persoane,221
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2003, Numar persoane,246
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2004, Numar persoane,265
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2005, Numar persoane,254
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2006, Numar persoane,271
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2007, Numar persoane,270
+ 83749 ORAS VLAHITA,50-54 ani, Masculin, Harghita, Anul 2008, Numar persoane,272
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 1992, Numar persoane,196
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 1993, Numar persoane,197
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 1994, Numar persoane,203
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 1995, Numar persoane,202
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 1996, Numar persoane,189
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 1997, Numar persoane,197
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 1998, Numar persoane,180
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 1999, Numar persoane,178
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2000, Numar persoane,186
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2001, Numar persoane,195
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2002, Numar persoane,185
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2003, Numar persoane,187
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2004, Numar persoane,177
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2005, Numar persoane,190
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2006, Numar persoane,191
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2007, Numar persoane,209
+ 83749 ORAS VLAHITA,55-59 ani, Masculin, Harghita, Anul 2008, Numar persoane,237
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 1992, Numar persoane,160
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 1993, Numar persoane,168
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 1994, Numar persoane,157
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 1995, Numar persoane,161
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 1996, Numar persoane,167
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 1997, Numar persoane,171
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 1998, Numar persoane,168
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 1999, Numar persoane,175
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2000, Numar persoane,178
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2001, Numar persoane,167
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2002, Numar persoane,176
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2003, Numar persoane,160
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2004, Numar persoane,163
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2005, Numar persoane,168
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2006, Numar persoane,175
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2007, Numar persoane,159
+ 83749 ORAS VLAHITA,60-64 ani, Masculin, Harghita, Anul 2008, Numar persoane,159
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 1992, Numar persoane,100
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 1993, Numar persoane,107
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 1994, Numar persoane,120
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 1995, Numar persoane,128
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 1996, Numar persoane,138
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 1997, Numar persoane,136
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 1998, Numar persoane,141
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 1999, Numar persoane,128
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2000, Numar persoane,134
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2001, Numar persoane,134
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2002, Numar persoane,144
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2003, Numar persoane,138
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2004, Numar persoane,145
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2005, Numar persoane,145
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2006, Numar persoane,140
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2007, Numar persoane,149
+ 83749 ORAS VLAHITA,65-69 ani, Masculin, Harghita, Anul 2008, Numar persoane,140
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 1992, Numar persoane,65
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 1993, Numar persoane,70
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 1994, Numar persoane,83
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 1995, Numar persoane,74
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 1996, Numar persoane,78
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 1997, Numar persoane,76
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 1998, Numar persoane,77
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 1999, Numar persoane,92
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2000, Numar persoane,94
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2001, Numar persoane,103
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2002, Numar persoane,102
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2003, Numar persoane,105
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2004, Numar persoane,95
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2005, Numar persoane,109
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2006, Numar persoane,105
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2007, Numar persoane,105
+ 83749 ORAS VLAHITA,70-74 ani, Masculin, Harghita, Anul 2008, Numar persoane,107
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 1992, Numar persoane,29
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 1993, Numar persoane,23
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 1994, Numar persoane,22
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 1995, Numar persoane,32
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 1996, Numar persoane,35
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 1997, Numar persoane,38
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 1998, Numar persoane,47
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 1999, Numar persoane,54
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2000, Numar persoane,46
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2001, Numar persoane,50
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2002, Numar persoane,52
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2003, Numar persoane,56
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2004, Numar persoane,65
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2005, Numar persoane,64
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2006, Numar persoane,67
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2007, Numar persoane,69
+ 83749 ORAS VLAHITA,75-79 ani, Masculin, Harghita, Anul 2008, Numar persoane,76
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 1992, Numar persoane,36
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 1993, Numar persoane,35
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 1994, Numar persoane,31
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 1995, Numar persoane,27
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 1996, Numar persoane,17
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 1997, Numar persoane,11
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 1998, Numar persoane,9
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 1999, Numar persoane,8
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2000, Numar persoane,16
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2001, Numar persoane,18
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2002, Numar persoane,21
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2003, Numar persoane,26
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2004, Numar persoane,33
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2005, Numar persoane,28
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2006, Numar persoane,31
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2007, Numar persoane,33
+ 83749 ORAS VLAHITA,80-84 ani, Masculin, Harghita, Anul 2008, Numar persoane,36
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 1992, Numar persoane,8
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 1993, Numar persoane,10
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 1994, Numar persoane,11
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 1995, Numar persoane,12
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 1996, Numar persoane,16
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 1997, Numar persoane,21
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 1998, Numar persoane,18
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 1999, Numar persoane,17
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2000, Numar persoane,9
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2001, Numar persoane,8
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2002, Numar persoane,8
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2003, Numar persoane,5
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2004, Numar persoane,4
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2005, Numar persoane,10
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2006, Numar persoane,9
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2007, Numar persoane,9
+ 83749 ORAS VLAHITA,85 ani si peste, Masculin, Harghita, Anul 2008, Numar persoane,12
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 1992, Numar persoane,346
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 1993, Numar persoane,318
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 1994, Numar persoane,271
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 1995, Numar persoane,257
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 1996, Numar persoane,237
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 1997, Numar persoane,227
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 1998, Numar persoane,234
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 1999, Numar persoane,235
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2000, Numar persoane,225
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2001, Numar persoane,214
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2002, Numar persoane,213
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2003, Numar persoane,191
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2004, Numar persoane,184
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2005, Numar persoane,182
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2006, Numar persoane,193
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 1992, Numar persoane,380
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 1993, Numar persoane,354
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 1994, Numar persoane,387
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 1995, Numar persoane,375
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 1996, Numar persoane,360
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 1997, Numar persoane,346
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 1998, Numar persoane,314
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 1999, Numar persoane,261
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2000, Numar persoane,240
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2001, Numar persoane,221
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2002, Numar persoane,207
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2003, Numar persoane,223
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2004, Numar persoane,229
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2005, Numar persoane,216
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2006, Numar persoane,212
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 1992, Numar persoane,402
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 1993, Numar persoane,403
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 1994, Numar persoane,374
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 1995, Numar persoane,386
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 1996, Numar persoane,378
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 1997, Numar persoane,363
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 1998, Numar persoane,343
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 1999, Numar persoane,371
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2000, Numar persoane,359
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2001, Numar persoane,344
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2002, Numar persoane,333
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2003, Numar persoane,300
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2004, Numar persoane,249
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2005, Numar persoane,230
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2006, Numar persoane,216
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 1992, Numar persoane,355
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 1993, Numar persoane,376
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 1994, Numar persoane,384
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 1995, Numar persoane,383
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 1996, Numar persoane,383
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 1997, Numar persoane,393
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 1998, Numar persoane,390
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 1999, Numar persoane,357
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2000, Numar persoane,368
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2001, Numar persoane,360
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2002, Numar persoane,342
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2003, Numar persoane,338
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2004, Numar persoane,361
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2005, Numar persoane,355
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2006, Numar persoane,339
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 1992, Numar persoane,382
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 1993, Numar persoane,364
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 1994, Numar persoane,366
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 1995, Numar persoane,364
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 1996, Numar persoane,355
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 1997, Numar persoane,345
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 1998, Numar persoane,360
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 1999, Numar persoane,366
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2000, Numar persoane,373
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2001, Numar persoane,363
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2002, Numar persoane,378
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2003, Numar persoane,372
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2004, Numar persoane,349
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2005, Numar persoane,353
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2006, Numar persoane,352
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 1992, Numar persoane,227
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 1993, Numar persoane,236
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 1994, Numar persoane,278
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 1995, Numar persoane,305
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 1996, Numar persoane,332
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 1997, Numar persoane,366
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 1998, Numar persoane,342
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 1999, Numar persoane,337
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2000, Numar persoane,313
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2001, Numar persoane,317
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2002, Numar persoane,313
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2003, Numar persoane,315
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2004, Numar persoane,334
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2005, Numar persoane,337
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2006, Numar persoane,334
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 1992, Numar persoane,285
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 1993, Numar persoane,278
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 1994, Numar persoane,257
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 1995, Numar persoane,245
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 1996, Numar persoane,243
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 1997, Numar persoane,215
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 1998, Numar persoane,227
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 1999, Numar persoane,259
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2000, Numar persoane,273
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2001, Numar persoane,294
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2002, Numar persoane,332
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2003, Numar persoane,326
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2004, Numar persoane,314
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2005, Numar persoane,298
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2006, Numar persoane,297
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 1992, Numar persoane,274
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 1993, Numar persoane,280
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 1994, Numar persoane,268
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 1995, Numar persoane,261
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 1996, Numar persoane,249
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 1997, Numar persoane,271
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 1998, Numar persoane,267
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 1999, Numar persoane,250
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2000, Numar persoane,241
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2001, Numar persoane,244
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2002, Numar persoane,208
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2003, Numar persoane,217
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2004, Numar persoane,248
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2005, Numar persoane,266
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2006, Numar persoane,286
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 1992, Numar persoane,232
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 1993, Numar persoane,238
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 1994, Numar persoane,267
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 1995, Numar persoane,282
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 1996, Numar persoane,274
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 1997, Numar persoane,261
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 1998, Numar persoane,268
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 1999, Numar persoane,257
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2000, Numar persoane,255
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2001, Numar persoane,240
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2002, Numar persoane,261
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2003, Numar persoane,255
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2004, Numar persoane,240
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2005, Numar persoane,234
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2006, Numar persoane,235
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 1992, Numar persoane,197
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 1993, Numar persoane,204
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 1994, Numar persoane,191
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 1995, Numar persoane,190
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 1996, Numar persoane,219
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 1997, Numar persoane,229
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 1998, Numar persoane,234
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 1999, Numar persoane,262
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2000, Numar persoane,275
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2001, Numar persoane,269
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2002, Numar persoane,250
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2003, Numar persoane,257
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2004, Numar persoane,245
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2005, Numar persoane,236
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2006, Numar persoane,225
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 1992, Numar persoane,203
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 1993, Numar persoane,199
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 1994, Numar persoane,212
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 1995, Numar persoane,203
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 1996, Numar persoane,189
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 1997, Numar persoane,195
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 1998, Numar persoane,197
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 1999, Numar persoane,182
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2000, Numar persoane,181
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2001, Numar persoane,208
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2002, Numar persoane,215
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2003, Numar persoane,218
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2004, Numar persoane,246
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2005, Numar persoane,260
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2006, Numar persoane,255
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 1992, Numar persoane,175
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 1993, Numar persoane,175
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 1994, Numar persoane,168
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 1995, Numar persoane,182
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 1996, Numar persoane,195
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 1997, Numar persoane,193
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 1998, Numar persoane,191
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 1999, Numar persoane,203
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2000, Numar persoane,192
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2001, Numar persoane,180
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2002, Numar persoane,184
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2003, Numar persoane,194
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2004, Numar persoane,176
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2005, Numar persoane,172
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2006, Numar persoane,198
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 1992, Numar persoane,156
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 1993, Numar persoane,156
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 1994, Numar persoane,164
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 1995, Numar persoane,164
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 1996, Numar persoane,161
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 1997, Numar persoane,167
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 1998, Numar persoane,166
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 1999, Numar persoane,159
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2000, Numar persoane,172
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2001, Numar persoane,183
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2002, Numar persoane,181
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2003, Numar persoane,181
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2004, Numar persoane,194
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2005, Numar persoane,187
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2006, Numar persoane,172
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 1992, Numar persoane,129
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 1993, Numar persoane,136
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 1994, Numar persoane,141
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 1995, Numar persoane,147
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 1996, Numar persoane,150
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 1997, Numar persoane,139
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 1998, Numar persoane,142
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 1999, Numar persoane,147
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2000, Numar persoane,153
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2001, Numar persoane,151
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2002, Numar persoane,158
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2003, Numar persoane,152
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2004, Numar persoane,148
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2005, Numar persoane,154
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2006, Numar persoane,167
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 1992, Numar persoane,89
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 1993, Numar persoane,102
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 1994, Numar persoane,105
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 1995, Numar persoane,101
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 1996, Numar persoane,108
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 1997, Numar persoane,120
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 1998, Numar persoane,121
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 1999, Numar persoane,125
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2000, Numar persoane,124
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2001, Numar persoane,126
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2002, Numar persoane,112
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2003, Numar persoane,122
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2004, Numar persoane,132
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2005, Numar persoane,140
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2006, Numar persoane,141
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 1992, Numar persoane,50
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 1993, Numar persoane,45
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 1994, Numar persoane,41
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 1995, Numar persoane,46
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 1996, Numar persoane,54
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 1997, Numar persoane,66
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 1998, Numar persoane,80
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 1999, Numar persoane,80
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2000, Numar persoane,78
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2001, Numar persoane,80
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2002, Numar persoane,90
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2003, Numar persoane,89
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2004, Numar persoane,91
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2005, Numar persoane,92
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2006, Numar persoane,92
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 1992, Numar persoane,43
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 1993, Numar persoane,42
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 1994, Numar persoane,46
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 1995, Numar persoane,49
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 1996, Numar persoane,36
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 1997, Numar persoane,33
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 1998, Numar persoane,28
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 1999, Numar persoane,27
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2000, Numar persoane,28
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2001, Numar persoane,32
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2002, Numar persoane,43
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2003, Numar persoane,51
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2004, Numar persoane,52
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2005, Numar persoane,49
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2006, Numar persoane,52
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 1992, Numar persoane,20
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 1993, Numar persoane,18
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 1994, Numar persoane,19
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 1995, Numar persoane,20
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 1996, Numar persoane,28
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 1997, Numar persoane,28
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 1998, Numar persoane,28
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 1999, Numar persoane,26
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2000, Numar persoane,32
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2001, Numar persoane,28
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2002, Numar persoane,23
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2003, Numar persoane,20
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2004, Numar persoane,17
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2005, Numar persoane,22
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2006, Numar persoane,23
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2007, Numar persoane,196
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2008, Numar persoane,216
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2009, Numar persoane,219
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2010, Numar persoane,224
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2011, Numar persoane,217
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2012, Numar persoane,200
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2013, Numar persoane,190
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2014, Numar persoane,189
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2015, Numar persoane,184
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2016, Numar persoane,180
+ 83749 ORAS VLAHITA,0- 4 ani, Feminin, Harghita, Anul 2017, Numar persoane,188
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2007, Numar persoane,212
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2008, Numar persoane,192
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2009, Numar persoane,191
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2010, Numar persoane,188
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2011, Numar persoane,197
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2012, Numar persoane,193
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2013, Numar persoane,201
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2014, Numar persoane,210
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2015, Numar persoane,212
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2016, Numar persoane,213
+ 83749 ORAS VLAHITA,5- 9 ani, Feminin, Harghita, Anul 2017, Numar persoane,199
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2007, Numar persoane,201
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2008, Numar persoane,221
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2009, Numar persoane,223
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2010, Numar persoane,221
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2011, Numar persoane,213
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2012, Numar persoane,217
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2013, Numar persoane,199
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2014, Numar persoane,186
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2015, Numar persoane,182
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2016, Numar persoane,194
+ 83749 ORAS VLAHITA,10-14 ani, Feminin, Harghita, Anul 2017, Numar persoane,192
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2007, Numar persoane,323
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2008, Numar persoane,284
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2009, Numar persoane,238
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2010, Numar persoane,219
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2011, Numar persoane,209
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2012, Numar persoane,200
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2013, Numar persoane,219
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2014, Numar persoane,223
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2015, Numar persoane,219
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2016, Numar persoane,205
+ 83749 ORAS VLAHITA,15-19 ani, Feminin, Harghita, Anul 2017, Numar persoane,208
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2007, Numar persoane,336
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2008, Numar persoane,335
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2009, Numar persoane,354
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2010, Numar persoane,350
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2011, Numar persoane,333
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2012, Numar persoane,319
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2013, Numar persoane,280
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2014, Numar persoane,236
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2015, Numar persoane,211
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2016, Numar persoane,207
+ 83749 ORAS VLAHITA,20-24 ani, Feminin, Harghita, Anul 2017, Numar persoane,204
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2007, Numar persoane,350
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2008, Numar persoane,354
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2009, Numar persoane,331
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2010, Numar persoane,340
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2011, Numar persoane,339
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2012, Numar persoane,316
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2013, Numar persoane,302
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2014, Numar persoane,318
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2015, Numar persoane,320
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2016, Numar persoane,308
+ 83749 ORAS VLAHITA,25-29 ani, Feminin, Harghita, Anul 2017, Numar persoane,291
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2007, Numar persoane,291
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2008, Numar persoane,293
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2009, Numar persoane,308
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2010, Numar persoane,325
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2011, Numar persoane,328
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2012, Numar persoane,328
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2013, Numar persoane,339
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2014, Numar persoane,317
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2015, Numar persoane,324
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2016, Numar persoane,317
+ 83749 ORAS VLAHITA,30-34 ani, Feminin, Harghita, Anul 2017, Numar persoane,302
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2007, Numar persoane,318
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2008, Numar persoane,311
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2009, Numar persoane,299
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2010, Numar persoane,285
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2011, Numar persoane,287
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2012, Numar persoane,287
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2013, Numar persoane,291
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2014, Numar persoane,308
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2015, Numar persoane,321
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2016, Numar persoane,316
+ 83749 ORAS VLAHITA,35-39 ani, Feminin, Harghita, Anul 2017, Numar persoane,328
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2007, Numar persoane,202
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2008, Numar persoane,213
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2009, Numar persoane,242
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2010, Numar persoane,266
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2011, Numar persoane,283
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2012, Numar persoane,314
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2013, Numar persoane,306
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2014, Numar persoane,291
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2015, Numar persoane,282
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2016, Numar persoane,289
+ 83749 ORAS VLAHITA,40-44 ani, Feminin, Harghita, Anul 2017, Numar persoane,289
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2007, Numar persoane,249
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2008, Numar persoane,247
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2009, Numar persoane,242
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2010, Numar persoane,236
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2011, Numar persoane,237
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2012, Numar persoane,205
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2013, Numar persoane,216
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2014, Numar persoane,243
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2015, Numar persoane,261
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2016, Numar persoane,281
+ 83749 ORAS VLAHITA,45-49 ani, Feminin, Harghita, Anul 2017, Numar persoane,310
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2007, Numar persoane,242
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2008, Numar persoane,248
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2009, Numar persoane,235
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2010, Numar persoane,233
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2011, Numar persoane,219
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2012, Numar persoane,242
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2013, Numar persoane,238
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2014, Numar persoane,231
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2015, Numar persoane,227
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2016, Numar persoane,231
+ 83749 ORAS VLAHITA,50-54 ani, Feminin, Harghita, Anul 2017, Numar persoane,199
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2007, Numar persoane,209
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2008, Numar persoane,212
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2009, Numar persoane,237
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2010, Numar persoane,253
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2011, Numar persoane,248
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2012, Numar persoane,235
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2013, Numar persoane,243
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2014, Numar persoane,231
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2015, Numar persoane,227
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2016, Numar persoane,217
+ 83749 ORAS VLAHITA,55-59 ani, Feminin, Harghita, Anul 2017, Numar persoane,235
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2007, Numar persoane,177
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2008, Numar persoane,185
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2009, Numar persoane,169
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2010, Numar persoane,165
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2011, Numar persoane,190
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2012, Numar persoane,201
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2013, Numar persoane,205
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2014, Numar persoane,235
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2015, Numar persoane,248
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2016, Numar persoane,243
+ 83749 ORAS VLAHITA,60-64 ani, Feminin, Harghita, Anul 2017, Numar persoane,232
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2007, Numar persoane,161
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2008, Numar persoane,164
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2009, Numar persoane,182
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2010, Numar persoane,179
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2011, Numar persoane,168
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2012, Numar persoane,171
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2013, Numar persoane,180
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2014, Numar persoane,164
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2015, Numar persoane,158
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2016, Numar persoane,182
+ 83749 ORAS VLAHITA,65-69 ani, Feminin, Harghita, Anul 2017, Numar persoane,196
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2007, Numar persoane,143
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2008, Numar persoane,133
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2009, Numar persoane,127
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2010, Numar persoane,139
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2011, Numar persoane,150
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2012, Numar persoane,148
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2013, Numar persoane,152
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2014, Numar persoane,170
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2015, Numar persoane,171
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2016, Numar persoane,155
+ 83749 ORAS VLAHITA,70-74 ani, Feminin, Harghita, Anul 2017, Numar persoane,159
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2007, Numar persoane,87
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2008, Numar persoane,99
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2009, Numar persoane,99
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2010, Numar persoane,105
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2011, Numar persoane,103
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2012, Numar persoane,112
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2013, Numar persoane,102
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2014, Numar persoane,106
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2015, Numar persoane,116
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2016, Numar persoane,131
+ 83749 ORAS VLAHITA,75-79 ani, Feminin, Harghita, Anul 2017, Numar persoane,130
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2007, Numar persoane,57
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2008, Numar persoane,54
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2009, Numar persoane,61
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2010, Numar persoane,55
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2011, Numar persoane,58
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2012, Numar persoane,60
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2013, Numar persoane,67
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2014, Numar persoane,67
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2015, Numar persoane,74
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2016, Numar persoane,73
+ 83749 ORAS VLAHITA,80-84 ani, Feminin, Harghita, Anul 2017, Numar persoane,77
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2007, Numar persoane,23
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2008, Numar persoane,27
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2009, Numar persoane,26
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2010, Numar persoane,30
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2011, Numar persoane,35
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2012, Numar persoane,37
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2013, Numar persoane,38
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2014, Numar persoane,43
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2015, Numar persoane,45
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2016, Numar persoane,47
+ 83749 ORAS VLAHITA,85 ani si peste, Feminin, Harghita, Anul 2017, Numar persoane,45

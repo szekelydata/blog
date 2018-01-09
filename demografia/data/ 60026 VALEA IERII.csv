@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,70
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,61
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,56
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,50
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,43
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,48
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,46
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,39
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,31
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,58
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,53
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,47
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,41
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,33
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,34
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,35
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,30
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,26
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,48
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,56
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,62
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,61
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,64
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,66
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,56
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,51
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,47
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,65
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,66
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,63
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,59
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,56
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,54
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,49
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,47
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,40
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,40
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,39
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,41
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,47
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,51
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,46
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,54
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,57
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,55
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,38
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,43
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,54
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,59
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,59
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,63
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,61
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,58
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,55
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,52
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,48
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,46
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,39
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,33
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,39
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,37
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,40
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,45
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,49
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,50
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,41
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,40
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,45
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,41
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,46
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,56
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,60
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,70
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,63
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,56
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,57
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,51
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,49
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,47
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,45
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,40
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,71
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,61
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,62
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,54
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,46
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,50
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,48
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,42
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,41
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,46
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,42
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,48
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,47
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,54
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,60
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,57
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,51
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,53
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,49
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,48
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,51
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,58
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,59
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,62
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,50
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,51
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,46
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,66
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,63
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,65
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,65
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,49
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,39
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,32
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,43
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,40
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,35
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,36
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,38
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,37
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,38
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,39
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,45
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,49
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,48
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,50
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,50
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,50
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,52
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,58
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,59
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,63
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,63
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,61
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,26
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,31
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,32
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,33
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,30
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,28
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,30
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,34
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,33
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,31
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,37
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,40
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,39
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,46
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,51
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,47
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,47
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,51
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,26
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,17
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,16
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,24
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,26
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,28
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,33
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,34
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,33
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,23
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,22
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,22
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,23
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,27
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,31
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,36
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,38
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,41
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,34
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,33
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,29
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,19
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,20
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,22
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,16
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,17
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,26
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,42
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,38
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,29
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,28
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,22
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,19
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,17
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,20
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,22
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,37
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,35
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,35
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,38
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,34
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,34
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,31
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,29
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,19
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,31
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,33
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,38
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,33
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,35
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,35
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,33
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,28
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,25
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,47
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,46
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,46
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,45
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,44
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,34
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,36
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,34
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,36
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,25
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,23
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,22
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,25
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,26
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,28
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,29
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,33
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,27
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,31
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,35
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,34
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,38
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,41
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,44
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,42
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,44
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,40
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,24
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,20
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,17
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,20
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,20
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,21
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,21
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,22
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,25
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,30
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,28
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,29
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,25
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,23
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,26
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,30
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,29
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,32
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,15
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,19
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,22
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,20
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,22
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,18
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,14
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,13
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,16
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,21
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,23
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,26
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,29
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,24
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,26
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,22
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,26
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,23
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,10
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,7
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,6
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,6
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,8
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,11
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,13
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,14
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,12
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,8
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,8
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,9
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,11
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,15
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,18
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,21
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,23
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,25
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,7
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,9
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,9
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,10
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,7
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,6
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,4
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,3
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,4
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,8
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,7
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,6
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,5
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,7
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,8
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,6
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,5
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,8
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,3
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,2
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,3
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,4
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,6
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,5
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,6
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,5
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,6
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,4
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,4
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,3
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,4
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,2
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,3
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,4
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,5
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,5
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,21
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,19
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,15
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,16
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,18
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,19
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,17
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,19
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,26
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,24
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,23
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,23
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,26
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,26
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,23
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,20
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,42
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,42
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,37
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,32
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,24
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,18
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,18
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,17
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,31
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,29
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,28
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,26
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,29
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,28
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,26
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,23
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,60
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,61
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,51
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,46
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,41
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,38
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,38
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,33
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,56
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,51
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,47
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,46
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,37
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,31
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,30
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,27
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,48
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,40
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,51
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,54
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,54
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,58
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,60
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,52
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,55
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,58
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,54
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,51
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,48
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,50
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,47
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,43
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,33
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,37
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,35
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,41
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,46
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,48
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,42
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,49
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,43
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,36
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,41
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,45
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,44
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,39
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,42
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,43
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,50
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,47
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,46
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,43
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,39
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,32
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,34
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,33
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,41
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,41
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,40
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,32
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,33
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,32
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,30
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,35
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,47
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,52
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,52
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,47
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,52
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,50
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,48
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,49
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,52
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,52
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,40
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,39
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,38
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,37
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,34
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,31
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,46
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,37
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,32
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,36
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,35
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,41
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,48
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,46
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,31
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,32
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,40
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,46
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,43
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,44
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,44
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,35
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,55
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,56
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,60
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,59
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,56
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,43
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,35
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,32
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,31
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,26
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,28
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,32
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,33
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,34
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,35
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,40
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,49
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,52
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,45
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,45
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,47
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,53
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,52
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,58
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,29
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,29
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,31
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,29
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,28
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,28
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,26
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,26
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,27
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,30
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,38
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,37
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,38
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,42
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,45
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,40
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,20
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,21
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,18
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,19
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,26
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,28
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,28
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,31
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,20
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,19
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,18
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,20
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,23
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,28
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,29
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,32
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,33
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,34
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,31
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,29
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,18
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,21
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,22
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,17
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,29
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,28
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,30
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,23
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,23
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,17
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,16
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,16
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,40
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,33
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,34
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,32
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,36
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,33
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,34
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,30
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,23
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,25
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,24
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,28
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,22
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,25
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,24
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,23
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,35
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,38
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,38
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,39
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,38
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,38
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,29
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,31
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,17
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,18
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,19
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,19
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,22
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,20
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,21
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,21
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,19
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,22
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,27
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,25
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,28
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,32
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,33
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,32
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,15
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,12
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,10
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,10
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,13
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,14
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,13
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,13
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,21
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,20
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,16
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,19
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,18
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,17
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,18
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,21
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,3
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,6
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,8
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,9
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,7
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,9
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,8
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,8
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,15
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,15
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,17
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,17
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,17
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,13
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,12
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,9
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,5
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,2
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,2
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,2
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,3
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,3
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,3
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,3
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,5
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,5
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,5
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,3
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,4
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,9
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,11
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,10
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,19
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,19
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,20
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,19
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,18
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,16
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,16
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,14
+ 60026 VALEA IERII,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,11
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,18
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,20
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,21
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,22
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,21
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,16
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,13
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,7
+ 60026 VALEA IERII,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,9
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,16
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,17
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,18
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,18
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,20
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,20
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,20
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,21
+ 60026 VALEA IERII,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,24
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,22
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,24
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,20
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,20
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,18
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,17
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,19
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,23
+ 60026 VALEA IERII,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,22
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,29
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,20
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,19
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,18
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,16
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,17
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,18
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,17
+ 60026 VALEA IERII,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,17
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,27
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,27
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,23
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,22
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,22
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,19
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,20
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,18
+ 60026 VALEA IERII,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,17
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,48
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,44
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,35
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,38
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,34
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,29
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,22
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,18
+ 60026 VALEA IERII,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,15
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,40
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,32
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,29
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,25
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,21
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,22
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,19
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,18
+ 60026 VALEA IERII,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,19
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,49
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,49
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,54
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,57
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,50
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,48
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,43
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,35
+ 60026 VALEA IERII,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,37
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,42
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,44
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,42
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,43
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,38
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,39
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,36
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,31
+ 60026 VALEA IERII,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,27
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,35
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,40
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,38
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,34
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,44
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,44
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,47
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,53
+ 60026 VALEA IERII,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,53
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,36
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,34
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,35
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,38
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,35
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,29
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,31
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,30
+ 60026 VALEA IERII,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,31
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,45
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,37
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,30
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,33
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,31
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,32
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,37
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,39
+ 60026 VALEA IERII,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,36
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,25
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,26
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,26
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,27
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,32
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,35
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,33
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,30
+ 60026 VALEA IERII,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,31
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,46
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,50
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,46
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,41
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,47
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,43
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,37
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,31
+ 60026 VALEA IERII,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,34
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,32
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,30
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,27
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,26
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,29
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,25
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,24
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,28
+ 60026 VALEA IERII,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,28
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,36
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,34
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,41
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,48
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,46
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,46
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,48
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,45
+ 60026 VALEA IERII,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,47
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,46
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,43
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,42
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,45
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,35
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,30
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,30
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,29
+ 60026 VALEA IERII,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,26
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,55
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,55
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,41
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,35
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,32
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,35
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,34
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,42
+ 60026 VALEA IERII,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,49
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,30
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,33
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,35
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,34
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,40
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,45
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,43
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,43
+ 60026 VALEA IERII,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,45
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,43
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,47
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,51
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,48
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,51
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,50
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,49
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,40
+ 60026 VALEA IERII,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,35
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,29
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,28
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,28
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,26
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,28
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,29
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,32
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,33
+ 60026 VALEA IERII,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,33
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,34
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,35
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,37
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,43
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,41
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,43
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,47
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,47
+ 60026 VALEA IERII,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,44
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,18
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,23
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,25
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,26
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,29
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,28
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,27
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,26
+ 60026 VALEA IERII,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,25
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,18
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,21
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,28
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,31
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,33
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,31
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,31
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,34
+ 60026 VALEA IERII,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,41
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,29
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,19
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,17
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,17
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,17
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,18
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,23
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,25
+ 60026 VALEA IERII,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,26
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,17
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,17
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,15
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,14
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,15
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,17
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,21
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,26
+ 60026 VALEA IERII,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,28
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,30
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,35
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,31
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,29
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,23
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,21
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,12
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,15
+ 60026 VALEA IERII,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,17
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,22
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,15
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,19
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,19
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,21
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,16
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,16
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,13
+ 60026 VALEA IERII,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,12
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,32
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,31
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,31
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,28
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,29
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,27
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,32
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,25
+ 60026 VALEA IERII,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,24
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,14
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,19
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,14
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,13
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,13
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,16
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,12
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,14
+ 60026 VALEA IERII,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,16
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,21
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,23
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,24
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,27
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,28
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,28
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,28
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,29
+ 60026 VALEA IERII,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,24
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,8
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,6
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,8
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,6
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,5
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,7
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,12
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,9
+ 60026 VALEA IERII,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,7
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,12
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,11
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,10
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,12
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,16
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,18
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,18
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,20
+ 60026 VALEA IERII,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,23
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,3
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,4
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,6
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,5
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,5
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,3
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,1
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,3
+ 60026 VALEA IERII,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,3
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,10
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,10
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,12
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,13
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,13
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,8
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,6
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,6
+ 60026 VALEA IERII,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,8

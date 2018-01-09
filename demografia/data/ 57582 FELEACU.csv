@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,97
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,87
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,91
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,80
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,77
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,81
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,87
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,74
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,75
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,93
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,82
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,77
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,62
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,57
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,63
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,60
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,54
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,56
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,90
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,88
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,89
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,93
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,94
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,85
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,78
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,89
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,80
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,90
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,91
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,84
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,93
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,102
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,90
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,83
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,81
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,68
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,144
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,125
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,105
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,100
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,89
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,84
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,89
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,88
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,93
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,128
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,115
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,106
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,95
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,75
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,82
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,85
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,81
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,98
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,167
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,170
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,174
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,155
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,142
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,139
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,118
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,103
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,99
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,178
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,160
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,156
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,142
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,142
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,117
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,106
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,98
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,92
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,198
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,173
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,161
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,155
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,152
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,159
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,162
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,161
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,138
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,152
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,151
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,151
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,141
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,149
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,157
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,133
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,135
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,123
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,121
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,142
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,150
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,166
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,179
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,160
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,155
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,146
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,141
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,82
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,75
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,94
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,109
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,110
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,119
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,131
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,127
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,113
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,103
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,84
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,87
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,82
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,81
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,99
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,115
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,127
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,156
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,93
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,80
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,73
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,67
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,60
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,59
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,61
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,83
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,97
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,155
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,140
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,120
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,111
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,91
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,83
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,77
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,83
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,80
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,102
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,100
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,102
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,95
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,88
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,75
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,68
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,65
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,65
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,131
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,140
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,134
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,122
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,135
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,128
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,117
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,105
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,101
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,128
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,120
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,110
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,101
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,98
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,100
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,98
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,97
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,91
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,145
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,123
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,136
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,139
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,134
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,114
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,127
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,123
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,113
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,157
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,151
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,148
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,128
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,136
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,117
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,112
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,105
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,103
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,168
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,157
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,142
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,140
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,135
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,135
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,110
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,117
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,122
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,173
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,168
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,150
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,167
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,151
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,152
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,145
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,139
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,124
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,150
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,153
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,153
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,163
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,147
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,157
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,147
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,135
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,130
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,183
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,180
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,177
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,167
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,161
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,164
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,158
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,140
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,157
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,179
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,181
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,168
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,153
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,146
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,130
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,137
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,137
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,148
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,171
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,168
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,178
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,177
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,177
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,174
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,171
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,165
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,156
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,158
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,149
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,165
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,159
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,156
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,153
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,151
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,136
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,126
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,189
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,184
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,174
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,167
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,160
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,155
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,161
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,170
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,163
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,85
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,111
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,117
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,118
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,124
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,120
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,110
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,123
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,118
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,115
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,133
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,160
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,165
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,169
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,164
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,157
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,147
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,142
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,69
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,51
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,43
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,50
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,50
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,62
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,78
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,75
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,76
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,92
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,75
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,62
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,73
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,80
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,80
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,96
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,118
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,128
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,40
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,42
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,34
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,34
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,39
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,36
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,28
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,23
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,26
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,58
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,67
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,74
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,71
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,63
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,57
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,46
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,39
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,40
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,10
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,15
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,21
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,21
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,21
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,18
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,21
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,22
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,22
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,25
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,17
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,20
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,22
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,30
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,35
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,37
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,39
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,41
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,70
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,64
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,57
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,58
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,54
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,63
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,63
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,72
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,58
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,59
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,66
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,78
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,79
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,76
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,82
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,82
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,76
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,79
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,84
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,75
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,83
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,76
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,69
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,61
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,60
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,63
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,62
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,57
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,64
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,70
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,63
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,73
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,98
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,87
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,86
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,89
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,74
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,70
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,78
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,85
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,104
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,93
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,83
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,76
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,74
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,65
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,72
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,76
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,91
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,84
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,86
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,84
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,87
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,86
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,74
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,74
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,76
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,85
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,91
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,83
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,90
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,94
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,84
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,73
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,137
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,135
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,120
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,108
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,105
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,97
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,92
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,93
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,124
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,109
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,105
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,102
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,99
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,88
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,96
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,97
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,132
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,147
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,150
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,152
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,142
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,137
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,135
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,126
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,123
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,132
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,117
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,122
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,122
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,128
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,123
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,118
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,161
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,152
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,148
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,142
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,132
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,134
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,142
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,149
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,98
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,109
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,118
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,111
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,106
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,116
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,132
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,126
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,86
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,102
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,120
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,137
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,164
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,167
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,153
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,147
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,67
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,67
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,71
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,94
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,107
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,110
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,111
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,123
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,86
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,85
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,79
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,86
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,82
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,90
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,110
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,130
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,84
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,73
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,74
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,74
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,75
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,77
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,79
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,84
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,132
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,124
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,117
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,109
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,111
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,93
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,92
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,79
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,99
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,102
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,100
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,99
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,104
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,95
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,85
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,82
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,120
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,112
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,129
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,125
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,122
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,132
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,124
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,124
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,134
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,122
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,116
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,111
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,113
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,109
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,109
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,113
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,128
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,129
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,106
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,115
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,115
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,118
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,114
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,131
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,144
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,146
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,142
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,140
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,122
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,131
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,121
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,120
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,137
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,142
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,135
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,124
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,124
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,123
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,124
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,101
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,151
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,154
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,151
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,138
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,153
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,146
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,153
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,145
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,122
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,112
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,112
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,115
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,127
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,117
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,123
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,121
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,160
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,158
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,153
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,151
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,145
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,138
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,142
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,143
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,124
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,117
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,118
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,114
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,108
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,99
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,92
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,97
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,137
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,136
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,143
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,150
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,146
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,140
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,131
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,132
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,84
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,82
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,75
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,85
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,83
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,91
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,86
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,91
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,134
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,135
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,124
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,122
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,115
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,115
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,111
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,113
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,30
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,37
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,44
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,36
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,33
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,40
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,43
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,42
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,53
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,56
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,69
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,78
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,88
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,93
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,96
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,88
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,23
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,21
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,15
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,15
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,22
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,24
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,21
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,22
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,37
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,35
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,32
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,26
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,29
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,35
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,29
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,39
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,78
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,76
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,79
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,79
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,71
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,73
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,74
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,77
+ 57582 FELEACU,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,75
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,78
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,77
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,82
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,78
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,77
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,80
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,77
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,76
+ 57582 FELEACU,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,79
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,59
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,58
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,69
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,77
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,84
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,86
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,87
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,89
+ 57582 FELEACU,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,95
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,86
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,85
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,84
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,92
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,89
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,81
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,82
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,91
+ 57582 FELEACU,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,94
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,80
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,90
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,86
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,79
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,77
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,73
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,65
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,81
+ 57582 FELEACU,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,93
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,69
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,71
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,79
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,73
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,84
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,96
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,96
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,93
+ 57582 FELEACU,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,106
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,82
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,77
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,72
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,85
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,92
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,92
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,100
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,89
+ 57582 FELEACU,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,87
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,73
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,71
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,71
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,78
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,87
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,87
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,88
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,87
+ 57582 FELEACU,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,79
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,94
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,92
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,95
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,84
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,80
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,86
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,79
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,78
+ 57582 FELEACU,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,86
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,90
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,96
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,98
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,92
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,78
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,78
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,72
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,70
+ 57582 FELEACU,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,80
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,114
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,109
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,100
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,95
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,102
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,108
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,109
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,109
+ 57582 FELEACU,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,98
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,124
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,115
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,103
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,98
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,106
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,109
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,114
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,108
+ 57582 FELEACU,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,109
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,153
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,140
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,143
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,140
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,129
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,119
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,116
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,110
+ 57582 FELEACU,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,104
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,136
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,137
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,140
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,141
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,130
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,131
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,131
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,114
+ 57582 FELEACU,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,109
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,148
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,144
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,151
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,165
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,171
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,173
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,160
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,165
+ 57582 FELEACU,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,167
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,114
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,113
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,124
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,143
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,143
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,153
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,147
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,157
+ 57582 FELEACU,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,157
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,136
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,162
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,165
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,167
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,168
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,171
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,170
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,177
+ 57582 FELEACU,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,187
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,98
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,115
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,125
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,131
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,139
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,122
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,120
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,142
+ 57582 FELEACU,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,164
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,88
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,85
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,92
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,113
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,128
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,142
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,171
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,177
+ 57582 FELEACU,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,177
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,78
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,82
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,83
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,88
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,93
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,117
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,131
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,137
+ 57582 FELEACU,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,143
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,113
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,114
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,107
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,99
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,88
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,94
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,88
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,98
+ 57582 FELEACU,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,116
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,109
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,108
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,107
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,98
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,97
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,94
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,99
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,94
+ 57582 FELEACU,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,97
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,129
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,122
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,139
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,139
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,138
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,129
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,132
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,110
+ 57582 FELEACU,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,104
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,121
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,117
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,113
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,112
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,116
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,110
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,112
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,108
+ 57582 FELEACU,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,107
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,110
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,116
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,116
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,110
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,127
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,125
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,119
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,134
+ 57582 FELEACU,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,139
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,138
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,123
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,126
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,119
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,117
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,120
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,115
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,113
+ 57582 FELEACU,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,112
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,112
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,108
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,104
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,108
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,89
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,98
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,99
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,105
+ 57582 FELEACU,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,99
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,135
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,152
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,147
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,146
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,141
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,136
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,121
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,127
+ 57582 FELEACU,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,117
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,98
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,103
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,94
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,98
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,99
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,92
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,92
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,85
+ 57582 FELEACU,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,92
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,137
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,131
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,129
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,137
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,134
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,128
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,147
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,145
+ 57582 FELEACU,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,142
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,90
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,85
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,82
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,75
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,80
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,79
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,87
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,78
+ 57582 FELEACU,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,79
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,117
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,114
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,110
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,107
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,116
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,121
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,119
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,116
+ 57582 FELEACU,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,120
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,45
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,51
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,59
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,66
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,63
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,60
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,52
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,50
+ 57582 FELEACU,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,50
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,85
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,82
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,81
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,75
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,80
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,81
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,78
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,75
+ 57582 FELEACU,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,76
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,18
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,17
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,18
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,12
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,20
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,26
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,31
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,40
+ 57582 FELEACU,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,45
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,48
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,59
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,64
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,65
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,59
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,60
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,56
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,61
+ 57582 FELEACU,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,66

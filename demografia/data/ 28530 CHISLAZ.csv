@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,110
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,114
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,120
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,108
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,104
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,112
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,100
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,95
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,101
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,93
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,93
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,87
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,76
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,74
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,89
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,84
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,99
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,113
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,105
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,110
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,112
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,106
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,124
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,126
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,87
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,84
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,93
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,94
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,102
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,102
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,99
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,98
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,130
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,112
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,111
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,99
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,100
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,95
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,120
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,119
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,105
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,109
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,94
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,82
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,79
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,85
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,92
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,103
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,149
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,135
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,130
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,130
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,125
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,125
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,115
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,118
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,130
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,124
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,118
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,116
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,112
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,102
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,106
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,96
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,175
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,168
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,156
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,147
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,140
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,146
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,138
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,129
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,165
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,168
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,166
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,144
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,130
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,115
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,114
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,117
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,116
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,145
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,163
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,166
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,173
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,156
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,155
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,149
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,57
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,70
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,86
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,105
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,128
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,136
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,151
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,146
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,83
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,73
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,69
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,78
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,91
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,107
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,130
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,144
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,80
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,75
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,55
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,55
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,43
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,45
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,64
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,88
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,113
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,112
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,110
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,94
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,76
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,72
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,73
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,71
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,72
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,71
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,74
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,77
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,81
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,74
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,75
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,62
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,87
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,91
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,89
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,101
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,113
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,110
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,102
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,107
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,92
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,90
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,88
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,77
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,80
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,71
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,75
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,79
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,116
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,105
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,97
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,91
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,90
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,79
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,88
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,87
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,135
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,120
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,117
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,104
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,91
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,93
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,89
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,87
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,108
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,106
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,108
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,97
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,98
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,104
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,91
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,89
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,126
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,125
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,124
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,129
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,135
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,131
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,119
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,117
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,140
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,123
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,118
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,115
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,110
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,99
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,92
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,97
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,137
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,136
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,126
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,131
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,122
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,124
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,124
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,127
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,139
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,149
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,140
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,132
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,125
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,126
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,110
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,105
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,166
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,163
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,143
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,126
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,125
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,127
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,125
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,119
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,113
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,101
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,102
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,111
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,101
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,98
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,112
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,106
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,147
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,143
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,162
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,164
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,162
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,150
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,147
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,132
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,78
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,85
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,94
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,91
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,88
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,82
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,77
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,79
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,111
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,124
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,131
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,128
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,123
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,122
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,122
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,136
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,45
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,47
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,43
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,44
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,52
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,54
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,52
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,55
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,59
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,56
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,45
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,54
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,62
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,79
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,87
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,95
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,35
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,35
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,33
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,33
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,27
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,21
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,23
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,24
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,68
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,59
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,53
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,44
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,39
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,30
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,24
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,21
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,9
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,11
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,10
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,12
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,12
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,11
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,11
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,9
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,19
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,31
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,35
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,35
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,38
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,33
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,25
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,24
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,102
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,102
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,83
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,79
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,74
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,65
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,71
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,86
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,98
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,101
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,102
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,109
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,106
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,105
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,120
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,112
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,117
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,105
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,99
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,105
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,106
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,96
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,88
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,91
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,94
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,83
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,82
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,92
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,136
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,135
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,131
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,131
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,123
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,114
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,109
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,107
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,115
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,117
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,106
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,104
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,99
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,89
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,106
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,114
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,114
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,130
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,126
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,138
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,133
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,87
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,85
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,92
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,97
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,106
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,111
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,118
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,128
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,125
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,130
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,118
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,122
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,113
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,110
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,124
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,122
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,109
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,112
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,100
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,89
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,86
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,148
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,140
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,144
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,136
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,135
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,126
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,131
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,137
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,131
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,126
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,118
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,119
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,120
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,117
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,155
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,162
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,150
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,153
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,146
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,148
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,139
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,101
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,122
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,129
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,133
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,131
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,127
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,120
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,77
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,89
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,107
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,121
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,137
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,148
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,154
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,62
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,53
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,57
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,67
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,85
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,89
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,105
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,90
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,80
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,75
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,77
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,73
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,80
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,93
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,89
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,91
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,89
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,88
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,70
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,65
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,54
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,103
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,113
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,107
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,102
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,105
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,87
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,74
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,77
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,82
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,78
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,87
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,92
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,105
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,102
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,87
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,87
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,79
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,89
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,93
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,109
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,115
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,112
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,95
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,99
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,94
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,95
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,87
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,94
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,86
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,79
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,93
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,85
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,80
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,76
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,79
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,129
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,135
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,130
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,120
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,118
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,109
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,101
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,102
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,96
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,85
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,85
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,85
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,74
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,74
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,126
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,117
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,119
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,118
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,121
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,126
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,128
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,109
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,108
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,104
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,90
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,87
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,86
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,82
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,120
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,121
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,123
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,121
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,113
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,120
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,115
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,85
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,79
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,79
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,85
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,79
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,79
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,73
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,141
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,141
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,127
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,122
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,116
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,102
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,95
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,54
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,54
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,47
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,48
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,41
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,47
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,49
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,93
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,96
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,93
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,93
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,96
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,102
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,105
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,22
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,21
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,29
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,29
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,31
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,30
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,29
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,27
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,30
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,45
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,55
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,58
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,58
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,53
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,7
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,9
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,9
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,12
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,13
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,12
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,14
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,20
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,22
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,19
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,16
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,13
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,15
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,16
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,85
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,91
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,91
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,97
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,89
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,86
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,100
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,104
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,101
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,95
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,90
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,80
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,84
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,79
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,75
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,65
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,76
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,93
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,97
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,99
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,107
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,103
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,101
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,96
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,110
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,103
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,100
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,101
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,96
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,88
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,89
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,88
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,75
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,80
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,92
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,94
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,132
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,126
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,119
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,108
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,105
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,99
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,121
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,112
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,108
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,102
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,86
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,84
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,110
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,123
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,119
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,132
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,124
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,122
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,97
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,96
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,104
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,116
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,130
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,126
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,134
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,128
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,128
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,119
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,113
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,110
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,109
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,108
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,95
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,93
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,92
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,101
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,142
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,129
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,130
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,127
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,132
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,140
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,119
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,113
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,113
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,113
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,110
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,102
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,142
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,146
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,143
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,147
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,138
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,142
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,116
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,125
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,128
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,126
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,121
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,121
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,107
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,120
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,131
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,142
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,150
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,141
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,56
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,64
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,86
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,87
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,105
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,118
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,74
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,80
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,76
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,85
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,94
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,109
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,94
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,89
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,72
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,70
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,58
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,61
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,112
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,104
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,107
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,96
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,82
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,77
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,88
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,98
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,102
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,106
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,105
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,94
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,67
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,82
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,87
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,103
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,107
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,102
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,103
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,96
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,95
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,95
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,96
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,96
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,88
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,81
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,76
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,68
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,71
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,68
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,122
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,113
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,113
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,103
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,93
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,96
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,70
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,73
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,68
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,60
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,60
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,75
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,115
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,118
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,116
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,118
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,120
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,108
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,77
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,67
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,74
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,72
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,65
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,51
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,100
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,99
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,93
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,100
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,103
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,104
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,46
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,59
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,58
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,55
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,51
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,56
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,96
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,92
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,83
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,64
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,64
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,70
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,23
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,25
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,20
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,30
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,30
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,26
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,55
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,47
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,58
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,57
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,56
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,56
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,15
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,16
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,16
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,12
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,15
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,14
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,19
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,23
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,19
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,29
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,27
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,29
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,83
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,88
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,86
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,85
+ 28530 CHISLAZ,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,80
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,83
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,77
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,78
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,69
+ 28530 CHISLAZ,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,68
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,102
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,100
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,101
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,89
+ 28530 CHISLAZ,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,88
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,95
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,98
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,96
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,86
+ 28530 CHISLAZ,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,81
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,74
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,79
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,74
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,82
+ 28530 CHISLAZ,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,95
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,98
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,105
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,98
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,97
+ 28530 CHISLAZ,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,99
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,95
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,86
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,85
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,92
+ 28530 CHISLAZ,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,87
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,88
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,82
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,83
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,87
+ 28530 CHISLAZ,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,91
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,116
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,118
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,109
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,101
+ 28530 CHISLAZ,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,97
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,120
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,112
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,100
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,83
+ 28530 CHISLAZ,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,85
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,126
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,122
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,132
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,126
+ 28530 CHISLAZ,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,120
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,96
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,105
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,119
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,131
+ 28530 CHISLAZ,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,127
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,133
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,132
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,122
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,116
+ 28530 CHISLAZ,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,118
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,98
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,88
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,89
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,84
+ 28530 CHISLAZ,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,89
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,134
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,134
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,130
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,137
+ 28530 CHISLAZ,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,134
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,124
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,124
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,122
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,118
+ 28530 CHISLAZ,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,109
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,145
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,141
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,146
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,137
+ 28530 CHISLAZ,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,141
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,124
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,125
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,123
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,120
+ 28530 CHISLAZ,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,124
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,118
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,126
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,140
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,148
+ 28530 CHISLAZ,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,136
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,64
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,83
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,91
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,106
+ 28530 CHISLAZ,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,118
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,79
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,77
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,80
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,91
+ 28530 CHISLAZ,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,105
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,91
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,76
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,71
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,59
+ 28530 CHISLAZ,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,60
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,94
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,99
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,91
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,78
+ 28530 CHISLAZ,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,77
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,101
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,102
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,107
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,106
+ 28530 CHISLAZ,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,97
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,73
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,72
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,87
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,96
+ 28530 CHISLAZ,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,95
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,96
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,99
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,98
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,101
+ 28530 CHISLAZ,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,98
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,72
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,68
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,63
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,62
+ 28530 CHISLAZ,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,49
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,106
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,105
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,99
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,91
+ 28530 CHISLAZ,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,94
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,47
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,48
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,47
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,45
+ 28530 CHISLAZ,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,58
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,101
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,105
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,104
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,102
+ 28530 CHISLAZ,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,95
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,45
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,49
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,43
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,33
+ 28530 CHISLAZ,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,30
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,73
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,70
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,82
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,80
+ 28530 CHISLAZ,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,80
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,33
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,31
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,28
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,27
+ 28530 CHISLAZ,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,28
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,48
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,45
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,39
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,42
+ 28530 CHISLAZ,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,51
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,15
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,12
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,16
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,20
+ 28530 CHISLAZ,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,19
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,35
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,40
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,44
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,46
+ 28530 CHISLAZ,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,41

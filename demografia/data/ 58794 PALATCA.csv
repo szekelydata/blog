@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,51
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,40
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,33
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,25
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,25
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,21
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,25
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,30
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,29
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,56
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,54
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,43
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,35
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,34
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,29
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,26
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,31
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,33
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,37
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,35
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,35
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,42
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,37
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,39
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,35
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,29
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,26
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,32
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,32
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,43
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,47
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,50
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,50
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,47
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,37
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,35
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,67
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,57
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,47
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,35
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,31
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,32
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,29
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,31
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,38
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,52
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,46
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,41
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,38
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,28
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,27
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,28
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,38
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,46
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,93
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,91
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,88
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,90
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,80
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,63
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,56
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,45
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,33
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,74
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,61
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,63
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,49
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,53
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,50
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,45
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,40
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,37
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,116
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,106
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,101
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,86
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,84
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,91
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,89
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,83
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,87
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,70
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,74
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,67
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,68
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,61
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,47
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,44
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,50
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,39
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,69
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,79
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,85
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,82
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,84
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,74
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,75
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,79
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,67
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,31
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,30
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,35
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,31
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,33
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,43
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,48
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,41
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,49
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,43
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,40
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,39
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,48
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,51
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,56
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,64
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,68
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,69
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,31
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,23
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,23
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,23
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,21
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,21
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,22
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,26
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,26
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,46
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,38
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,38
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,31
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,26
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,30
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,31
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,33
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,42
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,44
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,38
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,38
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,29
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,26
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,21
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,19
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,19
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,21
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,44
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,46
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,41
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,43
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,45
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,35
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,30
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,31
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,24
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,40
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,35
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,31
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,32
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,32
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,35
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,30
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,31
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,27
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,54
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,50
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,51
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,45
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,46
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,40
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,41
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,37
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,38
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,61
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,59
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,56
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,55
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,44
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,33
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,29
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,28
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,28
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,77
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,70
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,65
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,62
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,49
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,49
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,46
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,49
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,43
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,90
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,89
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,75
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,65
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,63
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,59
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,56
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,53
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,52
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,62
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,58
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,57
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,63
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,67
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,71
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,67
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,60
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,56
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,70
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,66
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,74
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,82
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,79
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,85
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,84
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,73
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,64
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,64
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,70
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,70
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,61
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,60
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,59
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,55
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,53
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,58
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,92
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,89
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,85
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,77
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,76
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,66
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,65
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,72
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,80
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,73
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,70
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,63
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,65
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,60
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,55
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,61
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,58
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,54
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,82
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,82
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,83
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,79
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,82
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,88
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,85
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,83
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,77
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,46
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,52
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,59
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,56
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,66
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,61
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,55
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,49
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,52
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,62
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,74
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,79
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,82
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,71
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,69
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,68
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,69
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,67
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,31
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,37
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,33
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,37
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,29
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,33
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,34
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,42
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,37
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,33
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,29
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,27
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,24
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,42
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,51
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,56
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,55
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,57
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,25
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,17
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,22
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,21
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,16
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,14
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,19
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,14
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,13
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,34
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,36
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,37
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,39
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,26
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,21
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,19
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,16
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,14
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,12
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,10
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,9
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,10
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,11
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,8
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,6
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,10
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,8
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,9
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,13
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,9
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,16
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,18
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,21
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,21
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,23
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,26
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,29
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,30
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,29
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,22
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,21
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,27
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,35
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,30
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,27
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,29
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,30
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,32
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,28
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,27
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,28
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,27
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,28
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,23
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,25
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,32
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,31
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,28
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,31
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,31
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,37
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,34
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,33
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,31
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,31
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,27
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,29
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,31
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,38
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,37
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,33
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,26
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,25
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,24
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,25
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,28
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,55
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,53
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,48
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,37
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,34
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,32
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,28
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,28
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,30
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,33
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,26
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,24
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,26
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,25
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,25
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,24
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,26
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,26
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,24
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,31
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,32
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,36
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,33
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,32
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,75
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,59
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,54
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,42
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,26
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,24
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,27
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,27
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,45
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,43
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,41
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,38
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,32
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,25
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,24
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,25
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,70
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,77
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,75
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,74
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,77
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,68
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,50
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,43
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,43
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,37
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,31
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,32
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,31
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,37
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,39
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,38
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,69
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,66
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,58
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,58
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,53
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,54
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,60
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,64
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,35
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,40
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,45
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,38
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,42
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,40
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,33
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,34
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,50
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,51
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,62
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,61
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,61
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,58
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,56
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,50
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,18
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,17
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,20
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,24
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,25
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,29
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,37
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,37
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,22
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,26
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,28
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,30
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,41
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,43
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,49
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,55
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,24
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,19
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,18
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,20
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,20
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,18
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,16
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,18
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,40
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,33
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,27
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,31
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,25
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,22
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,26
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,27
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,30
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,32
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,28
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,29
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,27
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,25
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,21
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,19
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,46
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,39
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,40
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,34
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,39
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,41
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,33
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,31
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,44
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,32
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,30
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,27
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,26
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,28
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,31
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,27
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,47
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,46
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,45
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,47
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,41
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,41
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,35
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,36
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,62
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,59
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,57
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,54
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,51
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,44
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,35
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,34
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,63
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,67
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,66
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,62
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,59
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,44
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,41
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,42
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,82
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,87
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,84
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,76
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,66
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,61
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,58
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,58
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,54
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,56
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,49
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,44
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,49
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,57
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,61
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,57
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,75
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,66
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,65
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,70
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,78
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,79
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,85
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,84
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,50
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,47
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,53
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,52
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,47
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,45
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,46
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,45
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,72
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,78
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,76
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,73
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,69
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,71
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,61
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,61
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,38
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,39
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,36
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,36
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,40
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,37
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,36
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,39
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,48
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,54
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,57
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,57
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,54
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,56
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,62
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,57
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,12
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,11
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,14
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,19
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,23
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,25
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,21
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,18
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,26
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,25
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,30
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,35
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,38
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,31
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,34
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,34
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,6
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,7
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,5
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,7
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,7
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,7
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,7
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,7
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,21
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,13
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,10
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,10
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,8
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,13
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,16
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,20
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,32
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,36
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,31
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,22
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,23
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,26
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,20
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,21
+ 58794 PALATCA,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,25
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,22
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,29
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,29
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,27
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,23
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,24
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,17
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,16
+ 58794 PALATCA,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,21
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,20
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,23
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,28
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,36
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,31
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,31
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,35
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,33
+ 58794 PALATCA,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,23
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,33
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,31
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,32
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,32
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,28
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,23
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,28
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,31
+ 58794 PALATCA,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,27
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,35
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,35
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,32
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,32
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,26
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,18
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,22
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,30
+ 58794 PALATCA,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,36
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,27
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,27
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,24
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,22
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,22
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,27
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,27
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,25
+ 58794 PALATCA,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,29
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,20
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,22
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,25
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,24
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,28
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,36
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,34
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,29
+ 58794 PALATCA,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,33
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,25
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,24
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,22
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,23
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,21
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,21
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,17
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,18
+ 58794 PALATCA,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,15
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,27
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,27
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,26
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,25
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,19
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,20
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,20
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,26
+ 58794 PALATCA,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,25
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,27
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,24
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,27
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,27
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,29
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,23
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,21
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,16
+ 58794 PALATCA,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,16
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,30
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,22
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,21
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,23
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,25
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,23
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,27
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,25
+ 58794 PALATCA,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,25
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,36
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,31
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,22
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,19
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,21
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,25
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,25
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,27
+ 58794 PALATCA,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,28
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,67
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,67
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,61
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,51
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,43
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,31
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,27
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,24
+ 58794 PALATCA,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,25
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,32
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,30
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,38
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,41
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,42
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,36
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,29
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,23
+ 58794 PALATCA,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,21
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,45
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,40
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,44
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,51
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,60
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,62
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,59
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,55
+ 58794 PALATCA,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,46
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,34
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,42
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,39
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,29
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,27
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,27
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,30
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,37
+ 58794 PALATCA,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,39
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,58
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,58
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,55
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,51
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,43
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,42
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,39
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,42
+ 58794 PALATCA,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,50
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,22
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,24
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,29
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,38
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,39
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,36
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,37
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,32
+ 58794 PALATCA,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,26
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,28
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,37
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,39
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,41
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,49
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,53
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,54
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,52
+ 58794 PALATCA,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,46
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,20
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,20
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,16
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,15
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,18
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,23
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,24
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,31
+ 58794 PALATCA,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,37
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,34
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,23
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,22
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,26
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,29
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,26
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,34
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,35
+ 58794 PALATCA,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,40
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,29
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,27
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,24
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,19
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,15
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,17
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,17
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,15
+ 58794 PALATCA,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,14
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,28
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,34
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,37
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,31
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,30
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,34
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,24
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,22
+ 58794 PALATCA,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,23
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,31
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,29
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,30
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,31
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,28
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,27
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,24
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,23
+ 58794 PALATCA,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,18
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,44
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,34
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,37
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,32
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,31
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,27
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,33
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,35
+ 58794 PALATCA,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,31
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,54
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,52
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,45
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,34
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,31
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,29
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,28
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,30
+ 58794 PALATCA,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,30
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,51
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,53
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,44
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,41
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,39
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,40
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,33
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,34
+ 58794 PALATCA,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,29
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,73
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,61
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,56
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,56
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,56
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,54
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,51
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,42
+ 58794 PALATCA,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,32
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,41
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,42
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,48
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,51
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,46
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,44
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,47
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,35
+ 58794 PALATCA,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,36
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,65
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,74
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,75
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,81
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,77
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,66
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,57
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,55
+ 58794 PALATCA,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,55
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,37
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,35
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,34
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,35
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,36
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,36
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,35
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,36
+ 58794 PALATCA,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,38
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,61
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,57
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,58
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,47
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,45
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,52
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,62
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,63
+ 58794 PALATCA,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,65
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,19
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,16
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,18
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,23
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,27
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,26
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,27
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,23
+ 58794 PALATCA,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,23
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,35
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,32
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,35
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,43
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,44
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,44
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,38
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,37
+ 58794 PALATCA,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,34
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,10
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,11
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,11
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,10
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,11
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,13
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,16
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,17
+ 58794 PALATCA,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,17
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,24
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,29
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,27
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,28
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,32
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,30
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,27
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,29
+ 58794 PALATCA,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,34

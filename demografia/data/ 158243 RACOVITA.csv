@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 1992, Numar persoane,100
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 1993, Numar persoane,90
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 1994, Numar persoane,82
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 1995, Numar persoane,88
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 1996, Numar persoane,90
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 1997, Numar persoane,92
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 1998, Numar persoane,89
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 1992, Numar persoane,74
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 1993, Numar persoane,76
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 1994, Numar persoane,78
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 1995, Numar persoane,81
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 1996, Numar persoane,70
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 1997, Numar persoane,68
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 1998, Numar persoane,64
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 1992, Numar persoane,83
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 1993, Numar persoane,89
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 1994, Numar persoane,104
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 1995, Numar persoane,106
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 1996, Numar persoane,97
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 1997, Numar persoane,92
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 1998, Numar persoane,92
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 1992, Numar persoane,78
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 1993, Numar persoane,71
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 1994, Numar persoane,84
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 1995, Numar persoane,81
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 1996, Numar persoane,86
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 1997, Numar persoane,87
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 1998, Numar persoane,87
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 1992, Numar persoane,82
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 1993, Numar persoane,77
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 1994, Numar persoane,72
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 1995, Numar persoane,72
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 1996, Numar persoane,76
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 1997, Numar persoane,88
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 1998, Numar persoane,92
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 1992, Numar persoane,93
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 1993, Numar persoane,87
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 1994, Numar persoane,80
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 1995, Numar persoane,77
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 1996, Numar persoane,78
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 1997, Numar persoane,74
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 1998, Numar persoane,75
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 1992, Numar persoane,102
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 1993, Numar persoane,103
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 1994, Numar persoane,103
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 1995, Numar persoane,93
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 1996, Numar persoane,92
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 1997, Numar persoane,86
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 1998, Numar persoane,79
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 1992, Numar persoane,117
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 1993, Numar persoane,124
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 1994, Numar persoane,116
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 1995, Numar persoane,113
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 1996, Numar persoane,103
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 1997, Numar persoane,97
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 1998, Numar persoane,90
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 1992, Numar persoane,143
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 1993, Numar persoane,137
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 1994, Numar persoane,121
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 1995, Numar persoane,120
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 1996, Numar persoane,119
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 1997, Numar persoane,101
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 1998, Numar persoane,102
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 1992, Numar persoane,107
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 1993, Numar persoane,89
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 1994, Numar persoane,97
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 1995, Numar persoane,102
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 1996, Numar persoane,111
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 1997, Numar persoane,120
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 1998, Numar persoane,122
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 1992, Numar persoane,61
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 1993, Numar persoane,79
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 1994, Numar persoane,100
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 1995, Numar persoane,110
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 1996, Numar persoane,120
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 1997, Numar persoane,147
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 1998, Numar persoane,143
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 1992, Numar persoane,51
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 1993, Numar persoane,67
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 1994, Numar persoane,71
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 1995, Numar persoane,84
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 1996, Numar persoane,84
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 1997, Numar persoane,92
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 1998, Numar persoane,90
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 1992, Numar persoane,83
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 1993, Numar persoane,69
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 1994, Numar persoane,72
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 1995, Numar persoane,80
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 1996, Numar persoane,74
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 1997, Numar persoane,68
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 1998, Numar persoane,86
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 1992, Numar persoane,56
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 1993, Numar persoane,57
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 1994, Numar persoane,53
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 1995, Numar persoane,50
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 1996, Numar persoane,60
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 1997, Numar persoane,53
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 1998, Numar persoane,68
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 1992, Numar persoane,93
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 1993, Numar persoane,100
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 1994, Numar persoane,103
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 1995, Numar persoane,90
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 1996, Numar persoane,88
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 1997, Numar persoane,80
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 1998, Numar persoane,68
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 1992, Numar persoane,94
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 1993, Numar persoane,84
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 1994, Numar persoane,79
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 1995, Numar persoane,78
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 1996, Numar persoane,63
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 1997, Numar persoane,58
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 1998, Numar persoane,61
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 1992, Numar persoane,111
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 1993, Numar persoane,95
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 1994, Numar persoane,87
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 1995, Numar persoane,96
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 1996, Numar persoane,84
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 1997, Numar persoane,88
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 1998, Numar persoane,93
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 1992, Numar persoane,102
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 1993, Numar persoane,91
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 1994, Numar persoane,87
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 1995, Numar persoane,81
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 1996, Numar persoane,83
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 1997, Numar persoane,84
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 1998, Numar persoane,79
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 1992, Numar persoane,91
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 1993, Numar persoane,95
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 1994, Numar persoane,100
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 1995, Numar persoane,102
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 1996, Numar persoane,112
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 1997, Numar persoane,112
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 1998, Numar persoane,97
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 1992, Numar persoane,96
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 1993, Numar persoane,107
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 1994, Numar persoane,103
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 1995, Numar persoane,110
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 1996, Numar persoane,108
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 1997, Numar persoane,98
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 1998, Numar persoane,93
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 1992, Numar persoane,126
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 1993, Numar persoane,123
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 1994, Numar persoane,119
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 1995, Numar persoane,106
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 1996, Numar persoane,95
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 1997, Numar persoane,86
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 1998, Numar persoane,93
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 1992, Numar persoane,139
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 1993, Numar persoane,129
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 1994, Numar persoane,123
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 1995, Numar persoane,103
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 1996, Numar persoane,103
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 1997, Numar persoane,100
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 1998, Numar persoane,109
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 1992, Numar persoane,131
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 1993, Numar persoane,123
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 1994, Numar persoane,124
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 1995, Numar persoane,127
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 1996, Numar persoane,132
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 1997, Numar persoane,126
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 1998, Numar persoane,112
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 1992, Numar persoane,139
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 1993, Numar persoane,131
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 1994, Numar persoane,139
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 1995, Numar persoane,136
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 1996, Numar persoane,135
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 1997, Numar persoane,139
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 1998, Numar persoane,129
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 1992, Numar persoane,129
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 1993, Numar persoane,134
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 1994, Numar persoane,127
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 1995, Numar persoane,112
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 1996, Numar persoane,109
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 1997, Numar persoane,118
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 1998, Numar persoane,115
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 1992, Numar persoane,157
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 1993, Numar persoane,162
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 1994, Numar persoane,153
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 1995, Numar persoane,151
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 1996, Numar persoane,143
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 1997, Numar persoane,136
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 1998, Numar persoane,128
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 1992, Numar persoane,102
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 1993, Numar persoane,95
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 1994, Numar persoane,100
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 1995, Numar persoane,99
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 1996, Numar persoane,93
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 1997, Numar persoane,103
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 1998, Numar persoane,107
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 1992, Numar persoane,179
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 1993, Numar persoane,166
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 1994, Numar persoane,156
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 1995, Numar persoane,147
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 1996, Numar persoane,141
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 1997, Numar persoane,144
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 1998, Numar persoane,155
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 1992, Numar persoane,82
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 1993, Numar persoane,93
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 1994, Numar persoane,91
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 1995, Numar persoane,84
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 1996, Numar persoane,85
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 1997, Numar persoane,75
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 1998, Numar persoane,76
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 1992, Numar persoane,125
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 1993, Numar persoane,153
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 1994, Numar persoane,168
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 1995, Numar persoane,176
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 1996, Numar persoane,160
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 1997, Numar persoane,163
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 1998, Numar persoane,150
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 1992, Numar persoane,56
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 1993, Numar persoane,47
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 1994, Numar persoane,43
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 1995, Numar persoane,47
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 1996, Numar persoane,48
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 1997, Numar persoane,55
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 1998, Numar persoane,54
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 1992, Numar persoane,71
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 1993, Numar persoane,53
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 1994, Numar persoane,51
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 1995, Numar persoane,56
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 1996, Numar persoane,80
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 1997, Numar persoane,94
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 1998, Numar persoane,118
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 1992, Numar persoane,32
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 1993, Numar persoane,30
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 1994, Numar persoane,30
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 1995, Numar persoane,39
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 1996, Numar persoane,33
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 1997, Numar persoane,24
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 1998, Numar persoane,21
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 1992, Numar persoane,60
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 1993, Numar persoane,59
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 1994, Numar persoane,59
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 1995, Numar persoane,54
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 1996, Numar persoane,41
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 1997, Numar persoane,35
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 1998, Numar persoane,29
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 1992, Numar persoane,10
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 1993, Numar persoane,14
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 1994, Numar persoane,15
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 1995, Numar persoane,13
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 1996, Numar persoane,8
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 1997, Numar persoane,12
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 1998, Numar persoane,11
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 1992, Numar persoane,23
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 1993, Numar persoane,24
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 1994, Numar persoane,24
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 1995, Numar persoane,27
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 1996, Numar persoane,33
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 1997, Numar persoane,33
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 1998, Numar persoane,36
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 1999, Numar persoane,93
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2000, Numar persoane,86
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2001, Numar persoane,97
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2002, Numar persoane,85
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2003, Numar persoane,83
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2004, Numar persoane,83
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,86
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,79
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 1999, Numar persoane,57
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2000, Numar persoane,58
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2001, Numar persoane,61
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2002, Numar persoane,63
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2003, Numar persoane,66
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2004, Numar persoane,78
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,72
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,79
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 1999, Numar persoane,84
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2000, Numar persoane,96
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2001, Numar persoane,97
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2002, Numar persoane,96
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2003, Numar persoane,92
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2004, Numar persoane,92
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,88
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,99
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 1999, Numar persoane,87
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2000, Numar persoane,81
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2001, Numar persoane,75
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2002, Numar persoane,70
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2003, Numar persoane,68
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2004, Numar persoane,61
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,67
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,67
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 1999, Numar persoane,103
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2000, Numar persoane,109
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2001, Numar persoane,99
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2002, Numar persoane,97
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2003, Numar persoane,99
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2004, Numar persoane,96
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,103
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,109
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 1999, Numar persoane,84
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2000, Numar persoane,86
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2001, Numar persoane,91
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2002, Numar persoane,92
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2003, Numar persoane,90
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2004, Numar persoane,97
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,88
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,83
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 1999, Numar persoane,76
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2000, Numar persoane,76
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2001, Numar persoane,77
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2002, Numar persoane,87
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2003, Numar persoane,92
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2004, Numar persoane,107
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,115
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,102
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 1999, Numar persoane,85
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2000, Numar persoane,79
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2001, Numar persoane,75
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2002, Numar persoane,75
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2003, Numar persoane,75
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2004, Numar persoane,81
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,86
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,91
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 1999, Numar persoane,105
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2000, Numar persoane,99
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2001, Numar persoane,93
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2002, Numar persoane,87
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2003, Numar persoane,80
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2004, Numar persoane,79
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,79
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,83
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 1999, Numar persoane,118
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2000, Numar persoane,121
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2001, Numar persoane,112
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2002, Numar persoane,111
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2003, Numar persoane,101
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2004, Numar persoane,95
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,87
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,82
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 1999, Numar persoane,126
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2000, Numar persoane,119
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2001, Numar persoane,122
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2002, Numar persoane,105
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2003, Numar persoane,105
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2004, Numar persoane,110
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,103
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,98
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 1999, Numar persoane,99
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2000, Numar persoane,104
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2001, Numar persoane,115
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2002, Numar persoane,117
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2003, Numar persoane,120
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2004, Numar persoane,119
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,120
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,116
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 1999, Numar persoane,102
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2000, Numar persoane,111
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2001, Numar persoane,125
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2002, Numar persoane,149
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2003, Numar persoane,140
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2004, Numar persoane,125
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,118
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,122
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 1999, Numar persoane,77
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2000, Numar persoane,85
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2001, Numar persoane,83
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2002, Numar persoane,95
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2003, Numar persoane,92
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2004, Numar persoane,94
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,105
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,112
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 1999, Numar persoane,69
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2000, Numar persoane,75
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2001, Numar persoane,73
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2002, Numar persoane,65
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2003, Numar persoane,79
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2004, Numar persoane,95
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,104
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,119
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 1999, Numar persoane,58
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2000, Numar persoane,60
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2001, Numar persoane,64
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2002, Numar persoane,57
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2003, Numar persoane,68
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2004, Numar persoane,81
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,82
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,83
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 1999, Numar persoane,93
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2000, Numar persoane,88
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2001, Numar persoane,86
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2002, Numar persoane,80
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2003, Numar persoane,78
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2004, Numar persoane,74
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,80
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,73
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 1999, Numar persoane,78
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2000, Numar persoane,78
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2001, Numar persoane,65
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2002, Numar persoane,62
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2003, Numar persoane,63
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2004, Numar persoane,63
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,67
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,73
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 1999, Numar persoane,86
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2000, Numar persoane,95
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2001, Numar persoane,83
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2002, Numar persoane,87
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2003, Numar persoane,92
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2004, Numar persoane,99
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,95
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,92
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 1999, Numar persoane,88
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2000, Numar persoane,81
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2001, Numar persoane,87
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2002, Numar persoane,90
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2003, Numar persoane,83
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2004, Numar persoane,83
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,93
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,78
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 1999, Numar persoane,98
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2000, Numar persoane,100
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2001, Numar persoane,112
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2002, Numar persoane,114
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2003, Numar persoane,103
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2004, Numar persoane,95
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,105
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,94
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 1999, Numar persoane,105
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2000, Numar persoane,116
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2001, Numar persoane,111
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2002, Numar persoane,102
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2003, Numar persoane,97
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2004, Numar persoane,96
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,90
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,97
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 1999, Numar persoane,109
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2000, Numar persoane,95
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2001, Numar persoane,84
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2002, Numar persoane,74
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2003, Numar persoane,87
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2004, Numar persoane,93
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,99
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,117
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 1999, Numar persoane,123
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2000, Numar persoane,107
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2001, Numar persoane,103
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2002, Numar persoane,100
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2003, Numar persoane,114
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2004, Numar persoane,111
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,122
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,121
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 1999, Numar persoane,112
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2000, Numar persoane,114
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2001, Numar persoane,118
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2002, Numar persoane,109
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2003, Numar persoane,97
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2004, Numar persoane,97
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,87
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,80
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 1999, Numar persoane,133
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2000, Numar persoane,132
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2001, Numar persoane,134
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2002, Numar persoane,134
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2003, Numar persoane,125
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2004, Numar persoane,123
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,108
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,107
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 1999, Numar persoane,102
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2000, Numar persoane,94
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2001, Numar persoane,94
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2002, Numar persoane,98
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2003, Numar persoane,98
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2004, Numar persoane,92
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,97
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,99
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 1999, Numar persoane,148
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2000, Numar persoane,144
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2001, Numar persoane,134
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2002, Numar persoane,126
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2003, Numar persoane,117
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2004, Numar persoane,124
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,124
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,132
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 1999, Numar persoane,80
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2000, Numar persoane,75
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2001, Numar persoane,74
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2002, Numar persoane,86
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2003, Numar persoane,84
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2004, Numar persoane,83
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,76
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,77
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 1999, Numar persoane,135
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2000, Numar persoane,131
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2001, Numar persoane,128
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2002, Numar persoane,127
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2003, Numar persoane,136
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2004, Numar persoane,131
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,126
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,114
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 1999, Numar persoane,52
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2000, Numar persoane,51
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2001, Numar persoane,56
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2002, Numar persoane,46
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2003, Numar persoane,51
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2004, Numar persoane,52
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,51
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,53
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 1999, Numar persoane,128
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2000, Numar persoane,129
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2001, Numar persoane,119
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2002, Numar persoane,115
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2003, Numar persoane,107
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2004, Numar persoane,102
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,102
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,104
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 1999, Numar persoane,19
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2000, Numar persoane,24
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2001, Numar persoane,26
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2002, Numar persoane,32
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2003, Numar persoane,31
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2004, Numar persoane,30
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,27
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,33
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 1999, Numar persoane,33
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2000, Numar persoane,36
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2001, Numar persoane,48
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2002, Numar persoane,57
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2003, Numar persoane,71
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2004, Numar persoane,85
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,87
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,78
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 1999, Numar persoane,10
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2000, Numar persoane,12
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2001, Numar persoane,11
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2002, Numar persoane,8
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2003, Numar persoane,9
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2004, Numar persoane,9
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,13
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,12
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 1999, Numar persoane,28
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2000, Numar persoane,26
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2001, Numar persoane,22
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2002, Numar persoane,18
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2003, Numar persoane,19
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2004, Numar persoane,19
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,22
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,29
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,78
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,78
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,71
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,63
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,55
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,56
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,77
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,73
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,67
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,71
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,76
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,66
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,88
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,84
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,85
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,86
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,79
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,77
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,72
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,71
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,79
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,71
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,76
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,79
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,108
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,99
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,100
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,92
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,91
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,90
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,77
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,74
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,62
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,71
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,63
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,69
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,99
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,95
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,90
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,100
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,101
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,98
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,88
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,87
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,99
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,87
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,85
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,73
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,88
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,91
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,105
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,109
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,100
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,97
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,79
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,69
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,76
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,83
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,96
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,93
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,87
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,80
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,85
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,86
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,84
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,91
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,109
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,98
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,89
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,81
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,81
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,79
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,108
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,104
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,105
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,92
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,98
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,87
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,114
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,113
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,105
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,108
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,114
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,113
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,143
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,136
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,124
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,120
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,121
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,114
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,97
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,94
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,92
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,101
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,98
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,104
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,64
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,78
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,98
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,111
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,121
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,146
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,62
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,68
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,79
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,76
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,81
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,97
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,88
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,77
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,75
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,79
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,71
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,61
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,71
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,70
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,67
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,69
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,76
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,66
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,95
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,96
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,106
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,90
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,88
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,89
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,101
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,92
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,97
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,98
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,81
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,71
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,113
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,100
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,94
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,103
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,93
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,93
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,115
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,104
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,99
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,93
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,104
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,111
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,70
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,83
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,88
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,93
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,108
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,111
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,104
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,114
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,110
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,123
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,121
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,111
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,99
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,86
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,86
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,80
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,74
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,67
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,132
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,122
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,121
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,104
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,99
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,102
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,84
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,84
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,78
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,80
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,80
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,77
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,112
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,97
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,105
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,111
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,119
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,118
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,57
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,59
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,61
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,52
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,57
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,64
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,103
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,111
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,108
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,105
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,93
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,89
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,24
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,28
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,29
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,27
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,25
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,25
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,75
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,71
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,63
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,70
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,74
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,73
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,13
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,15
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,14
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,18
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,21
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,17
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,34
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,38
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,46
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,47
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,47
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,41
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,51
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,49
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,45
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,49
+ 158243 RACOVITA,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,52
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,64
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,54
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,52
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,46
+ 158243 RACOVITA,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,46
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,79
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,69
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,65
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,58
+ 158243 RACOVITA,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,57
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,76
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,64
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,69
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,68
+ 158243 RACOVITA,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,62
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,84
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,81
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,86
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,79
+ 158243 RACOVITA,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,78
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,68
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,75
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,74
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,79
+ 158243 RACOVITA,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,76
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,98
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,94
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,84
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,92
+ 158243 RACOVITA,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,89
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,77
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,66
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,66
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,63
+ 158243 RACOVITA,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,74
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,93
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,84
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,97
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,100
+ 158243 RACOVITA,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,98
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,96
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,99
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,88
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,77
+ 158243 RACOVITA,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,69
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,94
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,100
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,110
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,107
+ 158243 RACOVITA,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,103
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,63
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,70
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,75
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,84
+ 158243 RACOVITA,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,82
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,89
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,91
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,96
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,92
+ 158243 RACOVITA,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,92
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,111
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,94
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,82
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,73
+ 158243 RACOVITA,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,75
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,114
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,112
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,103
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,105
+ 158243 RACOVITA,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,100
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,109
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,103
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,108
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,114
+ 158243 RACOVITA,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,107
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,142
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,127
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,125
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,128
+ 158243 RACOVITA,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,117
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,98
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,97
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,105
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,101
+ 158243 RACOVITA,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,106
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,82
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,98
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,112
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,122
+ 158243 RACOVITA,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,150
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,72
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,83
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,81
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,86
+ 158243 RACOVITA,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,96
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,78
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,72
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,77
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,73
+ 158243 RACOVITA,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,65
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,73
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,68
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,69
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,74
+ 158243 RACOVITA,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,65
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,95
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,100
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,91
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,84
+ 158243 RACOVITA,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,82
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,103
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,102
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,101
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,86
+ 158243 RACOVITA,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,76
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,101
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,99
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,103
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,88
+ 158243 RACOVITA,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,90
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,102
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,99
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,93
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,100
+ 158243 RACOVITA,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,107
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,76
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,73
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,81
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,96
+ 158243 RACOVITA,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,101
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,109
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,104
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,113
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,113
+ 158243 RACOVITA,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,110
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,69
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,72
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,63
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,59
+ 158243 RACOVITA,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,54
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,108
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,110
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,93
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,89
+ 158243 RACOVITA,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,90
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,62
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,55
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,60
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,59
+ 158243 RACOVITA,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,55
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,83
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,83
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,89
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,94
+ 158243 RACOVITA,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,99
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,31
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,31
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,25
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,31
+ 158243 RACOVITA,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,37
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,72
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,67
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,69
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,69
+ 158243 RACOVITA,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,65
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,20
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,17
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,17
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,13
+ 158243 RACOVITA,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,17
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,46
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,46
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,46
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,45
+ 158243 RACOVITA,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,47

@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 1992, Numar persoane,104
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 1993, Numar persoane,102
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 1994, Numar persoane,88
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 1995, Numar persoane,90
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 1996, Numar persoane,87
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 1997, Numar persoane,91
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 1998, Numar persoane,89
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 1992, Numar persoane,107
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 1993, Numar persoane,94
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 1994, Numar persoane,81
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 1995, Numar persoane,79
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 1996, Numar persoane,69
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 1997, Numar persoane,68
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 1998, Numar persoane,64
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 1992, Numar persoane,78
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 1993, Numar persoane,102
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 1994, Numar persoane,111
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 1995, Numar persoane,123
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 1996, Numar persoane,120
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 1997, Numar persoane,111
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 1998, Numar persoane,102
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 1992, Numar persoane,93
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 1993, Numar persoane,114
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 1994, Numar persoane,116
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 1995, Numar persoane,118
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 1996, Numar persoane,122
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 1997, Numar persoane,115
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 1998, Numar persoane,98
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 1992, Numar persoane,85
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 1993, Numar persoane,71
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 1994, Numar persoane,73
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 1995, Numar persoane,67
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 1996, Numar persoane,81
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 1997, Numar persoane,81
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 1998, Numar persoane,102
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 1992, Numar persoane,89
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 1993, Numar persoane,92
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 1994, Numar persoane,107
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 1995, Numar persoane,106
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 1996, Numar persoane,96
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 1997, Numar persoane,94
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 1998, Numar persoane,113
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 1992, Numar persoane,100
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 1993, Numar persoane,105
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 1994, Numar persoane,100
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 1995, Numar persoane,106
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 1996, Numar persoane,86
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 1997, Numar persoane,86
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 1998, Numar persoane,74
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 1992, Numar persoane,92
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 1993, Numar persoane,92
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 1994, Numar persoane,74
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 1995, Numar persoane,80
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 1996, Numar persoane,81
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 1997, Numar persoane,94
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 1998, Numar persoane,93
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 1992, Numar persoane,136
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 1993, Numar persoane,127
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 1994, Numar persoane,121
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 1995, Numar persoane,107
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 1996, Numar persoane,112
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 1997, Numar persoane,102
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 1998, Numar persoane,109
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 1992, Numar persoane,100
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 1993, Numar persoane,107
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 1994, Numar persoane,98
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 1995, Numar persoane,97
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 1996, Numar persoane,100
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 1997, Numar persoane,94
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 1998, Numar persoane,90
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 1992, Numar persoane,64
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 1993, Numar persoane,77
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 1994, Numar persoane,90
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 1995, Numar persoane,111
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 1996, Numar persoane,124
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 1997, Numar persoane,135
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 1998, Numar persoane,127
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 1992, Numar persoane,61
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 1993, Numar persoane,69
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 1994, Numar persoane,79
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 1995, Numar persoane,94
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 1996, Numar persoane,91
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 1997, Numar persoane,98
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 1998, Numar persoane,101
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 1992, Numar persoane,79
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 1993, Numar persoane,74
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 1994, Numar persoane,68
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 1995, Numar persoane,68
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 1996, Numar persoane,69
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 1997, Numar persoane,71
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 1998, Numar persoane,81
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 1992, Numar persoane,76
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 1993, Numar persoane,70
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 1994, Numar persoane,73
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 1995, Numar persoane,71
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 1996, Numar persoane,70
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 1997, Numar persoane,70
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 1998, Numar persoane,71
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 1992, Numar persoane,88
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 1993, Numar persoane,87
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 1994, Numar persoane,89
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 1995, Numar persoane,88
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 1996, Numar persoane,85
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 1997, Numar persoane,82
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 1998, Numar persoane,83
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 1992, Numar persoane,62
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 1993, Numar persoane,68
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 1994, Numar persoane,72
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 1995, Numar persoane,72
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 1996, Numar persoane,65
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 1997, Numar persoane,70
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 1998, Numar persoane,68
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 1992, Numar persoane,90
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 1993, Numar persoane,94
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 1994, Numar persoane,95
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 1995, Numar persoane,96
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 1996, Numar persoane,92
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 1997, Numar persoane,86
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 1998, Numar persoane,89
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 1992, Numar persoane,76
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 1993, Numar persoane,75
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 1994, Numar persoane,67
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 1995, Numar persoane,73
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 1996, Numar persoane,81
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 1997, Numar persoane,66
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 1998, Numar persoane,73
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 1992, Numar persoane,69
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 1993, Numar persoane,64
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 1994, Numar persoane,71
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 1995, Numar persoane,80
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 1996, Numar persoane,89
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 1997, Numar persoane,83
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 1998, Numar persoane,87
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 1992, Numar persoane,75
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 1993, Numar persoane,69
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 1994, Numar persoane,78
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 1995, Numar persoane,78
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 1996, Numar persoane,71
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 1997, Numar persoane,75
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 1998, Numar persoane,75
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 1992, Numar persoane,87
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 1993, Numar persoane,92
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 1994, Numar persoane,73
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 1995, Numar persoane,68
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 1996, Numar persoane,67
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 1997, Numar persoane,69
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 1998, Numar persoane,62
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 1992, Numar persoane,104
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 1993, Numar persoane,97
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 1994, Numar persoane,85
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 1995, Numar persoane,80
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 1996, Numar persoane,78
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 1997, Numar persoane,76
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 1998, Numar persoane,70
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 1992, Numar persoane,96
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 1993, Numar persoane,80
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 1994, Numar persoane,91
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 1995, Numar persoane,89
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 1996, Numar persoane,84
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 1997, Numar persoane,80
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 1998, Numar persoane,85
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 1992, Numar persoane,114
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 1993, Numar persoane,111
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 1994, Numar persoane,109
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 1995, Numar persoane,108
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 1996, Numar persoane,105
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 1997, Numar persoane,103
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 1998, Numar persoane,92
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 1992, Numar persoane,111
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 1993, Numar persoane,106
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 1994, Numar persoane,94
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 1995, Numar persoane,90
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 1996, Numar persoane,79
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 1997, Numar persoane,77
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 1998, Numar persoane,74
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 1992, Numar persoane,114
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 1993, Numar persoane,114
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 1994, Numar persoane,123
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 1995, Numar persoane,119
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 1996, Numar persoane,109
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 1997, Numar persoane,110
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 1998, Numar persoane,111
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 1992, Numar persoane,80
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 1993, Numar persoane,89
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 1994, Numar persoane,79
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 1995, Numar persoane,82
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 1996, Numar persoane,79
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 1997, Numar persoane,78
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 1998, Numar persoane,76
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 1992, Numar persoane,108
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 1993, Numar persoane,111
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 1994, Numar persoane,96
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 1995, Numar persoane,99
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 1996, Numar persoane,115
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 1997, Numar persoane,103
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 1998, Numar persoane,99
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 1992, Numar persoane,48
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 1993, Numar persoane,52
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 1994, Numar persoane,67
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 1995, Numar persoane,64
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 1996, Numar persoane,74
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 1997, Numar persoane,57
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 1998, Numar persoane,65
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 1992, Numar persoane,86
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 1993, Numar persoane,96
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 1994, Numar persoane,119
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 1995, Numar persoane,110
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 1996, Numar persoane,102
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 1997, Numar persoane,97
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 1998, Numar persoane,96
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 1992, Numar persoane,43
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 1993, Numar persoane,30
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 1994, Numar persoane,20
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 1995, Numar persoane,22
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 1996, Numar persoane,25
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 1997, Numar persoane,38
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 1998, Numar persoane,41
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 1992, Numar persoane,64
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 1993, Numar persoane,55
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 1994, Numar persoane,40
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 1995, Numar persoane,42
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 1996, Numar persoane,50
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 1997, Numar persoane,69
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 1998, Numar persoane,79
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 1992, Numar persoane,32
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 1993, Numar persoane,33
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 1994, Numar persoane,33
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 1995, Numar persoane,32
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 1996, Numar persoane,27
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 1997, Numar persoane,20
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 1998, Numar persoane,11
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 1992, Numar persoane,51
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 1993, Numar persoane,57
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 1994, Numar persoane,57
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 1995, Numar persoane,55
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 1996, Numar persoane,50
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 1997, Numar persoane,40
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 1998, Numar persoane,27
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 1992, Numar persoane,19
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 1993, Numar persoane,16
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 1994, Numar persoane,15
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 1995, Numar persoane,14
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 1996, Numar persoane,12
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 1997, Numar persoane,14
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 1998, Numar persoane,16
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 1992, Numar persoane,15
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 1993, Numar persoane,16
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 1994, Numar persoane,21
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 1995, Numar persoane,25
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 1996, Numar persoane,24
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 1997, Numar persoane,28
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 1998, Numar persoane,31
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 1999, Numar persoane,95
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2000, Numar persoane,85
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2001, Numar persoane,90
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2002, Numar persoane,77
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2003, Numar persoane,73
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2004, Numar persoane,77
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,77
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,69
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 1999, Numar persoane,65
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2000, Numar persoane,71
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2001, Numar persoane,73
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2002, Numar persoane,77
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2003, Numar persoane,90
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2004, Numar persoane,93
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,90
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,88
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 1999, Numar persoane,88
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2000, Numar persoane,89
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2001, Numar persoane,86
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2002, Numar persoane,91
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2003, Numar persoane,91
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2004, Numar persoane,100
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,89
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,96
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 1999, Numar persoane,84
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2000, Numar persoane,77
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2001, Numar persoane,68
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2002, Numar persoane,65
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2003, Numar persoane,63
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2004, Numar persoane,70
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,80
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,84
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 1999, Numar persoane,112
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2000, Numar persoane,121
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2001, Numar persoane,116
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2002, Numar persoane,107
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2003, Numar persoane,103
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2004, Numar persoane,91
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,96
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,95
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 1999, Numar persoane,115
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2000, Numar persoane,114
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2001, Numar persoane,123
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2002, Numar persoane,114
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2003, Numar persoane,97
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2004, Numar persoane,83
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,76
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,71
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 1999, Numar persoane,75
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2000, Numar persoane,70
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2001, Numar persoane,84
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2002, Numar persoane,79
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2003, Numar persoane,99
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2004, Numar persoane,110
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,124
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,125
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 1999, Numar persoane,104
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2000, Numar persoane,106
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2001, Numar persoane,99
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2002, Numar persoane,96
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2003, Numar persoane,112
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2004, Numar persoane,111
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,108
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,116
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 1999, Numar persoane,99
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2000, Numar persoane,101
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2001, Numar persoane,85
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2002, Numar persoane,89
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2003, Numar persoane,76
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2004, Numar persoane,78
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,75
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,91
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 1999, Numar persoane,85
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2000, Numar persoane,83
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2001, Numar persoane,84
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2002, Numar persoane,103
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2003, Numar persoane,99
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2004, Numar persoane,106
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,108
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,97
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 1999, Numar persoane,126
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2000, Numar persoane,112
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2001, Numar persoane,110
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2002, Numar persoane,99
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2003, Numar persoane,99
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2004, Numar persoane,94
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,97
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,87
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 1999, Numar persoane,99
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2000, Numar persoane,95
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2001, Numar persoane,104
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2002, Numar persoane,95
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2003, Numar persoane,92
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2004, Numar persoane,82
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,80
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,91
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 1999, Numar persoane,95
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2000, Numar persoane,117
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2001, Numar persoane,124
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2002, Numar persoane,133
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2003, Numar persoane,126
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2004, Numar persoane,120
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,107
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,106
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 1999, Numar persoane,79
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2000, Numar persoane,90
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2001, Numar persoane,91
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2002, Numar persoane,100
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2003, Numar persoane,100
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2004, Numar persoane,102
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,100
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,99
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 1999, Numar persoane,76
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2000, Numar persoane,71
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2001, Numar persoane,74
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2002, Numar persoane,80
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2003, Numar persoane,86
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2004, Numar persoane,102
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,118
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,121
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 1999, Numar persoane,73
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2000, Numar persoane,72
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2001, Numar persoane,73
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2002, Numar persoane,66
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2003, Numar persoane,73
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2004, Numar persoane,81
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,92
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,98
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 1999, Numar persoane,87
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2000, Numar persoane,87
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2001, Numar persoane,87
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2002, Numar persoane,81
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2003, Numar persoane,85
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2004, Numar persoane,76
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,70
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,78
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 1999, Numar persoane,77
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2000, Numar persoane,74
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2001, Numar persoane,70
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2002, Numar persoane,77
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2003, Numar persoane,74
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2004, Numar persoane,68
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,67
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,69
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 1999, Numar persoane,92
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2000, Numar persoane,92
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2001, Numar persoane,90
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2002, Numar persoane,85
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2003, Numar persoane,88
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2004, Numar persoane,89
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,93
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,94
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 1999, Numar persoane,73
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2000, Numar persoane,77
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2001, Numar persoane,85
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2002, Numar persoane,70
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2003, Numar persoane,73
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2004, Numar persoane,75
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,73
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,66
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 1999, Numar persoane,69
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2000, Numar persoane,74
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2001, Numar persoane,81
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2002, Numar persoane,81
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2003, Numar persoane,81
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2004, Numar persoane,85
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,87
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,86
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 1999, Numar persoane,74
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2000, Numar persoane,73
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2001, Numar persoane,74
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2002, Numar persoane,76
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2003, Numar persoane,76
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2004, Numar persoane,69
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,75
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,80
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 1999, Numar persoane,70
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2000, Numar persoane,71
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2001, Numar persoane,69
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2002, Numar persoane,68
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2003, Numar persoane,62
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2004, Numar persoane,63
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,67
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,73
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 1999, Numar persoane,85
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2000, Numar persoane,84
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2001, Numar persoane,80
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2002, Numar persoane,79
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2003, Numar persoane,71
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2004, Numar persoane,78
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,78
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,79
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 1999, Numar persoane,86
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2000, Numar persoane,80
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2001, Numar persoane,69
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2002, Numar persoane,71
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2003, Numar persoane,78
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2004, Numar persoane,66
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,62
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,65
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 1999, Numar persoane,110
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2000, Numar persoane,107
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2001, Numar persoane,101
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2002, Numar persoane,98
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2003, Numar persoane,91
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2004, Numar persoane,81
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,82
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,79
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 1999, Numar persoane,64
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2000, Numar persoane,66
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2001, Numar persoane,69
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2002, Numar persoane,68
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2003, Numar persoane,63
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2004, Numar persoane,77
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,73
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,63
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 1999, Numar persoane,109
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2000, Numar persoane,106
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2001, Numar persoane,99
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2002, Numar persoane,103
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2003, Numar persoane,101
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2004, Numar persoane,97
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,95
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,89
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 1999, Numar persoane,60
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2000, Numar persoane,57
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2001, Numar persoane,56
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2002, Numar persoane,56
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2003, Numar persoane,58
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2004, Numar persoane,55
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,59
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,52
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 1999, Numar persoane,76
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2000, Numar persoane,80
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2001, Numar persoane,92
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2002, Numar persoane,86
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2003, Numar persoane,88
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2004, Numar persoane,94
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,91
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,87
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 1999, Numar persoane,50
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2000, Numar persoane,46
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2001, Numar persoane,46
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2002, Numar persoane,36
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2003, Numar persoane,41
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2004, Numar persoane,39
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,37
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,37
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 1999, Numar persoane,97
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2000, Numar persoane,87
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2001, Numar persoane,78
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2002, Numar persoane,71
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2003, Numar persoane,67
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2004, Numar persoane,53
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,62
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,67
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 1999, Numar persoane,8
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2000, Numar persoane,13
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2001, Numar persoane,16
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2002, Numar persoane,29
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2003, Numar persoane,27
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2004, Numar persoane,34
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,26
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,26
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 1999, Numar persoane,19
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2000, Numar persoane,26
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2001, Numar persoane,36
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2002, Numar persoane,45
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2003, Numar persoane,53
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2004, Numar persoane,55
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,48
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,46
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 1999, Numar persoane,17
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2000, Numar persoane,17
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2001, Numar persoane,16
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2002, Numar persoane,10
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2003, Numar persoane,9
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2004, Numar persoane,9
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,14
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,14
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 1999, Numar persoane,28
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2000, Numar persoane,25
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2001, Numar persoane,23
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2002, Numar persoane,20
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2003, Numar persoane,20
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2004, Numar persoane,14
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,17
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,21
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,67
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,67
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,63
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,63
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,70
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,70
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,86
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,79
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,81
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,77
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,71
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,78
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,85
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,77
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,83
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,81
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,72
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,75
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,83
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,92
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,93
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,93
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,92
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,91
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,105
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,101
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,103
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,97
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,100
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,85
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,65
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,65
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,75
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,80
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,90
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,88
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,120
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,114
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,105
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,104
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,102
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,111
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,108
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,90
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,80
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,70
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,62
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,65
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,83
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,102
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,123
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,134
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,136
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,131
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,96
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,107
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,103
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,106
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,114
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,110
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,95
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,78
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,81
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,80
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,91
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,81
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,98
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,94
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,105
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,107
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,97
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,94
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,95
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,97
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,99
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,101
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,86
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,95
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,93
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,94
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,91
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,91
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,96
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,106
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,130
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,124
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,122
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,107
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,108
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,101
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,102
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,99
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,106
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,101
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,103
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,103
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,79
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,83
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,97
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,120
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,127
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,137
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,65
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,69
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,78
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,98
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,102
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,108
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,87
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,85
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,78
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,71
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,77
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,82
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,70
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,66
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,68
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,65
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,68
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,71
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,83
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,87
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,86
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,90
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,96
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,85
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,68
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,73
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,78
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,77
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,71
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,76
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,71
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,76
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,80
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,81
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,81
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,85
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,82
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,84
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,77
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,77
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,84
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,72
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,67
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,53
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,55
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,62
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,68
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,68
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,78
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,68
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,73
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,71
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,75
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,80
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,66
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,72
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,56
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,53
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,53
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,57
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,92
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,89
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,83
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,80
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,75
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,72
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,54
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,52
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,61
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,61
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,52
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,55
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,85
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,80
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,81
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,86
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,82
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,86
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,39
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,42
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,39
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,39
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,39
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,38
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,55
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,62
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,66
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,61
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,66
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,66
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,16
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,19
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,17
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,20
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,23
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,25
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,49
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,46
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,42
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,41
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,45
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,36
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,21
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,18
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,17
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,12
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,14
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,13
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,26
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,29
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,38
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,40
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,37
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,38
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,67
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,64
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,73
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,61
+ 159035 TORMAC,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,62
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,74
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,68
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,76
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,71
+ 159035 TORMAC,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,58
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,73
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,73
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,67
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,67
+ 159035 TORMAC,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,65
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,87
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,86
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,78
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,70
+ 159035 TORMAC,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,75
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,87
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,94
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,88
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,82
+ 159035 TORMAC,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,82
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,96
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,89
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,94
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,91
+ 159035 TORMAC,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,93
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,105
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,113
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,106
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,111
+ 159035 TORMAC,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,97
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,72
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,81
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,83
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,87
+ 159035 TORMAC,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,86
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,123
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,114
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,111
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,102
+ 159035 TORMAC,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,116
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,98
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,94
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,76
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,70
+ 159035 TORMAC,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,74
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,108
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,111
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,125
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,131
+ 159035 TORMAC,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,127
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,103
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,104
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,113
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,120
+ 159035 TORMAC,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,111
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,80
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,83
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,88
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,89
+ 159035 TORMAC,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,88
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,99
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,103
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,106
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,91
+ 159035 TORMAC,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,90
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,106
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,103
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,106
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,94
+ 159035 TORMAC,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,99
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,107
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,96
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,95
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,99
+ 159035 TORMAC,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,105
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,129
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,123
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,110
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,109
+ 159035 TORMAC,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,103
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,106
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,105
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,101
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,107
+ 159035 TORMAC,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,104
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,92
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,104
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,127
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,133
+ 159035 TORMAC,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,142
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,72
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,85
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,99
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,102
+ 159035 TORMAC,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,107
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,82
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,75
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,70
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,75
+ 159035 TORMAC,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,78
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,72
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,72
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,71
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,74
+ 159035 TORMAC,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,75
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,86
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,89
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,87
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,89
+ 159035 TORMAC,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,84
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,78
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,84
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,82
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,69
+ 159035 TORMAC,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,76
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,74
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,83
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,82
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,75
+ 159035 TORMAC,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,71
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,86
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,77
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,79
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,83
+ 159035 TORMAC,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,72
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,50
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,48
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,54
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,63
+ 159035 TORMAC,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,63
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,64
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,71
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,66
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,72
+ 159035 TORMAC,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,77
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,56
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,45
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,39
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,41
+ 159035 TORMAC,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,40
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,83
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,77
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,78
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,71
+ 159035 TORMAC,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,65
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,41
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,48
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,51
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,39
+ 159035 TORMAC,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,42
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,67
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,70
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,70
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,66
+ 159035 TORMAC,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,73
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,26
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,25
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,30
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,31
+ 159035 TORMAC,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,25
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,44
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,49
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,49
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,51
+ 159035 TORMAC,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,46
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,9
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,12
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,8
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,14
+ 159035 TORMAC,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,15
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,32
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,30
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,30
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,32
+ 159035 TORMAC,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,27

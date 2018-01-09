@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,106
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,96
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,86
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,72
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,67
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,54
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,51
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,63
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,69
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,76
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,77
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,81
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,78
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,67
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,70
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,67
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,57
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,65
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,94
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,92
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,94
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,89
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,94
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,107
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,107
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,98
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,84
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,87
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,69
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,68
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,58
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,71
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,79
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,81
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,82
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,80
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,126
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,110
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,101
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,98
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,93
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,88
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,86
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,98
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,104
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,118
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,120
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,106
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,104
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,90
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,78
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,65
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,67
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,68
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,153
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,154
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,143
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,135
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,130
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,124
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,106
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,101
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,104
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,140
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,139
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,137
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,131
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,133
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,114
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,118
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,110
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,110
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,174
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,158
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,158
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,152
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,150
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,143
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,147
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,139
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,138
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,124
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,120
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,128
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,118
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,107
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,115
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,108
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,113
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,114
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,114
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,130
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,136
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,141
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,150
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,148
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,140
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,129
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,134
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,70
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,69
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,76
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,88
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,94
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,101
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,106
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,106
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,105
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,93
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,87
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,87
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,90
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,87
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,92
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,110
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,121
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,125
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,83
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,72
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,58
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,51
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,50
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,56
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,56
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,67
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,86
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,110
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,105
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,96
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,94
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,98
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,92
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,87
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,80
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,82
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,86
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,90
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,98
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,89
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,85
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,80
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,71
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,58
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,57
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,121
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,123
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,118
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,110
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,100
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,105
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,99
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,97
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,97
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,111
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,104
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,93
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,90
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,82
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,85
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,89
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,96
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,88
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,86
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,83
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,98
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,102
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,120
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,113
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,114
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,111
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,107
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,95
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,78
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,84
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,101
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,113
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,108
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,101
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,97
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,98
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,116
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,109
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,97
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,99
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,82
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,82
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,80
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,97
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,103
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,146
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,154
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,128
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,112
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,101
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,95
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,78
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,83
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,104
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,140
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,130
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,124
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,114
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,104
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,101
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,99
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,86
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,92
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,163
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,151
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,164
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,148
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,148
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,140
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,149
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,129
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,114
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,181
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,174
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,167
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,152
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,146
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,127
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,112
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,108
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,97
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,202
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,200
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,177
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,181
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,164
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,159
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,149
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,161
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,140
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,167
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,163
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,152
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,146
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,139
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,146
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,143
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,135
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,127
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,213
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,200
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,194
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,199
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,197
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,187
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,185
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,163
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,165
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,101
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,112
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,129
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,136
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,138
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,127
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,126
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,109
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,109
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,124
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,142
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,173
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,183
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,188
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,195
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,178
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,171
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,171
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,62
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,47
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,40
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,44
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,51
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,67
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,72
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,88
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,86
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,116
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,107
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,89
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,81
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,87
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,94
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,112
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,142
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,141
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,44
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,43
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,35
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,41
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,39
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,28
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,22
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,20
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,23
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,81
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,79
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,81
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,84
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,82
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,73
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,59
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,50
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,46
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,18
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,21
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,26
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,20
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,18
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,21
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,26
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,28
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,28
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,48
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,45
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,44
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,44
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,46
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,43
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,54
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,47
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,54
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,69
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,79
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,72
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,62
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,70
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,74
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,66
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,69
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,62
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,70
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,73
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,81
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,80
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,79
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,77
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,80
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,74
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,54
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,57
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,65
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,70
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,74
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,86
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,81
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,69
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,72
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,66
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,58
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,70
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,65
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,75
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,77
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,104
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,114
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,113
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,102
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,84
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,78
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,57
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,59
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,80
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,84
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,87
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,85
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,82
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,80
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,87
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,78
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,103
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,95
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,99
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,116
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,116
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,114
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,122
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,122
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,96
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,80
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,73
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,79
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,76
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,89
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,90
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,91
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,132
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,129
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,116
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,111
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,115
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,118
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,117
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,116
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,125
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,118
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,128
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,121
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,124
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,107
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,92
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,80
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,135
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,137
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,145
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,143
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,146
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,141
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,139
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,125
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,92
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,98
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,98
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,105
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,107
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,127
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,121
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,130
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,139
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,140
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,137
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,131
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,127
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,144
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,147
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,153
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,101
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,106
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,110
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,106
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,103
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,94
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,104
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,99
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,81
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,87
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,106
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,121
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,126
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,137
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,144
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,140
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,51
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,54
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,54
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,65
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,83
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,102
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,109
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,117
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,94
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,81
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,75
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,80
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,82
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,79
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,87
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,110
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,89
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,86
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,77
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,71
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,64
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,59
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,56
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,60
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,98
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,105
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,109
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,109
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,107
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,103
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,93
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,87
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,90
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,92
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,103
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,110
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,108
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,105
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,100
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,92
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,115
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,112
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,112
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,113
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,120
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,115
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,126
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,123
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,113
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,113
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,111
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,105
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,115
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,116
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,118
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,125
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,80
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,81
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,83
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,98
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,101
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,123
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,116
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,113
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,102
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,95
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,77
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,88
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,102
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,113
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,121
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,120
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,94
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,96
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,95
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,88
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,88
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,80
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,76
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,85
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,144
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,138
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,144
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,118
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,110
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,101
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,89
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,81
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,119
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,106
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,93
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,87
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,89
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,85
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,88
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,85
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,147
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,137
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,136
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,153
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,132
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,139
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,135
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,139
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,110
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,110
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,107
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,111
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,95
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,99
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,90
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,81
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,172
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,168
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,165
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,143
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,150
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,134
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,126
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,127
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,91
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,82
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,87
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,76
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,74
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,69
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,72
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,74
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,146
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,145
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,134
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,134
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,141
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,147
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,139
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,135
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,27
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,39
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,44
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,53
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,61
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,62
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,54
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,53
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,50
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,60
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,72
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,86
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,84
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,84
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,94
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,90
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,23
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,18
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,14
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,13
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,14
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,17
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,23
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,25
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,48
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,41
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,35
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,31
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,35
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,37
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,39
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,44
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,65
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,60
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,64
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,64
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,63
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,59
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,62
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,59
+ 58721 MOLDOVENESTI,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,61
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,76
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,73
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,71
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,63
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,63
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,62
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,60
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,62
+ 58721 MOLDOVENESTI,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,59
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,76
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,76
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,70
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,62
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,65
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,68
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,67
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,63
+ 58721 MOLDOVENESTI,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,66
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,84
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,77
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,75
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,74
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,79
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,75
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,80
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,77
+ 58721 MOLDOVENESTI,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,72
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,65
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,72
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,76
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,89
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,82
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,78
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,72
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,68
+ 58721 MOLDOVENESTI,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,60
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,68
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,73
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,66
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,74
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,74
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,82
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,78
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,80
+ 58721 MOLDOVENESTI,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,84
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,104
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,89
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,77
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,58
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,58
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,67
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,78
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,78
+ 58721 MOLDOVENESTI,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,91
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,91
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,85
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,79
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,77
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,73
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,69
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,73
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,66
+ 58721 MOLDOVENESTI,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,71
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,131
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,120
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,117
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,119
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,115
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,94
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,81
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,72
+ 58721 MOLDOVENESTI,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,59
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,77
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,83
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,92
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,91
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,92
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,90
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,84
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,80
+ 58721 MOLDOVENESTI,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,73
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,114
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,122
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,129
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,127
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,122
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,129
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,125
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,118
+ 58721 MOLDOVENESTI,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,117
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,120
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,111
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,99
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,93
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,84
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,89
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,85
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,102
+ 58721 MOLDOVENESTI,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,103
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,147
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,147
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,141
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,137
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,127
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,120
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,125
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,129
+ 58721 MOLDOVENESTI,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,124
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,110
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,113
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,128
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,123
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,128
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,117
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,111
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,93
+ 58721 MOLDOVENESTI,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,92
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,132
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,130
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,134
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,140
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,145
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,141
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,140
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,142
+ 58721 MOLDOVENESTI,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,139
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,117
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,111
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,96
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,102
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,103
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,114
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,117
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,131
+ 58721 MOLDOVENESTI,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,126
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,120
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,129
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,142
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,143
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,135
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,132
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,136
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,130
+ 58721 MOLDOVENESTI,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,143
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,65
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,80
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,103
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,114
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,117
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,112
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,112
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,95
+ 58721 MOLDOVENESTI,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,107
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,88
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,83
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,81
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,92
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,116
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,123
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,138
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,152
+ 58721 MOLDOVENESTI,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,156
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,78
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,70
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,67
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,62
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,65
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,70
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,85
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,105
+ 58721 MOLDOVENESTI,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,113
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,116
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,110
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,102
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,89
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,82
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,81
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,81
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,81
+ 58721 MOLDOVENESTI,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,97
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,135
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,123
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,112
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,103
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,90
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,79
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,73
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,68
+ 58721 MOLDOVENESTI,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,63
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,122
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,120
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,119
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,124
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,113
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,107
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,106
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,99
+ 58721 MOLDOVENESTI,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,84
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,115
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,120
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,118
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,124
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,131
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,134
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,121
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,109
+ 58721 MOLDOVENESTI,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,104
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,93
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,98
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,111
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,105
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,103
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,106
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,100
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,103
+ 58721 MOLDOVENESTI,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,109
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,92
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,109
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,118
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,120
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,120
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,117
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,117
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,119
+ 58721 MOLDOVENESTI,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,120
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,79
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,75
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,68
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,69
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,73
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,84
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,92
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,99
+ 58721 MOLDOVENESTI,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,89
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,119
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,106
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,95
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,84
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,78
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,91
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,106
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,114
+ 58721 MOLDOVENESTI,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,118
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,74
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,79
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,75
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,75
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,77
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,69
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,66
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,60
+ 58721 MOLDOVENESTI,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,61
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,131
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,116
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,125
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,125
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,125
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,106
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,98
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,83
+ 58721 MOLDOVENESTI,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,73
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,79
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,70
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,73
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,68
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,57
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,53
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,60
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,59
+ 58721 MOLDOVENESTI,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,54
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,118
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,120
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,105
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,102
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,103
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,106
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,95
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,114
+ 58721 MOLDOVENESTI,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,112
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,45
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,43
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,45
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,47
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,50
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,52
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,45
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,40
+ 58721 MOLDOVENESTI,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,46
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,93
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,100
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,106
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,105
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,102
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,94
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,93
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,73
+ 58721 MOLDOVENESTI,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,71
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,29
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,30
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,29
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,27
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,21
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,18
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,26
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,23
+ 58721 MOLDOVENESTI,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,22
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,52
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,52
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,51
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,60
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,58
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,65
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,73
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,82
+ 58721 MOLDOVENESTI,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,86

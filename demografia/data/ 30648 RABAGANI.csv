@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,57
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,45
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,49
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,49
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,49
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,49
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,58
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,57
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,71
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,67
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,54
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,58
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,58
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,61
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,64
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,71
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,51
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,59
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,57
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,63
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,58
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,53
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,45
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,48
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,53
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,50
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,58
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,66
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,65
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,70
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,72
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,63
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,57
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,51
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,47
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,46
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,52
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,54
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,57
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,50
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,70
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,62
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,59
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,55
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,50
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,49
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,45
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,56
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,103
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,97
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,91
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,78
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,66
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,60
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,55
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,47
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,81
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,74
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,74
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,82
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,75
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,67
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,60
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,58
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,131
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,120
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,117
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,116
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,103
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,98
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,94
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,91
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,104
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,101
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,90
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,79
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,82
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,82
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,80
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,78
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,64
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,70
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,77
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,94
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,110
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,118
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,116
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,120
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,42
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,47
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,62
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,75
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,79
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,83
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,91
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,86
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,63
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,56
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,59
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,53
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,54
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,49
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,61
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,70
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,37
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,39
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,39
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,38
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,39
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,36
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,38
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,52
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,66
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,64
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,62
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,61
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,59
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,58
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,51
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,51
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,56
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,49
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,47
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,44
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,39
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,37
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,39
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,38
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,76
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,70
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,69
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,67
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,66
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,65
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,62
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,62
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,113
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,104
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,95
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,80
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,60
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,53
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,47
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,47
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,67
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,72
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,72
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,76
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,75
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,73
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,68
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,69
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,79
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,88
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,93
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,107
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,116
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,111
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,104
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,92
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,110
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,103
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,87
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,74
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,64
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,64
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,70
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,71
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,95
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,84
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,82
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,72
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,74
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,83
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,91
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,92
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,97
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,98
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,105
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,110
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,113
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,105
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,97
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,81
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,124
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,113
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,107
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,113
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,99
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,93
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,83
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,82
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,97
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,100
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,99
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,106
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,102
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,93
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,96
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,98
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,116
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,125
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,127
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,116
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,123
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,116
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,105
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,98
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,109
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,100
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,91
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,82
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,77
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,83
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,82
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,87
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,125
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,112
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,110
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,105
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,103
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,108
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,117
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,117
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,68
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,80
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,90
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,78
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,85
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,83
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,77
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,68
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,70
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,96
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,110
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,112
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,118
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,112
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,96
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,94
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,32
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,28
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,22
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,37
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,38
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,45
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,52
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,57
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,52
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,33
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,29
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,41
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,42
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,57
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,76
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,84
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,26
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,22
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,24
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,23
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,21
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,16
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,12
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,13
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,31
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,45
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,46
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,41
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,37
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,32
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,18
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,16
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,13
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,13
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,9
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,10
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,12
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,8
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,9
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,9
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,16
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,14
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,13
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,15
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,22
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,19
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,23
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,22
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,62
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,69
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,71
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,69
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,69
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,56
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,53
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,62
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,62
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,61
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,62
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,53
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,50
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,48
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,47
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,48
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,45
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,55
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,56
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,65
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,68
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,63
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,68
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,70
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,67
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,72
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,62
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,63
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,57
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,60
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,55
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,45
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,48
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,45
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,45
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,65
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,66
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,73
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,73
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,65
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,66
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,67
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,45
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,49
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,50
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,55
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,51
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,59
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,58
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,55
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,56
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,50
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,48
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,58
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,66
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,63
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,81
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,66
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,61
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,59
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,48
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,44
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,48
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,79
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,67
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,68
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,60
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,57
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,53
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,54
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,107
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,97
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,92
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,86
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,85
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,74
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,63
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,80
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,85
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,83
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,82
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,73
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,72
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,62
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,86
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,101
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,111
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,107
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,105
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,101
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,88
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,64
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,71
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,76
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,86
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,89
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,85
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,90
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,47
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,50
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,48
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,62
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,68
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,79
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,95
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,38
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,36
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,39
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,41
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,53
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,64
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,70
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,63
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,57
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,53
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,46
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,49
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,46
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,48
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,43
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,41
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,38
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,37
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,35
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,33
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,38
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,66
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,62
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,63
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,57
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,63
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,63
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,56
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,75
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,59
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,56
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,52
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,54
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,50
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,43
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,70
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,80
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,77
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,71
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,65
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,60
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,61
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,106
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,116
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,107
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,98
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,87
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,72
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,56
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,72
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,60
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,62
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,68
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,73
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,69
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,74
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,72
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,73
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,85
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,93
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,93
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,106
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,115
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,100
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,104
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,100
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,89
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,74
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,68
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,55
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,107
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,94
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,85
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,80
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,81
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,72
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,73
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,86
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,80
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,76
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,89
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,89
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,89
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,90
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,106
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,109
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,105
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,94
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,90
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,97
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,85
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,61
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,61
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,61
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,58
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,59
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,62
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,63
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,91
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,90
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,93
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,102
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,101
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,92
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,96
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,53
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,62
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,62
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,52
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,47
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,43
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,40
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,89
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,90
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,85
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,78
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,76
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,75
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,76
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,24
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,21
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,28
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,35
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,31
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,32
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,37
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,23
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,30
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,40
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,49
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,54
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,58
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,59
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,11
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,11
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,10
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,10
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,11
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,15
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,14
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,20
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,19
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,14
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,12
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,11
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,12
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,12
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,49
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,42
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,44
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,54
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,53
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,51
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,43
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,43
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,41
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,39
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,37
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,39
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,78
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,75
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,75
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,61
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,59
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,51
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,60
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,62
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,53
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,50
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,50
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,48
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,42
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,50
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,53
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,65
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,67
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,68
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,67
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,64
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,68
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,58
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,59
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,56
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,57
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,45
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,45
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,40
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,41
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,42
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,66
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,67
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,62
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,65
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,66
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,67
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,49
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,55
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,51
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,58
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,57
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,57
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,48
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,50
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,48
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,54
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,62
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,57
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,57
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,53
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,41
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,42
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,47
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,46
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,61
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,52
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,52
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,46
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,41
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,42
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,85
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,79
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,80
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,68
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,54
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,57
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,87
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,78
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,67
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,68
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,61
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,55
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,105
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,105
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,101
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,100
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,92
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,87
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,79
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,95
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,93
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,94
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,92
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,84
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,46
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,61
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,67
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,71
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,91
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,100
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,37
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,40
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,55
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,63
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,74
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,85
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,50
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,45
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,49
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,47
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,46
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,45
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,38
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,36
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,35
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,34
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,36
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,37
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,60
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,55
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,52
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,57
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,51
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,53
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,57
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,55
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,56
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,54
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,49
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,44
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,69
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,65
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,62
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,55
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,54
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,54
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,108
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,96
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,87
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,75
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,63
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,61
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,58
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,67
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,69
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,67
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,68
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,66
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,82
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,94
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,91
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,105
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,113
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,105
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,80
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,75
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,62
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,63
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,52
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,55
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,77
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,73
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,77
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,69
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,70
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,78
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,65
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,68
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,72
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,68
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,72
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,66
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,97
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,90
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,82
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,87
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,76
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,68
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,42
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,39
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,45
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,46
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,43
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,48
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,76
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,81
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,79
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,72
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,78
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,80
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,36
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,33
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,27
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,29
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,25
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,23
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,54
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,54
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,51
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,54
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,58
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,54
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,16
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,15
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,19
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,18
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,17
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,18
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,17
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,20
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,24
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,28
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,30
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,33
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,57
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,54
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,39
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,37
+ 30648 RABAGANI,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,38
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,37
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,43
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,46
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,39
+ 30648 RABAGANI,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,41
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,47
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,51
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,60
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,55
+ 30648 RABAGANI,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,57
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,48
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,49
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,42
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,42
+ 30648 RABAGANI,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,47
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,66
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,71
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,62
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,60
+ 30648 RABAGANI,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,50
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,63
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,57
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,52
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,56
+ 30648 RABAGANI,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,52
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,48
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,50
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,56
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,61
+ 30648 RABAGANI,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,72
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,60
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,65
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,57
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,58
+ 30648 RABAGANI,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,59
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,51
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,45
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,40
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,39
+ 30648 RABAGANI,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,39
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,65
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,58
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,66
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,59
+ 30648 RABAGANI,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,58
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,55
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,56
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,62
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,62
+ 30648 RABAGANI,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,59
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,41
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,46
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,51
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,51
+ 30648 RABAGANI,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,50
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,52
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,43
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,40
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,47
+ 30648 RABAGANI,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,46
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,52
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,59
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,49
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,50
+ 30648 RABAGANI,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,46
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,80
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,78
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,70
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,56
+ 30648 RABAGANI,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,59
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,69
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,59
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,62
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,61
+ 30648 RABAGANI,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,58
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,102
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,103
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,101
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,91
+ 30648 RABAGANI,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,85
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,98
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,92
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,90
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,87
+ 30648 RABAGANI,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,80
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,58
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,63
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,73
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,92
+ 30648 RABAGANI,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,97
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,40
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,55
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,63
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,69
+ 30648 RABAGANI,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,81
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,48
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,52
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,46
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,48
+ 30648 RABAGANI,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,47
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,38
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,36
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,36
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,40
+ 30648 RABAGANI,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,40
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,48
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,50
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,53
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,49
+ 30648 RABAGANI,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,49
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,61
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,60
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,57
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,50
+ 30648 RABAGANI,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,47
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,61
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,58
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,55
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,53
+ 30648 RABAGANI,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,53
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,97
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,88
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,75
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,61
+ 30648 RABAGANI,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,59
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,57
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,59
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,54
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,57
+ 30648 RABAGANI,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,54
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,86
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,84
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,100
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,110
+ 30648 RABAGANI,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,103
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,67
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,54
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,55
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,45
+ 30648 RABAGANI,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,50
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,63
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,71
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,63
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,62
+ 30648 RABAGANI,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,73
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,48
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,51
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,53
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,59
+ 30648 RABAGANI,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,51
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,74
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,63
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,67
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,61
+ 30648 RABAGANI,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,54
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,23
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,25
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,26
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,25
+ 30648 RABAGANI,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,32
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,56
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,57
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,52
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,52
+ 30648 RABAGANI,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,49
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,17
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,18
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,18
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,17
+ 30648 RABAGANI,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,17
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,37
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,38
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,45
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,39
+ 30648 RABAGANI,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,36

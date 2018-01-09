@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,57
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,53
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,47
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,40
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,41
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,39
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,41
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,47
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,47
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,47
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,45
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,40
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,38
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,38
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,36
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,43
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,57
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,56
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,60
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,50
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,48
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,54
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,55
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,51
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,50
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,46
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,46
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,43
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,44
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,43
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,42
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,46
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,65
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,64
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,62
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,70
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,60
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,54
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,49
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,54
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,59
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,58
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,60
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,63
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,57
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,50
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,45
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,39
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,59
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,57
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,53
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,53
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,60
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,65
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,66
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,63
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,66
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,63
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,58
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,52
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,54
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,57
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,57
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,58
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,76
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,72
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,67
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,60
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,62
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,58
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,56
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,56
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,52
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,58
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,63
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,63
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,59
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,53
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,50
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,50
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,60
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,60
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,64
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,71
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,65
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,68
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,67
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,69
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,34
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,34
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,34
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,36
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,44
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,52
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,57
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,60
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,44
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,43
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,45
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,50
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,58
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,55
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,57
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,57
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,38
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,39
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,34
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,35
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,33
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,29
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,28
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,30
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,47
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,50
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,54
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,53
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,48
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,43
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,42
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,42
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,31
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,31
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,35
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,38
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,36
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,34
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,35
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,29
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,40
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,40
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,41
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,34
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,41
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,45
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,49
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,53
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,37
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,35
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,41
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,29
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,30
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,29
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,32
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,34
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,40
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,36
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,35
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,39
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,35
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,33
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,36
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,38
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,37
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,33
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,33
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,39
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,43
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,39
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,36
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,44
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,40
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,43
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,34
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,29
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,30
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,35
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,28
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,28
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,50
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,50
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,48
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,47
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,39
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,35
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,33
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,34
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,55
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,46
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,48
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,45
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,41
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,34
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,38
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,32
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,53
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,51
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,43
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,43
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,47
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,48
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,48
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,44
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,36
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,39
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,35
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,39
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,41
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,46
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,36
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,38
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,57
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,53
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,53
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,51
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,51
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,52
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,47
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,39
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,41
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,38
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,33
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,35
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,33
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,32
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,36
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,32
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,40
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,46
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,49
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,48
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,51
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,50
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,46
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,46
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,20
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,27
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,37
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,30
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,30
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,27
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,26
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,23
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,42
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,44
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,45
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,40
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,37
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,35
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,42
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,44
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,23
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,16
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,16
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,17
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,12
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,13
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,15
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,22
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,33
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,29
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,26
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,22
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,24
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,31
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,34
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,35
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,10
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,14
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,14
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,14
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,11
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,12
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,9
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,7
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,15
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,17
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,17
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,19
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,20
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,18
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,14
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,10
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,1
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,3
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,3
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,3
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,3
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,2
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,5
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,7
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,8
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,7
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,6
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,8
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,8
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,8
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,10
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,12
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,56
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,63
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,61
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,58
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,55
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,50
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,49
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,39
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,39
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,38
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,37
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,30
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,36
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,38
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,44
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,42
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,39
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,42
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,47
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,54
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,63
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,45
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,44
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,41
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,39
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,41
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,38
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,40
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,48
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,47
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,53
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,53
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,51
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,45
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,39
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,39
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,40
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,43
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,44
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,47
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,45
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,43
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,68
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,55
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,50
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,49
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,50
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,47
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,44
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,59
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,52
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,47
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,46
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,37
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,34
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,42
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,53
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,61
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,66
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,63
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,62
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,69
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,61
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,55
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,61
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,61
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,56
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,55
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,55
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,47
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,65
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,65
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,61
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,62
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,60
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,57
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,64
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,60
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,51
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,55
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,55
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,59
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,54
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,59
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,65
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,60
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,64
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,67
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,68
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,62
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,63
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,35
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,47
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,52
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,59
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,60
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,60
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,51
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,45
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,51
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,51
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,52
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,54
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,63
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,60
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,29
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,26
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,26
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,28
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,31
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,34
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,47
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,52
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,44
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,38
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,36
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,40
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,41
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,47
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,39
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,36
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,34
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,36
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,26
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,26
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,25
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,31
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,44
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,45
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,46
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,50
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,52
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,42
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,31
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,32
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,34
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,35
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,39
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,46
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,39
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,35
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,33
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,33
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,35
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,41
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,34
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,42
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,39
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,45
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,42
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,39
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,44
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,33
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,36
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,27
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,26
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,31
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,26
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,25
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,33
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,33
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,45
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,37
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,35
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,33
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,35
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,39
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,43
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,38
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,35
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,29
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,33
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,26
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,27
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,23
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,39
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,43
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,45
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,46
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,45
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,46
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,36
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,36
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,36
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,39
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,30
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,28
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,25
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,22
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,44
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,45
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,48
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,43
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,38
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,38
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,42
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,27
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,26
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,25
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,27
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,24
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,27
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,27
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,47
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,49
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,45
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,39
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,39
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,37
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,38
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,20
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,17
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,15
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,19
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,15
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,20
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,20
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,32
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,28
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,29
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,36
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,36
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,33
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,34
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,5
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,6
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,5
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,6
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,9
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,8
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,7
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,10
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,16
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,20
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,23
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,23
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,23
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,21
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,6
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,5
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,4
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,4
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,4
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,2
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,3
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,13
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,11
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,9
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,8
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,8
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,7
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,10
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,42
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,45
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,43
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,46
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,45
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,44
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,41
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,42
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,44
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,39
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,38
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,36
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,60
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,58
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,52
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,49
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,46
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,39
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,35
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,36
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,33
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,39
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,42
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,45
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,38
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,41
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,45
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,50
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,59
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,60
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,39
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,36
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,38
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,39
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,38
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,39
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,48
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,45
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,46
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,42
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,39
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,38
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,41
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,42
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,46
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,49
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,45
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,39
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,51
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,52
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,51
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,43
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,40
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,44
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,45
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,47
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,41
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,41
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,42
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,41
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,68
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,65
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,66
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,72
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,59
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,47
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,55
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,51
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,51
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,50
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,46
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,43
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,59
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,53
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,51
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,53
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,57
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,65
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,55
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,52
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,52
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,48
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,49
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,51
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,65
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,66
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,62
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,54
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,61
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,56
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,49
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,57
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,60
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,61
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,52
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,54
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,45
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,47
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,52
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,61
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,57
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,64
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,23
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,24
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,26
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,33
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,48
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,51
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,39
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,36
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,40
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,40
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,48
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,47
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,35
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,37
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,25
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,28
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,26
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,26
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,40
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,42
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,49
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,50
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,42
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,36
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,40
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,39
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,44
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,46
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,40
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,37
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,32
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,36
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,37
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,31
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,38
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,39
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,39
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,36
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,44
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,34
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,40
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,43
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,30
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,27
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,23
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,31
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,29
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,30
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,35
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,33
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,32
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,38
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,39
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,39
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,18
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,22
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,22
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,23
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,21
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,27
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,43
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,41
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,41
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,39
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,33
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,30
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,27
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,23
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,22
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,18
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,14
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,13
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,42
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,42
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,34
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,31
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,34
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,36
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,20
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,21
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,21
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,21
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,21
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,21
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,32
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,29
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,34
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,33
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,31
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,28
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,9
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,12
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,12
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,14
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,11
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,7
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,20
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,25
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,25
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,24
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,26
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,23
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,3
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,3
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,5
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,2
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,4
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,6
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,11
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,13
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,16
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,15
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,14
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,15
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,40
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,39
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,36
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,33
+ 32045 VIISOARA,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,34
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,37
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,36
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,38
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,28
+ 32045 VIISOARA,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,29
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,43
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,45
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,45
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,42
+ 32045 VIISOARA,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,42
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,45
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,42
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,43
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,40
+ 32045 VIISOARA,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,36
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,60
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,57
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,52
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,52
+ 32045 VIISOARA,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,43
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,40
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,38
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,39
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,44
+ 32045 VIISOARA,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,45
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,42
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,48
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,56
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,65
+ 32045 VIISOARA,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,66
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,37
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,38
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,38
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,43
+ 32045 VIISOARA,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,48
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,41
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,41
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,39
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,36
+ 32045 VIISOARA,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,38
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,39
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,42
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,40
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,38
+ 32045 VIISOARA,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,36
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,44
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,44
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,39
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,39
+ 32045 VIISOARA,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,42
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,44
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,34
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,36
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,33
+ 32045 VIISOARA,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,31
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,60
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,59
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,60
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,57
+ 32045 VIISOARA,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,45
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,50
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,50
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,53
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,46
+ 32045 VIISOARA,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,41
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,54
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,52
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,51
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,52
+ 32045 VIISOARA,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,65
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,51
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,50
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,48
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,52
+ 32045 VIISOARA,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,52
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,66
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,63
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,60
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,62
+ 32045 VIISOARA,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,56
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,54
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,59
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,62
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,53
+ 32045 VIISOARA,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,56
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,48
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,50
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,60
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,55
+ 32045 VIISOARA,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,65
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,29
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,32
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,36
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,48
+ 32045 VIISOARA,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,50
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,35
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,39
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,39
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,45
+ 32045 VIISOARA,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,43
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,37
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,27
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,28
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,27
+ 32045 VIISOARA,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,26
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,43
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,48
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,50
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,42
+ 32045 VIISOARA,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,38
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,40
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,42
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,44
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,38
+ 32045 VIISOARA,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,35
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,30
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,32
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,27
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,35
+ 32045 VIISOARA,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,35
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,38
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,42
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,35
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,40
+ 32045 VIISOARA,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,44
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,23
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,20
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,25
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,25
+ 32045 VIISOARA,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,25
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,29
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,31
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,34
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,35
+ 32045 VIISOARA,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,35
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,15
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,16
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,17
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,15
+ 32045 VIISOARA,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,21
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,37
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,34
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,34
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,28
+ 32045 VIISOARA,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,25
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,16
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,12
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,8
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,8
+ 32045 VIISOARA,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,6
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,28
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,20
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,19
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,25
+ 32045 VIISOARA,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,29
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,8
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,8
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,11
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,11
+ 32045 VIISOARA,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,11
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,17
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,20
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,17
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,17
+ 32045 VIISOARA,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,18
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,8
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,9
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,9
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,7
+ 32045 VIISOARA,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,6
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,14
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,14
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,13
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,13
+ 32045 VIISOARA,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,13

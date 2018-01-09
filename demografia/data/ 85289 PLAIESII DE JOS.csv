@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2009, Numar persoane,92
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2010, Numar persoane,91
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2011, Numar persoane,99
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2012, Numar persoane,95
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2013, Numar persoane,91
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2014, Numar persoane,99
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2015, Numar persoane,100
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2016, Numar persoane,106
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2017, Numar persoane,100
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2009, Numar persoane,88
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2010, Numar persoane,97
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2011, Numar persoane,97
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2012, Numar persoane,107
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2013, Numar persoane,114
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2014, Numar persoane,103
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2015, Numar persoane,100
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2016, Numar persoane,101
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2017, Numar persoane,97
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2009, Numar persoane,93
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2010, Numar persoane,76
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2011, Numar persoane,79
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2012, Numar persoane,86
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2013, Numar persoane,80
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2014, Numar persoane,88
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2015, Numar persoane,102
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2016, Numar persoane,100
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2017, Numar persoane,108
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2009, Numar persoane,84
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2010, Numar persoane,89
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2011, Numar persoane,81
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2012, Numar persoane,72
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2013, Numar persoane,74
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2014, Numar persoane,87
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2015, Numar persoane,70
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2016, Numar persoane,74
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2017, Numar persoane,79
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2009, Numar persoane,114
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2010, Numar persoane,105
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2011, Numar persoane,106
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2012, Numar persoane,104
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2013, Numar persoane,96
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2014, Numar persoane,79
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2015, Numar persoane,88
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2016, Numar persoane,80
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2017, Numar persoane,69
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2009, Numar persoane,100
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2010, Numar persoane,109
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2011, Numar persoane,106
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2012, Numar persoane,114
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2013, Numar persoane,105
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2014, Numar persoane,114
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2015, Numar persoane,104
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2016, Numar persoane,102
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2017, Numar persoane,102
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2009, Numar persoane,113
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2010, Numar persoane,109
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2011, Numar persoane,115
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2012, Numar persoane,108
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2013, Numar persoane,112
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2014, Numar persoane,105
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2015, Numar persoane,114
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2016, Numar persoane,113
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2017, Numar persoane,119
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2009, Numar persoane,85
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2010, Numar persoane,88
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2011, Numar persoane,82
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2012, Numar persoane,98
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2013, Numar persoane,102
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2014, Numar persoane,115
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2015, Numar persoane,112
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2016, Numar persoane,120
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2017, Numar persoane,113
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2009, Numar persoane,91
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2010, Numar persoane,99
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2011, Numar persoane,99
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2012, Numar persoane,93
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2013, Numar persoane,98
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2014, Numar persoane,81
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2015, Numar persoane,86
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2016, Numar persoane,79
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2017, Numar persoane,97
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2009, Numar persoane,62
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2010, Numar persoane,54
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2011, Numar persoane,57
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2012, Numar persoane,63
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2013, Numar persoane,66
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2014, Numar persoane,87
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2015, Numar persoane,95
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2016, Numar persoane,102
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2017, Numar persoane,97
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2009, Numar persoane,70
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2010, Numar persoane,78
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2011, Numar persoane,76
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2012, Numar persoane,72
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2013, Numar persoane,69
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2014, Numar persoane,61
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2015, Numar persoane,51
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2016, Numar persoane,53
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2017, Numar persoane,60
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2009, Numar persoane,79
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2010, Numar persoane,73
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2011, Numar persoane,73
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2012, Numar persoane,64
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2013, Numar persoane,63
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2014, Numar persoane,69
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2015, Numar persoane,75
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2016, Numar persoane,72
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2017, Numar persoane,66
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2009, Numar persoane,63
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2010, Numar persoane,60
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2011, Numar persoane,68
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2012, Numar persoane,77
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2013, Numar persoane,76
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2014, Numar persoane,71
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2015, Numar persoane,65
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2016, Numar persoane,66
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2017, Numar persoane,55
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2009, Numar persoane,63
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2010, Numar persoane,65
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2011, Numar persoane,54
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2012, Numar persoane,60
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2013, Numar persoane,66
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2014, Numar persoane,64
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2015, Numar persoane,60
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2016, Numar persoane,56
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2017, Numar persoane,64
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2009, Numar persoane,75
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2010, Numar persoane,70
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2011, Numar persoane,81
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2012, Numar persoane,63
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2013, Numar persoane,54
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2014, Numar persoane,56
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2015, Numar persoane,54
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2016, Numar persoane,49
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2017, Numar persoane,55
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2009, Numar persoane,69
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2010, Numar persoane,67
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2011, Numar persoane,52
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2012, Numar persoane,62
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2013, Numar persoane,56
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2014, Numar persoane,53
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2015, Numar persoane,56
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2016, Numar persoane,62
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2017, Numar persoane,47
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2009, Numar persoane,45
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2010, Numar persoane,43
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2011, Numar persoane,40
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2012, Numar persoane,43
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2013, Numar persoane,47
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2014, Numar persoane,49
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2015, Numar persoane,42
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2016, Numar persoane,30
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2017, Numar persoane,38
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2009, Numar persoane,29
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2010, Numar persoane,27
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2011, Numar persoane,28
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2012, Numar persoane,33
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2013, Numar persoane,33
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2014, Numar persoane,28
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2015, Numar persoane,30
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2016, Numar persoane,25
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2017, Numar persoane,26
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 1992, Numar persoane,97
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 1993, Numar persoane,94
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 1994, Numar persoane,86
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 1995, Numar persoane,90
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 1996, Numar persoane,91
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 1997, Numar persoane,82
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 1998, Numar persoane,85
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 1999, Numar persoane,90
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2000, Numar persoane,86
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2001, Numar persoane,87
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2002, Numar persoane,89
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2003, Numar persoane,90
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2004, Numar persoane,91
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2005, Numar persoane,97
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2006, Numar persoane,96
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2007, Numar persoane,99
+ 85289 PLAIESII DE JOS,0- 4 ani, Masculin, Harghita, Anul 2008, Numar persoane,102
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 1992, Numar persoane,121
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 1993, Numar persoane,107
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 1994, Numar persoane,114
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 1995, Numar persoane,98
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 1996, Numar persoane,100
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 1997, Numar persoane,104
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 1998, Numar persoane,101
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 1999, Numar persoane,88
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2000, Numar persoane,98
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2001, Numar persoane,94
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2002, Numar persoane,80
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2003, Numar persoane,86
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2004, Numar persoane,96
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2005, Numar persoane,80
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2006, Numar persoane,83
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2007, Numar persoane,88
+ 85289 PLAIESII DE JOS,5- 9 ani, Masculin, Harghita, Anul 2008, Numar persoane,83
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 1992, Numar persoane,109
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 1993, Numar persoane,116
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 1994, Numar persoane,108
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 1995, Numar persoane,122
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 1996, Numar persoane,118
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 1997, Numar persoane,127
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 1998, Numar persoane,115
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 1999, Numar persoane,123
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2000, Numar persoane,110
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2001, Numar persoane,107
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2002, Numar persoane,102
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2003, Numar persoane,101
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2004, Numar persoane,84
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2005, Numar persoane,98
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2006, Numar persoane,96
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2007, Numar persoane,81
+ 85289 PLAIESII DE JOS,10-14 ani, Masculin, Harghita, Anul 2008, Numar persoane,84
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 1992, Numar persoane,105
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 1993, Numar persoane,105
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 1994, Numar persoane,120
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 1995, Numar persoane,110
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 1996, Numar persoane,114
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 1997, Numar persoane,112
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 1998, Numar persoane,118
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 1999, Numar persoane,108
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2000, Numar persoane,121
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2001, Numar persoane,116
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2002, Numar persoane,121
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2003, Numar persoane,109
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2004, Numar persoane,119
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2005, Numar persoane,106
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2006, Numar persoane,110
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2007, Numar persoane,109
+ 85289 PLAIESII DE JOS,15-19 ani, Masculin, Harghita, Anul 2008, Numar persoane,104
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 1992, Numar persoane,100
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 1993, Numar persoane,104
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 1994, Numar persoane,89
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 1995, Numar persoane,99
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 1996, Numar persoane,90
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 1997, Numar persoane,102
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 1998, Numar persoane,104
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 1999, Numar persoane,116
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2000, Numar persoane,110
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2001, Numar persoane,118
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2002, Numar persoane,110
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2003, Numar persoane,114
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2004, Numar persoane,105
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2005, Numar persoane,112
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2006, Numar persoane,105
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2007, Numar persoane,115
+ 85289 PLAIESII DE JOS,20-24 ani, Masculin, Harghita, Anul 2008, Numar persoane,105
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 1992, Numar persoane,66
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 1993, Numar persoane,70
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 1994, Numar persoane,84
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 1995, Numar persoane,90
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 1996, Numar persoane,102
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 1997, Numar persoane,95
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 1998, Numar persoane,101
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 1999, Numar persoane,88
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2000, Numar persoane,94
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2001, Numar persoane,85
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2002, Numar persoane,99
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2003, Numar persoane,103
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2004, Numar persoane,118
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2005, Numar persoane,112
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2006, Numar persoane,118
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2007, Numar persoane,108
+ 85289 PLAIESII DE JOS,25-29 ani, Masculin, Harghita, Anul 2008, Numar persoane,111
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 1992, Numar persoane,84
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 1993, Numar persoane,75
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 1994, Numar persoane,66
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 1995, Numar persoane,62
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 1996, Numar persoane,60
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 1997, Numar persoane,67
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 1998, Numar persoane,71
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 1999, Numar persoane,85
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2000, Numar persoane,94
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2001, Numar persoane,96
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2002, Numar persoane,90
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2003, Numar persoane,95
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2004, Numar persoane,84
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2005, Numar persoane,89
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2006, Numar persoane,83
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2007, Numar persoane,102
+ 85289 PLAIESII DE JOS,30-34 ani, Masculin, Harghita, Anul 2008, Numar persoane,103
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 1992, Numar persoane,74
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 1993, Numar persoane,76
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 1994, Numar persoane,78
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 1995, Numar persoane,77
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 1996, Numar persoane,75
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 1997, Numar persoane,73
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 1998, Numar persoane,70
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 1999, Numar persoane,63
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2000, Numar persoane,57
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2001, Numar persoane,60
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2002, Numar persoane,65
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2003, Numar persoane,73
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2004, Numar persoane,87
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2005, Numar persoane,96
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2006, Numar persoane,101
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2007, Numar persoane,98
+ 85289 PLAIESII DE JOS,35-39 ani, Masculin, Harghita, Anul 2008, Numar persoane,99
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 1992, Numar persoane,99
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 1993, Numar persoane,96
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 1994, Numar persoane,94
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 1995, Numar persoane,94
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 1996, Numar persoane,85
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 1997, Numar persoane,73
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 1998, Numar persoane,75
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 1999, Numar persoane,75
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2000, Numar persoane,79
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2001, Numar persoane,73
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2002, Numar persoane,70
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2003, Numar persoane,69
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2004, Numar persoane,61
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2005, Numar persoane,54
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2006, Numar persoane,58
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2007, Numar persoane,63
+ 85289 PLAIESII DE JOS,40-44 ani, Masculin, Harghita, Anul 2008, Numar persoane,73
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 1992, Numar persoane,74
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 1993, Numar persoane,69
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 1994, Numar persoane,69
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 1995, Numar persoane,65
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 1996, Numar persoane,80
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 1997, Numar persoane,93
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 1998, Numar persoane,89
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 1999, Numar persoane,89
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2000, Numar persoane,89
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2001, Numar persoane,86
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2002, Numar persoane,73
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2003, Numar persoane,69
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2004, Numar persoane,72
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2005, Numar persoane,78
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2006, Numar persoane,76
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2007, Numar persoane,72
+ 85289 PLAIESII DE JOS,45-49 ani, Masculin, Harghita, Anul 2008, Numar persoane,68
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 1992, Numar persoane,78
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 1993, Numar persoane,72
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 1994, Numar persoane,72
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 1995, Numar persoane,78
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 1996, Numar persoane,67
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 1997, Numar persoane,67
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 1998, Numar persoane,66
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 1999, Numar persoane,63
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2000, Numar persoane,58
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2001, Numar persoane,72
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2002, Numar persoane,87
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2003, Numar persoane,90
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2004, Numar persoane,87
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2005, Numar persoane,84
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2006, Numar persoane,83
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2007, Numar persoane,68
+ 85289 PLAIESII DE JOS,50-54 ani, Masculin, Harghita, Anul 2008, Numar persoane,67
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 1992, Numar persoane,100
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 1993, Numar persoane,100
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 1994, Numar persoane,97
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 1995, Numar persoane,91
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 1996, Numar persoane,94
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 1997, Numar persoane,76
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 1998, Numar persoane,69
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 1999, Numar persoane,71
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2000, Numar persoane,75
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2001, Numar persoane,63
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2002, Numar persoane,64
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2003, Numar persoane,67
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2004, Numar persoane,65
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2005, Numar persoane,58
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2006, Numar persoane,68
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2007, Numar persoane,81
+ 85289 PLAIESII DE JOS,55-59 ani, Masculin, Harghita, Anul 2008, Numar persoane,85
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 1992, Numar persoane,115
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 1993, Numar persoane,114
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 1994, Numar persoane,104
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 1995, Numar persoane,100
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 1996, Numar persoane,89
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 1997, Numar persoane,96
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 1998, Numar persoane,95
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 1999, Numar persoane,96
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2000, Numar persoane,95
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2001, Numar persoane,94
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2002, Numar persoane,76
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2003, Numar persoane,63
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2004, Numar persoane,68
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2005, Numar persoane,74
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2006, Numar persoane,63
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2007, Numar persoane,66
+ 85289 PLAIESII DE JOS,60-64 ani, Masculin, Harghita, Anul 2008, Numar persoane,67
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 1992, Numar persoane,98
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 1993, Numar persoane,112
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 1994, Numar persoane,112
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 1995, Numar persoane,107
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 1996, Numar persoane,114
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 1997, Numar persoane,116
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 1998, Numar persoane,111
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 1999, Numar persoane,104
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2000, Numar persoane,101
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2001, Numar persoane,82
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2002, Numar persoane,86
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2003, Numar persoane,81
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2004, Numar persoane,79
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2005, Numar persoane,81
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2006, Numar persoane,88
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2007, Numar persoane,73
+ 85289 PLAIESII DE JOS,65-69 ani, Masculin, Harghita, Anul 2008, Numar persoane,63
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 1992, Numar persoane,81
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 1993, Numar persoane,72
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 1994, Numar persoane,81
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 1995, Numar persoane,83
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 1996, Numar persoane,81
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 1997, Numar persoane,76
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 1998, Numar persoane,97
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 1999, Numar persoane,99
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2000, Numar persoane,99
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2001, Numar persoane,106
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2002, Numar persoane,102
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2003, Numar persoane,96
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2004, Numar persoane,88
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2005, Numar persoane,83
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2006, Numar persoane,74
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2007, Numar persoane,80
+ 85289 PLAIESII DE JOS,70-74 ani, Masculin, Harghita, Anul 2008, Numar persoane,75
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 1992, Numar persoane,76
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 1993, Numar persoane,75
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 1994, Numar persoane,65
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 1995, Numar persoane,58
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 1996, Numar persoane,59
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 1997, Numar persoane,62
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 1998, Numar persoane,53
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 1999, Numar persoane,60
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2000, Numar persoane,59
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2001, Numar persoane,65
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2002, Numar persoane,66
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2003, Numar persoane,80
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2004, Numar persoane,78
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2005, Numar persoane,79
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2006, Numar persoane,78
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2007, Numar persoane,74
+ 85289 PLAIESII DE JOS,75-79 ani, Masculin, Harghita, Anul 2008, Numar persoane,71
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 1992, Numar persoane,54
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 1993, Numar persoane,53
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 1994, Numar persoane,51
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 1995, Numar persoane,51
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 1996, Numar persoane,40
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 1997, Numar persoane,37
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 1998, Numar persoane,42
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 1999, Numar persoane,38
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2000, Numar persoane,40
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2001, Numar persoane,39
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2002, Numar persoane,43
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2003, Numar persoane,34
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2004, Numar persoane,39
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2005, Numar persoane,40
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2006, Numar persoane,45
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2007, Numar persoane,40
+ 85289 PLAIESII DE JOS,80-84 ani, Masculin, Harghita, Anul 2008, Numar persoane,51
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 1992, Numar persoane,25
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 1993, Numar persoane,30
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 1994, Numar persoane,32
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 1995, Numar persoane,26
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 1996, Numar persoane,25
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 1997, Numar persoane,26
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 1998, Numar persoane,26
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 1999, Numar persoane,22
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2000, Numar persoane,23
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2001, Numar persoane,23
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2002, Numar persoane,30
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2003, Numar persoane,27
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2004, Numar persoane,27
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2005, Numar persoane,28
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2006, Numar persoane,28
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2007, Numar persoane,32
+ 85289 PLAIESII DE JOS,85 ani si peste, Masculin, Harghita, Anul 2008, Numar persoane,28
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 1992, Numar persoane,96
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 1993, Numar persoane,95
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 1994, Numar persoane,84
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 1995, Numar persoane,87
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 1996, Numar persoane,94
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 1997, Numar persoane,95
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 1998, Numar persoane,89
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 1999, Numar persoane,97
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2000, Numar persoane,97
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2001, Numar persoane,95
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2002, Numar persoane,93
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2003, Numar persoane,97
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2004, Numar persoane,95
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2005, Numar persoane,96
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2006, Numar persoane,103
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 1992, Numar persoane,84
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 1993, Numar persoane,89
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 1994, Numar persoane,96
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 1995, Numar persoane,101
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 1996, Numar persoane,105
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 1997, Numar persoane,108
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 1998, Numar persoane,101
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 1999, Numar persoane,89
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2000, Numar persoane,91
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2001, Numar persoane,93
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2002, Numar persoane,95
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2003, Numar persoane,94
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2004, Numar persoane,103
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2005, Numar persoane,102
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2006, Numar persoane,96
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 1992, Numar persoane,102
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 1993, Numar persoane,95
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 1994, Numar persoane,91
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 1995, Numar persoane,85
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 1996, Numar persoane,85
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 1997, Numar persoane,90
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 1998, Numar persoane,87
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 1999, Numar persoane,99
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2000, Numar persoane,109
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2001, Numar persoane,108
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2002, Numar persoane,101
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2003, Numar persoane,101
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2004, Numar persoane,87
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2005, Numar persoane,86
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2006, Numar persoane,95
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 1992, Numar persoane,97
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 1993, Numar persoane,104
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 1994, Numar persoane,105
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 1995, Numar persoane,106
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 1996, Numar persoane,100
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 1997, Numar persoane,104
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 1998, Numar persoane,103
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 1999, Numar persoane,98
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2000, Numar persoane,91
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2001, Numar persoane,87
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2002, Numar persoane,86
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2003, Numar persoane,83
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2004, Numar persoane,94
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2005, Numar persoane,97
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2006, Numar persoane,98
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 1992, Numar persoane,96
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 1993, Numar persoane,96
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 1994, Numar persoane,98
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 1995, Numar persoane,101
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 1996, Numar persoane,96
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 1997, Numar persoane,95
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 1998, Numar persoane,104
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 1999, Numar persoane,105
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2000, Numar persoane,110
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2001, Numar persoane,110
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2002, Numar persoane,108
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2003, Numar persoane,110
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2004, Numar persoane,100
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2005, Numar persoane,89
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2006, Numar persoane,87
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 1992, Numar persoane,53
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 1993, Numar persoane,56
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 1994, Numar persoane,64
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 1995, Numar persoane,70
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 1996, Numar persoane,88
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 1997, Numar persoane,97
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 1998, Numar persoane,92
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 1999, Numar persoane,94
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2000, Numar persoane,96
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2001, Numar persoane,94
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2002, Numar persoane,93
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2003, Numar persoane,105
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2004, Numar persoane,107
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2005, Numar persoane,107
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2006, Numar persoane,104
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 1992, Numar persoane,57
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 1993, Numar persoane,52
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 1994, Numar persoane,54
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 1995, Numar persoane,47
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 1996, Numar persoane,52
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 1997, Numar persoane,54
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 1998, Numar persoane,56
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 1999, Numar persoane,67
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2000, Numar persoane,77
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2001, Numar persoane,92
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2002, Numar persoane,92
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2003, Numar persoane,88
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2004, Numar persoane,92
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2005, Numar persoane,91
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2006, Numar persoane,91
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 1992, Numar persoane,68
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 1993, Numar persoane,63
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 1994, Numar persoane,63
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 1995, Numar persoane,68
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 1996, Numar persoane,53
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 1997, Numar persoane,52
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 1998, Numar persoane,50
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 1999, Numar persoane,53
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2000, Numar persoane,49
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2001, Numar persoane,49
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2002, Numar persoane,51
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2003, Numar persoane,52
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2004, Numar persoane,61
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2005, Numar persoane,75
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2006, Numar persoane,90
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 1992, Numar persoane,71
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 1993, Numar persoane,73
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 1994, Numar persoane,67
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 1995, Numar persoane,68
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 1996, Numar persoane,75
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 1997, Numar persoane,70
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 1998, Numar persoane,67
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 1999, Numar persoane,63
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2000, Numar persoane,67
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2001, Numar persoane,57
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2002, Numar persoane,50
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2003, Numar persoane,50
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2004, Numar persoane,51
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2005, Numar persoane,46
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2006, Numar persoane,43
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 1992, Numar persoane,69
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 1993, Numar persoane,67
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 1994, Numar persoane,72
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 1995, Numar persoane,66
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 1996, Numar persoane,71
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 1997, Numar persoane,72
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 1998, Numar persoane,73
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 1999, Numar persoane,69
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2000, Numar persoane,72
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2001, Numar persoane,76
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2002, Numar persoane,74
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2003, Numar persoane,67
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2004, Numar persoane,63
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2005, Numar persoane,65
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2006, Numar persoane,59
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 1992, Numar persoane,100
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 1993, Numar persoane,91
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 1994, Numar persoane,85
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 1995, Numar persoane,81
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 1996, Numar persoane,72
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 1997, Numar persoane,71
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 1998, Numar persoane,69
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 1999, Numar persoane,72
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2000, Numar persoane,67
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2001, Numar persoane,70
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2002, Numar persoane,72
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2003, Numar persoane,74
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2004, Numar persoane,69
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2005, Numar persoane,70
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2006, Numar persoane,72
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 1992, Numar persoane,105
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 1993, Numar persoane,109
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 1994, Numar persoane,105
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 1995, Numar persoane,105
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 1996, Numar persoane,105
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 1997, Numar persoane,101
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 1998, Numar persoane,94
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 1999, Numar persoane,89
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2000, Numar persoane,86
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2001, Numar persoane,77
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2002, Numar persoane,75
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2003, Numar persoane,72
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2004, Numar persoane,76
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2005, Numar persoane,70
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2006, Numar persoane,72
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 1992, Numar persoane,116
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 1993, Numar persoane,113
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 1994, Numar persoane,116
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 1995, Numar persoane,116
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 1996, Numar persoane,114
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 1997, Numar persoane,108
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 1998, Numar persoane,111
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 1999, Numar persoane,105
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2000, Numar persoane,107
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2001, Numar persoane,102
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2002, Numar persoane,101
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2003, Numar persoane,95
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2004, Numar persoane,89
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2005, Numar persoane,87
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2006, Numar persoane,78
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 1992, Numar persoane,107
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 1993, Numar persoane,109
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 1994, Numar persoane,107
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 1995, Numar persoane,107
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 1996, Numar persoane,113
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 1997, Numar persoane,119
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 1998, Numar persoane,120
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 1999, Numar persoane,124
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2000, Numar persoane,118
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2001, Numar persoane,109
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2002, Numar persoane,106
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2003, Numar persoane,105
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2004, Numar persoane,98
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2005, Numar persoane,102
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2006, Numar persoane,97
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 1992, Numar persoane,88
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 1993, Numar persoane,87
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 1994, Numar persoane,97
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 1995, Numar persoane,99
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 1996, Numar persoane,97
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 1997, Numar persoane,90
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 1998, Numar persoane,97
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 1999, Numar persoane,100
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2000, Numar persoane,105
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2001, Numar persoane,113
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2002, Numar persoane,114
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2003, Numar persoane,110
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2004, Numar persoane,115
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2005, Numar persoane,107
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2006, Numar persoane,96
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 1992, Numar persoane,84
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 1993, Numar persoane,77
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 1994, Numar persoane,63
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 1995, Numar persoane,61
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 1996, Numar persoane,62
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 1997, Numar persoane,70
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 1998, Numar persoane,72
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 1999, Numar persoane,78
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2000, Numar persoane,82
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2001, Numar persoane,85
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2002, Numar persoane,81
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2003, Numar persoane,86
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2004, Numar persoane,88
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2005, Numar persoane,88
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2006, Numar persoane,97
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 1992, Numar persoane,70
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 1993, Numar persoane,71
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 1994, Numar persoane,73
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 1995, Numar persoane,65
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 1996, Numar persoane,66
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 1997, Numar persoane,59
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 1998, Numar persoane,51
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 1999, Numar persoane,41
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2000, Numar persoane,42
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2001, Numar persoane,41
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2002, Numar persoane,50
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2003, Numar persoane,52
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2004, Numar persoane,55
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2005, Numar persoane,51
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2006, Numar persoane,59
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 1992, Numar persoane,29
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 1993, Numar persoane,30
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 1994, Numar persoane,29
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 1995, Numar persoane,34
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 1996, Numar persoane,33
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 1997, Numar persoane,37
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 1998, Numar persoane,38
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 1999, Numar persoane,40
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2000, Numar persoane,42
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2001, Numar persoane,35
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2002, Numar persoane,37
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2003, Numar persoane,36
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2004, Numar persoane,35
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2005, Numar persoane,36
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2006, Numar persoane,40
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2007, Numar persoane,111
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2008, Numar persoane,116
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2009, Numar persoane,116
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2010, Numar persoane,115
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2011, Numar persoane,120
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2012, Numar persoane,113
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2013, Numar persoane,106
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2014, Numar persoane,102
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2015, Numar persoane,107
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2016, Numar persoane,101
+ 85289 PLAIESII DE JOS,0- 4 ani, Feminin, Harghita, Anul 2017, Numar persoane,103
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2007, Numar persoane,95
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2008, Numar persoane,92
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2009, Numar persoane,93
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2010, Numar persoane,91
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2011, Numar persoane,99
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2012, Numar persoane,116
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2013, Numar persoane,123
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2014, Numar persoane,125
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2015, Numar persoane,119
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2016, Numar persoane,122
+ 85289 PLAIESII DE JOS,5- 9 ani, Feminin, Harghita, Anul 2017, Numar persoane,110
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2007, Numar persoane,99
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2008, Numar persoane,96
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2009, Numar persoane,101
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2010, Numar persoane,99
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2011, Numar persoane,96
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2012, Numar persoane,94
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2013, Numar persoane,90
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2014, Numar persoane,91
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2015, Numar persoane,94
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2016, Numar persoane,94
+ 85289 PLAIESII DE JOS,10-14 ani, Feminin, Harghita, Anul 2017, Numar persoane,111
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2007, Numar persoane,98
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2008, Numar persoane,94
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2009, Numar persoane,84
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2010, Numar persoane,88
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2011, Numar persoane,93
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2012, Numar persoane,98
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2013, Numar persoane,98
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2014, Numar persoane,101
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2015, Numar persoane,97
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2016, Numar persoane,87
+ 85289 PLAIESII DE JOS,15-19 ani, Feminin, Harghita, Anul 2017, Numar persoane,85
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2007, Numar persoane,85
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2008, Numar persoane,88
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2009, Numar persoane,91
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2010, Numar persoane,94
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2011, Numar persoane,96
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2012, Numar persoane,97
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2013, Numar persoane,96
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2014, Numar persoane,88
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2015, Numar persoane,86
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2016, Numar persoane,92
+ 85289 PLAIESII DE JOS,20-24 ani, Feminin, Harghita, Anul 2017, Numar persoane,96
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2007, Numar persoane,102
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2008, Numar persoane,93
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2009, Numar persoane,92
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2010, Numar persoane,88
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2011, Numar persoane,82
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2012, Numar persoane,86
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2013, Numar persoane,87
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2014, Numar persoane,89
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2015, Numar persoane,99
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2016, Numar persoane,98
+ 85289 PLAIESII DE JOS,25-29 ani, Feminin, Harghita, Anul 2017, Numar persoane,95
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2007, Numar persoane,87
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2008, Numar persoane,100
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2009, Numar persoane,98
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2010, Numar persoane,99
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2011, Numar persoane,101
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2012, Numar persoane,103
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2013, Numar persoane,95
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2014, Numar persoane,90
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2015, Numar persoane,88
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2016, Numar persoane,80
+ 85289 PLAIESII DE JOS,30-34 ani, Feminin, Harghita, Anul 2017, Numar persoane,87
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2007, Numar persoane,98
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2008, Numar persoane,88
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2009, Numar persoane,87
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2010, Numar persoane,92
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2011, Numar persoane,86
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2012, Numar persoane,83
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2013, Numar persoane,98
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2014, Numar persoane,100
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2015, Numar persoane,99
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2016, Numar persoane,105
+ 85289 PLAIESII DE JOS,35-39 ani, Feminin, Harghita, Anul 2017, Numar persoane,103
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2007, Numar persoane,48
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2008, Numar persoane,53
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2009, Numar persoane,64
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2010, Numar persoane,74
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2011, Numar persoane,86
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2012, Numar persoane,93
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2013, Numar persoane,86
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2014, Numar persoane,86
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2015, Numar persoane,90
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2016, Numar persoane,84
+ 85289 PLAIESII DE JOS,40-44 ani, Feminin, Harghita, Anul 2017, Numar persoane,82
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2007, Numar persoane,53
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2008, Numar persoane,53
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2009, Numar persoane,55
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2010, Numar persoane,48
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2011, Numar persoane,47
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2012, Numar persoane,48
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2013, Numar persoane,54
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2014, Numar persoane,63
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2015, Numar persoane,70
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2016, Numar persoane,86
+ 85289 PLAIESII DE JOS,45-49 ani, Feminin, Harghita, Anul 2017, Numar persoane,91
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2007, Numar persoane,71
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2008, Numar persoane,66
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2009, Numar persoane,63
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2010, Numar persoane,69
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2011, Numar persoane,63
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2012, Numar persoane,57
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2013, Numar persoane,56
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2014, Numar persoane,59
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2015, Numar persoane,51
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2016, Numar persoane,46
+ 85289 PLAIESII DE JOS,50-54 ani, Feminin, Harghita, Anul 2017, Numar persoane,49
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2007, Numar persoane,72
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2008, Numar persoane,71
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2009, Numar persoane,67
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2010, Numar persoane,66
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2011, Numar persoane,70
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2012, Numar persoane,71
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2013, Numar persoane,66
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2014, Numar persoane,59
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2015, Numar persoane,67
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2016, Numar persoane,61
+ 85289 PLAIESII DE JOS,55-59 ani, Feminin, Harghita, Anul 2017, Numar persoane,55
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2007, Numar persoane,73
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2008, Numar persoane,72
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2009, Numar persoane,77
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2010, Numar persoane,71
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2011, Numar persoane,72
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2012, Numar persoane,70
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2013, Numar persoane,69
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2014, Numar persoane,64
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2015, Numar persoane,64
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2016, Numar persoane,67
+ 85289 PLAIESII DE JOS,60-64 ani, Feminin, Harghita, Anul 2017, Numar persoane,68
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2007, Numar persoane,97
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2008, Numar persoane,98
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2009, Numar persoane,93
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2010, Numar persoane,87
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2011, Numar persoane,78
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2012, Numar persoane,71
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2013, Numar persoane,66
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2014, Numar persoane,68
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2015, Numar persoane,63
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2016, Numar persoane,67
+ 85289 PLAIESII DE JOS,65-69 ani, Feminin, Harghita, Anul 2017, Numar persoane,65
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2007, Numar persoane,90
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2008, Numar persoane,96
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2009, Numar persoane,92
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2010, Numar persoane,98
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2011, Numar persoane,97
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2012, Numar persoane,94
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2013, Numar persoane,89
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2014, Numar persoane,85
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2015, Numar persoane,81
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2016, Numar persoane,73
+ 85289 PLAIESII DE JOS,70-74 ani, Feminin, Harghita, Anul 2017, Numar persoane,66
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2007, Numar persoane,91
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2008, Numar persoane,92
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2009, Numar persoane,94
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2010, Numar persoane,87
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2011, Numar persoane,78
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2012, Numar persoane,76
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2013, Numar persoane,83
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2014, Numar persoane,79
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2015, Numar persoane,83
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2016, Numar persoane,85
+ 85289 PLAIESII DE JOS,75-79 ani, Feminin, Harghita, Anul 2017, Numar persoane,85
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2007, Numar persoane,52
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2008, Numar persoane,56
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2009, Numar persoane,57
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2010, Numar persoane,59
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2011, Numar persoane,70
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2012, Numar persoane,71
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2013, Numar persoane,69
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2014, Numar persoane,70
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2015, Numar persoane,65
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2016, Numar persoane,61
+ 85289 PLAIESII DE JOS,80-84 ani, Feminin, Harghita, Anul 2017, Numar persoane,58
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2007, Numar persoane,46
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2008, Numar persoane,48
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2009, Numar persoane,47
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2010, Numar persoane,45
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2011, Numar persoane,43
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2012, Numar persoane,41
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2013, Numar persoane,42
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2014, Numar persoane,45
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2015, Numar persoane,46
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2016, Numar persoane,58
+ 85289 PLAIESII DE JOS,85 ani si peste, Feminin, Harghita, Anul 2017, Numar persoane,51

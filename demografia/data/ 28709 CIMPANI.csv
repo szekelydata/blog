@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,62
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,68
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,64
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,64
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,66
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,54
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,54
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,50
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,63
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,59
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,48
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,50
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,51
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,43
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,39
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,40
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,104
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,94
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,88
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,79
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,68
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,70
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,71
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,69
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,93
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,97
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,94
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,80
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,64
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,64
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,58
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,48
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,113
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,120
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,119
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,117
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,118
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,108
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,92
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,88
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,100
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,91
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,89
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,102
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,101
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,96
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,98
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,94
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,106
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,115
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,120
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,113
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,111
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,113
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,118
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,117
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,91
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,93
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,95
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,94
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,94
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,98
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,91
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,93
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,141
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,120
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,98
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,97
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,99
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,100
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,110
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,115
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,115
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,121
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,106
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,81
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,83
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,78
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,81
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,85
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,75
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,89
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,103
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,110
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,114
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,124
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,107
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,86
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,62
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,69
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,82
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,104
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,110
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,111
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,106
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,98
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,95
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,88
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,83
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,76
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,69
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,66
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,76
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,91
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,86
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,65
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,64
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,61
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,60
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,65
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,72
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,74
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,107
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,103
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,103
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,106
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,95
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,92
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,87
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,81
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,108
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,117
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,120
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,117
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,104
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,91
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,68
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,66
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,106
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,101
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,107
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,109
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,115
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,103
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,98
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,102
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,111
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,104
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,94
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,95
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,98
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,106
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,116
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,119
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,79
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,95
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,91
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,95
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,93
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,101
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,98
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,100
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,91
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,104
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,113
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,108
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,111
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,104
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,100
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,85
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,115
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,101
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,92
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,78
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,83
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,75
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,86
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,83
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,86
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,83
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,83
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,82
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,80
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,89
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,100
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,112
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,96
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,96
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,108
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,107
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,104
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,107
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,87
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,81
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,112
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,95
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,99
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,98
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,93
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,84
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,83
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,83
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,100
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,97
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,89
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,86
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,77
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,82
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,83
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,94
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,121
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,123
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,111
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,112
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,109
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,104
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,92
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,95
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,106
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,104
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,95
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,90
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,92
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,80
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,78
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,64
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,128
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,127
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,122
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,107
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,104
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,107
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,105
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,99
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,46
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,57
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,68
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,73
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,79
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,80
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,81
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,74
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,50
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,64
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,80
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,97
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,108
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,108
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,112
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,102
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,27
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,24
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,28
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,27
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,27
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,33
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,31
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,40
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,32
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,23
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,21
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,27
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,28
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,37
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,45
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,61
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,13
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,13
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,13
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,18
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,17
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,13
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,10
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,10
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,18
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,20
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,17
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,17
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,15
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,16
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,14
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,14
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,6
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,6
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,6
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,4
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,5
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,7
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,7
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,7
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,6
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,7
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,7
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,2
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,2
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,4
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,5
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,4
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,55
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,60
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,59
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,47
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,42
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,34
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,34
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,38
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,45
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,51
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,53
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,63
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,66
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,59
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,67
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,66
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,55
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,56
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,56
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,55
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,56
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,48
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,52
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,43
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,42
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,43
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,39
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,46
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,82
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,71
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,74
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,75
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,68
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,67
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,67
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,80
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,65
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,66
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,62
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,48
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,49
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,51
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,117
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,116
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,106
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,95
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,91
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,89
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,76
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,104
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,103
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,98
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,100
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,100
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,86
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,69
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,110
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,108
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,108
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,115
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,115
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,114
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,117
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,91
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,97
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,103
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,101
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,94
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,108
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,106
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,85
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,90
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,88
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,103
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,109
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,101
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,101
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,81
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,81
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,72
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,80
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,87
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,79
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,86
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,102
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,109
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,119
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,101
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,81
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,86
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,88
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,95
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,101
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,106
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,104
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,93
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,84
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,83
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,70
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,59
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,55
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,66
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,81
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,93
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,104
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,63
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,64
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,65
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,73
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,81
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,98
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,102
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,107
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,93
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,97
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,87
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,78
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,67
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,57
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,113
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,102
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,92
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,73
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,73
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,67
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,65
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,102
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,111
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,94
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,99
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,103
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,107
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,93
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,91
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,95
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,102
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,114
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,118
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,118
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,107
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,87
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,91
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,101
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,96
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,96
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,99
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,106
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,109
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,113
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,106
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,100
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,86
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,92
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,99
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,70
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,73
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,69
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,80
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,78
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,87
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,87
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,79
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,76
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,86
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,94
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,105
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,100
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,108
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,92
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,92
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,95
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,81
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,70
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,60
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,68
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,98
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,94
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,84
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,78
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,75
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,74
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,71
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,65
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,62
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,69
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,70
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,82
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,79
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,75
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,101
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,97
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,96
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,84
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,85
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,83
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,84
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,69
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,63
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,51
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,58
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,50
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,50
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,48
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,87
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,84
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,87
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,85
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,81
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,81
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,78
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,44
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,46
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,50
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,48
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,48
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,49
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,43
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,70
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,72
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,72
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,77
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,66
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,62
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,61
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,11
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,13
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,16
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,12
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,18
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,19
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,21
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,19
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,15
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,15
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,18
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,32
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,40
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,47
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,6
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,6
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,4
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,7
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,6
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,7
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,6
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,4
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,3
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,6
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,5
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,4
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,6
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,7
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,44
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,45
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,46
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,44
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,45
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,34
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,60
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,63
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,54
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,51
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,57
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,52
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,55
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,43
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,40
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,35
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,37
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,47
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,48
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,51
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,63
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,69
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,58
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,60
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,57
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,58
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,60
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,59
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,63
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,55
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,44
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,42
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,41
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,41
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,50
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,52
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,80
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,79
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,73
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,72
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,70
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,67
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,72
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,63
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,51
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,49
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,51
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,47
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,109
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,97
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,91
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,88
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,77
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,84
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,107
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,93
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,94
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,86
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,69
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,72
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,106
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,113
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,116
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,112
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,115
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,107
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,88
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,88
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,87
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,94
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,88
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,84
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,82
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,89
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,95
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,94
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,98
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,105
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,71
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,72
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,77
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,73
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,79
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,85
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,114
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,98
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,88
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,89
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,92
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,87
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,111
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,111
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,98
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,84
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,81
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,69
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,59
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,71
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,80
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,96
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,110
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,122
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,66
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,73
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,80
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,96
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,101
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,113
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,97
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,86
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,81
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,69
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,60
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,58
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,96
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,76
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,76
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,67
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,66
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,64
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,91
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,94
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,101
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,103
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,92
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,93
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,109
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,123
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,127
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,123
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,109
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,98
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,97
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,95
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,91
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,95
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,106
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,92
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,105
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,102
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,89
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,96
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,99
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,107
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,59
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,70
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,75
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,80
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,79
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,89
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,79
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,89
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,100
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,97
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,105
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,101
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,79
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,66
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,63
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,52
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,60
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,52
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,71
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,71
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,73
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,71
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,66
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,70
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,53
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,57
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,61
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,64
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,57
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,61
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,77
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,70
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,71
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,69
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,73
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,64
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,38
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,40
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,40
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,37
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,34
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,37
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,67
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,65
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,61
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,66
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,63
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,67
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,24
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,24
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,27
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,29
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,29
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,25
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,45
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,49
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,48
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,42
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,43
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,49
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,5
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,7
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,10
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,12
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,15
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,14
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,10
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,12
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,19
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,26
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,22
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,17
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,36
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,36
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,35
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,28
+ 28709 CIMPANI,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,30
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,45
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,44
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,45
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,44
+ 28709 CIMPANI,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,42
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,43
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,48
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,43
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,43
+ 28709 CIMPANI,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,35
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,64
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,56
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,55
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,60
+ 28709 CIMPANI,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,53
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,48
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,44
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,40
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,43
+ 28709 CIMPANI,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,53
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,54
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,64
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,67
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,60
+ 28709 CIMPANI,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,62
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,63
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,60
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,62
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,63
+ 28709 CIMPANI,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,57
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,45
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,43
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,41
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,44
+ 28709 CIMPANI,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,47
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,81
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,80
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,74
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,72
+ 28709 CIMPANI,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,66
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,68
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,56
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,53
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,54
+ 28709 CIMPANI,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,49
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,101
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,97
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,91
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,78
+ 28709 CIMPANI,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,77
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,80
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,88
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,82
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,71
+ 28709 CIMPANI,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,67
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,112
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,107
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,104
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,104
+ 28709 CIMPANI,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,97
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,86
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,80
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,85
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,79
+ 28709 CIMPANI,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,69
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,98
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,106
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,102
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,98
+ 28709 CIMPANI,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,96
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,76
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,78
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,73
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,80
+ 28709 CIMPANI,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,88
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,103
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,91
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,89
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,90
+ 28709 CIMPANI,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,87
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,109
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,100
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,86
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,82
+ 28709 CIMPANI,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,72
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,70
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,81
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,98
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,111
+ 28709 CIMPANI,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,121
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,69
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,78
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,95
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,100
+ 28709 CIMPANI,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,110
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,84
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,78
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,67
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,58
+ 28709 CIMPANI,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,57
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,79
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,77
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,69
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,66
+ 28709 CIMPANI,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,65
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,93
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,97
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,96
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,88
+ 28709 CIMPANI,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,89
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,120
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,125
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,118
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,109
+ 28709 CIMPANI,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,97
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,92
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,87
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,93
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,100
+ 28709 CIMPANI,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,86
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,97
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,86
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,93
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,96
+ 28709 CIMPANI,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,106
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,61
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,65
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,71
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,72
+ 28709 CIMPANI,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,83
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,84
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,93
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,95
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,104
+ 28709 CIMPANI,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,98
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,49
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,47
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,38
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,48
+ 28709 CIMPANI,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,41
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,62
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,64
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,59
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,57
+ 28709 CIMPANI,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,66
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,42
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,43
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,46
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,40
+ 28709 CIMPANI,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,42
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,55
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,53
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,53
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,59
+ 28709 CIMPANI,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,53
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,26
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,21
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,23
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,25
+ 28709 CIMPANI,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,27
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,47
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,46
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,48
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,43
+ 28709 CIMPANI,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,41
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,16
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,18
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,16
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,16
+ 28709 CIMPANI,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,14
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,24
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,24
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,20
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,25
+ 28709 CIMPANI,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,28

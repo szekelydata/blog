@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2009, Numar persoane,18
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2010, Numar persoane,26
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2011, Numar persoane,26
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2012, Numar persoane,26
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2013, Numar persoane,30
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2014, Numar persoane,38
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2015, Numar persoane,36
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2016, Numar persoane,39
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2017, Numar persoane,40
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2009, Numar persoane,31
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2010, Numar persoane,25
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2011, Numar persoane,23
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2012, Numar persoane,24
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2013, Numar persoane,22
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2014, Numar persoane,20
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2015, Numar persoane,32
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2016, Numar persoane,31
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2017, Numar persoane,31
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2009, Numar persoane,32
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2010, Numar persoane,33
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2011, Numar persoane,38
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2012, Numar persoane,37
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2013, Numar persoane,38
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2014, Numar persoane,31
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2015, Numar persoane,27
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2016, Numar persoane,27
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2017, Numar persoane,25
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2009, Numar persoane,53
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2010, Numar persoane,46
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2011, Numar persoane,41
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2012, Numar persoane,40
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2013, Numar persoane,35
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2014, Numar persoane,41
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2015, Numar persoane,38
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2016, Numar persoane,37
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2017, Numar persoane,39
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2009, Numar persoane,57
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2010, Numar persoane,55
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2011, Numar persoane,58
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2012, Numar persoane,59
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2013, Numar persoane,64
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2014, Numar persoane,53
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2015, Numar persoane,47
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2016, Numar persoane,45
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2017, Numar persoane,42
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2009, Numar persoane,45
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2010, Numar persoane,48
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2011, Numar persoane,50
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2012, Numar persoane,49
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2013, Numar persoane,46
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2014, Numar persoane,57
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2015, Numar persoane,54
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2016, Numar persoane,57
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2017, Numar persoane,61
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2009, Numar persoane,53
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2010, Numar persoane,60
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2011, Numar persoane,60
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2012, Numar persoane,58
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2013, Numar persoane,58
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2014, Numar persoane,44
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2015, Numar persoane,53
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2016, Numar persoane,52
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2017, Numar persoane,49
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2009, Numar persoane,49
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2010, Numar persoane,47
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2011, Numar persoane,50
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2012, Numar persoane,55
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2013, Numar persoane,53
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2014, Numar persoane,55
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2015, Numar persoane,58
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2016, Numar persoane,61
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2017, Numar persoane,59
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2009, Numar persoane,47
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2010, Numar persoane,47
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2011, Numar persoane,47
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2012, Numar persoane,44
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2013, Numar persoane,46
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2014, Numar persoane,51
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2015, Numar persoane,49
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2016, Numar persoane,50
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2017, Numar persoane,54
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2009, Numar persoane,40
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2010, Numar persoane,44
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2011, Numar persoane,37
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2012, Numar persoane,36
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2013, Numar persoane,39
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2014, Numar persoane,46
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2015, Numar persoane,46
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2016, Numar persoane,48
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2017, Numar persoane,45
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2009, Numar persoane,59
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2010, Numar persoane,51
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2011, Numar persoane,51
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2012, Numar persoane,47
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2013, Numar persoane,47
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2014, Numar persoane,36
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2015, Numar persoane,41
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2016, Numar persoane,35
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2017, Numar persoane,34
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2009, Numar persoane,36
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2010, Numar persoane,42
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2011, Numar persoane,43
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2012, Numar persoane,48
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2013, Numar persoane,46
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2014, Numar persoane,52
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2015, Numar persoane,43
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2016, Numar persoane,46
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2017, Numar persoane,46
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2009, Numar persoane,38
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2010, Numar persoane,36
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2011, Numar persoane,41
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2012, Numar persoane,38
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2013, Numar persoane,40
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2014, Numar persoane,37
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2015, Numar persoane,43
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2016, Numar persoane,39
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2017, Numar persoane,44
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2009, Numar persoane,41
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2010, Numar persoane,38
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2011, Numar persoane,37
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2012, Numar persoane,36
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2013, Numar persoane,33
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2014, Numar persoane,33
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2015, Numar persoane,29
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2016, Numar persoane,38
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2017, Numar persoane,37
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2009, Numar persoane,25
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2010, Numar persoane,29
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2011, Numar persoane,26
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2012, Numar persoane,30
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2013, Numar persoane,29
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2014, Numar persoane,32
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2015, Numar persoane,30
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2016, Numar persoane,26
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2017, Numar persoane,29
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2009, Numar persoane,27
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2010, Numar persoane,26
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2011, Numar persoane,23
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2012, Numar persoane,19
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2013, Numar persoane,20
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2014, Numar persoane,22
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2015, Numar persoane,22
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2016, Numar persoane,18
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2017, Numar persoane,21
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2009, Numar persoane,17
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2010, Numar persoane,16
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2011, Numar persoane,19
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2012, Numar persoane,22
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2013, Numar persoane,16
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2014, Numar persoane,16
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2015, Numar persoane,11
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2016, Numar persoane,16
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2017, Numar persoane,12
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2009, Numar persoane,16
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2010, Numar persoane,17
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2011, Numar persoane,15
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2012, Numar persoane,12
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2013, Numar persoane,15
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2014, Numar persoane,14
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2015, Numar persoane,16
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2016, Numar persoane,14
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2017, Numar persoane,16
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 1992, Numar persoane,46
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 1993, Numar persoane,50
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 1994, Numar persoane,50
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 1995, Numar persoane,44
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 1996, Numar persoane,34
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 1997, Numar persoane,36
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 1998, Numar persoane,31
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 1999, Numar persoane,36
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2000, Numar persoane,36
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2001, Numar persoane,40
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2002, Numar persoane,40
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2003, Numar persoane,41
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2004, Numar persoane,34
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2005, Numar persoane,30
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2006, Numar persoane,24
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2007, Numar persoane,22
+ 85056 MERESTI,0- 4 ani, Masculin, Harghita, Anul 2008, Numar persoane,20
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 1992, Numar persoane,48
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 1993, Numar persoane,52
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 1994, Numar persoane,56
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 1995, Numar persoane,53
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 1996, Numar persoane,55
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 1997, Numar persoane,51
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 1998, Numar persoane,56
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 1999, Numar persoane,52
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2000, Numar persoane,44
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2001, Numar persoane,38
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2002, Numar persoane,40
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2003, Numar persoane,33
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2004, Numar persoane,35
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2005, Numar persoane,34
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2006, Numar persoane,39
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2007, Numar persoane,37
+ 85056 MERESTI,5- 9 ani, Masculin, Harghita, Anul 2008, Numar persoane,39
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 1992, Numar persoane,61
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 1993, Numar persoane,60
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 1994, Numar persoane,47
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 1995, Numar persoane,50
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 1996, Numar persoane,50
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 1997, Numar persoane,51
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 1998, Numar persoane,50
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 1999, Numar persoane,54
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2000, Numar persoane,51
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2001, Numar persoane,56
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2002, Numar persoane,53
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2003, Numar persoane,59
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2004, Numar persoane,53
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2005, Numar persoane,45
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2006, Numar persoane,39
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2007, Numar persoane,38
+ 85056 MERESTI,10-14 ani, Masculin, Harghita, Anul 2008, Numar persoane,30
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 1992, Numar persoane,56
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 1993, Numar persoane,56
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 1994, Numar persoane,59
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 1995, Numar persoane,63
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 1996, Numar persoane,63
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 1997, Numar persoane,62
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 1998, Numar persoane,57
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 1999, Numar persoane,45
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2000, Numar persoane,47
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2001, Numar persoane,47
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2002, Numar persoane,49
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2003, Numar persoane,49
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2004, Numar persoane,57
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2005, Numar persoane,54
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2006, Numar persoane,56
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2007, Numar persoane,57
+ 85056 MERESTI,15-19 ani, Masculin, Harghita, Anul 2008, Numar persoane,61
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 1992, Numar persoane,57
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 1993, Numar persoane,60
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 1994, Numar persoane,57
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 1995, Numar persoane,52
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 1996, Numar persoane,56
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 1997, Numar persoane,60
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 1998, Numar persoane,58
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 1999, Numar persoane,61
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2000, Numar persoane,66
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2001, Numar persoane,64
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2002, Numar persoane,63
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2003, Numar persoane,59
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2004, Numar persoane,45
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2005, Numar persoane,48
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2006, Numar persoane,48
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2007, Numar persoane,48
+ 85056 MERESTI,20-24 ani, Masculin, Harghita, Anul 2008, Numar persoane,47
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 1992, Numar persoane,42
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 1993, Numar persoane,46
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 1994, Numar persoane,54
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 1995, Numar persoane,57
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 1996, Numar persoane,57
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 1997, Numar persoane,54
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 1998, Numar persoane,58
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 1999, Numar persoane,54
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2000, Numar persoane,50
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2001, Numar persoane,53
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2002, Numar persoane,55
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2003, Numar persoane,55
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2004, Numar persoane,59
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2005, Numar persoane,64
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2006, Numar persoane,64
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2007, Numar persoane,58
+ 85056 MERESTI,25-29 ani, Masculin, Harghita, Anul 2008, Numar persoane,53
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 1992, Numar persoane,51
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 1993, Numar persoane,53
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 1994, Numar persoane,45
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 1995, Numar persoane,46
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 1996, Numar persoane,39
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 1997, Numar persoane,38
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 1998, Numar persoane,44
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 1999, Numar persoane,53
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2000, Numar persoane,56
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2001, Numar persoane,56
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2002, Numar persoane,52
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2003, Numar persoane,54
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2004, Numar persoane,50
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2005, Numar persoane,47
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2006, Numar persoane,49
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2007, Numar persoane,54
+ 85056 MERESTI,30-34 ani, Masculin, Harghita, Anul 2008, Numar persoane,50
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 1992, Numar persoane,60
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 1993, Numar persoane,59
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 1994, Numar persoane,58
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 1995, Numar persoane,52
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 1996, Numar persoane,52
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 1997, Numar persoane,51
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 1998, Numar persoane,50
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 1999, Numar persoane,41
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2000, Numar persoane,43
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2001, Numar persoane,38
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2002, Numar persoane,38
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2003, Numar persoane,44
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2004, Numar persoane,56
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2005, Numar persoane,53
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2006, Numar persoane,52
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2007, Numar persoane,47
+ 85056 MERESTI,35-39 ani, Masculin, Harghita, Anul 2008, Numar persoane,48
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 1992, Numar persoane,45
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 1993, Numar persoane,45
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 1994, Numar persoane,44
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 1995, Numar persoane,52
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 1996, Numar persoane,53
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 1997, Numar persoane,57
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 1998, Numar persoane,56
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 1999, Numar persoane,57
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2000, Numar persoane,52
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2001, Numar persoane,52
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2002, Numar persoane,50
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2003, Numar persoane,50
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2004, Numar persoane,41
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2005, Numar persoane,47
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2006, Numar persoane,39
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2007, Numar persoane,39
+ 85056 MERESTI,40-44 ani, Masculin, Harghita, Anul 2008, Numar persoane,42
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 1992, Numar persoane,48
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 1993, Numar persoane,46
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 1994, Numar persoane,45
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 1995, Numar persoane,44
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 1996, Numar persoane,49
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 1997, Numar persoane,43
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 1998, Numar persoane,42
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 1999, Numar persoane,40
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2000, Numar persoane,47
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2001, Numar persoane,50
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2002, Numar persoane,53
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2003, Numar persoane,53
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2004, Numar persoane,59
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2005, Numar persoane,50
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2006, Numar persoane,52
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2007, Numar persoane,49
+ 85056 MERESTI,45-49 ani, Masculin, Harghita, Anul 2008, Numar persoane,50
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 1992, Numar persoane,47
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 1993, Numar persoane,47
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 1994, Numar persoane,50
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 1995, Numar persoane,45
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 1996, Numar persoane,40
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 1997, Numar persoane,44
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 1998, Numar persoane,42
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 1999, Numar persoane,45
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2000, Numar persoane,44
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2001, Numar persoane,47
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2002, Numar persoane,40
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2003, Numar persoane,43
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2004, Numar persoane,38
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2005, Numar persoane,43
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2006, Numar persoane,46
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2007, Numar persoane,50
+ 85056 MERESTI,50-54 ani, Masculin, Harghita, Anul 2008, Numar persoane,51
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 1992, Numar persoane,33
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 1993, Numar persoane,32
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 1994, Numar persoane,35
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 1995, Numar persoane,42
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 1996, Numar persoane,43
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 1997, Numar persoane,44
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 1998, Numar persoane,44
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 1999, Numar persoane,47
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2000, Numar persoane,44
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2001, Numar persoane,42
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2002, Numar persoane,46
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2003, Numar persoane,43
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2004, Numar persoane,43
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2005, Numar persoane,42
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2006, Numar persoane,47
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2007, Numar persoane,41
+ 85056 MERESTI,55-59 ani, Masculin, Harghita, Anul 2008, Numar persoane,41
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 1992, Numar persoane,57
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 1993, Numar persoane,50
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 1994, Numar persoane,49
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 1995, Numar persoane,45
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 1996, Numar persoane,37
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 1997, Numar persoane,32
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 1998, Numar persoane,34
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 1999, Numar persoane,36
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2000, Numar persoane,41
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2001, Numar persoane,39
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2002, Numar persoane,42
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2003, Numar persoane,40
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2004, Numar persoane,44
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2005, Numar persoane,41
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2006, Numar persoane,37
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2007, Numar persoane,39
+ 85056 MERESTI,60-64 ani, Masculin, Harghita, Anul 2008, Numar persoane,36
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 1992, Numar persoane,68
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 1993, Numar persoane,68
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 1994, Numar persoane,54
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 1995, Numar persoane,49
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 1996, Numar persoane,50
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 1997, Numar persoane,50
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 1998, Numar persoane,45
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 1999, Numar persoane,43
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2000, Numar persoane,37
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2001, Numar persoane,37
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2002, Numar persoane,31
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2003, Numar persoane,31
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2004, Numar persoane,28
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2005, Numar persoane,33
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2006, Numar persoane,29
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2007, Numar persoane,34
+ 85056 MERESTI,65-69 ani, Masculin, Harghita, Anul 2008, Numar persoane,36
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 1992, Numar persoane,44
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 1993, Numar persoane,46
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 1994, Numar persoane,56
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 1995, Numar persoane,64
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 1996, Numar persoane,55
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 1997, Numar persoane,55
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 1998, Numar persoane,52
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 1999, Numar persoane,39
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2000, Numar persoane,37
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2001, Numar persoane,40
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2002, Numar persoane,40
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2003, Numar persoane,36
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2004, Numar persoane,35
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2005, Numar persoane,32
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2006, Numar persoane,32
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2007, Numar persoane,26
+ 85056 MERESTI,70-74 ani, Masculin, Harghita, Anul 2008, Numar persoane,23
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 1992, Numar persoane,33
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 1993, Numar persoane,32
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 1994, Numar persoane,31
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 1995, Numar persoane,24
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 1996, Numar persoane,34
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 1997, Numar persoane,35
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 1998, Numar persoane,35
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 1999, Numar persoane,43
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2000, Numar persoane,47
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2001, Numar persoane,38
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2002, Numar persoane,37
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2003, Numar persoane,33
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2004, Numar persoane,28
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2005, Numar persoane,27
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2006, Numar persoane,29
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2007, Numar persoane,33
+ 85056 MERESTI,75-79 ani, Masculin, Harghita, Anul 2008, Numar persoane,30
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 1992, Numar persoane,23
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 1993, Numar persoane,23
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 1994, Numar persoane,22
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 1995, Numar persoane,22
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 1996, Numar persoane,21
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 1997, Numar persoane,18
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 1998, Numar persoane,22
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 1999, Numar persoane,17
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2000, Numar persoane,12
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2001, Numar persoane,21
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2002, Numar persoane,24
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2003, Numar persoane,23
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2004, Numar persoane,26
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2005, Numar persoane,27
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2006, Numar persoane,21
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2007, Numar persoane,17
+ 85056 MERESTI,80-84 ani, Masculin, Harghita, Anul 2008, Numar persoane,21
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 1992, Numar persoane,15
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 1993, Numar persoane,11
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 1994, Numar persoane,9
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 1995, Numar persoane,17
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 1996, Numar persoane,18
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 1997, Numar persoane,19
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 1998, Numar persoane,12
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 1999, Numar persoane,14
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2000, Numar persoane,14
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2001, Numar persoane,14
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2002, Numar persoane,12
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2003, Numar persoane,12
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2004, Numar persoane,12
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2005, Numar persoane,10
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2006, Numar persoane,15
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2007, Numar persoane,16
+ 85056 MERESTI,85 ani si peste, Masculin, Harghita, Anul 2008, Numar persoane,14
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 1992, Numar persoane,43
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 1993, Numar persoane,42
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 1994, Numar persoane,39
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 1995, Numar persoane,36
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 1996, Numar persoane,38
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 1997, Numar persoane,35
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 1998, Numar persoane,35
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 1999, Numar persoane,36
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2000, Numar persoane,27
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2001, Numar persoane,30
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2002, Numar persoane,34
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2003, Numar persoane,39
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2004, Numar persoane,30
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2005, Numar persoane,30
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2006, Numar persoane,21
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 1992, Numar persoane,51
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 1993, Numar persoane,49
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 1994, Numar persoane,48
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 1995, Numar persoane,50
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 1996, Numar persoane,47
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 1997, Numar persoane,44
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 1998, Numar persoane,44
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 1999, Numar persoane,43
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2000, Numar persoane,44
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2001, Numar persoane,43
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2002, Numar persoane,37
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2003, Numar persoane,35
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2004, Numar persoane,34
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2005, Numar persoane,27
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2006, Numar persoane,32
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 1992, Numar persoane,53
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 1993, Numar persoane,53
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 1994, Numar persoane,58
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 1995, Numar persoane,57
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 1996, Numar persoane,52
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 1997, Numar persoane,54
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 1998, Numar persoane,49
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 1999, Numar persoane,44
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2000, Numar persoane,44
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2001, Numar persoane,47
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2002, Numar persoane,44
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2003, Numar persoane,44
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2004, Numar persoane,43
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2005, Numar persoane,47
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2006, Numar persoane,40
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 1992, Numar persoane,42
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 1993, Numar persoane,41
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 1994, Numar persoane,42
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 1995, Numar persoane,45
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 1996, Numar persoane,47
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 1997, Numar persoane,55
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 1998, Numar persoane,53
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 1999, Numar persoane,57
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2000, Numar persoane,56
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2001, Numar persoane,53
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2002, Numar persoane,54
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2003, Numar persoane,49
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2004, Numar persoane,44
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2005, Numar persoane,42
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2006, Numar persoane,46
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 1992, Numar persoane,55
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 1993, Numar persoane,61
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 1994, Numar persoane,48
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 1995, Numar persoane,45
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 1996, Numar persoane,44
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 1997, Numar persoane,41
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 1998, Numar persoane,41
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 1999, Numar persoane,45
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2000, Numar persoane,43
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2001, Numar persoane,42
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2002, Numar persoane,51
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2003, Numar persoane,51
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2004, Numar persoane,60
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2005, Numar persoane,58
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2006, Numar persoane,50
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 1992, Numar persoane,31
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 1993, Numar persoane,30
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 1994, Numar persoane,41
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 1995, Numar persoane,44
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 1996, Numar persoane,50
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 1997, Numar persoane,54
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 1998, Numar persoane,63
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 1999, Numar persoane,53
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2000, Numar persoane,50
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2001, Numar persoane,47
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2002, Numar persoane,42
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2003, Numar persoane,42
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2004, Numar persoane,40
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2005, Numar persoane,36
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2006, Numar persoane,43
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 1992, Numar persoane,42
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 1993, Numar persoane,39
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 1994, Numar persoane,37
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 1995, Numar persoane,36
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 1996, Numar persoane,35
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 1997, Numar persoane,31
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 1998, Numar persoane,31
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 1999, Numar persoane,41
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2000, Numar persoane,44
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2001, Numar persoane,49
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2002, Numar persoane,55
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2003, Numar persoane,61
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2004, Numar persoane,52
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2005, Numar persoane,50
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2006, Numar persoane,41
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 1992, Numar persoane,40
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 1993, Numar persoane,47
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 1994, Numar persoane,45
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 1995, Numar persoane,50
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 1996, Numar persoane,41
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 1997, Numar persoane,40
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 1998, Numar persoane,35
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 1999, Numar persoane,32
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2000, Numar persoane,33
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2001, Numar persoane,32
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2002, Numar persoane,31
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2003, Numar persoane,32
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2004, Numar persoane,39
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2005, Numar persoane,45
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2006, Numar persoane,51
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 1992, Numar persoane,41
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 1993, Numar persoane,32
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 1994, Numar persoane,31
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 1995, Numar persoane,28
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 1996, Numar persoane,35
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 1997, Numar persoane,40
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 1998, Numar persoane,44
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 1999, Numar persoane,44
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2000, Numar persoane,46
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2001, Numar persoane,40
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2002, Numar persoane,35
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2003, Numar persoane,35
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2004, Numar persoane,33
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2005, Numar persoane,32
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2006, Numar persoane,32
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 1992, Numar persoane,32
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 1993, Numar persoane,34
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 1994, Numar persoane,40
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 1995, Numar persoane,37
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 1996, Numar persoane,37
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 1997, Numar persoane,37
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 1998, Numar persoane,30
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 1999, Numar persoane,28
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2000, Numar persoane,27
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2001, Numar persoane,34
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2002, Numar persoane,40
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2003, Numar persoane,43
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2004, Numar persoane,46
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2005, Numar persoane,47
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2006, Numar persoane,40
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 1992, Numar persoane,45
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 1993, Numar persoane,41
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 1994, Numar persoane,33
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 1995, Numar persoane,34
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 1996, Numar persoane,34
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 1997, Numar persoane,33
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 1998, Numar persoane,34
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 1999, Numar persoane,38
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2000, Numar persoane,36
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2001, Numar persoane,36
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2002, Numar persoane,38
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2003, Numar persoane,32
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2004, Numar persoane,31
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2005, Numar persoane,30
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2006, Numar persoane,35
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 1992, Numar persoane,45
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 1993, Numar persoane,45
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 1994, Numar persoane,47
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 1995, Numar persoane,50
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 1996, Numar persoane,46
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 1997, Numar persoane,44
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 1998, Numar persoane,43
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 1999, Numar persoane,33
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2000, Numar persoane,33
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2001, Numar persoane,35
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2002, Numar persoane,35
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2003, Numar persoane,34
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2004, Numar persoane,38
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2005, Numar persoane,36
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2006, Numar persoane,37
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 1992, Numar persoane,69
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 1993, Numar persoane,71
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 1994, Numar persoane,62
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 1995, Numar persoane,58
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 1996, Numar persoane,48
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 1997, Numar persoane,39
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 1998, Numar persoane,42
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 1999, Numar persoane,47
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2000, Numar persoane,50
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2001, Numar persoane,47
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2002, Numar persoane,44
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2003, Numar persoane,45
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2004, Numar persoane,35
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2005, Numar persoane,34
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2006, Numar persoane,36
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 1992, Numar persoane,69
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 1993, Numar persoane,68
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 1994, Numar persoane,75
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 1995, Numar persoane,69
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 1996, Numar persoane,67
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 1997, Numar persoane,68
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 1998, Numar persoane,69
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 1999, Numar persoane,59
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2000, Numar persoane,52
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2001, Numar persoane,45
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2002, Numar persoane,37
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2003, Numar persoane,39
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2004, Numar persoane,45
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2005, Numar persoane,48
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2006, Numar persoane,40
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 1992, Numar persoane,52
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 1993, Numar persoane,61
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 1994, Numar persoane,56
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 1995, Numar persoane,57
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 1996, Numar persoane,60
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 1997, Numar persoane,61
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 1998, Numar persoane,60
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 1999, Numar persoane,70
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2000, Numar persoane,63
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2001, Numar persoane,62
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2002, Numar persoane,63
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2003, Numar persoane,63
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2004, Numar persoane,55
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2005, Numar persoane,50
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2006, Numar persoane,45
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 1992, Numar persoane,50
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 1993, Numar persoane,41
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 1994, Numar persoane,40
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 1995, Numar persoane,33
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 1996, Numar persoane,39
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 1997, Numar persoane,44
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 1998, Numar persoane,49
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 1999, Numar persoane,45
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2000, Numar persoane,50
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2001, Numar persoane,49
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2002, Numar persoane,55
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2003, Numar persoane,55
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2004, Numar persoane,60
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2005, Numar persoane,53
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2006, Numar persoane,53
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 1992, Numar persoane,31
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 1993, Numar persoane,37
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 1994, Numar persoane,39
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 1995, Numar persoane,44
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 1996, Numar persoane,38
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 1997, Numar persoane,31
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 1998, Numar persoane,23
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 1999, Numar persoane,24
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2000, Numar persoane,17
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2001, Numar persoane,27
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2002, Numar persoane,31
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2003, Numar persoane,38
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2004, Numar persoane,35
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2005, Numar persoane,39
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2006, Numar persoane,39
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 1992, Numar persoane,12
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 1993, Numar persoane,13
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 1994, Numar persoane,15
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 1995, Numar persoane,19
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 1996, Numar persoane,24
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 1997, Numar persoane,24
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 1998, Numar persoane,25
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 1999, Numar persoane,27
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2000, Numar persoane,29
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2001, Numar persoane,24
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2002, Numar persoane,17
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2003, Numar persoane,15
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2004, Numar persoane,18
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2005, Numar persoane,20
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2006, Numar persoane,26
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2007, Numar persoane,26
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2008, Numar persoane,27
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2009, Numar persoane,29
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2010, Numar persoane,36
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2011, Numar persoane,41
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2012, Numar persoane,41
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2013, Numar persoane,41
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2014, Numar persoane,45
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2015, Numar persoane,36
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2016, Numar persoane,36
+ 85056 MERESTI,0- 4 ani, Feminin, Harghita, Anul 2017, Numar persoane,35
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2007, Numar persoane,31
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2008, Numar persoane,33
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2009, Numar persoane,27
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2010, Numar persoane,27
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2011, Numar persoane,21
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2012, Numar persoane,25
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2013, Numar persoane,28
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2014, Numar persoane,32
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2015, Numar persoane,41
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2016, Numar persoane,44
+ 85056 MERESTI,5- 9 ani, Feminin, Harghita, Anul 2017, Numar persoane,40
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2007, Numar persoane,33
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2008, Numar persoane,30
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2009, Numar persoane,30
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2010, Numar persoane,24
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2011, Numar persoane,34
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2012, Numar persoane,32
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2013, Numar persoane,38
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2014, Numar persoane,32
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2015, Numar persoane,28
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2016, Numar persoane,21
+ 85056 MERESTI,10-14 ani, Feminin, Harghita, Anul 2017, Numar persoane,26
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2007, Numar persoane,42
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2008, Numar persoane,45
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2009, Numar persoane,44
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2010, Numar persoane,48
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2011, Numar persoane,39
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2012, Numar persoane,37
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2013, Numar persoane,34
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2014, Numar persoane,35
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2015, Numar persoane,30
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2016, Numar persoane,40
+ 85056 MERESTI,15-19 ani, Feminin, Harghita, Anul 2017, Numar persoane,40
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2007, Numar persoane,51
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2008, Numar persoane,47
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2009, Numar persoane,39
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2010, Numar persoane,36
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2011, Numar persoane,43
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2012, Numar persoane,45
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2013, Numar persoane,49
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2014, Numar persoane,52
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2015, Numar persoane,56
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2016, Numar persoane,46
+ 85056 MERESTI,20-24 ani, Feminin, Harghita, Anul 2017, Numar persoane,43
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2007, Numar persoane,49
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2008, Numar persoane,48
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2009, Numar persoane,53
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2010, Numar persoane,50
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2011, Numar persoane,42
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2012, Numar persoane,43
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2013, Numar persoane,42
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2014, Numar persoane,41
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2015, Numar persoane,40
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2016, Numar persoane,47
+ 85056 MERESTI,25-29 ani, Feminin, Harghita, Anul 2017, Numar persoane,50
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2007, Numar persoane,37
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2008, Numar persoane,34
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2009, Numar persoane,34
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2010, Numar persoane,37
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2011, Numar persoane,43
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2012, Numar persoane,47
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2013, Numar persoane,46
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2014, Numar persoane,53
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2015, Numar persoane,50
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2016, Numar persoane,46
+ 85056 MERESTI,30-34 ani, Feminin, Harghita, Anul 2017, Numar persoane,42
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2007, Numar persoane,53
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2008, Numar persoane,59
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2009, Numar persoane,48
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2010, Numar persoane,45
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2011, Numar persoane,37
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2012, Numar persoane,37
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2013, Numar persoane,35
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2014, Numar persoane,37
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2015, Numar persoane,40
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2016, Numar persoane,46
+ 85056 MERESTI,35-39 ani, Feminin, Harghita, Anul 2017, Numar persoane,51
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2007, Numar persoane,30
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2008, Numar persoane,31
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2009, Numar persoane,39
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2010, Numar persoane,44
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2011, Numar persoane,50
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2012, Numar persoane,49
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2013, Numar persoane,58
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2014, Numar persoane,50
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2015, Numar persoane,46
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2016, Numar persoane,39
+ 85056 MERESTI,40-44 ani, Feminin, Harghita, Anul 2017, Numar persoane,39
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2007, Numar persoane,35
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2008, Numar persoane,34
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2009, Numar persoane,32
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2010, Numar persoane,32
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2011, Numar persoane,31
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2012, Numar persoane,30
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2013, Numar persoane,28
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2014, Numar persoane,36
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2015, Numar persoane,43
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2016, Numar persoane,49
+ 85056 MERESTI,45-49 ani, Feminin, Harghita, Anul 2017, Numar persoane,51
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2007, Numar persoane,41
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2008, Numar persoane,43
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2009, Numar persoane,46
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2010, Numar persoane,46
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2011, Numar persoane,39
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2012, Numar persoane,33
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2013, Numar persoane,31
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2014, Numar persoane,30
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2015, Numar persoane,31
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2016, Numar persoane,30
+ 85056 MERESTI,50-54 ani, Feminin, Harghita, Anul 2017, Numar persoane,27
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2007, Numar persoane,39
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2008, Numar persoane,34
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2009, Numar persoane,34
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2010, Numar persoane,32
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2011, Numar persoane,36
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2012, Numar persoane,42
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2013, Numar persoane,43
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2014, Numar persoane,45
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2015, Numar persoane,45
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2016, Numar persoane,39
+ 85056 MERESTI,55-59 ani, Feminin, Harghita, Anul 2017, Numar persoane,34
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2007, Numar persoane,33
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2008, Numar persoane,31
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2009, Numar persoane,33
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2010, Numar persoane,36
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2011, Numar persoane,36
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2012, Numar persoane,38
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2013, Numar persoane,35
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2014, Numar persoane,35
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2015, Numar persoane,34
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2016, Numar persoane,39
+ 85056 MERESTI,60-64 ani, Feminin, Harghita, Anul 2017, Numar persoane,45
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2007, Numar persoane,40
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2008, Numar persoane,42
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2009, Numar persoane,35
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2010, Numar persoane,31
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2011, Numar persoane,34
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2012, Numar persoane,35
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2013, Numar persoane,30
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2014, Numar persoane,33
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2015, Numar persoane,34
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2016, Numar persoane,35
+ 85056 MERESTI,65-69 ani, Feminin, Harghita, Anul 2017, Numar persoane,38
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2007, Numar persoane,37
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2008, Numar persoane,36
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2009, Numar persoane,41
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2010, Numar persoane,44
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2011, Numar persoane,37
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2012, Numar persoane,35
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2013, Numar persoane,37
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2014, Numar persoane,32
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2015, Numar persoane,30
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2016, Numar persoane,34
+ 85056 MERESTI,70-74 ani, Feminin, Harghita, Anul 2017, Numar persoane,32
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2007, Numar persoane,49
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2008, Numar persoane,45
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2009, Numar persoane,41
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2010, Numar persoane,38
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2011, Numar persoane,36
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2012, Numar persoane,32
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2013, Numar persoane,33
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2014, Numar persoane,35
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2015, Numar persoane,39
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2016, Numar persoane,35
+ 85056 MERESTI,75-79 ani, Feminin, Harghita, Anul 2017, Numar persoane,34
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2007, Numar persoane,45
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2008, Numar persoane,46
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2009, Numar persoane,43
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2010, Numar persoane,37
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2011, Numar persoane,34
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2012, Numar persoane,33
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2013, Numar persoane,29
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2014, Numar persoane,26
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2015, Numar persoane,27
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2016, Numar persoane,27
+ 85056 MERESTI,80-84 ani, Feminin, Harghita, Anul 2017, Numar persoane,23
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2007, Numar persoane,26
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2008, Numar persoane,30
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2009, Numar persoane,31
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2010, Numar persoane,32
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2011, Numar persoane,33
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2012, Numar persoane,37
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2013, Numar persoane,35
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2014, Numar persoane,35
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2015, Numar persoane,29
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2016, Numar persoane,32
+ 85056 MERESTI,85 ani si peste, Feminin, Harghita, Anul 2017, Numar persoane,32

@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2009, Numar persoane,511
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2010, Numar persoane,547
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2011, Numar persoane,560
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2012, Numar persoane,537
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2013, Numar persoane,513
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2014, Numar persoane,508
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2015, Numar persoane,462
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2016, Numar persoane,434
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2017, Numar persoane,454
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2009, Numar persoane,448
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2010, Numar persoane,470
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2011, Numar persoane,471
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2012, Numar persoane,480
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2013, Numar persoane,488
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2014, Numar persoane,491
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2015, Numar persoane,534
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2016, Numar persoane,549
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2017, Numar persoane,530
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2009, Numar persoane,509
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2010, Numar persoane,474
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2011, Numar persoane,475
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2012, Numar persoane,466
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2013, Numar persoane,442
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2014, Numar persoane,446
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2015, Numar persoane,456
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2016, Numar persoane,460
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2017, Numar persoane,466
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2009, Numar persoane,696
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2010, Numar persoane,658
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2011, Numar persoane,591
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2012, Numar persoane,557
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2013, Numar persoane,529
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2014, Numar persoane,504
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2015, Numar persoane,463
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2016, Numar persoane,458
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2017, Numar persoane,457
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2009, Numar persoane,841
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2010, Numar persoane,856
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2011, Numar persoane,838
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2012, Numar persoane,775
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2013, Numar persoane,746
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2014, Numar persoane,675
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2015, Numar persoane,638
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2016, Numar persoane,582
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2017, Numar persoane,546
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2009, Numar persoane,862
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2010, Numar persoane,816
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2011, Numar persoane,801
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2012, Numar persoane,808
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2013, Numar persoane,804
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2014, Numar persoane,805
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2015, Numar persoane,820
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2016, Numar persoane,804
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2017, Numar persoane,752
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2009, Numar persoane,936
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2010, Numar persoane,928
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2011, Numar persoane,913
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2012, Numar persoane,916
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2013, Numar persoane,862
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2014, Numar persoane,810
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2015, Numar persoane,761
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2016, Numar persoane,744
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2017, Numar persoane,762
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2009, Numar persoane,915
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2010, Numar persoane,911
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2011, Numar persoane,854
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2012, Numar persoane,813
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2013, Numar persoane,870
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2014, Numar persoane,910
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2015, Numar persoane,901
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2016, Numar persoane,887
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2017, Numar persoane,887
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2009, Numar persoane,793
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2010, Numar persoane,852
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2011, Numar persoane,950
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2012, Numar persoane,996
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2013, Numar persoane,944
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2014, Numar persoane,889
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2015, Numar persoane,882
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2016, Numar persoane,834
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2017, Numar persoane,801
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2009, Numar persoane,647
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2010, Numar persoane,632
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2011, Numar persoane,638
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2012, Numar persoane,622
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2013, Numar persoane,673
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2014, Numar persoane,758
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2015, Numar persoane,824
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2016, Numar persoane,912
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2017, Numar persoane,962
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2009, Numar persoane,769
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2010, Numar persoane,743
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2011, Numar persoane,682
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2012, Numar persoane,661
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2013, Numar persoane,644
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2014, Numar persoane,624
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2015, Numar persoane,594
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2016, Numar persoane,598
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2017, Numar persoane,583
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2009, Numar persoane,704
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2010, Numar persoane,705
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2011, Numar persoane,737
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2012, Numar persoane,742
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2013, Numar persoane,757
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2014, Numar persoane,727
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2015, Numar persoane,705
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2016, Numar persoane,643
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2017, Numar persoane,619
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2009, Numar persoane,466
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2010, Numar persoane,475
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2011, Numar persoane,497
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2012, Numar persoane,548
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2013, Numar persoane,579
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2014, Numar persoane,619
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2015, Numar persoane,637
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2016, Numar persoane,670
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2017, Numar persoane,673
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2009, Numar persoane,380
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2010, Numar persoane,407
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2011, Numar persoane,421
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2012, Numar persoane,427
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2013, Numar persoane,404
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2014, Numar persoane,405
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2015, Numar persoane,421
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2016, Numar persoane,433
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2017, Numar persoane,478
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2009, Numar persoane,285
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2010, Numar persoane,295
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2011, Numar persoane,280
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2012, Numar persoane,281
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2013, Numar persoane,296
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2014, Numar persoane,308
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2015, Numar persoane,335
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2016, Numar persoane,349
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2017, Numar persoane,351
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2009, Numar persoane,177
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2010, Numar persoane,186
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2011, Numar persoane,190
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2012, Numar persoane,195
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2013, Numar persoane,189
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2014, Numar persoane,217
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2015, Numar persoane,223
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2016, Numar persoane,206
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2017, Numar persoane,212
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2009, Numar persoane,109
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2010, Numar persoane,100
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2011, Numar persoane,103
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2012, Numar persoane,103
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2013, Numar persoane,119
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2014, Numar persoane,108
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2015, Numar persoane,118
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2016, Numar persoane,128
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2017, Numar persoane,125
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2009, Numar persoane,52
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2010, Numar persoane,58
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2011, Numar persoane,64
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2012, Numar persoane,61
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2013, Numar persoane,64
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2014, Numar persoane,66
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2015, Numar persoane,58
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2016, Numar persoane,64
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2017, Numar persoane,63
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 1992, Numar persoane,869
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 1993, Numar persoane,815
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 1994, Numar persoane,726
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 1995, Numar persoane,681
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 1996, Numar persoane,603
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 1997, Numar persoane,557
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 1998, Numar persoane,546
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 1999, Numar persoane,521
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2000, Numar persoane,485
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2001, Numar persoane,493
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2002, Numar persoane,486
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2003, Numar persoane,444
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2004, Numar persoane,457
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2005, Numar persoane,476
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2006, Numar persoane,482
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2007, Numar persoane,489
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Masculin, Harghita, Anul 2008, Numar persoane,512
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 1992, Numar persoane,912
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 1993, Numar persoane,888
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 1994, Numar persoane,909
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 1995, Numar persoane,927
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 1996, Numar persoane,911
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 1997, Numar persoane,848
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 1998, Numar persoane,801
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 1999, Numar persoane,715
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2000, Numar persoane,671
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2001, Numar persoane,600
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2002, Numar persoane,553
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2003, Numar persoane,539
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2004, Numar persoane,520
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2005, Numar persoane,477
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2006, Numar persoane,480
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2007, Numar persoane,479
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Masculin, Harghita, Anul 2008, Numar persoane,442
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 1992, Numar persoane,1055
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 1993, Numar persoane,1018
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 1994, Numar persoane,969
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 1995, Numar persoane,910
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 1996, Numar persoane,879
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 1997, Numar persoane,878
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 1998, Numar persoane,874
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 1999, Numar persoane,890
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2000, Numar persoane,906
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2001, Numar persoane,887
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2002, Numar persoane,828
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2003, Numar persoane,781
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2004, Numar persoane,706
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2005, Numar persoane,655
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2006, Numar persoane,584
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2007, Numar persoane,549
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Masculin, Harghita, Anul 2008, Numar persoane,526
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 1992, Numar persoane,852
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 1993, Numar persoane,926
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 1994, Numar persoane,1002
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 1995, Numar persoane,1011
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 1996, Numar persoane,1021
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 1997, Numar persoane,1040
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 1998, Numar persoane,999
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 1999, Numar persoane,944
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2000, Numar persoane,886
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2001, Numar persoane,857
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2002, Numar persoane,861
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2003, Numar persoane,858
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2004, Numar persoane,864
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2005, Numar persoane,882
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2006, Numar persoane,860
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2007, Numar persoane,803
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Masculin, Harghita, Anul 2008, Numar persoane,767
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 1992, Numar persoane,965
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 1993, Numar persoane,925
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 1994, Numar persoane,868
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 1995, Numar persoane,892
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 1996, Numar persoane,862
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 1997, Numar persoane,841
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 1998, Numar persoane,913
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 1999, Numar persoane,979
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2000, Numar persoane,991
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2001, Numar persoane,998
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2002, Numar persoane,1013
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2003, Numar persoane,969
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2004, Numar persoane,907
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2005, Numar persoane,851
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2006, Numar persoane,827
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2007, Numar persoane,846
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Masculin, Harghita, Anul 2008, Numar persoane,836
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 1992, Numar persoane,693
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 1993, Numar persoane,758
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 1994, Numar persoane,819
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 1995, Numar persoane,866
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 1996, Numar persoane,960
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 1997, Numar persoane,1010
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 1998, Numar persoane,958
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 1999, Numar persoane,905
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2000, Numar persoane,917
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2001, Numar persoane,888
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2002, Numar persoane,853
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2003, Numar persoane,900
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2004, Numar persoane,960
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2005, Numar persoane,958
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2006, Numar persoane,946
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2007, Numar persoane,954
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Masculin, Harghita, Anul 2008, Numar persoane,923
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 1992, Numar persoane,800
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 1993, Numar persoane,748
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 1994, Numar persoane,732
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 1995, Numar persoane,692
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 1996, Numar persoane,692
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 1997, Numar persoane,681
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 1998, Numar persoane,739
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 1999, Numar persoane,814
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2000, Numar persoane,861
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2001, Numar persoane,962
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2002, Numar persoane,1015
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2003, Numar persoane,975
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2004, Numar persoane,914
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2005, Numar persoane,918
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2006, Numar persoane,870
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2007, Numar persoane,833
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Masculin, Harghita, Anul 2008, Numar persoane,881
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 1992, Numar persoane,993
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 1993, Numar persoane,983
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 1994, Numar persoane,941
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 1995, Numar persoane,918
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 1996, Numar persoane,827
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 1997, Numar persoane,751
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 1998, Numar persoane,722
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 1999, Numar persoane,710
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2000, Numar persoane,682
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2001, Numar persoane,674
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2002, Numar persoane,660
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2003, Numar persoane,725
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2004, Numar persoane,810
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2005, Numar persoane,864
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2006, Numar persoane,961
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2007, Numar persoane,1017
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Masculin, Harghita, Anul 2008, Numar persoane,967
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 1992, Numar persoane,772
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 1993, Numar persoane,831
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 1994, Numar persoane,889
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 1995, Numar persoane,881
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 1996, Numar persoane,916
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 1997, Numar persoane,922
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 1998, Numar persoane,941
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 1999, Numar persoane,886
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2000, Numar persoane,858
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2001, Numar persoane,793
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2002, Numar persoane,740
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2003, Numar persoane,701
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2004, Numar persoane,681
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2005, Numar persoane,651
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2006, Numar persoane,653
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2007, Numar persoane,643
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Masculin, Harghita, Anul 2008, Numar persoane,701
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 1992, Numar persoane,688
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 1993, Numar persoane,642
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 1994, Numar persoane,633
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 1995, Numar persoane,647
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 1996, Numar persoane,673
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 1997, Numar persoane,716
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 1998, Numar persoane,770
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 1999, Numar persoane,817
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2000, Numar persoane,818
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2001, Numar persoane,848
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2002, Numar persoane,876
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2003, Numar persoane,885
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2004, Numar persoane,837
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2005, Numar persoane,808
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2006, Numar persoane,730
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2007, Numar persoane,688
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Masculin, Harghita, Anul 2008, Numar persoane,663
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 1992, Numar persoane,572
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 1993, Numar persoane,581
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 1994, Numar persoane,596
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 1995, Numar persoane,624
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 1996, Numar persoane,628
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 1997, Numar persoane,633
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 1998, Numar persoane,595
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 1999, Numar persoane,584
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2000, Numar persoane,598
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2001, Numar persoane,623
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2002, Numar persoane,677
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2003, Numar persoane,725
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2004, Numar persoane,764
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2005, Numar persoane,758
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2006, Numar persoane,792
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2007, Numar persoane,802
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Masculin, Harghita, Anul 2008, Numar persoane,807
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 1992, Numar persoane,513
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 1993, Numar persoane,501
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 1994, Numar persoane,519
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 1995, Numar persoane,540
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 1996, Numar persoane,521
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 1997, Numar persoane,506
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 1998, Numar persoane,516
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 1999, Numar persoane,526
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2000, Numar persoane,551
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2001, Numar persoane,566
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2002, Numar persoane,577
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2003, Numar persoane,548
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2004, Numar persoane,547
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2005, Numar persoane,547
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2006, Numar persoane,567
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2007, Numar persoane,607
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Masculin, Harghita, Anul 2008, Numar persoane,656
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 1992, Numar persoane,407
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 1993, Numar persoane,428
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 1994, Numar persoane,426
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 1995, Numar persoane,440
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 1996, Numar persoane,441
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 1997, Numar persoane,458
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 1998, Numar persoane,437
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 1999, Numar persoane,453
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2000, Numar persoane,462
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2001, Numar persoane,450
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2002, Numar persoane,441
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2003, Numar persoane,453
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2004, Numar persoane,459
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2005, Numar persoane,491
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2006, Numar persoane,499
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2007, Numar persoane,501
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Masculin, Harghita, Anul 2008, Numar persoane,463
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 1992, Numar persoane,280
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 1993, Numar persoane,306
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 1994, Numar persoane,317
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 1995, Numar persoane,318
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 1996, Numar persoane,343
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 1997, Numar persoane,330
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 1998, Numar persoane,343
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 1999, Numar persoane,339
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2000, Numar persoane,353
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2001, Numar persoane,359
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2002, Numar persoane,366
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2003, Numar persoane,343
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2004, Numar persoane,370
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2005, Numar persoane,382
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2006, Numar persoane,380
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2007, Numar persoane,373
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Masculin, Harghita, Anul 2008, Numar persoane,383
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 1992, Numar persoane,191
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 1993, Numar persoane,196
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 1994, Numar persoane,213
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 1995, Numar persoane,200
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 1996, Numar persoane,206
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 1997, Numar persoane,227
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 1998, Numar persoane,242
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 1999, Numar persoane,248
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2000, Numar persoane,254
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2001, Numar persoane,265
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2002, Numar persoane,249
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2003, Numar persoane,268
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2004, Numar persoane,250
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2005, Numar persoane,271
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2006, Numar persoane,276
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2007, Numar persoane,277
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Masculin, Harghita, Anul 2008, Numar persoane,269
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 1992, Numar persoane,106
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 1993, Numar persoane,101
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 1994, Numar persoane,101
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 1995, Numar persoane,109
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 1996, Numar persoane,116
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 1997, Numar persoane,116
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 1998, Numar persoane,127
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 1999, Numar persoane,142
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2000, Numar persoane,139
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2001, Numar persoane,138
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2002, Numar persoane,163
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2003, Numar persoane,175
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2004, Numar persoane,182
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2005, Numar persoane,172
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2006, Numar persoane,181
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2007, Numar persoane,171
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Masculin, Harghita, Anul 2008, Numar persoane,188
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 1992, Numar persoane,93
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 1993, Numar persoane,93
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 1994, Numar persoane,83
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 1995, Numar persoane,80
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 1996, Numar persoane,62
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 1997, Numar persoane,58
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 1998, Numar persoane,47
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 1999, Numar persoane,48
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2000, Numar persoane,59
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2001, Numar persoane,68
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2002, Numar persoane,74
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2003, Numar persoane,79
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2004, Numar persoane,82
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2005, Numar persoane,80
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2006, Numar persoane,89
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2007, Numar persoane,97
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Masculin, Harghita, Anul 2008, Numar persoane,104
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 1992, Numar persoane,32
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 1993, Numar persoane,27
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 1994, Numar persoane,26
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 1995, Numar persoane,31
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 1996, Numar persoane,43
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 1997, Numar persoane,39
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 1998, Numar persoane,37
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 1999, Numar persoane,35
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2000, Numar persoane,35
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2001, Numar persoane,27
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2002, Numar persoane,30
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2003, Numar persoane,28
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2004, Numar persoane,32
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2005, Numar persoane,37
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2006, Numar persoane,32
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2007, Numar persoane,41
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Masculin, Harghita, Anul 2008, Numar persoane,50
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 1992, Numar persoane,833
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 1993, Numar persoane,734
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 1994, Numar persoane,689
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 1995, Numar persoane,612
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 1996, Numar persoane,539
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 1997, Numar persoane,497
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 1998, Numar persoane,519
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 1999, Numar persoane,518
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2000, Numar persoane,508
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2001, Numar persoane,524
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2002, Numar persoane,520
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2003, Numar persoane,489
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2004, Numar persoane,453
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2005, Numar persoane,438
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2006, Numar persoane,440
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 1992, Numar persoane,839
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 1993, Numar persoane,870
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 1994, Numar persoane,875
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 1995, Numar persoane,890
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 1996, Numar persoane,868
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 1997, Numar persoane,808
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 1998, Numar persoane,715
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 1999, Numar persoane,666
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2000, Numar persoane,600
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2001, Numar persoane,534
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2002, Numar persoane,499
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2003, Numar persoane,511
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2004, Numar persoane,511
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2005, Numar persoane,494
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2006, Numar persoane,514
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 1992, Numar persoane,959
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 1993, Numar persoane,935
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 1994, Numar persoane,864
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 1995, Numar persoane,837
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 1996, Numar persoane,831
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 1997, Numar persoane,803
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 1998, Numar persoane,846
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 1999, Numar persoane,853
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2000, Numar persoane,862
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2001, Numar persoane,842
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2002, Numar persoane,789
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2003, Numar persoane,696
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2004, Numar persoane,658
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2005, Numar persoane,594
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2006, Numar persoane,523
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 1992, Numar persoane,927
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 1993, Numar persoane,917
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 1994, Numar persoane,973
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 1995, Numar persoane,961
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 1996, Numar persoane,932
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 1997, Numar persoane,929
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 1998, Numar persoane,909
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 1999, Numar persoane,839
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2000, Numar persoane,807
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2001, Numar persoane,812
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2002, Numar persoane,789
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2003, Numar persoane,835
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2004, Numar persoane,841
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2005, Numar persoane,849
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2006, Numar persoane,826
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 1992, Numar persoane,941
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 1993, Numar persoane,903
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 1994, Numar persoane,872
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 1995, Numar persoane,859
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 1996, Numar persoane,859
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 1997, Numar persoane,907
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 1998, Numar persoane,900
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 1999, Numar persoane,928
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2000, Numar persoane,920
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2001, Numar persoane,886
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2002, Numar persoane,908
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2003, Numar persoane,868
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2004, Numar persoane,811
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2005, Numar persoane,793
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2006, Numar persoane,793
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 1992, Numar persoane,736
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 1993, Numar persoane,805
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 1994, Numar persoane,868
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 1995, Numar persoane,908
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 1996, Numar persoane,969
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 1997, Numar persoane,968
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 1998, Numar persoane,934
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 1999, Numar persoane,875
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2000, Numar persoane,858
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2001, Numar persoane,852
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2002, Numar persoane,881
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2003, Numar persoane,881
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2004, Numar persoane,913
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2005, Numar persoane,903
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2006, Numar persoane,869
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 1992, Numar persoane,895
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 1993, Numar persoane,839
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 1994, Numar persoane,788
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 1995, Numar persoane,768
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 1996, Numar persoane,741
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 1997, Numar persoane,692
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 1998, Numar persoane,768
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 1999, Numar persoane,867
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2000, Numar persoane,915
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2001, Numar persoane,988
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2002, Numar persoane,995
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2003, Numar persoane,960
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2004, Numar persoane,897
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2005, Numar persoane,877
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2006, Numar persoane,854
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 1992, Numar persoane,972
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 1993, Numar persoane,995
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 1994, Numar persoane,999
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 1995, Numar persoane,971
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 1996, Numar persoane,890
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 1997, Numar persoane,842
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 1998, Numar persoane,793
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 1999, Numar persoane,744
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2000, Numar persoane,734
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2001, Numar persoane,720
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2002, Numar persoane,688
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2003, Numar persoane,759
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2004, Numar persoane,866
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2005, Numar persoane,904
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2006, Numar persoane,970
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 1992, Numar persoane,704
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 1993, Numar persoane,748
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 1994, Numar persoane,801
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 1995, Numar persoane,834
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 1996, Numar persoane,925
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 1997, Numar persoane,946
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 1998, Numar persoane,971
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 1999, Numar persoane,966
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2000, Numar persoane,939
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2001, Numar persoane,860
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2002, Numar persoane,800
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2003, Numar persoane,758
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2004, Numar persoane,716
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2005, Numar persoane,703
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2006, Numar persoane,693
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 1992, Numar persoane,694
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 1993, Numar persoane,658
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 1994, Numar persoane,612
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 1995, Numar persoane,592
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 1996, Numar persoane,626
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 1997, Numar persoane,678
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 1998, Numar persoane,727
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 1999, Numar persoane,776
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2000, Numar persoane,800
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2001, Numar persoane,888
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2002, Numar persoane,925
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2003, Numar persoane,932
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2004, Numar persoane,919
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2005, Numar persoane,893
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2006, Numar persoane,813
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 1992, Numar persoane,587
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 1993, Numar persoane,611
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 1994, Numar persoane,632
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 1995, Numar persoane,645
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 1996, Numar persoane,653
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 1997, Numar persoane,656
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 1998, Numar persoane,620
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 1999, Numar persoane,578
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2000, Numar persoane,570
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2001, Numar persoane,599
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2002, Numar persoane,651
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2003, Numar persoane,706
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2004, Numar persoane,739
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2005, Numar persoane,755
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2006, Numar persoane,831
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 1992, Numar persoane,491
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 1993, Numar persoane,506
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 1994, Numar persoane,527
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 1995, Numar persoane,559
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 1996, Numar persoane,541
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 1997, Numar persoane,548
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 1998, Numar persoane,578
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 1999, Numar persoane,585
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2000, Numar persoane,615
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2001, Numar persoane,626
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2002, Numar persoane,633
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2003, Numar persoane,595
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2004, Numar persoane,557
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2005, Numar persoane,540
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2006, Numar persoane,566
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 1992, Numar persoane,467
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 1993, Numar persoane,472
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 1994, Numar persoane,486
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 1995, Numar persoane,480
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 1996, Numar persoane,456
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 1997, Numar persoane,453
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 1998, Numar persoane,469
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 1999, Numar persoane,494
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2000, Numar persoane,511
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2001, Numar persoane,507
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2002, Numar persoane,505
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2003, Numar persoane,535
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2004, Numar persoane,549
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2005, Numar persoane,575
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2006, Numar persoane,586
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 1992, Numar persoane,354
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 1993, Numar persoane,339
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 1994, Numar persoane,339
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 1995, Numar persoane,356
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 1996, Numar persoane,400
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 1997, Numar persoane,433
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 1998, Numar persoane,434
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 1999, Numar persoane,439
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2000, Numar persoane,439
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2001, Numar persoane,412
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2002, Numar persoane,417
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2003, Numar persoane,427
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2004, Numar persoane,453
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2005, Numar persoane,473
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2006, Numar persoane,463
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 1992, Numar persoane,257
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 1993, Numar persoane,291
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 1994, Numar persoane,315
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 1995, Numar persoane,304
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 1996, Numar persoane,298
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 1997, Numar persoane,290
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 1998, Numar persoane,280
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 1999, Numar persoane,296
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2000, Numar persoane,316
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2001, Numar persoane,355
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2002, Numar persoane,374
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2003, Numar persoane,372
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2004, Numar persoane,375
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2005, Numar persoane,386
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2006, Numar persoane,360
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 1992, Numar persoane,228
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 1993, Numar persoane,191
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 1994, Numar persoane,174
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 1995, Numar persoane,163
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 1996, Numar persoane,168
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 1997, Numar persoane,180
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 1998, Numar persoane,210
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 1999, Numar persoane,222
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2000, Numar persoane,229
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2001, Numar persoane,229
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2002, Numar persoane,222
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2003, Numar persoane,229
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2004, Numar persoane,241
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2005, Numar persoane,250
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2006, Numar persoane,292
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 1992, Numar persoane,145
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 1993, Numar persoane,156
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 1994, Numar persoane,164
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 1995, Numar persoane,182
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 1996, Numar persoane,175
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 1997, Numar persoane,160
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 1998, Numar persoane,129
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 1999, Numar persoane,106
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2000, Numar persoane,98
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2001, Numar persoane,109
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2002, Numar persoane,122
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2003, Numar persoane,133
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2004, Numar persoane,149
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2005, Numar persoane,147
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2006, Numar persoane,154
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 1992, Numar persoane,61
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 1993, Numar persoane,76
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 1994, Numar persoane,77
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 1995, Numar persoane,70
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 1996, Numar persoane,71
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 1997, Numar persoane,79
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 1998, Numar persoane,96
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 1999, Numar persoane,101
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2000, Numar persoane,103
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2001, Numar persoane,95
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2002, Numar persoane,91
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2003, Numar persoane,87
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2004, Numar persoane,92
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2005, Numar persoane,93
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2006, Numar persoane,87
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2007, Numar persoane,437
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2008, Numar persoane,455
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2009, Numar persoane,468
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2010, Numar persoane,490
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2011, Numar persoane,473
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2012, Numar persoane,464
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2013, Numar persoane,460
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2014, Numar persoane,462
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2015, Numar persoane,445
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2016, Numar persoane,450
+ 83561 MUNICIPIUL  GHEORGHENI,0- 4 ani, Feminin, Harghita, Anul 2017, Numar persoane,454
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2007, Numar persoane,507
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2008, Numar persoane,479
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2009, Numar persoane,444
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2010, Numar persoane,432
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2011, Numar persoane,432
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2012, Numar persoane,433
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2013, Numar persoane,453
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2014, Numar persoane,468
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2015, Numar persoane,486
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2016, Numar persoane,478
+ 83561 MUNICIPIUL  GHEORGHENI,5- 9 ani, Feminin, Harghita, Anul 2017, Numar persoane,467
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2007, Numar persoane,486
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2008, Numar persoane,496
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2009, Numar persoane,492
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2010, Numar persoane,489
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2011, Numar persoane,503
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2012, Numar persoane,504
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2013, Numar persoane,471
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2014, Numar persoane,447
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2015, Numar persoane,433
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2016, Numar persoane,430
+ 83561 MUNICIPIUL  GHEORGHENI,10-14 ani, Feminin, Harghita, Anul 2017, Numar persoane,438
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2007, Numar persoane,774
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2008, Numar persoane,687
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2009, Numar persoane,652
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2010, Numar persoane,583
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2011, Numar persoane,507
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2012, Numar persoane,481
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2013, Numar persoane,494
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2014, Numar persoane,491
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2015, Numar persoane,485
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2016, Numar persoane,505
+ 83561 MUNICIPIUL  GHEORGHENI,15-19 ani, Feminin, Harghita, Anul 2017, Numar persoane,493
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2007, Numar persoane,766
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2008, Numar persoane,806
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2009, Numar persoane,808
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2010, Numar persoane,826
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2011, Numar persoane,796
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2012, Numar persoane,758
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2013, Numar persoane,680
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2014, Numar persoane,628
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2015, Numar persoane,569
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2016, Numar persoane,495
+ 83561 MUNICIPIUL  GHEORGHENI,20-24 ani, Feminin, Harghita, Anul 2017, Numar persoane,475
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2007, Numar persoane,872
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2008, Numar persoane,846
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2009, Numar persoane,780
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2010, Numar persoane,743
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2011, Numar persoane,746
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2012, Numar persoane,723
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2013, Numar persoane,742
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2014, Numar persoane,753
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2015, Numar persoane,772
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2016, Numar persoane,752
+ 83561 MUNICIPIUL  GHEORGHENI,25-29 ani, Feminin, Harghita, Anul 2017, Numar persoane,704
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2007, Numar persoane,868
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2008, Numar persoane,859
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2009, Numar persoane,885
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2010, Numar persoane,895
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2011, Numar persoane,853
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2012, Numar persoane,858
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2013, Numar persoane,835
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2014, Numar persoane,766
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2015, Numar persoane,719
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2016, Numar persoane,712
+ 83561 MUNICIPIUL  GHEORGHENI,30-34 ani, Feminin, Harghita, Anul 2017, Numar persoane,695
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2007, Numar persoane,972
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2008, Numar persoane,938
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2009, Numar persoane,879
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2010, Numar persoane,849
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2011, Numar persoane,828
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2012, Numar persoane,854
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2013, Numar persoane,837
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2014, Numar persoane,871
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2015, Numar persoane,872
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2016, Numar persoane,829
+ 83561 MUNICIPIUL  GHEORGHENI,35-39 ani, Feminin, Harghita, Anul 2017, Numar persoane,840
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2007, Numar persoane,666
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2008, Numar persoane,726
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2009, Numar persoane,836
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2010, Numar persoane,886
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2011, Numar persoane,944
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2012, Numar persoane,953
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2013, Numar persoane,920
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2014, Numar persoane,865
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2015, Numar persoane,840
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2016, Numar persoane,818
+ 83561 MUNICIPIUL  GHEORGHENI,40-44 ani, Feminin, Harghita, Anul 2017, Numar persoane,827
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2007, Numar persoane,764
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2008, Numar persoane,738
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2009, Numar persoane,693
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2010, Numar persoane,686
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2011, Numar persoane,681
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2012, Numar persoane,654
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2013, Numar persoane,724
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2014, Numar persoane,817
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2015, Numar persoane,868
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2016, Numar persoane,919
+ 83561 MUNICIPIUL  GHEORGHENI,45-49 ani, Feminin, Harghita, Anul 2017, Numar persoane,928
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2007, Numar persoane,848
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2008, Numar persoane,858
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2009, Numar persoane,874
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2010, Numar persoane,853
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2011, Numar persoane,785
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2012, Numar persoane,748
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2013, Numar persoane,720
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2014, Numar persoane,672
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2015, Numar persoane,660
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2016, Numar persoane,655
+ 83561 MUNICIPIUL  GHEORGHENI,50-54 ani, Feminin, Harghita, Anul 2017, Numar persoane,632
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2007, Numar persoane,617
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2008, Numar persoane,660
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2009, Numar persoane,694
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2010, Numar persoane,718
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2011, Numar persoane,790
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2012, Numar persoane,822
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2013, Numar persoane,827
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2014, Numar persoane,838
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2015, Numar persoane,826
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2016, Numar persoane,758
+ 83561 MUNICIPIUL  GHEORGHENI,55-59 ani, Feminin, Harghita, Anul 2017, Numar persoane,710
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2007, Numar persoane,589
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2008, Numar persoane,550
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2009, Numar persoane,524
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2010, Numar persoane,518
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2011, Numar persoane,544
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2012, Numar persoane,596
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2013, Numar persoane,643
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2014, Numar persoane,666
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2015, Numar persoane,687
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2016, Numar persoane,756
+ 83561 MUNICIPIUL  GHEORGHENI,60-64 ani, Feminin, Harghita, Anul 2017, Numar persoane,780
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2007, Numar persoane,463
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2008, Numar persoane,494
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2009, Numar persoane,501
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2010, Numar persoane,522
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2011, Numar persoane,544
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2012, Numar persoane,543
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2013, Numar persoane,523
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2014, Numar persoane,502
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2015, Numar persoane,490
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2016, Numar persoane,510
+ 83561 MUNICIPIUL  GHEORGHENI,65-69 ani, Feminin, Harghita, Anul 2017, Numar persoane,565
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2007, Numar persoane,366
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2008, Numar persoane,373
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2009, Numar persoane,391
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2010, Numar persoane,410
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2011, Numar persoane,406
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2012, Numar persoane,415
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2013, Numar persoane,438
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2014, Numar persoane,461
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2015, Numar persoane,477
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2016, Numar persoane,487
+ 83561 MUNICIPIUL  GHEORGHENI,70-74 ani, Feminin, Harghita, Anul 2017, Numar persoane,488
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2007, Numar persoane,304
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2008, Numar persoane,309
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2009, Numar persoane,310
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2010, Numar persoane,312
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2011, Numar persoane,296
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2012, Numar persoane,307
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2013, Numar persoane,315
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2014, Numar persoane,332
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2015, Numar persoane,346
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2016, Numar persoane,347
+ 83561 MUNICIPIUL  GHEORGHENI,75-79 ani, Feminin, Harghita, Anul 2017, Numar persoane,346
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2007, Numar persoane,147
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2008, Numar persoane,156
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2009, Numar persoane,171
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2010, Numar persoane,185
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2011, Numar persoane,215
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2012, Numar persoane,230
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2013, Numar persoane,230
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2014, Numar persoane,230
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2015, Numar persoane,227
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2016, Numar persoane,211
+ 83561 MUNICIPIUL  GHEORGHENI,80-84 ani, Feminin, Harghita, Anul 2017, Numar persoane,229
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2007, Numar persoane,97
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2008, Numar persoane,105
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2009, Numar persoane,104
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2010, Numar persoane,105
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2011, Numar persoane,101
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2012, Numar persoane,110
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2013, Numar persoane,124
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2014, Numar persoane,131
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2015, Numar persoane,138
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2016, Numar persoane,164
+ 83561 MUNICIPIUL  GHEORGHENI,85 ani si peste, Feminin, Harghita, Anul 2017, Numar persoane,164

@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 1992, Numar persoane,142
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 1993, Numar persoane,148
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 1994, Numar persoane,151
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 1995, Numar persoane,151
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 1996, Numar persoane,145
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 1997, Numar persoane,134
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 1998, Numar persoane,124
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 1999, Numar persoane,115
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2000, Numar persoane,117
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 1992, Numar persoane,179
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 1993, Numar persoane,154
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 1994, Numar persoane,138
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 1995, Numar persoane,133
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 1996, Numar persoane,123
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 1997, Numar persoane,102
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 1998, Numar persoane,96
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 1999, Numar persoane,95
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2000, Numar persoane,104
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 1992, Numar persoane,141
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 1993, Numar persoane,137
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 1994, Numar persoane,141
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 1995, Numar persoane,147
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 1996, Numar persoane,147
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 1997, Numar persoane,143
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 1998, Numar persoane,153
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 1999, Numar persoane,153
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2000, Numar persoane,155
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 1992, Numar persoane,130
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 1993, Numar persoane,136
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 1994, Numar persoane,142
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 1995, Numar persoane,137
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 1996, Numar persoane,143
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 1997, Numar persoane,166
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 1998, Numar persoane,158
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 1999, Numar persoane,146
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2000, Numar persoane,142
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 1992, Numar persoane,183
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 1993, Numar persoane,171
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 1994, Numar persoane,159
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 1995, Numar persoane,136
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 1996, Numar persoane,133
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 1997, Numar persoane,139
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 1998, Numar persoane,149
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 1999, Numar persoane,155
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2000, Numar persoane,164
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 1992, Numar persoane,145
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 1993, Numar persoane,139
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 1994, Numar persoane,131
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 1995, Numar persoane,128
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 1996, Numar persoane,137
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 1997, Numar persoane,129
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 1998, Numar persoane,141
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 1999, Numar persoane,146
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2000, Numar persoane,148
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 1992, Numar persoane,221
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 1993, Numar persoane,205
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 1994, Numar persoane,218
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 1995, Numar persoane,207
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 1996, Numar persoane,192
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 1997, Numar persoane,178
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 1998, Numar persoane,169
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 1999, Numar persoane,154
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2000, Numar persoane,135
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 1992, Numar persoane,201
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 1993, Numar persoane,182
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 1994, Numar persoane,181
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 1995, Numar persoane,176
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 1996, Numar persoane,154
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 1997, Numar persoane,141
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 1998, Numar persoane,135
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 1999, Numar persoane,125
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2000, Numar persoane,128
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 1992, Numar persoane,246
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 1993, Numar persoane,236
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 1994, Numar persoane,207
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 1995, Numar persoane,199
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 1996, Numar persoane,203
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 1997, Numar persoane,208
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 1998, Numar persoane,196
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 1999, Numar persoane,210
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2000, Numar persoane,207
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 1992, Numar persoane,217
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 1993, Numar persoane,208
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 1994, Numar persoane,192
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 1995, Numar persoane,171
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 1996, Numar persoane,177
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 1997, Numar persoane,168
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 1998, Numar persoane,162
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 1999, Numar persoane,162
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2000, Numar persoane,157
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 1992, Numar persoane,156
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 1993, Numar persoane,161
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 1994, Numar persoane,168
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 1995, Numar persoane,185
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 1996, Numar persoane,189
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 1997, Numar persoane,198
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 1998, Numar persoane,197
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 1999, Numar persoane,177
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2000, Numar persoane,176
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 1992, Numar persoane,91
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 1993, Numar persoane,96
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 1994, Numar persoane,116
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 1995, Numar persoane,131
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 1996, Numar persoane,139
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 1997, Numar persoane,153
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 1998, Numar persoane,161
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 1999, Numar persoane,148
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2000, Numar persoane,143
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 1992, Numar persoane,133
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 1993, Numar persoane,134
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 1994, Numar persoane,129
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 1995, Numar persoane,119
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 1996, Numar persoane,119
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 1997, Numar persoane,114
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 1998, Numar persoane,131
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 1999, Numar persoane,144
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2000, Numar persoane,157
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 1992, Numar persoane,107
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 1993, Numar persoane,88
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 1994, Numar persoane,76
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 1995, Numar persoane,73
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 1996, Numar persoane,73
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 1997, Numar persoane,76
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 1998, Numar persoane,86
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 1999, Numar persoane,106
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2000, Numar persoane,118
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 1992, Numar persoane,134
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 1993, Numar persoane,118
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 1994, Numar persoane,113
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 1995, Numar persoane,113
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 1996, Numar persoane,110
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 1997, Numar persoane,115
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 1998, Numar persoane,121
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 1999, Numar persoane,121
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2000, Numar persoane,114
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 1992, Numar persoane,102
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 1993, Numar persoane,102
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 1994, Numar persoane,102
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 1995, Numar persoane,92
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 1996, Numar persoane,95
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 1997, Numar persoane,93
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 1998, Numar persoane,80
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 1999, Numar persoane,76
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2000, Numar persoane,77
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 1992, Numar persoane,112
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 1993, Numar persoane,120
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 1994, Numar persoane,127
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 1995, Numar persoane,120
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 1996, Numar persoane,118
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 1997, Numar persoane,111
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 1998, Numar persoane,100
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 1999, Numar persoane,101
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2000, Numar persoane,108
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 1992, Numar persoane,116
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 1993, Numar persoane,107
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 1994, Numar persoane,106
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 1995, Numar persoane,104
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 1996, Numar persoane,95
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 1997, Numar persoane,91
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 1998, Numar persoane,93
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 1999, Numar persoane,100
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2000, Numar persoane,90
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 1992, Numar persoane,103
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 1993, Numar persoane,93
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 1994, Numar persoane,89
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 1995, Numar persoane,86
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 1996, Numar persoane,90
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 1997, Numar persoane,100
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 1998, Numar persoane,103
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 1999, Numar persoane,108
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2000, Numar persoane,106
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 1992, Numar persoane,103
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 1993, Numar persoane,116
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 1994, Numar persoane,108
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 1995, Numar persoane,115
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 1996, Numar persoane,112
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 1997, Numar persoane,116
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 1998, Numar persoane,103
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 1999, Numar persoane,99
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2000, Numar persoane,105
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 1992, Numar persoane,152
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 1993, Numar persoane,145
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 1994, Numar persoane,127
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 1995, Numar persoane,115
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 1996, Numar persoane,102
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 1997, Numar persoane,90
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 1998, Numar persoane,88
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 1999, Numar persoane,88
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2000, Numar persoane,87
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 1992, Numar persoane,181
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 1993, Numar persoane,165
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 1994, Numar persoane,158
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 1995, Numar persoane,129
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 1996, Numar persoane,113
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 1997, Numar persoane,97
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 1998, Numar persoane,113
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 1999, Numar persoane,108
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2000, Numar persoane,115
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 1992, Numar persoane,154
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 1993, Numar persoane,141
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 1994, Numar persoane,149
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 1995, Numar persoane,138
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 1996, Numar persoane,141
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 1997, Numar persoane,137
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 1998, Numar persoane,125
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 1999, Numar persoane,106
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2000, Numar persoane,102
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 1992, Numar persoane,224
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 1993, Numar persoane,206
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 1994, Numar persoane,194
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 1995, Numar persoane,198
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 1996, Numar persoane,185
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 1997, Numar persoane,172
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 1998, Numar persoane,160
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 1999, Numar persoane,157
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2000, Numar persoane,132
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 1992, Numar persoane,196
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 1993, Numar persoane,191
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 1994, Numar persoane,167
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 1995, Numar persoane,158
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 1996, Numar persoane,140
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 1997, Numar persoane,140
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 1998, Numar persoane,133
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 1999, Numar persoane,132
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2000, Numar persoane,124
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 1992, Numar persoane,205
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 1993, Numar persoane,213
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 1994, Numar persoane,213
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 1995, Numar persoane,204
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 1996, Numar persoane,213
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 1997, Numar persoane,217
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 1998, Numar persoane,200
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 1999, Numar persoane,186
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2000, Numar persoane,186
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 1992, Numar persoane,186
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 1993, Numar persoane,184
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 1994, Numar persoane,180
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 1995, Numar persoane,186
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 1996, Numar persoane,171
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 1997, Numar persoane,164
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 1998, Numar persoane,155
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 1999, Numar persoane,142
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2000, Numar persoane,138
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 1992, Numar persoane,213
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 1993, Numar persoane,210
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 1994, Numar persoane,210
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 1995, Numar persoane,205
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 1996, Numar persoane,189
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 1997, Numar persoane,182
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 1998, Numar persoane,192
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 1999, Numar persoane,195
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2000, Numar persoane,186
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 1992, Numar persoane,85
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 1993, Numar persoane,106
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 1994, Numar persoane,130
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 1995, Numar persoane,125
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 1996, Numar persoane,140
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 1997, Numar persoane,143
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 1998, Numar persoane,144
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 1999, Numar persoane,137
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2000, Numar persoane,145
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 1992, Numar persoane,131
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 1993, Numar persoane,152
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 1994, Numar persoane,166
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 1995, Numar persoane,173
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 1996, Numar persoane,181
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 1997, Numar persoane,183
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 1998, Numar persoane,178
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 1999, Numar persoane,176
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2000, Numar persoane,177
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 1992, Numar persoane,65
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 1993, Numar persoane,48
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 1994, Numar persoane,45
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 1995, Numar persoane,52
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 1996, Numar persoane,47
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 1997, Numar persoane,61
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 1998, Numar persoane,75
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 1999, Numar persoane,94
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2000, Numar persoane,93
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 1992, Numar persoane,99
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 1993, Numar persoane,82
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 1994, Numar persoane,69
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 1995, Numar persoane,72
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 1996, Numar persoane,76
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 1997, Numar persoane,100
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 1998, Numar persoane,122
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 1999, Numar persoane,134
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2000, Numar persoane,135
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 1992, Numar persoane,57
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 1993, Numar persoane,63
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 1994, Numar persoane,53
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 1995, Numar persoane,54
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 1996, Numar persoane,48
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 1997, Numar persoane,39
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 1998, Numar persoane,30
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 1999, Numar persoane,27
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2000, Numar persoane,28
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 1992, Numar persoane,69
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 1993, Numar persoane,79
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 1994, Numar persoane,73
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 1995, Numar persoane,77
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 1996, Numar persoane,74
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 1997, Numar persoane,62
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 1998, Numar persoane,46
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 1999, Numar persoane,43
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2000, Numar persoane,50
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 1992, Numar persoane,12
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 1993, Numar persoane,14
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 1994, Numar persoane,19
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 1995, Numar persoane,21
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 1996, Numar persoane,27
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 1997, Numar persoane,27
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 1998, Numar persoane,30
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 1999, Numar persoane,24
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2000, Numar persoane,26
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 1992, Numar persoane,28
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 1993, Numar persoane,26
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 1994, Numar persoane,32
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 1995, Numar persoane,33
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 1996, Numar persoane,41
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 1997, Numar persoane,42
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 1998, Numar persoane,47
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 1999, Numar persoane,44
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2000, Numar persoane,41
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2001, Numar persoane,130
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2002, Numar persoane,130
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2003, Numar persoane,128
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2004, Numar persoane,136
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2005, Numar persoane,130
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2006, Numar persoane,128
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2007, Numar persoane,129
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2008, Numar persoane,123
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2001, Numar persoane,106
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2002, Numar persoane,103
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2003, Numar persoane,118
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2004, Numar persoane,129
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2005, Numar persoane,116
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2006, Numar persoane,113
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2007, Numar persoane,123
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2008, Numar persoane,116
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2001, Numar persoane,144
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2002, Numar persoane,139
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2003, Numar persoane,134
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2004, Numar persoane,126
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2005, Numar persoane,120
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2006, Numar persoane,126
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2007, Numar persoane,128
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2008, Numar persoane,127
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2001, Numar persoane,134
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2002, Numar persoane,116
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2003, Numar persoane,106
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2004, Numar persoane,97
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2005, Numar persoane,102
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2006, Numar persoane,103
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2007, Numar persoane,103
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2008, Numar persoane,117
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2001, Numar persoane,170
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2002, Numar persoane,157
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2003, Numar persoane,160
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2004, Numar persoane,159
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2005, Numar persoane,156
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2006, Numar persoane,144
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2007, Numar persoane,139
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2008, Numar persoane,130
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2001, Numar persoane,151
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2002, Numar persoane,169
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2003, Numar persoane,162
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2004, Numar persoane,154
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2005, Numar persoane,144
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2006, Numar persoane,131
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2007, Numar persoane,109
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2008, Numar persoane,103
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2001, Numar persoane,136
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2002, Numar persoane,142
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2003, Numar persoane,155
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2004, Numar persoane,167
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2005, Numar persoane,165
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2006, Numar persoane,172
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2007, Numar persoane,169
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2008, Numar persoane,164
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2001, Numar persoane,142
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2002, Numar persoane,126
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2003, Numar persoane,131
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2004, Numar persoane,129
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2005, Numar persoane,131
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2006, Numar persoane,136
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2007, Numar persoane,160
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2008, Numar persoane,147
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2001, Numar persoane,191
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2002, Numar persoane,176
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2003, Numar persoane,164
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2004, Numar persoane,151
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2005, Numar persoane,139
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2006, Numar persoane,136
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2007, Numar persoane,148
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2008, Numar persoane,168
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2001, Numar persoane,146
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2002, Numar persoane,141
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2003, Numar persoane,130
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2004, Numar persoane,131
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2005, Numar persoane,130
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2006, Numar persoane,133
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2007, Numar persoane,117
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2008, Numar persoane,136
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2001, Numar persoane,182
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2002, Numar persoane,191
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2003, Numar persoane,185
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2004, Numar persoane,201
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2005, Numar persoane,195
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2006, Numar persoane,186
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2007, Numar persoane,171
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2008, Numar persoane,166
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2001, Numar persoane,155
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2002, Numar persoane,152
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2003, Numar persoane,148
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2004, Numar persoane,145
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2005, Numar persoane,161
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2006, Numar persoane,153
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2007, Numar persoane,148
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2008, Numar persoane,128
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2001, Numar persoane,171
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2002, Numar persoane,177
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2003, Numar persoane,174
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2004, Numar persoane,162
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2005, Numar persoane,165
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2006, Numar persoane,171
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2007, Numar persoane,187
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2008, Numar persoane,180
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2001, Numar persoane,126
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2002, Numar persoane,144
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2003, Numar persoane,156
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2004, Numar persoane,150
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2005, Numar persoane,144
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2006, Numar persoane,145
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2007, Numar persoane,151
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2008, Numar persoane,159
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2001, Numar persoane,113
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2002, Numar persoane,107
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2003, Numar persoane,127
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2004, Numar persoane,138
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2005, Numar persoane,159
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2006, Numar persoane,168
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2007, Numar persoane,167
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2008, Numar persoane,170
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2001, Numar persoane,75
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2002, Numar persoane,73
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2003, Numar persoane,87
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2004, Numar persoane,113
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2005, Numar persoane,120
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2006, Numar persoane,134
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2007, Numar persoane,146
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2008, Numar persoane,152
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2001, Numar persoane,106
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2002, Numar persoane,114
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2003, Numar persoane,117
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2004, Numar persoane,124
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2005, Numar persoane,124
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2006, Numar persoane,120
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2007, Numar persoane,121
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2008, Numar persoane,140
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2001, Numar persoane,94
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2002, Numar persoane,87
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2003, Numar persoane,84
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2004, Numar persoane,80
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2005, Numar persoane,71
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2006, Numar persoane,72
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2007, Numar persoane,75
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2008, Numar persoane,93
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2001, Numar persoane,116
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2002, Numar persoane,108
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2003, Numar persoane,102
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2004, Numar persoane,100
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2005, Numar persoane,107
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2006, Numar persoane,115
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2007, Numar persoane,121
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2008, Numar persoane,128
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2001, Numar persoane,98
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2002, Numar persoane,96
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2003, Numar persoane,94
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2004, Numar persoane,94
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2005, Numar persoane,87
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2006, Numar persoane,89
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2007, Numar persoane,86
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2008, Numar persoane,81
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2001, Numar persoane,84
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2002, Numar persoane,93
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2003, Numar persoane,98
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2004, Numar persoane,97
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2005, Numar persoane,106
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2006, Numar persoane,112
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2007, Numar persoane,109
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2008, Numar persoane,106
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2001, Numar persoane,110
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2002, Numar persoane,117
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2003, Numar persoane,105
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2004, Numar persoane,106
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2005, Numar persoane,107
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2006, Numar persoane,99
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2007, Numar persoane,101
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2008, Numar persoane,101
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2001, Numar persoane,93
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2002, Numar persoane,86
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2003, Numar persoane,81
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2004, Numar persoane,84
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2005, Numar persoane,79
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2006, Numar persoane,81
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2007, Numar persoane,95
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2008, Numar persoane,97
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2001, Numar persoane,112
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2002, Numar persoane,94
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2003, Numar persoane,112
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2004, Numar persoane,107
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2005, Numar persoane,117
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2006, Numar persoane,116
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2007, Numar persoane,121
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2008, Numar persoane,107
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2001, Numar persoane,126
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2002, Numar persoane,115
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2003, Numar persoane,107
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2004, Numar persoane,97
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2005, Numar persoane,91
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2006, Numar persoane,85
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2007, Numar persoane,80
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2008, Numar persoane,78
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2001, Numar persoane,179
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2002, Numar persoane,166
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2003, Numar persoane,151
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2004, Numar persoane,152
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2005, Numar persoane,127
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2006, Numar persoane,107
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2007, Numar persoane,92
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2008, Numar persoane,114
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2001, Numar persoane,127
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2002, Numar persoane,122
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2003, Numar persoane,119
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2004, Numar persoane,122
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2005, Numar persoane,112
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2006, Numar persoane,113
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2007, Numar persoane,101
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2008, Numar persoane,98
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2001, Numar persoane,199
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2002, Numar persoane,203
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2003, Numar persoane,190
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2004, Numar persoane,171
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2005, Numar persoane,173
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2006, Numar persoane,162
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2007, Numar persoane,144
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2008, Numar persoane,133
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2001, Numar persoane,136
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2002, Numar persoane,131
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2003, Numar persoane,119
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2004, Numar persoane,108
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2005, Numar persoane,106
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2006, Numar persoane,105
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2007, Numar persoane,110
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2008, Numar persoane,108
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2001, Numar persoane,170
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2002, Numar persoane,167
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2003, Numar persoane,175
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2004, Numar persoane,173
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2005, Numar persoane,163
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2006, Numar persoane,172
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2007, Numar persoane,176
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2008, Numar persoane,166
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2001, Numar persoane,101
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2002, Numar persoane,106
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2003, Numar persoane,94
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2004, Numar persoane,93
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2005, Numar persoane,102
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2006, Numar persoane,98
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2007, Numar persoane,98
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2008, Numar persoane,91
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2001, Numar persoane,145
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2002, Numar persoane,146
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2003, Numar persoane,146
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2004, Numar persoane,147
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2005, Numar persoane,148
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2006, Numar persoane,140
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2007, Numar persoane,133
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2008, Numar persoane,147
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2001, Numar persoane,30
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2002, Numar persoane,40
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2003, Numar persoane,49
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2004, Numar persoane,57
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2005, Numar persoane,55
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2006, Numar persoane,61
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2007, Numar persoane,63
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2008, Numar persoane,63
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2001, Numar persoane,51
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2002, Numar persoane,71
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2003, Numar persoane,77
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2004, Numar persoane,89
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2005, Numar persoane,88
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2006, Numar persoane,97
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2007, Numar persoane,96
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2008, Numar persoane,91
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2001, Numar persoane,27
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2002, Numar persoane,23
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2003, Numar persoane,17
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2004, Numar persoane,16
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2005, Numar persoane,20
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2006, Numar persoane,23
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2007, Numar persoane,26
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2008, Numar persoane,29
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2001, Numar persoane,45
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2002, Numar persoane,38
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2003, Numar persoane,28
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2004, Numar persoane,25
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2005, Numar persoane,34
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2006, Numar persoane,33
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2007, Numar persoane,43
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2008, Numar persoane,45
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2009, Numar persoane,120
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2010, Numar persoane,130
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2011, Numar persoane,122
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2012, Numar persoane,115
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2013, Numar persoane,127
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2014, Numar persoane,119
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2015, Numar persoane,122
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2016, Numar persoane,126
+ 57350 COJOCNA,0- 4 ani, Masculin, Cluj, Anul 2017, Numar persoane,120
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2009, Numar persoane,119
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2010, Numar persoane,122
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2011, Numar persoane,117
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2012, Numar persoane,113
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2013, Numar persoane,117
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2014, Numar persoane,120
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2015, Numar persoane,121
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2016, Numar persoane,112
+ 57350 COJOCNA,0- 4 ani, Feminin, Cluj, Anul 2017, Numar persoane,109
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2009, Numar persoane,138
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2010, Numar persoane,125
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2011, Numar persoane,123
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2012, Numar persoane,124
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2013, Numar persoane,118
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2014, Numar persoane,128
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2015, Numar persoane,135
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2016, Numar persoane,130
+ 57350 COJOCNA,5- 9 ani, Masculin, Cluj, Anul 2017, Numar persoane,121
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2009, Numar persoane,124
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2010, Numar persoane,115
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2011, Numar persoane,114
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2012, Numar persoane,120
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2013, Numar persoane,123
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2014, Numar persoane,118
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2015, Numar persoane,118
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2016, Numar persoane,119
+ 57350 COJOCNA,5- 9 ani, Feminin, Cluj, Anul 2017, Numar persoane,117
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2009, Numar persoane,125
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2010, Numar persoane,125
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2011, Numar persoane,119
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2012, Numar persoane,135
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2013, Numar persoane,131
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2014, Numar persoane,139
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2015, Numar persoane,138
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2016, Numar persoane,125
+ 57350 COJOCNA,10-14 ani, Masculin, Cluj, Anul 2017, Numar persoane,138
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2009, Numar persoane,99
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2010, Numar persoane,100
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2011, Numar persoane,110
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2012, Numar persoane,105
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2013, Numar persoane,115
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2014, Numar persoane,132
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2015, Numar persoane,131
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2016, Numar persoane,132
+ 57350 COJOCNA,10-14 ani, Feminin, Cluj, Anul 2017, Numar persoane,139
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2009, Numar persoane,160
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2010, Numar persoane,153
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2011, Numar persoane,145
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2012, Numar persoane,127
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2013, Numar persoane,128
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2014, Numar persoane,129
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2015, Numar persoane,130
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2016, Numar persoane,140
+ 57350 COJOCNA,15-19 ani, Masculin, Cluj, Anul 2017, Numar persoane,143
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2009, Numar persoane,144
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2010, Numar persoane,141
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2011, Numar persoane,135
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2012, Numar persoane,122
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2013, Numar persoane,113
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2014, Numar persoane,117
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2015, Numar persoane,119
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2016, Numar persoane,119
+ 57350 COJOCNA,15-19 ani, Feminin, Cluj, Anul 2017, Numar persoane,115
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2009, Numar persoane,173
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2010, Numar persoane,177
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2011, Numar persoane,177
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2012, Numar persoane,168
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2013, Numar persoane,161
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2014, Numar persoane,155
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2015, Numar persoane,146
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2016, Numar persoane,147
+ 57350 COJOCNA,20-24 ani, Masculin, Cluj, Anul 2017, Numar persoane,132
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2009, Numar persoane,133
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2010, Numar persoane,138
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2011, Numar persoane,127
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2012, Numar persoane,145
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2013, Numar persoane,134
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2014, Numar persoane,132
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2015, Numar persoane,125
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2016, Numar persoane,124
+ 57350 COJOCNA,20-24 ani, Feminin, Cluj, Anul 2017, Numar persoane,117
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2009, Numar persoane,148
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2010, Numar persoane,141
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2011, Numar persoane,142
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2012, Numar persoane,154
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2013, Numar persoane,162
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2014, Numar persoane,162
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2015, Numar persoane,168
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2016, Numar persoane,162
+ 57350 COJOCNA,25-29 ani, Masculin, Cluj, Anul 2017, Numar persoane,161
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2009, Numar persoane,123
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2010, Numar persoane,118
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2011, Numar persoane,122
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2012, Numar persoane,106
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2013, Numar persoane,119
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2014, Numar persoane,121
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2015, Numar persoane,132
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2016, Numar persoane,123
+ 57350 COJOCNA,25-29 ani, Feminin, Cluj, Anul 2017, Numar persoane,137
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2009, Numar persoane,196
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2010, Numar persoane,185
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2011, Numar persoane,178
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2012, Numar persoane,169
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2013, Numar persoane,159
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2014, Numar persoane,146
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2015, Numar persoane,140
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2016, Numar persoane,138
+ 57350 COJOCNA,30-34 ani, Masculin, Cluj, Anul 2017, Numar persoane,148
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2009, Numar persoane,161
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2010, Numar persoane,156
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2011, Numar persoane,132
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2012, Numar persoane,129
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2013, Numar persoane,116
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2014, Numar persoane,114
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2015, Numar persoane,102
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2016, Numar persoane,113
+ 57350 COJOCNA,30-34 ani, Feminin, Cluj, Anul 2017, Numar persoane,112
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2009, Numar persoane,164
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2010, Numar persoane,166
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2011, Numar persoane,168
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2012, Numar persoane,187
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2013, Numar persoane,188
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2014, Numar persoane,202
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2015, Numar persoane,195
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2016, Numar persoane,187
+ 57350 COJOCNA,35-39 ani, Masculin, Cluj, Anul 2017, Numar persoane,172
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2009, Numar persoane,143
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2010, Numar persoane,149
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2011, Numar persoane,151
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2012, Numar persoane,154
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2013, Numar persoane,155
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2014, Numar persoane,152
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2015, Numar persoane,152
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2016, Numar persoane,139
+ 57350 COJOCNA,35-39 ani, Feminin, Cluj, Anul 2017, Numar persoane,140
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2009, Numar persoane,143
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2010, Numar persoane,157
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2011, Numar persoane,173
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2012, Numar persoane,169
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2013, Numar persoane,168
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2014, Numar persoane,159
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2015, Numar persoane,170
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2016, Numar persoane,172
+ 57350 COJOCNA,40-44 ani, Masculin, Cluj, Anul 2017, Numar persoane,196
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2009, Numar persoane,117
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2010, Numar persoane,121
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2011, Numar persoane,136
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2012, Numar persoane,140
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2013, Numar persoane,143
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2014, Numar persoane,142
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2015, Numar persoane,154
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2016, Numar persoane,155
+ 57350 COJOCNA,40-44 ani, Feminin, Cluj, Anul 2017, Numar persoane,158
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2009, Numar persoane,134
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2010, Numar persoane,134
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2011, Numar persoane,132
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2012, Numar persoane,129
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2013, Numar persoane,142
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2014, Numar persoane,142
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2015, Numar persoane,155
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2016, Numar persoane,173
+ 57350 COJOCNA,45-49 ani, Masculin, Cluj, Anul 2017, Numar persoane,177
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2009, Numar persoane,80
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2010, Numar persoane,73
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2011, Numar persoane,69
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2012, Numar persoane,76
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2013, Numar persoane,93
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2014, Numar persoane,114
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2015, Numar persoane,119
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2016, Numar persoane,132
+ 57350 COJOCNA,45-49 ani, Feminin, Cluj, Anul 2017, Numar persoane,135
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2009, Numar persoane,110
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2010, Numar persoane,109
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2011, Numar persoane,116
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2012, Numar persoane,113
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2013, Numar persoane,124
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2014, Numar persoane,131
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2015, Numar persoane,130
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2016, Numar persoane,129
+ 57350 COJOCNA,50-54 ani, Masculin, Cluj, Anul 2017, Numar persoane,122
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2009, Numar persoane,102
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2010, Numar persoane,97
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2011, Numar persoane,104
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2012, Numar persoane,89
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2013, Numar persoane,80
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2014, Numar persoane,77
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2015, Numar persoane,71
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2016, Numar persoane,71
+ 57350 COJOCNA,50-54 ani, Feminin, Cluj, Anul 2017, Numar persoane,80
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2009, Numar persoane,103
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2010, Numar persoane,105
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2011, Numar persoane,110
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2012, Numar persoane,114
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2013, Numar persoane,110
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2014, Numar persoane,113
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2015, Numar persoane,112
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2016, Numar persoane,113
+ 57350 COJOCNA,55-59 ani, Masculin, Cluj, Anul 2017, Numar persoane,111
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2009, Numar persoane,106
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2010, Numar persoane,104
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2011, Numar persoane,101
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2012, Numar persoane,105
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2013, Numar persoane,106
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2014, Numar persoane,104
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2015, Numar persoane,104
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2016, Numar persoane,109
+ 57350 COJOCNA,55-59 ani, Feminin, Cluj, Anul 2017, Numar persoane,93
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2009, Numar persoane,82
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2010, Numar persoane,76
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2011, Numar persoane,78
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2012, Numar persoane,95
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2013, Numar persoane,100
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2014, Numar persoane,99
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2015, Numar persoane,100
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2016, Numar persoane,104
+ 57350 COJOCNA,60-64 ani, Masculin, Cluj, Anul 2017, Numar persoane,110
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2009, Numar persoane,109
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2010, Numar persoane,120
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2011, Numar persoane,119
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2012, Numar persoane,122
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2013, Numar persoane,105
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2014, Numar persoane,102
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2015, Numar persoane,99
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2016, Numar persoane,96
+ 57350 COJOCNA,60-64 ani, Feminin, Cluj, Anul 2017, Numar persoane,103
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2009, Numar persoane,84
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2010, Numar persoane,74
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2011, Numar persoane,75
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2012, Numar persoane,72
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2013, Numar persoane,66
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2014, Numar persoane,75
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2015, Numar persoane,70
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2016, Numar persoane,69
+ 57350 COJOCNA,65-69 ani, Masculin, Cluj, Anul 2017, Numar persoane,76
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2009, Numar persoane,136
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2010, Numar persoane,118
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2011, Numar persoane,104
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2012, Numar persoane,89
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2013, Numar persoane,114
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2014, Numar persoane,108
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2015, Numar persoane,117
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2016, Numar persoane,116
+ 57350 COJOCNA,65-69 ani, Feminin, Cluj, Anul 2017, Numar persoane,123
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2009, Numar persoane,101
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2010, Numar persoane,90
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2011, Numar persoane,84
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2012, Numar persoane,71
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2013, Numar persoane,71
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2014, Numar persoane,59
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2015, Numar persoane,63
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2016, Numar persoane,60
+ 57350 COJOCNA,70-74 ani, Masculin, Cluj, Anul 2017, Numar persoane,60
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2009, Numar persoane,152
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2010, Numar persoane,158
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2011, Numar persoane,154
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2012, Numar persoane,141
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2013, Numar persoane,125
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2014, Numar persoane,127
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2015, Numar persoane,108
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2016, Numar persoane,94
+ 57350 COJOCNA,70-74 ani, Feminin, Cluj, Anul 2017, Numar persoane,80
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2009, Numar persoane,81
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2010, Numar persoane,80
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2011, Numar persoane,74
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2012, Numar persoane,69
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2013, Numar persoane,63
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2014, Numar persoane,61
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2015, Numar persoane,55
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2016, Numar persoane,56
+ 57350 COJOCNA,75-79 ani, Masculin, Cluj, Anul 2017, Numar persoane,55
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2009, Numar persoane,151
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2010, Numar persoane,140
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2011, Numar persoane,148
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2012, Numar persoane,157
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2013, Numar persoane,146
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2014, Numar persoane,136
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2015, Numar persoane,141
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2016, Numar persoane,136
+ 57350 COJOCNA,75-79 ani, Feminin, Cluj, Anul 2017, Numar persoane,125
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2009, Numar persoane,62
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2010, Numar persoane,66
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2011, Numar persoane,65
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2012, Numar persoane,60
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2013, Numar persoane,52
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2014, Numar persoane,49
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2015, Numar persoane,47
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2016, Numar persoane,42
+ 57350 COJOCNA,80-84 ani, Masculin, Cluj, Anul 2017, Numar persoane,42
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2009, Numar persoane,88
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2010, Numar persoane,102
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2011, Numar persoane,102
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2012, Numar persoane,105
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2013, Numar persoane,114
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2014, Numar persoane,120
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2015, Numar persoane,114
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2016, Numar persoane,116
+ 57350 COJOCNA,80-84 ani, Feminin, Cluj, Anul 2017, Numar persoane,118
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2009, Numar persoane,31
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2010, Numar persoane,27
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2011, Numar persoane,29
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2012, Numar persoane,34
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2013, Numar persoane,34
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2014, Numar persoane,39
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2015, Numar persoane,42
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2016, Numar persoane,37
+ 57350 COJOCNA,85 ani si peste, Masculin, Cluj, Anul 2017, Numar persoane,40
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2009, Numar persoane,51
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2010, Numar persoane,47
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2011, Numar persoane,55
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2012, Numar persoane,64
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2013, Numar persoane,68
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2014, Numar persoane,67
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2015, Numar persoane,76
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2016, Numar persoane,73
+ 57350 COJOCNA,85 ani si peste, Feminin, Cluj, Anul 2017, Numar persoane,88

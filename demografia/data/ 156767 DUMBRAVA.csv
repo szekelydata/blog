@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 1992, Numar persoane,102
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 1993, Numar persoane,100
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 1994, Numar persoane,85
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 1995, Numar persoane,75
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 1996, Numar persoane,71
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 1997, Numar persoane,72
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 1998, Numar persoane,77
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 1992, Numar persoane,98
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 1993, Numar persoane,97
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 1994, Numar persoane,96
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 1995, Numar persoane,92
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 1996, Numar persoane,86
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 1997, Numar persoane,90
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 1998, Numar persoane,87
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 1992, Numar persoane,104
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 1993, Numar persoane,105
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 1994, Numar persoane,108
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 1995, Numar persoane,123
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 1996, Numar persoane,113
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 1997, Numar persoane,101
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 1998, Numar persoane,90
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 1992, Numar persoane,83
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 1993, Numar persoane,85
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 1994, Numar persoane,94
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 1995, Numar persoane,101
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 1996, Numar persoane,99
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 1997, Numar persoane,97
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 1998, Numar persoane,100
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 1992, Numar persoane,102
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 1993, Numar persoane,101
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 1994, Numar persoane,101
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 1995, Numar persoane,104
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 1996, Numar persoane,103
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 1997, Numar persoane,107
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 1998, Numar persoane,109
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 1992, Numar persoane,105
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 1993, Numar persoane,102
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 1994, Numar persoane,86
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 1995, Numar persoane,92
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 1996, Numar persoane,93
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 1997, Numar persoane,84
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 1998, Numar persoane,86
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 1992, Numar persoane,104
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 1993, Numar persoane,106
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 1994, Numar persoane,109
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 1995, Numar persoane,103
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 1996, Numar persoane,106
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 1997, Numar persoane,104
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 1998, Numar persoane,101
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 1992, Numar persoane,85
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 1993, Numar persoane,86
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 1994, Numar persoane,106
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 1995, Numar persoane,106
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 1996, Numar persoane,109
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 1997, Numar persoane,107
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 1998, Numar persoane,104
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 1992, Numar persoane,122
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 1993, Numar persoane,107
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 1994, Numar persoane,98
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 1995, Numar persoane,89
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 1996, Numar persoane,94
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 1997, Numar persoane,101
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 1998, Numar persoane,103
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 1992, Numar persoane,115
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 1993, Numar persoane,104
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 1994, Numar persoane,87
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 1995, Numar persoane,86
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 1996, Numar persoane,70
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 1997, Numar persoane,75
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 1998, Numar persoane,85
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 1992, Numar persoane,84
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 1993, Numar persoane,97
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 1994, Numar persoane,105
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 1995, Numar persoane,123
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 1996, Numar persoane,121
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 1997, Numar persoane,110
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 1998, Numar persoane,100
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 1992, Numar persoane,65
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 1993, Numar persoane,73
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 1994, Numar persoane,87
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 1995, Numar persoane,87
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 1996, Numar persoane,106
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 1997, Numar persoane,107
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 1998, Numar persoane,94
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 1992, Numar persoane,93
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 1993, Numar persoane,86
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 1994, Numar persoane,77
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 1995, Numar persoane,75
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 1996, Numar persoane,81
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 1997, Numar persoane,84
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 1998, Numar persoane,99
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 1992, Numar persoane,69
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 1993, Numar persoane,71
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 1994, Numar persoane,72
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 1995, Numar persoane,63
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 1996, Numar persoane,59
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 1997, Numar persoane,61
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 1998, Numar persoane,69
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 1992, Numar persoane,91
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 1993, Numar persoane,94
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 1994, Numar persoane,102
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 1995, Numar persoane,102
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 1996, Numar persoane,96
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 1997, Numar persoane,96
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 1998, Numar persoane,88
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 1992, Numar persoane,79
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 1993, Numar persoane,81
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 1994, Numar persoane,87
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 1995, Numar persoane,83
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 1996, Numar persoane,77
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 1997, Numar persoane,68
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 1998, Numar persoane,74
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 1992, Numar persoane,87
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 1993, Numar persoane,85
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 1994, Numar persoane,82
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 1995, Numar persoane,84
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 1996, Numar persoane,89
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 1997, Numar persoane,93
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 1998, Numar persoane,100
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 1992, Numar persoane,77
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 1993, Numar persoane,72
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 1994, Numar persoane,64
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 1995, Numar persoane,75
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 1996, Numar persoane,89
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 1997, Numar persoane,79
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 1998, Numar persoane,79
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 1992, Numar persoane,61
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 1993, Numar persoane,73
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 1994, Numar persoane,76
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 1995, Numar persoane,80
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 1996, Numar persoane,84
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 1997, Numar persoane,85
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 1998, Numar persoane,82
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 1992, Numar persoane,64
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 1993, Numar persoane,69
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 1994, Numar persoane,77
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 1995, Numar persoane,67
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 1996, Numar persoane,64
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 1997, Numar persoane,75
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 1998, Numar persoane,73
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 1992, Numar persoane,86
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 1993, Numar persoane,81
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 1994, Numar persoane,77
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 1995, Numar persoane,68
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 1996, Numar persoane,63
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 1997, Numar persoane,63
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 1998, Numar persoane,73
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 1992, Numar persoane,80
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 1993, Numar persoane,68
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 1994, Numar persoane,66
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 1995, Numar persoane,65
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 1996, Numar persoane,60
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 1997, Numar persoane,63
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 1998, Numar persoane,69
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 1992, Numar persoane,87
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 1993, Numar persoane,77
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 1994, Numar persoane,77
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 1995, Numar persoane,79
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 1996, Numar persoane,82
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 1997, Numar persoane,75
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 1998, Numar persoane,70
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 1992, Numar persoane,102
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 1993, Numar persoane,101
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 1994, Numar persoane,98
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 1995, Numar persoane,89
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 1996, Numar persoane,80
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 1997, Numar persoane,73
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 1998, Numar persoane,64
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 1992, Numar persoane,103
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 1993, Numar persoane,106
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 1994, Numar persoane,100
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 1995, Numar persoane,92
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 1996, Numar persoane,80
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 1997, Numar persoane,79
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 1998, Numar persoane,68
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 1992, Numar persoane,119
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 1993, Numar persoane,123
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 1994, Numar persoane,123
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 1995, Numar persoane,122
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 1996, Numar persoane,114
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 1997, Numar persoane,104
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 1998, Numar persoane,103
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 1992, Numar persoane,77
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 1993, Numar persoane,79
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 1994, Numar persoane,86
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 1995, Numar persoane,84
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 1996, Numar persoane,95
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 1997, Numar persoane,86
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 1998, Numar persoane,91
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 1992, Numar persoane,116
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 1993, Numar persoane,106
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 1994, Numar persoane,97
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 1995, Numar persoane,105
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 1996, Numar persoane,106
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 1997, Numar persoane,111
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 1998, Numar persoane,112
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 1992, Numar persoane,51
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 1993, Numar persoane,58
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 1994, Numar persoane,59
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 1995, Numar persoane,54
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 1996, Numar persoane,56
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 1997, Numar persoane,52
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 1998, Numar persoane,55
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 1992, Numar persoane,58
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 1993, Numar persoane,77
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 1994, Numar persoane,87
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 1995, Numar persoane,87
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 1996, Numar persoane,102
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 1997, Numar persoane,105
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 1998, Numar persoane,94
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 1992, Numar persoane,33
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 1993, Numar persoane,28
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 1994, Numar persoane,22
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 1995, Numar persoane,30
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 1996, Numar persoane,31
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 1997, Numar persoane,38
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 1998, Numar persoane,38
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 1992, Numar persoane,40
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 1993, Numar persoane,30
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 1994, Numar persoane,28
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 1995, Numar persoane,28
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 1996, Numar persoane,29
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 1997, Numar persoane,40
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 1998, Numar persoane,58
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 1992, Numar persoane,25
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 1993, Numar persoane,23
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 1994, Numar persoane,21
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 1995, Numar persoane,18
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 1996, Numar persoane,18
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 1997, Numar persoane,14
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 1998, Numar persoane,12
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 1992, Numar persoane,44
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 1993, Numar persoane,45
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 1994, Numar persoane,47
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 1995, Numar persoane,46
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 1996, Numar persoane,36
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 1997, Numar persoane,24
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 1998, Numar persoane,18
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 1992, Numar persoane,7
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 1993, Numar persoane,8
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 1994, Numar persoane,7
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 1995, Numar persoane,12
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 1996, Numar persoane,10
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 1997, Numar persoane,6
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 1998, Numar persoane,7
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 1992, Numar persoane,11
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 1993, Numar persoane,12
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 1994, Numar persoane,13
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 1995, Numar persoane,17
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 1996, Numar persoane,21
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 1997, Numar persoane,23
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 1998, Numar persoane,20
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 1999, Numar persoane,76
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2000, Numar persoane,84
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2001, Numar persoane,90
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2002, Numar persoane,90
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2003, Numar persoane,89
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2004, Numar persoane,93
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,74
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,75
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 1999, Numar persoane,91
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2000, Numar persoane,85
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2001, Numar persoane,89
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2002, Numar persoane,79
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2003, Numar persoane,75
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2004, Numar persoane,73
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,76
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,79
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 1999, Numar persoane,79
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2000, Numar persoane,70
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2001, Numar persoane,70
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2002, Numar persoane,72
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2003, Numar persoane,80
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2004, Numar persoane,79
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,88
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,97
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 1999, Numar persoane,94
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2000, Numar persoane,87
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2001, Numar persoane,85
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2002, Numar persoane,94
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2003, Numar persoane,90
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2004, Numar persoane,95
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,87
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,87
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 1999, Numar persoane,112
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2000, Numar persoane,122
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2001, Numar persoane,113
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2002, Numar persoane,100
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2003, Numar persoane,89
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2004, Numar persoane,84
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,74
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,74
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 1999, Numar persoane,94
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2000, Numar persoane,99
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2001, Numar persoane,97
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2002, Numar persoane,98
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2003, Numar persoane,101
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2004, Numar persoane,96
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,89
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,84
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 1999, Numar persoane,100
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2000, Numar persoane,104
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2001, Numar persoane,105
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2002, Numar persoane,108
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2003, Numar persoane,111
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2004, Numar persoane,114
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,122
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,113
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 1999, Numar persoane,90
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2000, Numar persoane,94
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2001, Numar persoane,94
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2002, Numar persoane,87
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2003, Numar persoane,87
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2004, Numar persoane,92
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,95
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,98
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 1999, Numar persoane,106
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2000, Numar persoane,102
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2001, Numar persoane,106
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2002, Numar persoane,104
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2003, Numar persoane,99
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2004, Numar persoane,102
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,105
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,104
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 1999, Numar persoane,101
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2000, Numar persoane,100
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2001, Numar persoane,106
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2002, Numar persoane,103
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2003, Numar persoane,100
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2004, Numar persoane,94
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,92
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,87
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 1999, Numar persoane,94
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2000, Numar persoane,88
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2001, Numar persoane,94
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2002, Numar persoane,104
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2003, Numar persoane,107
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2004, Numar persoane,111
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,110
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,112
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 1999, Numar persoane,86
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2000, Numar persoane,88
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2001, Numar persoane,75
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2002, Numar persoane,83
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2003, Numar persoane,97
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2004, Numar persoane,103
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,102
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,102
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 1999, Numar persoane,108
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2000, Numar persoane,120
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2001, Numar persoane,119
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2002, Numar persoane,119
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2003, Numar persoane,110
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2004, Numar persoane,98
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,90
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,97
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 1999, Numar persoane,76
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2000, Numar persoane,80
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2001, Numar persoane,105
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2002, Numar persoane,111
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2003, Numar persoane,103
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2004, Numar persoane,92
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,94
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,82
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 1999, Numar persoane,81
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2000, Numar persoane,71
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2001, Numar persoane,74
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2002, Numar persoane,77
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2003, Numar persoane,96
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2004, Numar persoane,110
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,128
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,124
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 1999, Numar persoane,73
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2000, Numar persoane,66
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2001, Numar persoane,59
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2002, Numar persoane,62
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2003, Numar persoane,68
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2004, Numar persoane,84
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,89
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,116
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 1999, Numar persoane,103
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2000, Numar persoane,98
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2001, Numar persoane,97
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2002, Numar persoane,95
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2003, Numar persoane,83
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2004, Numar persoane,78
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,71
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,77
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 1999, Numar persoane,83
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2000, Numar persoane,81
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2001, Numar persoane,80
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2002, Numar persoane,75
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2003, Numar persoane,79
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2004, Numar persoane,77
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,71
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,60
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 1999, Numar persoane,84
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2000, Numar persoane,83
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2001, Numar persoane,88
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2002, Numar persoane,90
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2003, Numar persoane,98
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2004, Numar persoane,101
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,100
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,97
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 1999, Numar persoane,67
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2000, Numar persoane,80
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2001, Numar persoane,90
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2002, Numar persoane,83
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2003, Numar persoane,83
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2004, Numar persoane,95
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,88
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,88
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 1999, Numar persoane,73
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2000, Numar persoane,78
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2001, Numar persoane,81
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2002, Numar persoane,86
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2003, Numar persoane,81
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2004, Numar persoane,82
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,83
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,88
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 1999, Numar persoane,71
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2000, Numar persoane,63
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2001, Numar persoane,62
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2002, Numar persoane,81
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2003, Numar persoane,79
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2004, Numar persoane,74
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,90
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,99
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 1999, Numar persoane,71
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2000, Numar persoane,64
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2001, Numar persoane,59
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2002, Numar persoane,60
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2003, Numar persoane,72
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2004, Numar persoane,79
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,84
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,86
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 1999, Numar persoane,65
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2000, Numar persoane,63
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2001, Numar persoane,58
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2002, Numar persoane,61
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2003, Numar persoane,69
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2004, Numar persoane,74
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,66
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,67
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 1999, Numar persoane,63
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2000, Numar persoane,65
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2001, Numar persoane,71
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2002, Numar persoane,68
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2003, Numar persoane,63
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2004, Numar persoane,65
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,60
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,61
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 1999, Numar persoane,94
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2000, Numar persoane,87
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2001, Numar persoane,80
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2002, Numar persoane,74
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2003, Numar persoane,66
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2004, Numar persoane,67
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,65
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,62
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 1999, Numar persoane,87
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2000, Numar persoane,82
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2001, Numar persoane,69
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2002, Numar persoane,68
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2003, Numar persoane,57
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2004, Numar persoane,54
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,59
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,60
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 1999, Numar persoane,108
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2000, Numar persoane,110
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2001, Numar persoane,106
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2002, Numar persoane,95
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2003, Numar persoane,95
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2004, Numar persoane,89
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,81
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,72
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 1999, Numar persoane,59
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2000, Numar persoane,66
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2001, Numar persoane,74
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2002, Numar persoane,71
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2003, Numar persoane,73
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2004, Numar persoane,66
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,60
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,51
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 1999, Numar persoane,86
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2000, Numar persoane,89
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2001, Numar persoane,90
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2002, Numar persoane,96
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2003, Numar persoane,95
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2004, Numar persoane,98
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,102
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,94
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 1999, Numar persoane,39
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2000, Numar persoane,32
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2001, Numar persoane,32
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2002, Numar persoane,36
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2003, Numar persoane,38
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2004, Numar persoane,45
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,47
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,49
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 1999, Numar persoane,64
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2000, Numar persoane,66
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2001, Numar persoane,76
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2002, Numar persoane,78
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2003, Numar persoane,72
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2004, Numar persoane,65
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,68
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,66
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 1999, Numar persoane,10
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2000, Numar persoane,17
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2001, Numar persoane,17
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2002, Numar persoane,21
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2003, Numar persoane,24
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2004, Numar persoane,19
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,18
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,17
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 1999, Numar persoane,13
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2000, Numar persoane,13
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2001, Numar persoane,17
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2002, Numar persoane,24
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2003, Numar persoane,36
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2004, Numar persoane,41
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,37
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,46
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 1999, Numar persoane,11
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2000, Numar persoane,8
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2001, Numar persoane,8
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2002, Numar persoane,6
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2003, Numar persoane,4
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2004, Numar persoane,6
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,8
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,9
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 1999, Numar persoane,25
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2000, Numar persoane,24
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2001, Numar persoane,23
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2002, Numar persoane,18
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2003, Numar persoane,9
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2004, Numar persoane,8
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,10
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,8
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,82
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,86
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,82
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,94
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,87
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,83
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,81
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,84
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,69
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,64
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,57
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,56
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,99
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,93
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,94
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,76
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,73
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,76
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,78
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,74
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,69
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,76
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,77
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,74
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,81
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,84
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,81
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,94
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,97
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,99
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,96
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,92
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,102
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,93
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,91
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,81
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,99
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,94
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,88
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,81
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,86
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,91
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,98
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,95
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,96
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,92
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,93
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,106
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,109
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,114
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,110
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,119
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,102
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,93
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,81
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,81
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,90
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,97
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,94
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,86
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,110
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,104
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,109
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,108
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,101
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,106
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,104
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,98
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,84
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,85
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,82
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,78
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,106
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,114
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,123
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,119
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,118
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,103
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,90
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,95
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,100
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,103
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,107
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,103
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,118
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,111
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,101
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,91
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,101
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,110
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,118
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,106
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,96
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,94
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,79
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,87
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,80
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,95
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,106
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,126
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,122
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,123
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,62
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,68
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,85
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,91
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,116
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,120
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,95
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,85
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,79
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,77
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,84
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,82
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,83
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,86
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,78
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,71
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,56
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,58
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,95
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,105
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,105
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,100
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,98
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,96
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,92
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,93
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,102
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,93
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,91
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,84
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,86
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,76
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,80
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,83
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,82
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,85
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,82
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,79
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,78
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,96
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,107
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,96
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,64
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,75
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,80
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,82
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,78
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,79
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,61
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,72
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,76
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,70
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,71
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,85
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,57
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,53
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,49
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,48
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,54
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,55
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,69
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,65
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,63
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,58
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,53
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,58
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,50
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,43
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,42
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,48
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,52
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,50
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,82
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,81
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,74
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,73
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,69
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,61
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,46
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,50
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,49
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,42
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,32
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,36
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,76
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,78
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,84
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,82
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,69
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,61
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,17
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,22
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,21
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,28
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,32
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,30
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,43
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,39
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,35
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,39
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,43
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,44
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,12
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,12
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,13
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,12
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,15
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,14
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,11
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,12
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,19
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,18
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,19
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,18
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,81
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,75
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,65
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,64
+ 156767 DUMBRAVA,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,57
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,49
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,52
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,59
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,59
+ 156767 DUMBRAVA,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,69
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,83
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,87
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,94
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,86
+ 156767 DUMBRAVA,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,83
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,81
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,71
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,63
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,58
+ 156767 DUMBRAVA,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,57
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,93
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,94
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,80
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,76
+ 156767 DUMBRAVA,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,78
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,74
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,72
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,74
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,80
+ 156767 DUMBRAVA,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,79
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,91
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,92
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,100
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,110
+ 156767 DUMBRAVA,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,110
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,104
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,107
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,95
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,98
+ 156767 DUMBRAVA,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,85
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,92
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,89
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,86
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,84
+ 156767 DUMBRAVA,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,88
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,89
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,90
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,84
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,88
+ 156767 DUMBRAVA,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,93
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,109
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,112
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,114
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,102
+ 156767 DUMBRAVA,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,94
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,73
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,81
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,93
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,90
+ 156767 DUMBRAVA,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,89
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,101
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,93
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,99
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,100
+ 156767 DUMBRAVA,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,104
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,99
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,90
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,85
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,83
+ 156767 DUMBRAVA,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,73
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,113
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,120
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,120
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,118
+ 156767 DUMBRAVA,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,110
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,93
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,101
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,105
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,104
+ 156767 DUMBRAVA,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,105
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,113
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,106
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,95
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,103
+ 156767 DUMBRAVA,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,109
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,110
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,100
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,93
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,89
+ 156767 DUMBRAVA,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,96
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,100
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,113
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,125
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,122
+ 156767 DUMBRAVA,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,123
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,68
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,84
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,93
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,119
+ 156767 DUMBRAVA,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,123
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,85
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,77
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,79
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,83
+ 156767 DUMBRAVA,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,84
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,85
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,80
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,70
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,57
+ 156767 DUMBRAVA,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,58
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,99
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,102
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,97
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,95
+ 156767 DUMBRAVA,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,91
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,96
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,104
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,96
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,93
+ 156767 DUMBRAVA,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,86
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,70
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,71
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,78
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,75
+ 156767 DUMBRAVA,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,83
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,79
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,79
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,97
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,101
+ 156767 DUMBRAVA,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,88
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,68
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,72
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,71
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,73
+ 156767 DUMBRAVA,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,67
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,67
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,69
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,66
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,67
+ 156767 DUMBRAVA,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,80
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,47
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,42
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,38
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,42
+ 156767 DUMBRAVA,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,46
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,57
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,57
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,50
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,48
+ 156767 DUMBRAVA,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,54
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,37
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,36
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,43
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,42
+ 156767 DUMBRAVA,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,37
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,61
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,62
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,60
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,55
+ 156767 DUMBRAVA,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,46
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,28
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,31
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,24
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,18
+ 156767 DUMBRAVA,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,20
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,46
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,43
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,48
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,42
+ 156767 DUMBRAVA,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,46
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,15
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,17
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,18
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,25
+ 156767 DUMBRAVA,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,22
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,21
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,21
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,25
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,30
+ 156767 DUMBRAVA,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,33

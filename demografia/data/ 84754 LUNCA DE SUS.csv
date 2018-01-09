@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2009, Numar persoane,105
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2010, Numar persoane,99
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2011, Numar persoane,100
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2012, Numar persoane,100
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2013, Numar persoane,102
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2014, Numar persoane,92
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2015, Numar persoane,86
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2016, Numar persoane,93
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2017, Numar persoane,95
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2009, Numar persoane,123
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2010, Numar persoane,120
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2011, Numar persoane,110
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2012, Numar persoane,112
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2013, Numar persoane,99
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2014, Numar persoane,99
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2015, Numar persoane,94
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2016, Numar persoane,95
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2017, Numar persoane,93
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2009, Numar persoane,111
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2010, Numar persoane,104
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2011, Numar persoane,98
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2012, Numar persoane,97
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2013, Numar persoane,112
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2014, Numar persoane,120
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2015, Numar persoane,117
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2016, Numar persoane,110
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2017, Numar persoane,105
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2009, Numar persoane,130
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2010, Numar persoane,127
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2011, Numar persoane,131
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2012, Numar persoane,132
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2013, Numar persoane,122
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2014, Numar persoane,112
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2015, Numar persoane,106
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2016, Numar persoane,102
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2017, Numar persoane,98
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2009, Numar persoane,140
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2010, Numar persoane,148
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2011, Numar persoane,151
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2012, Numar persoane,144
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2013, Numar persoane,140
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2014, Numar persoane,132
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2015, Numar persoane,130
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2016, Numar persoane,133
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2017, Numar persoane,133
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2009, Numar persoane,147
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2010, Numar persoane,147
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2011, Numar persoane,146
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2012, Numar persoane,149
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2013, Numar persoane,150
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2014, Numar persoane,150
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2015, Numar persoane,157
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2016, Numar persoane,156
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2017, Numar persoane,149
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2009, Numar persoane,157
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2010, Numar persoane,158
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2011, Numar persoane,131
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2012, Numar persoane,130
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2013, Numar persoane,138
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2014, Numar persoane,150
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2015, Numar persoane,149
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2016, Numar persoane,149
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2017, Numar persoane,149
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2009, Numar persoane,140
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2010, Numar persoane,133
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2011, Numar persoane,153
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2012, Numar persoane,148
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2013, Numar persoane,150
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2014, Numar persoane,154
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2015, Numar persoane,151
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2016, Numar persoane,131
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2017, Numar persoane,126
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2009, Numar persoane,104
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2010, Numar persoane,115
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2011, Numar persoane,121
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2012, Numar persoane,136
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2013, Numar persoane,126
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2014, Numar persoane,128
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2015, Numar persoane,126
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2016, Numar persoane,150
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2017, Numar persoane,151
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2009, Numar persoane,109
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2010, Numar persoane,107
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2011, Numar persoane,100
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2012, Numar persoane,97
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2013, Numar persoane,100
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2014, Numar persoane,96
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2015, Numar persoane,108
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2016, Numar persoane,113
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2017, Numar persoane,131
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2009, Numar persoane,105
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2010, Numar persoane,109
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2011, Numar persoane,110
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2012, Numar persoane,111
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2013, Numar persoane,110
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2014, Numar persoane,106
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2015, Numar persoane,101
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2016, Numar persoane,92
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2017, Numar persoane,86
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2009, Numar persoane,98
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2010, Numar persoane,92
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2011, Numar persoane,89
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2012, Numar persoane,86
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2013, Numar persoane,94
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2014, Numar persoane,99
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2015, Numar persoane,106
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2016, Numar persoane,109
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2017, Numar persoane,108
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2009, Numar persoane,81
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2010, Numar persoane,79
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2011, Numar persoane,89
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2012, Numar persoane,91
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2013, Numar persoane,84
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2014, Numar persoane,90
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2015, Numar persoane,79
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2016, Numar persoane,78
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2017, Numar persoane,80
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2009, Numar persoane,72
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2010, Numar persoane,79
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2011, Numar persoane,70
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2012, Numar persoane,70
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2013, Numar persoane,71
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2014, Numar persoane,70
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2015, Numar persoane,69
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2016, Numar persoane,80
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2017, Numar persoane,84
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2009, Numar persoane,64
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2010, Numar persoane,57
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2011, Numar persoane,62
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2012, Numar persoane,59
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2013, Numar persoane,58
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2014, Numar persoane,57
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2015, Numar persoane,64
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2016, Numar persoane,58
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2017, Numar persoane,59
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2009, Numar persoane,39
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2010, Numar persoane,45
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2011, Numar persoane,46
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2012, Numar persoane,46
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2013, Numar persoane,43
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2014, Numar persoane,43
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2015, Numar persoane,41
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2016, Numar persoane,39
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2017, Numar persoane,35
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2009, Numar persoane,14
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2010, Numar persoane,15
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2011, Numar persoane,17
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2012, Numar persoane,19
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2013, Numar persoane,24
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2014, Numar persoane,21
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2015, Numar persoane,22
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2016, Numar persoane,25
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2017, Numar persoane,29
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2009, Numar persoane,11
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2010, Numar persoane,8
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2011, Numar persoane,8
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2012, Numar persoane,9
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2013, Numar persoane,11
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2014, Numar persoane,9
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2015, Numar persoane,8
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2016, Numar persoane,9
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2017, Numar persoane,11
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 1992, Numar persoane,132
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 1993, Numar persoane,129
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 1994, Numar persoane,123
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 1995, Numar persoane,115
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 1996, Numar persoane,129
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 1997, Numar persoane,142
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 1998, Numar persoane,123
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 1999, Numar persoane,107
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2000, Numar persoane,108
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2001, Numar persoane,99
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2002, Numar persoane,94
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2003, Numar persoane,115
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2004, Numar persoane,125
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2005, Numar persoane,124
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2006, Numar persoane,116
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2007, Numar persoane,122
+ 84754 LUNCA DE SUS,0- 4 ani, Masculin, Harghita, Anul 2008, Numar persoane,107
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 1992, Numar persoane,143
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 1993, Numar persoane,146
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 1994, Numar persoane,137
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 1995, Numar persoane,135
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 1996, Numar persoane,130
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 1997, Numar persoane,137
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 1998, Numar persoane,130
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 1999, Numar persoane,130
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2000, Numar persoane,124
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2001, Numar persoane,129
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2002, Numar persoane,136
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2003, Numar persoane,127
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2004, Numar persoane,115
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2005, Numar persoane,109
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2006, Numar persoane,107
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2007, Numar persoane,100
+ 84754 LUNCA DE SUS,5- 9 ani, Masculin, Harghita, Anul 2008, Numar persoane,117
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 1992, Numar persoane,140
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 1993, Numar persoane,141
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 1994, Numar persoane,143
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 1995, Numar persoane,148
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 1996, Numar persoane,149
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 1997, Numar persoane,148
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 1998, Numar persoane,144
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 1999, Numar persoane,138
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2000, Numar persoane,145
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2001, Numar persoane,145
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2002, Numar persoane,139
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2003, Numar persoane,134
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2004, Numar persoane,131
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2005, Numar persoane,129
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2006, Numar persoane,132
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2007, Numar persoane,138
+ 84754 LUNCA DE SUS,10-14 ani, Masculin, Harghita, Anul 2008, Numar persoane,125
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 1992, Numar persoane,144
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 1993, Numar persoane,147
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 1994, Numar persoane,156
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 1995, Numar persoane,157
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 1996, Numar persoane,140
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 1997, Numar persoane,143
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 1998, Numar persoane,142
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 1999, Numar persoane,147
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2000, Numar persoane,149
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2001, Numar persoane,147
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2002, Numar persoane,139
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2003, Numar persoane,145
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2004, Numar persoane,139
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2005, Numar persoane,149
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2006, Numar persoane,143
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2007, Numar persoane,138
+ 84754 LUNCA DE SUS,15-19 ani, Masculin, Harghita, Anul 2008, Numar persoane,133
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 1992, Numar persoane,141
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 1993, Numar persoane,128
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 1994, Numar persoane,128
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 1995, Numar persoane,123
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 1996, Numar persoane,146
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 1997, Numar persoane,149
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 1998, Numar persoane,155
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 1999, Numar persoane,158
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2000, Numar persoane,160
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2001, Numar persoane,140
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2002, Numar persoane,137
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2003, Numar persoane,139
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2004, Numar persoane,147
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2005, Numar persoane,146
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2006, Numar persoane,144
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2007, Numar persoane,143
+ 84754 LUNCA DE SUS,20-24 ani, Masculin, Harghita, Anul 2008, Numar persoane,142
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 1992, Numar persoane,108
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 1993, Numar persoane,120
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 1994, Numar persoane,117
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 1995, Numar persoane,120
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 1996, Numar persoane,122
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 1997, Numar persoane,140
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 1998, Numar persoane,133
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 1999, Numar persoane,142
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2000, Numar persoane,134
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2001, Numar persoane,160
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2002, Numar persoane,157
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2003, Numar persoane,159
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2004, Numar persoane,158
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2005, Numar persoane,158
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2006, Numar persoane,135
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2007, Numar persoane,137
+ 84754 LUNCA DE SUS,25-29 ani, Masculin, Harghita, Anul 2008, Numar persoane,142
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 1992, Numar persoane,130
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 1993, Numar persoane,123
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 1994, Numar persoane,116
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 1995, Numar persoane,118
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 1996, Numar persoane,114
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 1997, Numar persoane,104
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 1998, Numar persoane,113
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 1999, Numar persoane,115
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2000, Numar persoane,121
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2001, Numar persoane,130
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2002, Numar persoane,151
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2003, Numar persoane,139
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2004, Numar persoane,144
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2005, Numar persoane,135
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2006, Numar persoane,159
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2007, Numar persoane,157
+ 84754 LUNCA DE SUS,30-34 ani, Masculin, Harghita, Anul 2008, Numar persoane,156
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 1992, Numar persoane,110
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 1993, Numar persoane,122
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 1994, Numar persoane,129
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 1995, Numar persoane,124
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 1996, Numar persoane,128
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 1997, Numar persoane,129
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 1998, Numar persoane,119
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 1999, Numar persoane,114
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2000, Numar persoane,115
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2001, Numar persoane,104
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2002, Numar persoane,100
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2003, Numar persoane,113
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2004, Numar persoane,111
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2005, Numar persoane,119
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2006, Numar persoane,126
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2007, Numar persoane,144
+ 84754 LUNCA DE SUS,35-39 ani, Masculin, Harghita, Anul 2008, Numar persoane,134
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 1992, Numar persoane,126
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 1993, Numar persoane,118
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 1994, Numar persoane,119
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 1995, Numar persoane,115
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 1996, Numar persoane,112
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 1997, Numar persoane,108
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 1998, Numar persoane,116
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 1999, Numar persoane,120
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2000, Numar persoane,118
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2001, Numar persoane,123
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2002, Numar persoane,124
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2003, Numar persoane,122
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2004, Numar persoane,120
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2005, Numar persoane,116
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2006, Numar persoane,105
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2007, Numar persoane,99
+ 84754 LUNCA DE SUS,40-44 ani, Masculin, Harghita, Anul 2008, Numar persoane,108
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 1992, Numar persoane,104
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 1993, Numar persoane,104
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 1994, Numar persoane,108
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 1995, Numar persoane,102
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 1996, Numar persoane,114
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 1997, Numar persoane,119
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 1998, Numar persoane,109
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 1999, Numar persoane,112
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2000, Numar persoane,107
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2001, Numar persoane,107
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2002, Numar persoane,103
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2003, Numar persoane,115
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2004, Numar persoane,118
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2005, Numar persoane,111
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2006, Numar persoane,117
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2007, Numar persoane,115
+ 84754 LUNCA DE SUS,45-49 ani, Masculin, Harghita, Anul 2008, Numar persoane,115
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 1992, Numar persoane,102
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 1993, Numar persoane,98
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 1994, Numar persoane,93
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 1995, Numar persoane,100
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 1996, Numar persoane,95
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 1997, Numar persoane,100
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 1998, Numar persoane,99
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 1999, Numar persoane,103
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2000, Numar persoane,98
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2001, Numar persoane,106
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2002, Numar persoane,112
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2003, Numar persoane,104
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2004, Numar persoane,108
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2005, Numar persoane,106
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2006, Numar persoane,100
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2007, Numar persoane,92
+ 84754 LUNCA DE SUS,50-54 ani, Masculin, Harghita, Anul 2008, Numar persoane,100
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 1992, Numar persoane,93
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 1993, Numar persoane,93
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 1994, Numar persoane,97
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 1995, Numar persoane,93
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 1996, Numar persoane,98
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 1997, Numar persoane,95
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 1998, Numar persoane,96
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 1999, Numar persoane,90
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2000, Numar persoane,95
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2001, Numar persoane,90
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2002, Numar persoane,91
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2003, Numar persoane,90
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2004, Numar persoane,92
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2005, Numar persoane,88
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2006, Numar persoane,96
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2007, Numar persoane,101
+ 84754 LUNCA DE SUS,55-59 ani, Masculin, Harghita, Anul 2008, Numar persoane,92
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 1992, Numar persoane,75
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 1993, Numar persoane,80
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 1994, Numar persoane,83
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 1995, Numar persoane,93
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 1996, Numar persoane,88
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 1997, Numar persoane,88
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 1998, Numar persoane,85
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 1999, Numar persoane,91
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2000, Numar persoane,88
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2001, Numar persoane,94
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2002, Numar persoane,85
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2003, Numar persoane,86
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2004, Numar persoane,82
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2005, Numar persoane,91
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2006, Numar persoane,81
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2007, Numar persoane,80
+ 84754 LUNCA DE SUS,60-64 ani, Masculin, Harghita, Anul 2008, Numar persoane,83
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 1992, Numar persoane,70
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 1993, Numar persoane,72
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 1994, Numar persoane,63
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 1995, Numar persoane,57
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 1996, Numar persoane,61
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 1997, Numar persoane,66
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 1998, Numar persoane,70
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 1999, Numar persoane,77
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2000, Numar persoane,81
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2001, Numar persoane,78
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2002, Numar persoane,77
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2003, Numar persoane,73
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2004, Numar persoane,76
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2005, Numar persoane,75
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2006, Numar persoane,81
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2007, Numar persoane,78
+ 84754 LUNCA DE SUS,65-69 ani, Masculin, Harghita, Anul 2008, Numar persoane,78
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 1992, Numar persoane,65
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 1993, Numar persoane,66
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 1994, Numar persoane,68
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 1995, Numar persoane,68
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 1996, Numar persoane,66
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 1997, Numar persoane,57
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 1998, Numar persoane,56
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 1999, Numar persoane,48
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2000, Numar persoane,43
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2001, Numar persoane,47
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2002, Numar persoane,51
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2003, Numar persoane,59
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2004, Numar persoane,62
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2005, Numar persoane,65
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2006, Numar persoane,62
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2007, Numar persoane,60
+ 84754 LUNCA DE SUS,70-74 ani, Masculin, Harghita, Anul 2008, Numar persoane,61
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 1992, Numar persoane,27
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 1993, Numar persoane,31
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 1994, Numar persoane,28
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 1995, Numar persoane,30
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 1996, Numar persoane,35
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 1997, Numar persoane,41
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 1998, Numar persoane,44
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 1999, Numar persoane,47
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2000, Numar persoane,45
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2001, Numar persoane,43
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2002, Numar persoane,35
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2003, Numar persoane,32
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2004, Numar persoane,26
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2005, Numar persoane,26
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2006, Numar persoane,29
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2007, Numar persoane,35
+ 84754 LUNCA DE SUS,75-79 ani, Masculin, Harghita, Anul 2008, Numar persoane,37
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 1992, Numar persoane,17
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 1993, Numar persoane,18
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 1994, Numar persoane,17
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 1995, Numar persoane,19
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 1996, Numar persoane,17
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 1997, Numar persoane,18
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 1998, Numar persoane,18
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 1999, Numar persoane,14
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2000, Numar persoane,14
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2001, Numar persoane,17
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2002, Numar persoane,24
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2003, Numar persoane,19
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2004, Numar persoane,22
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2005, Numar persoane,19
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2006, Numar persoane,19
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2007, Numar persoane,17
+ 84754 LUNCA DE SUS,80-84 ani, Masculin, Harghita, Anul 2008, Numar persoane,16
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 1992, Numar persoane,7
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 1993, Numar persoane,6
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 1994, Numar persoane,6
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 1995, Numar persoane,10
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 1996, Numar persoane,7
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 1997, Numar persoane,5
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 1998, Numar persoane,5
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 1999, Numar persoane,3
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2000, Numar persoane,6
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2001, Numar persoane,6
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2002, Numar persoane,7
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2003, Numar persoane,9
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2004, Numar persoane,8
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2005, Numar persoane,11
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2006, Numar persoane,11
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2007, Numar persoane,11
+ 84754 LUNCA DE SUS,85 ani si peste, Masculin, Harghita, Anul 2008, Numar persoane,10
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 1992, Numar persoane,147
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 1993, Numar persoane,146
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 1994, Numar persoane,127
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 1995, Numar persoane,124
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 1996, Numar persoane,136
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 1997, Numar persoane,138
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 1998, Numar persoane,120
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 1999, Numar persoane,125
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2000, Numar persoane,118
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2001, Numar persoane,112
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2002, Numar persoane,104
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2003, Numar persoane,108
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2004, Numar persoane,105
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2005, Numar persoane,108
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2006, Numar persoane,111
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 1992, Numar persoane,120
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 1993, Numar persoane,125
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 1994, Numar persoane,140
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 1995, Numar persoane,137
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 1996, Numar persoane,139
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 1997, Numar persoane,160
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 1998, Numar persoane,154
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 1999, Numar persoane,136
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2000, Numar persoane,129
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2001, Numar persoane,134
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2002, Numar persoane,132
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2003, Numar persoane,120
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2004, Numar persoane,128
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2005, Numar persoane,124
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2006, Numar persoane,114
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 1992, Numar persoane,135
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 1993, Numar persoane,143
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 1994, Numar persoane,141
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 1995, Numar persoane,125
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 1996, Numar persoane,116
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 1997, Numar persoane,124
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 1998, Numar persoane,127
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 1999, Numar persoane,144
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2000, Numar persoane,151
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2001, Numar persoane,154
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2002, Numar persoane,157
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2003, Numar persoane,158
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2004, Numar persoane,138
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2005, Numar persoane,131
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2006, Numar persoane,139
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 1992, Numar persoane,141
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 1993, Numar persoane,123
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 1994, Numar persoane,126
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 1995, Numar persoane,133
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 1996, Numar persoane,151
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 1997, Numar persoane,135
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 1998, Numar persoane,139
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 1999, Numar persoane,137
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2000, Numar persoane,127
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2001, Numar persoane,120
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2002, Numar persoane,128
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2003, Numar persoane,131
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2004, Numar persoane,148
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2005, Numar persoane,149
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2006, Numar persoane,148
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 1992, Numar persoane,131
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 1993, Numar persoane,139
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 1994, Numar persoane,133
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 1995, Numar persoane,135
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 1996, Numar persoane,128
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 1997, Numar persoane,137
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 1998, Numar persoane,117
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 1999, Numar persoane,116
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2000, Numar persoane,126
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2001, Numar persoane,144
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2002, Numar persoane,129
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2003, Numar persoane,135
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2004, Numar persoane,130
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2005, Numar persoane,125
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2006, Numar persoane,119
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 1992, Numar persoane,106
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 1993, Numar persoane,114
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 1994, Numar persoane,117
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 1995, Numar persoane,113
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 1996, Numar persoane,116
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 1997, Numar persoane,140
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 1998, Numar persoane,139
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 1999, Numar persoane,130
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2000, Numar persoane,128
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2001, Numar persoane,120
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2002, Numar persoane,136
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2003, Numar persoane,128
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2004, Numar persoane,136
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2005, Numar persoane,144
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2006, Numar persoane,151
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 1992, Numar persoane,82
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 1993, Numar persoane,86
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 1994, Numar persoane,87
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 1995, Numar persoane,98
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 1996, Numar persoane,109
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 1997, Numar persoane,107
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 1998, Numar persoane,115
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 1999, Numar persoane,112
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2000, Numar persoane,115
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2001, Numar persoane,125
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2002, Numar persoane,129
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2003, Numar persoane,139
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2004, Numar persoane,132
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2005, Numar persoane,131
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2006, Numar persoane,122
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 1992, Numar persoane,111
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 1993, Numar persoane,109
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 1994, Numar persoane,111
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 1995, Numar persoane,106
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 1996, Numar persoane,86
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 1997, Numar persoane,83
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 1998, Numar persoane,83
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 1999, Numar persoane,89
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2000, Numar persoane,102
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2001, Numar persoane,106
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2002, Numar persoane,103
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2003, Numar persoane,112
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2004, Numar persoane,112
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2005, Numar persoane,115
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2006, Numar persoane,125
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 1992, Numar persoane,92
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 1993, Numar persoane,95
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 1994, Numar persoane,97
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 1995, Numar persoane,93
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 1996, Numar persoane,111
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 1997, Numar persoane,111
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 1998, Numar persoane,104
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 1999, Numar persoane,112
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2000, Numar persoane,103
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2001, Numar persoane,89
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2002, Numar persoane,83
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2003, Numar persoane,84
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2004, Numar persoane,88
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2005, Numar persoane,100
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2006, Numar persoane,104
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 1992, Numar persoane,87
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 1993, Numar persoane,83
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 1994, Numar persoane,77
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 1995, Numar persoane,84
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 1996, Numar persoane,79
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 1997, Numar persoane,93
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 1998, Numar persoane,97
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 1999, Numar persoane,99
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2000, Numar persoane,98
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2001, Numar persoane,110
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2002, Numar persoane,110
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2003, Numar persoane,104
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2004, Numar persoane,112
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2005, Numar persoane,103
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2006, Numar persoane,90
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 1992, Numar persoane,88
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 1993, Numar persoane,89
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 1994, Numar persoane,91
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 1995, Numar persoane,90
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 1996, Numar persoane,89
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 1997, Numar persoane,85
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 1998, Numar persoane,82
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 1999, Numar persoane,74
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2000, Numar persoane,81
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2001, Numar persoane,80
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2002, Numar persoane,94
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2003, Numar persoane,98
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2004, Numar persoane,97
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2005, Numar persoane,95
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2006, Numar persoane,106
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 1992, Numar persoane,100
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 1993, Numar persoane,90
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 1994, Numar persoane,91
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 1995, Numar persoane,92
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 1996, Numar persoane,82
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 1997, Numar persoane,84
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 1998, Numar persoane,84
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 1999, Numar persoane,89
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2000, Numar persoane,88
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2001, Numar persoane,88
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2002, Numar persoane,82
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2003, Numar persoane,78
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2004, Numar persoane,73
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2005, Numar persoane,82
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2006, Numar persoane,79
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 1992, Numar persoane,112
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 1993, Numar persoane,111
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 1994, Numar persoane,100
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 1995, Numar persoane,94
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 1996, Numar persoane,97
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 1997, Numar persoane,93
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 1998, Numar persoane,87
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 1999, Numar persoane,88
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2000, Numar persoane,88
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2001, Numar persoane,77
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2002, Numar persoane,78
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2003, Numar persoane,82
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2004, Numar persoane,88
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2005, Numar persoane,86
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2006, Numar persoane,88
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 1992, Numar persoane,84
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 1993, Numar persoane,86
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 1994, Numar persoane,87
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 1995, Numar persoane,95
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 1996, Numar persoane,108
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 1997, Numar persoane,105
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 1998, Numar persoane,102
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 1999, Numar persoane,94
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2000, Numar persoane,87
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2001, Numar persoane,94
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2002, Numar persoane,89
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2003, Numar persoane,78
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2004, Numar persoane,80
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2005, Numar persoane,81
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2006, Numar persoane,72
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 1992, Numar persoane,54
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 1993, Numar persoane,63
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 1994, Numar persoane,75
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 1995, Numar persoane,76
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 1996, Numar persoane,74
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 1997, Numar persoane,74
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 1998, Numar persoane,82
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 1999, Numar persoane,79
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2000, Numar persoane,85
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2001, Numar persoane,93
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2002, Numar persoane,96
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2003, Numar persoane,96
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2004, Numar persoane,82
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2005, Numar persoane,77
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2006, Numar persoane,82
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 1992, Numar persoane,43
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 1993, Numar persoane,41
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 1994, Numar persoane,36
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 1995, Numar persoane,34
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 1996, Numar persoane,32
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 1997, Numar persoane,41
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 1998, Numar persoane,48
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 1999, Numar persoane,61
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2000, Numar persoane,63
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2001, Numar persoane,58
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2002, Numar persoane,55
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2003, Numar persoane,62
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2004, Numar persoane,61
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2005, Numar persoane,65
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2006, Numar persoane,73
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 1992, Numar persoane,31
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 1993, Numar persoane,27
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 1994, Numar persoane,24
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 1995, Numar persoane,31
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 1996, Numar persoane,30
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 1997, Numar persoane,24
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 1998, Numar persoane,19
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 1999, Numar persoane,19
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2000, Numar persoane,19
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2001, Numar persoane,22
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2002, Numar persoane,32
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2003, Numar persoane,39
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2004, Numar persoane,45
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2005, Numar persoane,44
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2006, Numar persoane,35
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 1992, Numar persoane,17
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 1993, Numar persoane,17
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 1994, Numar persoane,21
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 1995, Numar persoane,21
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 1996, Numar persoane,21
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 1997, Numar persoane,20
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 1998, Numar persoane,22
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 1999, Numar persoane,19
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2000, Numar persoane,23
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2001, Numar persoane,22
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2002, Numar persoane,20
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2003, Numar persoane,14
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2004, Numar persoane,13
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2005, Numar persoane,17
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2006, Numar persoane,17
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2007, Numar persoane,107
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2008, Numar persoane,114
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2009, Numar persoane,112
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2010, Numar persoane,106
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2011, Numar persoane,107
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2012, Numar persoane,99
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2013, Numar persoane,91
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2014, Numar persoane,91
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2015, Numar persoane,83
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2016, Numar persoane,79
+ 84754 LUNCA DE SUS,0- 4 ani, Feminin, Harghita, Anul 2017, Numar persoane,78
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2007, Numar persoane,108
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2008, Numar persoane,111
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2009, Numar persoane,100
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2010, Numar persoane,105
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2011, Numar persoane,105
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2012, Numar persoane,113
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2013, Numar persoane,116
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2014, Numar persoane,111
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2015, Numar persoane,107
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2016, Numar persoane,105
+ 84754 LUNCA DE SUS,5- 9 ani, Feminin, Harghita, Anul 2017, Numar persoane,98
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2007, Numar persoane,131
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2008, Numar persoane,118
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2009, Numar persoane,126
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2010, Numar persoane,124
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2011, Numar persoane,116
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2012, Numar persoane,107
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2013, Numar persoane,108
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2014, Numar persoane,97
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2015, Numar persoane,104
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2016, Numar persoane,107
+ 84754 LUNCA DE SUS,10-14 ani, Feminin, Harghita, Anul 2017, Numar persoane,112
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2007, Numar persoane,154
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2008, Numar persoane,148
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2009, Numar persoane,138
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2010, Numar persoane,127
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2011, Numar persoane,138
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2012, Numar persoane,131
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2013, Numar persoane,116
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2014, Numar persoane,125
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2015, Numar persoane,121
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2016, Numar persoane,112
+ 84754 LUNCA DE SUS,15-19 ani, Feminin, Harghita, Anul 2017, Numar persoane,97
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2007, Numar persoane,133
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2008, Numar persoane,134
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2009, Numar persoane,138
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2010, Numar persoane,145
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2011, Numar persoane,137
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2012, Numar persoane,149
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2013, Numar persoane,151
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2014, Numar persoane,142
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2015, Numar persoane,128
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2016, Numar persoane,134
+ 84754 LUNCA DE SUS,20-24 ani, Feminin, Harghita, Anul 2017, Numar persoane,121
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2007, Numar persoane,125
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2008, Numar persoane,129
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2009, Numar persoane,127
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2010, Numar persoane,113
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2011, Numar persoane,111
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2012, Numar persoane,126
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2013, Numar persoane,121
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2014, Numar persoane,128
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2015, Numar persoane,140
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2016, Numar persoane,135
+ 84754 LUNCA DE SUS,25-29 ani, Feminin, Harghita, Anul 2017, Numar persoane,138
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2007, Numar persoane,139
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2008, Numar persoane,123
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2009, Numar persoane,123
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2010, Numar persoane,132
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2011, Numar persoane,136
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2012, Numar persoane,110
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2013, Numar persoane,116
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2014, Numar persoane,114
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2015, Numar persoane,101
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2016, Numar persoane,106
+ 84754 LUNCA DE SUS,30-34 ani, Feminin, Harghita, Anul 2017, Numar persoane,122
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2007, Numar persoane,132
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2008, Numar persoane,137
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2009, Numar persoane,126
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2010, Numar persoane,121
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2011, Numar persoane,118
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2012, Numar persoane,139
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2013, Numar persoane,122
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2014, Numar persoane,119
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2015, Numar persoane,127
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2016, Numar persoane,129
+ 84754 LUNCA DE SUS,35-39 ani, Feminin, Harghita, Anul 2017, Numar persoane,108
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2007, Numar persoane,100
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2008, Numar persoane,113
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2009, Numar persoane,112
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2010, Numar persoane,115
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2011, Numar persoane,121
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2012, Numar persoane,125
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2013, Numar persoane,130
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2014, Numar persoane,123
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2015, Numar persoane,122
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2016, Numar persoane,116
+ 84754 LUNCA DE SUS,40-44 ani, Feminin, Harghita, Anul 2017, Numar persoane,131
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2007, Numar persoane,84
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2008, Numar persoane,84
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2009, Numar persoane,86
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2010, Numar persoane,97
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2011, Numar persoane,101
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2012, Numar persoane,99
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2013, Numar persoane,108
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2014, Numar persoane,108
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2015, Numar persoane,113
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2016, Numar persoane,121
+ 84754 LUNCA DE SUS,45-49 ani, Feminin, Harghita, Anul 2017, Numar persoane,122
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2007, Numar persoane,105
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2008, Numar persoane,103
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2009, Numar persoane,113
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2010, Numar persoane,101
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2011, Numar persoane,89
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2012, Numar persoane,83
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2013, Numar persoane,82
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2014, Numar persoane,86
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2015, Numar persoane,94
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2016, Numar persoane,100
+ 84754 LUNCA DE SUS,50-54 ani, Feminin, Harghita, Anul 2017, Numar persoane,94
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2007, Numar persoane,93
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2008, Numar persoane,96
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2009, Numar persoane,95
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2010, Numar persoane,93
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2011, Numar persoane,104
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2012, Numar persoane,104
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2013, Numar persoane,102
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2014, Numar persoane,112
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2015, Numar persoane,101
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2016, Numar persoane,89
+ 84754 LUNCA DE SUS,55-59 ani, Feminin, Harghita, Anul 2017, Numar persoane,83
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2007, Numar persoane,83
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2008, Numar persoane,78
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2009, Numar persoane,71
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2010, Numar persoane,78
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2011, Numar persoane,76
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2012, Numar persoane,89
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2013, Numar persoane,92
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2014, Numar persoane,91
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2015, Numar persoane,89
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2016, Numar persoane,98
+ 84754 LUNCA DE SUS,60-64 ani, Feminin, Harghita, Anul 2017, Numar persoane,100
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2007, Numar persoane,76
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2008, Numar persoane,77
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2009, Numar persoane,86
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2010, Numar persoane,84
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2011, Numar persoane,86
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2012, Numar persoane,80
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2013, Numar persoane,74
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2014, Numar persoane,67
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2015, Numar persoane,76
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2016, Numar persoane,71
+ 84754 LUNCA DE SUS,65-69 ani, Feminin, Harghita, Anul 2017, Numar persoane,82
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2007, Numar persoane,74
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2008, Numar persoane,71
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2009, Numar persoane,72
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2010, Numar persoane,70
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2011, Numar persoane,62
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2012, Numar persoane,62
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2013, Numar persoane,65
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2014, Numar persoane,75
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2015, Numar persoane,73
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2016, Numar persoane,75
+ 84754 LUNCA DE SUS,70-74 ani, Feminin, Harghita, Anul 2017, Numar persoane,70
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2007, Numar persoane,68
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2008, Numar persoane,66
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2009, Numar persoane,59
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2010, Numar persoane,60
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2011, Numar persoane,64
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2012, Numar persoane,63
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2013, Numar persoane,64
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2014, Numar persoane,58
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2015, Numar persoane,56
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2016, Numar persoane,52
+ 84754 LUNCA DE SUS,75-79 ani, Feminin, Harghita, Anul 2017, Numar persoane,52
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2007, Numar persoane,35
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2008, Numar persoane,39
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2009, Numar persoane,37
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2010, Numar persoane,42
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2011, Numar persoane,45
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2012, Numar persoane,50
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2013, Numar persoane,47
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2014, Numar persoane,40
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2015, Numar persoane,38
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2016, Numar persoane,49
+ 84754 LUNCA DE SUS,80-84 ani, Feminin, Harghita, Anul 2017, Numar persoane,49
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2007, Numar persoane,17
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2008, Numar persoane,19
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2009, Numar persoane,24
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2010, Numar persoane,26
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2011, Numar persoane,23
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2012, Numar persoane,21
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2013, Numar persoane,25
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2014, Numar persoane,23
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2015, Numar persoane,24
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2016, Numar persoane,25
+ 84754 LUNCA DE SUS,85 ani si peste, Feminin, Harghita, Anul 2017, Numar persoane,32

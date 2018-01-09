@@ -1,0 +1,469 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 159393 FIBIS,0- 4 ani, Masculin, Timis, Anul 2005, Numar persoane,33
+ 159393 FIBIS,0- 4 ani, Masculin, Timis, Anul 2006, Numar persoane,36
+ 159393 FIBIS,0- 4 ani, Feminin, Timis, Anul 2005, Numar persoane,31
+ 159393 FIBIS,0- 4 ani, Feminin, Timis, Anul 2006, Numar persoane,32
+ 159393 FIBIS,5- 9 ani, Masculin, Timis, Anul 2005, Numar persoane,39
+ 159393 FIBIS,5- 9 ani, Masculin, Timis, Anul 2006, Numar persoane,39
+ 159393 FIBIS,5- 9 ani, Feminin, Timis, Anul 2005, Numar persoane,33
+ 159393 FIBIS,5- 9 ani, Feminin, Timis, Anul 2006, Numar persoane,34
+ 159393 FIBIS,10-14 ani, Masculin, Timis, Anul 2005, Numar persoane,38
+ 159393 FIBIS,10-14 ani, Masculin, Timis, Anul 2006, Numar persoane,40
+ 159393 FIBIS,10-14 ani, Feminin, Timis, Anul 2005, Numar persoane,35
+ 159393 FIBIS,10-14 ani, Feminin, Timis, Anul 2006, Numar persoane,38
+ 159393 FIBIS,15-19 ani, Masculin, Timis, Anul 2005, Numar persoane,51
+ 159393 FIBIS,15-19 ani, Masculin, Timis, Anul 2006, Numar persoane,46
+ 159393 FIBIS,15-19 ani, Feminin, Timis, Anul 2005, Numar persoane,61
+ 159393 FIBIS,15-19 ani, Feminin, Timis, Anul 2006, Numar persoane,55
+ 159393 FIBIS,20-24 ani, Masculin, Timis, Anul 2005, Numar persoane,52
+ 159393 FIBIS,20-24 ani, Masculin, Timis, Anul 2006, Numar persoane,47
+ 159393 FIBIS,20-24 ani, Feminin, Timis, Anul 2005, Numar persoane,51
+ 159393 FIBIS,20-24 ani, Feminin, Timis, Anul 2006, Numar persoane,49
+ 159393 FIBIS,25-29 ani, Masculin, Timis, Anul 2005, Numar persoane,53
+ 159393 FIBIS,25-29 ani, Masculin, Timis, Anul 2006, Numar persoane,61
+ 159393 FIBIS,25-29 ani, Feminin, Timis, Anul 2005, Numar persoane,63
+ 159393 FIBIS,25-29 ani, Feminin, Timis, Anul 2006, Numar persoane,67
+ 159393 FIBIS,30-34 ani, Masculin, Timis, Anul 2005, Numar persoane,59
+ 159393 FIBIS,30-34 ani, Masculin, Timis, Anul 2006, Numar persoane,58
+ 159393 FIBIS,30-34 ani, Feminin, Timis, Anul 2005, Numar persoane,55
+ 159393 FIBIS,30-34 ani, Feminin, Timis, Anul 2006, Numar persoane,55
+ 159393 FIBIS,35-39 ani, Masculin, Timis, Anul 2005, Numar persoane,60
+ 159393 FIBIS,35-39 ani, Masculin, Timis, Anul 2006, Numar persoane,71
+ 159393 FIBIS,35-39 ani, Feminin, Timis, Anul 2005, Numar persoane,35
+ 159393 FIBIS,35-39 ani, Feminin, Timis, Anul 2006, Numar persoane,45
+ 159393 FIBIS,40-44 ani, Masculin, Timis, Anul 2005, Numar persoane,36
+ 159393 FIBIS,40-44 ani, Masculin, Timis, Anul 2006, Numar persoane,37
+ 159393 FIBIS,40-44 ani, Feminin, Timis, Anul 2005, Numar persoane,36
+ 159393 FIBIS,40-44 ani, Feminin, Timis, Anul 2006, Numar persoane,32
+ 159393 FIBIS,45-49 ani, Masculin, Timis, Anul 2005, Numar persoane,52
+ 159393 FIBIS,45-49 ani, Masculin, Timis, Anul 2006, Numar persoane,42
+ 159393 FIBIS,45-49 ani, Feminin, Timis, Anul 2005, Numar persoane,45
+ 159393 FIBIS,45-49 ani, Feminin, Timis, Anul 2006, Numar persoane,45
+ 159393 FIBIS,50-54 ani, Masculin, Timis, Anul 2005, Numar persoane,36
+ 159393 FIBIS,50-54 ani, Masculin, Timis, Anul 2006, Numar persoane,39
+ 159393 FIBIS,50-54 ani, Feminin, Timis, Anul 2005, Numar persoane,51
+ 159393 FIBIS,50-54 ani, Feminin, Timis, Anul 2006, Numar persoane,45
+ 159393 FIBIS,55-59 ani, Masculin, Timis, Anul 2005, Numar persoane,45
+ 159393 FIBIS,55-59 ani, Masculin, Timis, Anul 2006, Numar persoane,51
+ 159393 FIBIS,55-59 ani, Feminin, Timis, Anul 2005, Numar persoane,53
+ 159393 FIBIS,55-59 ani, Feminin, Timis, Anul 2006, Numar persoane,67
+ 159393 FIBIS,60-64 ani, Masculin, Timis, Anul 2005, Numar persoane,45
+ 159393 FIBIS,60-64 ani, Masculin, Timis, Anul 2006, Numar persoane,42
+ 159393 FIBIS,60-64 ani, Feminin, Timis, Anul 2005, Numar persoane,38
+ 159393 FIBIS,60-64 ani, Feminin, Timis, Anul 2006, Numar persoane,29
+ 159393 FIBIS,65-69 ani, Masculin, Timis, Anul 2005, Numar persoane,38
+ 159393 FIBIS,65-69 ani, Masculin, Timis, Anul 2006, Numar persoane,40
+ 159393 FIBIS,65-69 ani, Feminin, Timis, Anul 2005, Numar persoane,56
+ 159393 FIBIS,65-69 ani, Feminin, Timis, Anul 2006, Numar persoane,62
+ 159393 FIBIS,70-74 ani, Masculin, Timis, Anul 2005, Numar persoane,29
+ 159393 FIBIS,70-74 ani, Masculin, Timis, Anul 2006, Numar persoane,31
+ 159393 FIBIS,70-74 ani, Feminin, Timis, Anul 2005, Numar persoane,42
+ 159393 FIBIS,70-74 ani, Feminin, Timis, Anul 2006, Numar persoane,39
+ 159393 FIBIS,75-79 ani, Masculin, Timis, Anul 2005, Numar persoane,20
+ 159393 FIBIS,75-79 ani, Masculin, Timis, Anul 2006, Numar persoane,21
+ 159393 FIBIS,75-79 ani, Feminin, Timis, Anul 2005, Numar persoane,39
+ 159393 FIBIS,75-79 ani, Feminin, Timis, Anul 2006, Numar persoane,39
+ 159393 FIBIS,80-84 ani, Masculin, Timis, Anul 2005, Numar persoane,18
+ 159393 FIBIS,80-84 ani, Masculin, Timis, Anul 2006, Numar persoane,15
+ 159393 FIBIS,80-84 ani, Feminin, Timis, Anul 2005, Numar persoane,25
+ 159393 FIBIS,80-84 ani, Feminin, Timis, Anul 2006, Numar persoane,25
+ 159393 FIBIS,85 ani si peste, Masculin, Timis, Anul 2005, Numar persoane,9
+ 159393 FIBIS,85 ani si peste, Masculin, Timis, Anul 2006, Numar persoane,9
+ 159393 FIBIS,85 ani si peste, Feminin, Timis, Anul 2005, Numar persoane,10
+ 159393 FIBIS,85 ani si peste, Feminin, Timis, Anul 2006, Numar persoane,16
+ 159393 FIBIS,0- 4 ani, Masculin, Timis, Anul 2007, Numar persoane,38
+ 159393 FIBIS,0- 4 ani, Masculin, Timis, Anul 2008, Numar persoane,33
+ 159393 FIBIS,0- 4 ani, Masculin, Timis, Anul 2009, Numar persoane,37
+ 159393 FIBIS,0- 4 ani, Masculin, Timis, Anul 2010, Numar persoane,38
+ 159393 FIBIS,0- 4 ani, Masculin, Timis, Anul 2011, Numar persoane,34
+ 159393 FIBIS,0- 4 ani, Masculin, Timis, Anul 2012, Numar persoane,33
+ 159393 FIBIS,0- 4 ani, Feminin, Timis, Anul 2007, Numar persoane,35
+ 159393 FIBIS,0- 4 ani, Feminin, Timis, Anul 2008, Numar persoane,35
+ 159393 FIBIS,0- 4 ani, Feminin, Timis, Anul 2009, Numar persoane,39
+ 159393 FIBIS,0- 4 ani, Feminin, Timis, Anul 2010, Numar persoane,41
+ 159393 FIBIS,0- 4 ani, Feminin, Timis, Anul 2011, Numar persoane,41
+ 159393 FIBIS,0- 4 ani, Feminin, Timis, Anul 2012, Numar persoane,43
+ 159393 FIBIS,5- 9 ani, Masculin, Timis, Anul 2007, Numar persoane,39
+ 159393 FIBIS,5- 9 ani, Masculin, Timis, Anul 2008, Numar persoane,41
+ 159393 FIBIS,5- 9 ani, Masculin, Timis, Anul 2009, Numar persoane,40
+ 159393 FIBIS,5- 9 ani, Masculin, Timis, Anul 2010, Numar persoane,35
+ 159393 FIBIS,5- 9 ani, Masculin, Timis, Anul 2011, Numar persoane,36
+ 159393 FIBIS,5- 9 ani, Masculin, Timis, Anul 2012, Numar persoane,34
+ 159393 FIBIS,5- 9 ani, Feminin, Timis, Anul 2007, Numar persoane,32
+ 159393 FIBIS,5- 9 ani, Feminin, Timis, Anul 2008, Numar persoane,28
+ 159393 FIBIS,5- 9 ani, Feminin, Timis, Anul 2009, Numar persoane,28
+ 159393 FIBIS,5- 9 ani, Feminin, Timis, Anul 2010, Numar persoane,29
+ 159393 FIBIS,5- 9 ani, Feminin, Timis, Anul 2011, Numar persoane,30
+ 159393 FIBIS,5- 9 ani, Feminin, Timis, Anul 2012, Numar persoane,39
+ 159393 FIBIS,10-14 ani, Masculin, Timis, Anul 2007, Numar persoane,31
+ 159393 FIBIS,10-14 ani, Masculin, Timis, Anul 2008, Numar persoane,30
+ 159393 FIBIS,10-14 ani, Masculin, Timis, Anul 2009, Numar persoane,35
+ 159393 FIBIS,10-14 ani, Masculin, Timis, Anul 2010, Numar persoane,38
+ 159393 FIBIS,10-14 ani, Masculin, Timis, Anul 2011, Numar persoane,43
+ 159393 FIBIS,10-14 ani, Masculin, Timis, Anul 2012, Numar persoane,39
+ 159393 FIBIS,10-14 ani, Feminin, Timis, Anul 2007, Numar persoane,31
+ 159393 FIBIS,10-14 ani, Feminin, Timis, Anul 2008, Numar persoane,32
+ 159393 FIBIS,10-14 ani, Feminin, Timis, Anul 2009, Numar persoane,31
+ 159393 FIBIS,10-14 ani, Feminin, Timis, Anul 2010, Numar persoane,33
+ 159393 FIBIS,10-14 ani, Feminin, Timis, Anul 2011, Numar persoane,34
+ 159393 FIBIS,10-14 ani, Feminin, Timis, Anul 2012, Numar persoane,33
+ 159393 FIBIS,15-19 ani, Masculin, Timis, Anul 2007, Numar persoane,49
+ 159393 FIBIS,15-19 ani, Masculin, Timis, Anul 2008, Numar persoane,45
+ 159393 FIBIS,15-19 ani, Masculin, Timis, Anul 2009, Numar persoane,43
+ 159393 FIBIS,15-19 ani, Masculin, Timis, Anul 2010, Numar persoane,38
+ 159393 FIBIS,15-19 ani, Masculin, Timis, Anul 2011, Numar persoane,39
+ 159393 FIBIS,15-19 ani, Masculin, Timis, Anul 2012, Numar persoane,39
+ 159393 FIBIS,15-19 ani, Feminin, Timis, Anul 2007, Numar persoane,63
+ 159393 FIBIS,15-19 ani, Feminin, Timis, Anul 2008, Numar persoane,60
+ 159393 FIBIS,15-19 ani, Feminin, Timis, Anul 2009, Numar persoane,54
+ 159393 FIBIS,15-19 ani, Feminin, Timis, Anul 2010, Numar persoane,44
+ 159393 FIBIS,15-19 ani, Feminin, Timis, Anul 2011, Numar persoane,42
+ 159393 FIBIS,15-19 ani, Feminin, Timis, Anul 2012, Numar persoane,34
+ 159393 FIBIS,20-24 ani, Masculin, Timis, Anul 2007, Numar persoane,49
+ 159393 FIBIS,20-24 ani, Masculin, Timis, Anul 2008, Numar persoane,59
+ 159393 FIBIS,20-24 ani, Masculin, Timis, Anul 2009, Numar persoane,56
+ 159393 FIBIS,20-24 ani, Masculin, Timis, Anul 2010, Numar persoane,58
+ 159393 FIBIS,20-24 ani, Masculin, Timis, Anul 2011, Numar persoane,53
+ 159393 FIBIS,20-24 ani, Masculin, Timis, Anul 2012, Numar persoane,53
+ 159393 FIBIS,20-24 ani, Feminin, Timis, Anul 2007, Numar persoane,52
+ 159393 FIBIS,20-24 ani, Feminin, Timis, Anul 2008, Numar persoane,53
+ 159393 FIBIS,20-24 ani, Feminin, Timis, Anul 2009, Numar persoane,59
+ 159393 FIBIS,20-24 ani, Feminin, Timis, Anul 2010, Numar persoane,62
+ 159393 FIBIS,20-24 ani, Feminin, Timis, Anul 2011, Numar persoane,59
+ 159393 FIBIS,20-24 ani, Feminin, Timis, Anul 2012, Numar persoane,66
+ 159393 FIBIS,25-29 ani, Masculin, Timis, Anul 2007, Numar persoane,59
+ 159393 FIBIS,25-29 ani, Masculin, Timis, Anul 2008, Numar persoane,58
+ 159393 FIBIS,25-29 ani, Masculin, Timis, Anul 2009, Numar persoane,59
+ 159393 FIBIS,25-29 ani, Masculin, Timis, Anul 2010, Numar persoane,63
+ 159393 FIBIS,25-29 ani, Masculin, Timis, Anul 2011, Numar persoane,59
+ 159393 FIBIS,25-29 ani, Masculin, Timis, Anul 2012, Numar persoane,62
+ 159393 FIBIS,25-29 ani, Feminin, Timis, Anul 2007, Numar persoane,62
+ 159393 FIBIS,25-29 ani, Feminin, Timis, Anul 2008, Numar persoane,57
+ 159393 FIBIS,25-29 ani, Feminin, Timis, Anul 2009, Numar persoane,63
+ 159393 FIBIS,25-29 ani, Feminin, Timis, Anul 2010, Numar persoane,53
+ 159393 FIBIS,25-29 ani, Feminin, Timis, Anul 2011, Numar persoane,57
+ 159393 FIBIS,25-29 ani, Feminin, Timis, Anul 2012, Numar persoane,59
+ 159393 FIBIS,30-34 ani, Masculin, Timis, Anul 2007, Numar persoane,62
+ 159393 FIBIS,30-34 ani, Masculin, Timis, Anul 2008, Numar persoane,65
+ 159393 FIBIS,30-34 ani, Masculin, Timis, Anul 2009, Numar persoane,67
+ 159393 FIBIS,30-34 ani, Masculin, Timis, Anul 2010, Numar persoane,68
+ 159393 FIBIS,30-34 ani, Masculin, Timis, Anul 2011, Numar persoane,71
+ 159393 FIBIS,30-34 ani, Masculin, Timis, Anul 2012, Numar persoane,69
+ 159393 FIBIS,30-34 ani, Feminin, Timis, Anul 2007, Numar persoane,57
+ 159393 FIBIS,30-34 ani, Feminin, Timis, Anul 2008, Numar persoane,63
+ 159393 FIBIS,30-34 ani, Feminin, Timis, Anul 2009, Numar persoane,61
+ 159393 FIBIS,30-34 ani, Feminin, Timis, Anul 2010, Numar persoane,76
+ 159393 FIBIS,30-34 ani, Feminin, Timis, Anul 2011, Numar persoane,77
+ 159393 FIBIS,30-34 ani, Feminin, Timis, Anul 2012, Numar persoane,71
+ 159393 FIBIS,35-39 ani, Masculin, Timis, Anul 2007, Numar persoane,81
+ 159393 FIBIS,35-39 ani, Masculin, Timis, Anul 2008, Numar persoane,79
+ 159393 FIBIS,35-39 ani, Masculin, Timis, Anul 2009, Numar persoane,71
+ 159393 FIBIS,35-39 ani, Masculin, Timis, Anul 2010, Numar persoane,67
+ 159393 FIBIS,35-39 ani, Masculin, Timis, Anul 2011, Numar persoane,73
+ 159393 FIBIS,35-39 ani, Masculin, Timis, Anul 2012, Numar persoane,74
+ 159393 FIBIS,35-39 ani, Feminin, Timis, Anul 2007, Numar persoane,50
+ 159393 FIBIS,35-39 ani, Feminin, Timis, Anul 2008, Numar persoane,60
+ 159393 FIBIS,35-39 ani, Feminin, Timis, Anul 2009, Numar persoane,63
+ 159393 FIBIS,35-39 ani, Feminin, Timis, Anul 2010, Numar persoane,57
+ 159393 FIBIS,35-39 ani, Feminin, Timis, Anul 2011, Numar persoane,60
+ 159393 FIBIS,35-39 ani, Feminin, Timis, Anul 2012, Numar persoane,65
+ 159393 FIBIS,40-44 ani, Masculin, Timis, Anul 2007, Numar persoane,34
+ 159393 FIBIS,40-44 ani, Masculin, Timis, Anul 2008, Numar persoane,47
+ 159393 FIBIS,40-44 ani, Masculin, Timis, Anul 2009, Numar persoane,57
+ 159393 FIBIS,40-44 ani, Masculin, Timis, Anul 2010, Numar persoane,68
+ 159393 FIBIS,40-44 ani, Masculin, Timis, Anul 2011, Numar persoane,71
+ 159393 FIBIS,40-44 ani, Masculin, Timis, Anul 2012, Numar persoane,82
+ 159393 FIBIS,40-44 ani, Feminin, Timis, Anul 2007, Numar persoane,34
+ 159393 FIBIS,40-44 ani, Feminin, Timis, Anul 2008, Numar persoane,38
+ 159393 FIBIS,40-44 ani, Feminin, Timis, Anul 2009, Numar persoane,41
+ 159393 FIBIS,40-44 ani, Feminin, Timis, Anul 2010, Numar persoane,43
+ 159393 FIBIS,40-44 ani, Feminin, Timis, Anul 2011, Numar persoane,49
+ 159393 FIBIS,40-44 ani, Feminin, Timis, Anul 2012, Numar persoane,52
+ 159393 FIBIS,45-49 ani, Masculin, Timis, Anul 2007, Numar persoane,42
+ 159393 FIBIS,45-49 ani, Masculin, Timis, Anul 2008, Numar persoane,37
+ 159393 FIBIS,45-49 ani, Masculin, Timis, Anul 2009, Numar persoane,40
+ 159393 FIBIS,45-49 ani, Masculin, Timis, Anul 2010, Numar persoane,43
+ 159393 FIBIS,45-49 ani, Masculin, Timis, Anul 2011, Numar persoane,44
+ 159393 FIBIS,45-49 ani, Masculin, Timis, Anul 2012, Numar persoane,37
+ 159393 FIBIS,45-49 ani, Feminin, Timis, Anul 2007, Numar persoane,40
+ 159393 FIBIS,45-49 ani, Feminin, Timis, Anul 2008, Numar persoane,39
+ 159393 FIBIS,45-49 ani, Feminin, Timis, Anul 2009, Numar persoane,47
+ 159393 FIBIS,45-49 ani, Feminin, Timis, Anul 2010, Numar persoane,39
+ 159393 FIBIS,45-49 ani, Feminin, Timis, Anul 2011, Numar persoane,35
+ 159393 FIBIS,45-49 ani, Feminin, Timis, Anul 2012, Numar persoane,38
+ 159393 FIBIS,50-54 ani, Masculin, Timis, Anul 2007, Numar persoane,41
+ 159393 FIBIS,50-54 ani, Masculin, Timis, Anul 2008, Numar persoane,42
+ 159393 FIBIS,50-54 ani, Masculin, Timis, Anul 2009, Numar persoane,47
+ 159393 FIBIS,50-54 ani, Masculin, Timis, Anul 2010, Numar persoane,48
+ 159393 FIBIS,50-54 ani, Masculin, Timis, Anul 2011, Numar persoane,45
+ 159393 FIBIS,50-54 ani, Masculin, Timis, Anul 2012, Numar persoane,45
+ 159393 FIBIS,50-54 ani, Feminin, Timis, Anul 2007, Numar persoane,51
+ 159393 FIBIS,50-54 ani, Feminin, Timis, Anul 2008, Numar persoane,48
+ 159393 FIBIS,50-54 ani, Feminin, Timis, Anul 2009, Numar persoane,44
+ 159393 FIBIS,50-54 ani, Feminin, Timis, Anul 2010, Numar persoane,45
+ 159393 FIBIS,50-54 ani, Feminin, Timis, Anul 2011, Numar persoane,47
+ 159393 FIBIS,50-54 ani, Feminin, Timis, Anul 2012, Numar persoane,41
+ 159393 FIBIS,55-59 ani, Masculin, Timis, Anul 2007, Numar persoane,49
+ 159393 FIBIS,55-59 ani, Masculin, Timis, Anul 2008, Numar persoane,48
+ 159393 FIBIS,55-59 ani, Masculin, Timis, Anul 2009, Numar persoane,43
+ 159393 FIBIS,55-59 ani, Masculin, Timis, Anul 2010, Numar persoane,40
+ 159393 FIBIS,55-59 ani, Masculin, Timis, Anul 2011, Numar persoane,39
+ 159393 FIBIS,55-59 ani, Masculin, Timis, Anul 2012, Numar persoane,38
+ 159393 FIBIS,55-59 ani, Feminin, Timis, Anul 2007, Numar persoane,58
+ 159393 FIBIS,55-59 ani, Feminin, Timis, Anul 2008, Numar persoane,60
+ 159393 FIBIS,55-59 ani, Feminin, Timis, Anul 2009, Numar persoane,62
+ 159393 FIBIS,55-59 ani, Feminin, Timis, Anul 2010, Numar persoane,57
+ 159393 FIBIS,55-59 ani, Feminin, Timis, Anul 2011, Numar persoane,51
+ 159393 FIBIS,55-59 ani, Feminin, Timis, Anul 2012, Numar persoane,57
+ 159393 FIBIS,60-64 ani, Masculin, Timis, Anul 2007, Numar persoane,43
+ 159393 FIBIS,60-64 ani, Masculin, Timis, Anul 2008, Numar persoane,43
+ 159393 FIBIS,60-64 ani, Masculin, Timis, Anul 2009, Numar persoane,45
+ 159393 FIBIS,60-64 ani, Masculin, Timis, Anul 2010, Numar persoane,46
+ 159393 FIBIS,60-64 ani, Masculin, Timis, Anul 2011, Numar persoane,54
+ 159393 FIBIS,60-64 ani, Masculin, Timis, Anul 2012, Numar persoane,54
+ 159393 FIBIS,60-64 ani, Feminin, Timis, Anul 2007, Numar persoane,40
+ 159393 FIBIS,60-64 ani, Feminin, Timis, Anul 2008, Numar persoane,44
+ 159393 FIBIS,60-64 ani, Feminin, Timis, Anul 2009, Numar persoane,45
+ 159393 FIBIS,60-64 ani, Feminin, Timis, Anul 2010, Numar persoane,56
+ 159393 FIBIS,60-64 ani, Feminin, Timis, Anul 2011, Numar persoane,63
+ 159393 FIBIS,60-64 ani, Feminin, Timis, Anul 2012, Numar persoane,59
+ 159393 FIBIS,65-69 ani, Masculin, Timis, Anul 2007, Numar persoane,41
+ 159393 FIBIS,65-69 ani, Masculin, Timis, Anul 2008, Numar persoane,47
+ 159393 FIBIS,65-69 ani, Masculin, Timis, Anul 2009, Numar persoane,43
+ 159393 FIBIS,65-69 ani, Masculin, Timis, Anul 2010, Numar persoane,43
+ 159393 FIBIS,65-69 ani, Masculin, Timis, Anul 2011, Numar persoane,37
+ 159393 FIBIS,65-69 ani, Masculin, Timis, Anul 2012, Numar persoane,42
+ 159393 FIBIS,65-69 ani, Feminin, Timis, Anul 2007, Numar persoane,57
+ 159393 FIBIS,65-69 ani, Feminin, Timis, Anul 2008, Numar persoane,46
+ 159393 FIBIS,65-69 ani, Feminin, Timis, Anul 2009, Numar persoane,46
+ 159393 FIBIS,65-69 ani, Feminin, Timis, Anul 2010, Numar persoane,39
+ 159393 FIBIS,65-69 ani, Feminin, Timis, Anul 2011, Numar persoane,30
+ 159393 FIBIS,65-69 ani, Feminin, Timis, Anul 2012, Numar persoane,36
+ 159393 FIBIS,70-74 ani, Masculin, Timis, Anul 2007, Numar persoane,25
+ 159393 FIBIS,70-74 ani, Masculin, Timis, Anul 2008, Numar persoane,24
+ 159393 FIBIS,70-74 ani, Masculin, Timis, Anul 2009, Numar persoane,33
+ 159393 FIBIS,70-74 ani, Masculin, Timis, Anul 2010, Numar persoane,32
+ 159393 FIBIS,70-74 ani, Masculin, Timis, Anul 2011, Numar persoane,34
+ 159393 FIBIS,70-74 ani, Masculin, Timis, Anul 2012, Numar persoane,34
+ 159393 FIBIS,70-74 ani, Feminin, Timis, Anul 2007, Numar persoane,35
+ 159393 FIBIS,70-74 ani, Feminin, Timis, Anul 2008, Numar persoane,44
+ 159393 FIBIS,70-74 ani, Feminin, Timis, Anul 2009, Numar persoane,40
+ 159393 FIBIS,70-74 ani, Feminin, Timis, Anul 2010, Numar persoane,49
+ 159393 FIBIS,70-74 ani, Feminin, Timis, Anul 2011, Numar persoane,55
+ 159393 FIBIS,70-74 ani, Feminin, Timis, Anul 2012, Numar persoane,52
+ 159393 FIBIS,75-79 ani, Masculin, Timis, Anul 2007, Numar persoane,23
+ 159393 FIBIS,75-79 ani, Masculin, Timis, Anul 2008, Numar persoane,24
+ 159393 FIBIS,75-79 ani, Masculin, Timis, Anul 2009, Numar persoane,20
+ 159393 FIBIS,75-79 ani, Masculin, Timis, Anul 2010, Numar persoane,17
+ 159393 FIBIS,75-79 ani, Masculin, Timis, Anul 2011, Numar persoane,18
+ 159393 FIBIS,75-79 ani, Masculin, Timis, Anul 2012, Numar persoane,14
+ 159393 FIBIS,75-79 ani, Feminin, Timis, Anul 2007, Numar persoane,40
+ 159393 FIBIS,75-79 ani, Feminin, Timis, Anul 2008, Numar persoane,42
+ 159393 FIBIS,75-79 ani, Feminin, Timis, Anul 2009, Numar persoane,39
+ 159393 FIBIS,75-79 ani, Feminin, Timis, Anul 2010, Numar persoane,32
+ 159393 FIBIS,75-79 ani, Feminin, Timis, Anul 2011, Numar persoane,32
+ 159393 FIBIS,75-79 ani, Feminin, Timis, Anul 2012, Numar persoane,32
+ 159393 FIBIS,80-84 ani, Masculin, Timis, Anul 2007, Numar persoane,14
+ 159393 FIBIS,80-84 ani, Masculin, Timis, Anul 2008, Numar persoane,10
+ 159393 FIBIS,80-84 ani, Masculin, Timis, Anul 2009, Numar persoane,11
+ 159393 FIBIS,80-84 ani, Masculin, Timis, Anul 2010, Numar persoane,15
+ 159393 FIBIS,80-84 ani, Masculin, Timis, Anul 2011, Numar persoane,15
+ 159393 FIBIS,80-84 ani, Masculin, Timis, Anul 2012, Numar persoane,16
+ 159393 FIBIS,80-84 ani, Feminin, Timis, Anul 2007, Numar persoane,26
+ 159393 FIBIS,80-84 ani, Feminin, Timis, Anul 2008, Numar persoane,21
+ 159393 FIBIS,80-84 ani, Feminin, Timis, Anul 2009, Numar persoane,24
+ 159393 FIBIS,80-84 ani, Feminin, Timis, Anul 2010, Numar persoane,23
+ 159393 FIBIS,80-84 ani, Feminin, Timis, Anul 2011, Numar persoane,23
+ 159393 FIBIS,80-84 ani, Feminin, Timis, Anul 2012, Numar persoane,24
+ 159393 FIBIS,85 ani si peste, Masculin, Timis, Anul 2007, Numar persoane,8
+ 159393 FIBIS,85 ani si peste, Masculin, Timis, Anul 2008, Numar persoane,8
+ 159393 FIBIS,85 ani si peste, Masculin, Timis, Anul 2009, Numar persoane,9
+ 159393 FIBIS,85 ani si peste, Masculin, Timis, Anul 2010, Numar persoane,9
+ 159393 FIBIS,85 ani si peste, Masculin, Timis, Anul 2011, Numar persoane,10
+ 159393 FIBIS,85 ani si peste, Masculin, Timis, Anul 2012, Numar persoane,13
+ 159393 FIBIS,85 ani si peste, Feminin, Timis, Anul 2007, Numar persoane,16
+ 159393 FIBIS,85 ani si peste, Feminin, Timis, Anul 2008, Numar persoane,19
+ 159393 FIBIS,85 ani si peste, Feminin, Timis, Anul 2009, Numar persoane,21
+ 159393 FIBIS,85 ani si peste, Feminin, Timis, Anul 2010, Numar persoane,18
+ 159393 FIBIS,85 ani si peste, Feminin, Timis, Anul 2011, Numar persoane,18
+ 159393 FIBIS,85 ani si peste, Feminin, Timis, Anul 2012, Numar persoane,21
+ 159393 FIBIS,0- 4 ani, Masculin, Timis, Anul 2013, Numar persoane,31
+ 159393 FIBIS,0- 4 ani, Masculin, Timis, Anul 2014, Numar persoane,29
+ 159393 FIBIS,0- 4 ani, Masculin, Timis, Anul 2015, Numar persoane,30
+ 159393 FIBIS,0- 4 ani, Masculin, Timis, Anul 2016, Numar persoane,31
+ 159393 FIBIS,0- 4 ani, Masculin, Timis, Anul 2017, Numar persoane,31
+ 159393 FIBIS,0- 4 ani, Feminin, Timis, Anul 2013, Numar persoane,46
+ 159393 FIBIS,0- 4 ani, Feminin, Timis, Anul 2014, Numar persoane,45
+ 159393 FIBIS,0- 4 ani, Feminin, Timis, Anul 2015, Numar persoane,38
+ 159393 FIBIS,0- 4 ani, Feminin, Timis, Anul 2016, Numar persoane,35
+ 159393 FIBIS,0- 4 ani, Feminin, Timis, Anul 2017, Numar persoane,37
+ 159393 FIBIS,5- 9 ani, Masculin, Timis, Anul 2013, Numar persoane,30
+ 159393 FIBIS,5- 9 ani, Masculin, Timis, Anul 2014, Numar persoane,35
+ 159393 FIBIS,5- 9 ani, Masculin, Timis, Anul 2015, Numar persoane,37
+ 159393 FIBIS,5- 9 ani, Masculin, Timis, Anul 2016, Numar persoane,34
+ 159393 FIBIS,5- 9 ani, Masculin, Timis, Anul 2017, Numar persoane,39
+ 159393 FIBIS,5- 9 ani, Feminin, Timis, Anul 2013, Numar persoane,39
+ 159393 FIBIS,5- 9 ani, Feminin, Timis, Anul 2014, Numar persoane,44
+ 159393 FIBIS,5- 9 ani, Feminin, Timis, Anul 2015, Numar persoane,51
+ 159393 FIBIS,5- 9 ani, Feminin, Timis, Anul 2016, Numar persoane,45
+ 159393 FIBIS,5- 9 ani, Feminin, Timis, Anul 2017, Numar persoane,47
+ 159393 FIBIS,10-14 ani, Masculin, Timis, Anul 2013, Numar persoane,41
+ 159393 FIBIS,10-14 ani, Masculin, Timis, Anul 2014, Numar persoane,39
+ 159393 FIBIS,10-14 ani, Masculin, Timis, Anul 2015, Numar persoane,33
+ 159393 FIBIS,10-14 ani, Masculin, Timis, Anul 2016, Numar persoane,33
+ 159393 FIBIS,10-14 ani, Masculin, Timis, Anul 2017, Numar persoane,32
+ 159393 FIBIS,10-14 ani, Feminin, Timis, Anul 2013, Numar persoane,29
+ 159393 FIBIS,10-14 ani, Feminin, Timis, Anul 2014, Numar persoane,31
+ 159393 FIBIS,10-14 ani, Feminin, Timis, Anul 2015, Numar persoane,36
+ 159393 FIBIS,10-14 ani, Feminin, Timis, Anul 2016, Numar persoane,40
+ 159393 FIBIS,10-14 ani, Feminin, Timis, Anul 2017, Numar persoane,43
+ 159393 FIBIS,15-19 ani, Masculin, Timis, Anul 2013, Numar persoane,38
+ 159393 FIBIS,15-19 ani, Masculin, Timis, Anul 2014, Numar persoane,46
+ 159393 FIBIS,15-19 ani, Masculin, Timis, Anul 2015, Numar persoane,48
+ 159393 FIBIS,15-19 ani, Masculin, Timis, Anul 2016, Numar persoane,49
+ 159393 FIBIS,15-19 ani, Masculin, Timis, Anul 2017, Numar persoane,43
+ 159393 FIBIS,15-19 ani, Feminin, Timis, Anul 2013, Numar persoane,36
+ 159393 FIBIS,15-19 ani, Feminin, Timis, Anul 2014, Numar persoane,35
+ 159393 FIBIS,15-19 ani, Feminin, Timis, Anul 2015, Numar persoane,37
+ 159393 FIBIS,15-19 ani, Feminin, Timis, Anul 2016, Numar persoane,40
+ 159393 FIBIS,15-19 ani, Feminin, Timis, Anul 2017, Numar persoane,37
+ 159393 FIBIS,20-24 ani, Masculin, Timis, Anul 2013, Numar persoane,50
+ 159393 FIBIS,20-24 ani, Masculin, Timis, Anul 2014, Numar persoane,45
+ 159393 FIBIS,20-24 ani, Masculin, Timis, Anul 2015, Numar persoane,45
+ 159393 FIBIS,20-24 ani, Masculin, Timis, Anul 2016, Numar persoane,46
+ 159393 FIBIS,20-24 ani, Masculin, Timis, Anul 2017, Numar persoane,43
+ 159393 FIBIS,20-24 ani, Feminin, Timis, Anul 2013, Numar persoane,66
+ 159393 FIBIS,20-24 ani, Feminin, Timis, Anul 2014, Numar persoane,63
+ 159393 FIBIS,20-24 ani, Feminin, Timis, Anul 2015, Numar persoane,51
+ 159393 FIBIS,20-24 ani, Feminin, Timis, Anul 2016, Numar persoane,46
+ 159393 FIBIS,20-24 ani, Feminin, Timis, Anul 2017, Numar persoane,39
+ 159393 FIBIS,25-29 ani, Masculin, Timis, Anul 2013, Numar persoane,65
+ 159393 FIBIS,25-29 ani, Masculin, Timis, Anul 2014, Numar persoane,61
+ 159393 FIBIS,25-29 ani, Masculin, Timis, Anul 2015, Numar persoane,60
+ 159393 FIBIS,25-29 ani, Masculin, Timis, Anul 2016, Numar persoane,58
+ 159393 FIBIS,25-29 ani, Masculin, Timis, Anul 2017, Numar persoane,61
+ 159393 FIBIS,25-29 ani, Feminin, Timis, Anul 2013, Numar persoane,61
+ 159393 FIBIS,25-29 ani, Feminin, Timis, Anul 2014, Numar persoane,61
+ 159393 FIBIS,25-29 ani, Feminin, Timis, Anul 2015, Numar persoane,69
+ 159393 FIBIS,25-29 ani, Feminin, Timis, Anul 2016, Numar persoane,67
+ 159393 FIBIS,25-29 ani, Feminin, Timis, Anul 2017, Numar persoane,78
+ 159393 FIBIS,30-34 ani, Masculin, Timis, Anul 2013, Numar persoane,68
+ 159393 FIBIS,30-34 ani, Masculin, Timis, Anul 2014, Numar persoane,66
+ 159393 FIBIS,30-34 ani, Masculin, Timis, Anul 2015, Numar persoane,74
+ 159393 FIBIS,30-34 ani, Masculin, Timis, Anul 2016, Numar persoane,66
+ 159393 FIBIS,30-34 ani, Masculin, Timis, Anul 2017, Numar persoane,72
+ 159393 FIBIS,30-34 ani, Feminin, Timis, Anul 2013, Numar persoane,66
+ 159393 FIBIS,30-34 ani, Feminin, Timis, Anul 2014, Numar persoane,73
+ 159393 FIBIS,30-34 ani, Feminin, Timis, Anul 2015, Numar persoane,58
+ 159393 FIBIS,30-34 ani, Feminin, Timis, Anul 2016, Numar persoane,58
+ 159393 FIBIS,30-34 ani, Feminin, Timis, Anul 2017, Numar persoane,59
+ 159393 FIBIS,35-39 ani, Masculin, Timis, Anul 2013, Numar persoane,73
+ 159393 FIBIS,35-39 ani, Masculin, Timis, Anul 2014, Numar persoane,77
+ 159393 FIBIS,35-39 ani, Masculin, Timis, Anul 2015, Numar persoane,78
+ 159393 FIBIS,35-39 ani, Masculin, Timis, Anul 2016, Numar persoane,82
+ 159393 FIBIS,35-39 ani, Masculin, Timis, Anul 2017, Numar persoane,74
+ 159393 FIBIS,35-39 ani, Feminin, Timis, Anul 2013, Numar persoane,68
+ 159393 FIBIS,35-39 ani, Feminin, Timis, Anul 2014, Numar persoane,62
+ 159393 FIBIS,35-39 ani, Feminin, Timis, Anul 2015, Numar persoane,78
+ 159393 FIBIS,35-39 ani, Feminin, Timis, Anul 2016, Numar persoane,79
+ 159393 FIBIS,35-39 ani, Feminin, Timis, Anul 2017, Numar persoane,69
+ 159393 FIBIS,40-44 ani, Masculin, Timis, Anul 2013, Numar persoane,87
+ 159393 FIBIS,40-44 ani, Masculin, Timis, Anul 2014, Numar persoane,76
+ 159393 FIBIS,40-44 ani, Masculin, Timis, Anul 2015, Numar persoane,68
+ 159393 FIBIS,40-44 ani, Masculin, Timis, Anul 2016, Numar persoane,69
+ 159393 FIBIS,40-44 ani, Masculin, Timis, Anul 2017, Numar persoane,75
+ 159393 FIBIS,40-44 ani, Feminin, Timis, Anul 2013, Numar persoane,59
+ 159393 FIBIS,40-44 ani, Feminin, Timis, Anul 2014, Numar persoane,62
+ 159393 FIBIS,40-44 ani, Feminin, Timis, Anul 2015, Numar persoane,59
+ 159393 FIBIS,40-44 ani, Feminin, Timis, Anul 2016, Numar persoane,62
+ 159393 FIBIS,40-44 ani, Feminin, Timis, Anul 2017, Numar persoane,68
+ 159393 FIBIS,45-49 ani, Masculin, Timis, Anul 2013, Numar persoane,49
+ 159393 FIBIS,45-49 ani, Masculin, Timis, Anul 2014, Numar persoane,62
+ 159393 FIBIS,45-49 ani, Masculin, Timis, Anul 2015, Numar persoane,70
+ 159393 FIBIS,45-49 ani, Masculin, Timis, Anul 2016, Numar persoane,77
+ 159393 FIBIS,45-49 ani, Masculin, Timis, Anul 2017, Numar persoane,86
+ 159393 FIBIS,45-49 ani, Feminin, Timis, Anul 2013, Numar persoane,41
+ 159393 FIBIS,45-49 ani, Feminin, Timis, Anul 2014, Numar persoane,40
+ 159393 FIBIS,45-49 ani, Feminin, Timis, Anul 2015, Numar persoane,45
+ 159393 FIBIS,45-49 ani, Feminin, Timis, Anul 2016, Numar persoane,48
+ 159393 FIBIS,45-49 ani, Feminin, Timis, Anul 2017, Numar persoane,52
+ 159393 FIBIS,50-54 ani, Masculin, Timis, Anul 2013, Numar persoane,38
+ 159393 FIBIS,50-54 ani, Masculin, Timis, Anul 2014, Numar persoane,41
+ 159393 FIBIS,50-54 ani, Masculin, Timis, Anul 2015, Numar persoane,44
+ 159393 FIBIS,50-54 ani, Masculin, Timis, Anul 2016, Numar persoane,46
+ 159393 FIBIS,50-54 ani, Masculin, Timis, Anul 2017, Numar persoane,40
+ 159393 FIBIS,50-54 ani, Feminin, Timis, Anul 2013, Numar persoane,40
+ 159393 FIBIS,50-54 ani, Feminin, Timis, Anul 2014, Numar persoane,50
+ 159393 FIBIS,50-54 ani, Feminin, Timis, Anul 2015, Numar persoane,41
+ 159393 FIBIS,50-54 ani, Feminin, Timis, Anul 2016, Numar persoane,37
+ 159393 FIBIS,50-54 ani, Feminin, Timis, Anul 2017, Numar persoane,38
+ 159393 FIBIS,55-59 ani, Masculin, Timis, Anul 2013, Numar persoane,42
+ 159393 FIBIS,55-59 ani, Masculin, Timis, Anul 2014, Numar persoane,47
+ 159393 FIBIS,55-59 ani, Masculin, Timis, Anul 2015, Numar persoane,51
+ 159393 FIBIS,55-59 ani, Masculin, Timis, Anul 2016, Numar persoane,50
+ 159393 FIBIS,55-59 ani, Masculin, Timis, Anul 2017, Numar persoane,45
+ 159393 FIBIS,55-59 ani, Feminin, Timis, Anul 2013, Numar persoane,53
+ 159393 FIBIS,55-59 ani, Feminin, Timis, Anul 2014, Numar persoane,49
+ 159393 FIBIS,55-59 ani, Feminin, Timis, Anul 2015, Numar persoane,51
+ 159393 FIBIS,55-59 ani, Feminin, Timis, Anul 2016, Numar persoane,52
+ 159393 FIBIS,55-59 ani, Feminin, Timis, Anul 2017, Numar persoane,48
+ 159393 FIBIS,60-64 ani, Masculin, Timis, Anul 2013, Numar persoane,50
+ 159393 FIBIS,60-64 ani, Masculin, Timis, Anul 2014, Numar persoane,42
+ 159393 FIBIS,60-64 ani, Masculin, Timis, Anul 2015, Numar persoane,40
+ 159393 FIBIS,60-64 ani, Masculin, Timis, Anul 2016, Numar persoane,39
+ 159393 FIBIS,60-64 ani, Masculin, Timis, Anul 2017, Numar persoane,41
+ 159393 FIBIS,60-64 ani, Feminin, Timis, Anul 2013, Numar persoane,60
+ 159393 FIBIS,60-64 ani, Feminin, Timis, Anul 2014, Numar persoane,62
+ 159393 FIBIS,60-64 ani, Feminin, Timis, Anul 2015, Numar persoane,62
+ 159393 FIBIS,60-64 ani, Feminin, Timis, Anul 2016, Numar persoane,55
+ 159393 FIBIS,60-64 ani, Feminin, Timis, Anul 2017, Numar persoane,60
+ 159393 FIBIS,65-69 ani, Masculin, Timis, Anul 2013, Numar persoane,43
+ 159393 FIBIS,65-69 ani, Masculin, Timis, Anul 2014, Numar persoane,44
+ 159393 FIBIS,65-69 ani, Masculin, Timis, Anul 2015, Numar persoane,45
+ 159393 FIBIS,65-69 ani, Masculin, Timis, Anul 2016, Numar persoane,52
+ 159393 FIBIS,65-69 ani, Masculin, Timis, Anul 2017, Numar persoane,49
+ 159393 FIBIS,65-69 ani, Feminin, Timis, Anul 2013, Numar persoane,41
+ 159393 FIBIS,65-69 ani, Feminin, Timis, Anul 2014, Numar persoane,42
+ 159393 FIBIS,65-69 ani, Feminin, Timis, Anul 2015, Numar persoane,54
+ 159393 FIBIS,65-69 ani, Feminin, Timis, Anul 2016, Numar persoane,63
+ 159393 FIBIS,65-69 ani, Feminin, Timis, Anul 2017, Numar persoane,59
+ 159393 FIBIS,70-74 ani, Masculin, Timis, Anul 2013, Numar persoane,41
+ 159393 FIBIS,70-74 ani, Masculin, Timis, Anul 2014, Numar persoane,38
+ 159393 FIBIS,70-74 ani, Masculin, Timis, Anul 2015, Numar persoane,36
+ 159393 FIBIS,70-74 ani, Masculin, Timis, Anul 2016, Numar persoane,29
+ 159393 FIBIS,70-74 ani, Masculin, Timis, Anul 2017, Numar persoane,37
+ 159393 FIBIS,70-74 ani, Feminin, Timis, Anul 2013, Numar persoane,44
+ 159393 FIBIS,70-74 ani, Feminin, Timis, Anul 2014, Numar persoane,45
+ 159393 FIBIS,70-74 ani, Feminin, Timis, Anul 2015, Numar persoane,38
+ 159393 FIBIS,70-74 ani, Feminin, Timis, Anul 2016, Numar persoane,30
+ 159393 FIBIS,70-74 ani, Feminin, Timis, Anul 2017, Numar persoane,36
+ 159393 FIBIS,75-79 ani, Masculin, Timis, Anul 2013, Numar persoane,16
+ 159393 FIBIS,75-79 ani, Masculin, Timis, Anul 2014, Numar persoane,23
+ 159393 FIBIS,75-79 ani, Masculin, Timis, Anul 2015, Numar persoane,25
+ 159393 FIBIS,75-79 ani, Masculin, Timis, Anul 2016, Numar persoane,25
+ 159393 FIBIS,75-79 ani, Masculin, Timis, Anul 2017, Numar persoane,25
+ 159393 FIBIS,75-79 ani, Feminin, Timis, Anul 2013, Numar persoane,36
+ 159393 FIBIS,75-79 ani, Feminin, Timis, Anul 2014, Numar persoane,34
+ 159393 FIBIS,75-79 ani, Feminin, Timis, Anul 2015, Numar persoane,45
+ 159393 FIBIS,75-79 ani, Feminin, Timis, Anul 2016, Numar persoane,49
+ 159393 FIBIS,75-79 ani, Feminin, Timis, Anul 2017, Numar persoane,43
+ 159393 FIBIS,80-84 ani, Masculin, Timis, Anul 2013, Numar persoane,14
+ 159393 FIBIS,80-84 ani, Masculin, Timis, Anul 2014, Numar persoane,11
+ 159393 FIBIS,80-84 ani, Masculin, Timis, Anul 2015, Numar persoane,8
+ 159393 FIBIS,80-84 ani, Masculin, Timis, Anul 2016, Numar persoane,10
+ 159393 FIBIS,80-84 ani, Masculin, Timis, Anul 2017, Numar persoane,10
+ 159393 FIBIS,80-84 ani, Feminin, Timis, Anul 2013, Numar persoane,28
+ 159393 FIBIS,80-84 ani, Feminin, Timis, Anul 2014, Numar persoane,29
+ 159393 FIBIS,80-84 ani, Feminin, Timis, Anul 2015, Numar persoane,25
+ 159393 FIBIS,80-84 ani, Feminin, Timis, Anul 2016, Numar persoane,25
+ 159393 FIBIS,80-84 ani, Feminin, Timis, Anul 2017, Numar persoane,27
+ 159393 FIBIS,85 ani si peste, Masculin, Timis, Anul 2013, Numar persoane,13
+ 159393 FIBIS,85 ani si peste, Masculin, Timis, Anul 2014, Numar persoane,11
+ 159393 FIBIS,85 ani si peste, Masculin, Timis, Anul 2015, Numar persoane,10
+ 159393 FIBIS,85 ani si peste, Masculin, Timis, Anul 2016, Numar persoane,11
+ 159393 FIBIS,85 ani si peste, Masculin, Timis, Anul 2017, Numar persoane,11
+ 159393 FIBIS,85 ani si peste, Feminin, Timis, Anul 2013, Numar persoane,16
+ 159393 FIBIS,85 ani si peste, Feminin, Timis, Anul 2014, Numar persoane,17
+ 159393 FIBIS,85 ani si peste, Feminin, Timis, Anul 2015, Numar persoane,16
+ 159393 FIBIS,85 ani si peste, Feminin, Timis, Anul 2016, Numar persoane,21
+ 159393 FIBIS,85 ani si peste, Feminin, Timis, Anul 2017, Numar persoane,22

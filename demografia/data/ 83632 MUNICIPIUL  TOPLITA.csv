@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2009, Numar persoane,449
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2010, Numar persoane,446
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2011, Numar persoane,415
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2012, Numar persoane,378
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2013, Numar persoane,373
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2014, Numar persoane,356
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2015, Numar persoane,344
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2016, Numar persoane,324
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2017, Numar persoane,340
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2009, Numar persoane,434
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2010, Numar persoane,420
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2011, Numar persoane,433
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2012, Numar persoane,428
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2013, Numar persoane,419
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2014, Numar persoane,422
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2015, Numar persoane,424
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2016, Numar persoane,403
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2017, Numar persoane,369
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2009, Numar persoane,432
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2010, Numar persoane,458
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2011, Numar persoane,437
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2012, Numar persoane,446
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2013, Numar persoane,443
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2014, Numar persoane,419
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2015, Numar persoane,412
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2016, Numar persoane,423
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2017, Numar persoane,417
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2009, Numar persoane,581
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2010, Numar persoane,514
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2011, Numar persoane,462
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2012, Numar persoane,424
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2013, Numar persoane,413
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2014, Numar persoane,419
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2015, Numar persoane,428
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2016, Numar persoane,420
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2017, Numar persoane,433
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2009, Numar persoane,707
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2010, Numar persoane,713
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2011, Numar persoane,713
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2012, Numar persoane,669
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2013, Numar persoane,611
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2014, Numar persoane,555
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2015, Numar persoane,504
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2016, Numar persoane,451
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2017, Numar persoane,419
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2009, Numar persoane,745
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2010, Numar persoane,710
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2011, Numar persoane,673
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2012, Numar persoane,672
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2013, Numar persoane,678
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2014, Numar persoane,656
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2015, Numar persoane,659
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2016, Numar persoane,669
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2017, Numar persoane,624
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2009, Numar persoane,724
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2010, Numar persoane,714
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2011, Numar persoane,709
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2012, Numar persoane,707
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2013, Numar persoane,707
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2014, Numar persoane,694
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2015, Numar persoane,660
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2016, Numar persoane,641
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2017, Numar persoane,625
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2009, Numar persoane,725
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2010, Numar persoane,717
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2011, Numar persoane,719
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2012, Numar persoane,708
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2013, Numar persoane,707
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2014, Numar persoane,702
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2015, Numar persoane,691
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2016, Numar persoane,676
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2017, Numar persoane,673
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2009, Numar persoane,626
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2010, Numar persoane,704
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2011, Numar persoane,757
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2012, Numar persoane,825
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2013, Numar persoane,775
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2014, Numar persoane,718
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2015, Numar persoane,710
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2016, Numar persoane,712
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2017, Numar persoane,713
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2009, Numar persoane,535
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2010, Numar persoane,515
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2011, Numar persoane,472
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2012, Numar persoane,452
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2013, Numar persoane,514
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2014, Numar persoane,606
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2015, Numar persoane,672
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2016, Numar persoane,731
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2017, Numar persoane,797
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2009, Numar persoane,626
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2010, Numar persoane,618
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2011, Numar persoane,596
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2012, Numar persoane,553
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2013, Numar persoane,543
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2014, Numar persoane,519
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2015, Numar persoane,501
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2016, Numar persoane,450
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2017, Numar persoane,427
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2009, Numar persoane,526
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2010, Numar persoane,521
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2011, Numar persoane,560
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2012, Numar persoane,569
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2013, Numar persoane,566
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2014, Numar persoane,574
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2015, Numar persoane,566
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2016, Numar persoane,550
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2017, Numar persoane,509
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2009, Numar persoane,321
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2010, Numar persoane,337
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2011, Numar persoane,348
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2012, Numar persoane,410
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2013, Numar persoane,441
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2014, Numar persoane,470
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2015, Numar persoane,467
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2016, Numar persoane,515
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2017, Numar persoane,529
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2009, Numar persoane,286
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2010, Numar persoane,291
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2011, Numar persoane,284
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2012, Numar persoane,258
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2013, Numar persoane,261
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2014, Numar persoane,273
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2015, Numar persoane,289
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2016, Numar persoane,310
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2017, Numar persoane,367
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2009, Numar persoane,225
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2010, Numar persoane,232
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2011, Numar persoane,233
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2012, Numar persoane,236
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2013, Numar persoane,250
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2014, Numar persoane,243
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2015, Numar persoane,247
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2016, Numar persoane,233
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2017, Numar persoane,214
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2009, Numar persoane,134
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2010, Numar persoane,147
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2011, Numar persoane,161
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2012, Numar persoane,172
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2013, Numar persoane,168
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2014, Numar persoane,170
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2015, Numar persoane,177
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2016, Numar persoane,185
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2017, Numar persoane,185
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2009, Numar persoane,77
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2010, Numar persoane,71
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2011, Numar persoane,68
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2012, Numar persoane,75
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2013, Numar persoane,77
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2014, Numar persoane,90
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2015, Numar persoane,104
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2016, Numar persoane,108
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2017, Numar persoane,105
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2009, Numar persoane,40
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2010, Numar persoane,45
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2011, Numar persoane,42
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2012, Numar persoane,46
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2013, Numar persoane,44
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2014, Numar persoane,47
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2015, Numar persoane,47
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2016, Numar persoane,43
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2017, Numar persoane,50
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 1992, Numar persoane,748
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 1993, Numar persoane,687
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 1994, Numar persoane,613
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 1995, Numar persoane,526
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 1996, Numar persoane,471
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 1997, Numar persoane,438
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 1998, Numar persoane,429
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 1999, Numar persoane,441
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2000, Numar persoane,460
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2001, Numar persoane,452
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2002, Numar persoane,467
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2003, Numar persoane,468
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2004, Numar persoane,449
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2005, Numar persoane,443
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2006, Numar persoane,459
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2007, Numar persoane,450
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Masculin, Harghita, Anul 2008, Numar persoane,438
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 1992, Numar persoane,789
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 1993, Numar persoane,802
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 1994, Numar persoane,798
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 1995, Numar persoane,787
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 1996, Numar persoane,781
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 1997, Numar persoane,713
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 1998, Numar persoane,655
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 1999, Numar persoane,596
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2000, Numar persoane,520
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2001, Numar persoane,468
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2002, Numar persoane,436
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2003, Numar persoane,418
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2004, Numar persoane,429
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2005, Numar persoane,455
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2006, Numar persoane,449
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2007, Numar persoane,470
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Masculin, Harghita, Anul 2008, Numar persoane,460
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 1992, Numar persoane,838
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 1993, Numar persoane,851
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 1994, Numar persoane,836
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 1995, Numar persoane,802
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 1996, Numar persoane,770
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 1997, Numar persoane,769
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 1998, Numar persoane,782
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 1999, Numar persoane,783
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2000, Numar persoane,774
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2001, Numar persoane,777
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2002, Numar persoane,708
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2003, Numar persoane,657
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2004, Numar persoane,599
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2005, Numar persoane,518
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2006, Numar persoane,460
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2007, Numar persoane,429
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Masculin, Harghita, Anul 2008, Numar persoane,412
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 1992, Numar persoane,796
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 1993, Numar persoane,789
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 1994, Numar persoane,807
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 1995, Numar persoane,804
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 1996, Numar persoane,799
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 1997, Numar persoane,815
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 1998, Numar persoane,821
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 1999, Numar persoane,801
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2000, Numar persoane,783
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2001, Numar persoane,749
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2002, Numar persoane,756
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2003, Numar persoane,768
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2004, Numar persoane,750
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2005, Numar persoane,744
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2006, Numar persoane,748
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2007, Numar persoane,686
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Masculin, Harghita, Anul 2008, Numar persoane,639
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 1992, Numar persoane,873
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 1993, Numar persoane,815
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 1994, Numar persoane,777
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 1995, Numar persoane,776
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 1996, Numar persoane,784
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 1997, Numar persoane,776
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 1998, Numar persoane,765
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 1999, Numar persoane,774
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2000, Numar persoane,774
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2001, Numar persoane,777
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2002, Numar persoane,798
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2003, Numar persoane,807
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2004, Numar persoane,782
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2005, Numar persoane,758
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2006, Numar persoane,726
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2007, Numar persoane,720
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Masculin, Harghita, Anul 2008, Numar persoane,725
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 1992, Numar persoane,491
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 1993, Numar persoane,580
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 1994, Numar persoane,674
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 1995, Numar persoane,741
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 1996, Numar persoane,794
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 1997, Numar persoane,862
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 1998, Numar persoane,795
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 1999, Numar persoane,752
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2000, Numar persoane,751
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2001, Numar persoane,763
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2002, Numar persoane,756
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2003, Numar persoane,756
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2004, Numar persoane,763
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2005, Numar persoane,765
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2006, Numar persoane,759
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2007, Numar persoane,768
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Masculin, Harghita, Anul 2008, Numar persoane,766
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 1992, Numar persoane,670
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 1993, Numar persoane,633
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 1994, Numar persoane,595
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 1995, Numar persoane,565
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 1996, Numar persoane,519
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 1997, Numar persoane,490
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 1998, Numar persoane,563
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 1999, Numar persoane,660
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2000, Numar persoane,729
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2001, Numar persoane,789
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2002, Numar persoane,864
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2003, Numar persoane,818
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2004, Numar persoane,763
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2005, Numar persoane,745
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2006, Numar persoane,750
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2007, Numar persoane,737
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Masculin, Harghita, Anul 2008, Numar persoane,726
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 1992, Numar persoane,760
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 1993, Numar persoane,752
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 1994, Numar persoane,758
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 1995, Numar persoane,740
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 1996, Numar persoane,713
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 1997, Numar persoane,641
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 1998, Numar persoane,622
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 1999, Numar persoane,578
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2000, Numar persoane,553
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2001, Numar persoane,508
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2002, Numar persoane,477
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2003, Numar persoane,555
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2004, Numar persoane,647
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2005, Numar persoane,715
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2006, Numar persoane,767
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2007, Numar persoane,834
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Masculin, Harghita, Anul 2008, Numar persoane,777
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 1992, Numar persoane,566
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 1993, Numar persoane,615
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 1994, Numar persoane,670
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 1995, Numar persoane,669
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 1996, Numar persoane,701
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 1997, Numar persoane,731
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 1998, Numar persoane,722
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 1999, Numar persoane,728
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2000, Numar persoane,703
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2001, Numar persoane,679
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2002, Numar persoane,626
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2003, Numar persoane,599
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2004, Numar persoane,563
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2005, Numar persoane,535
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2006, Numar persoane,490
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2007, Numar persoane,466
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Masculin, Harghita, Anul 2008, Numar persoane,529
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 1992, Numar persoane,432
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 1993, Numar persoane,424
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 1994, Numar persoane,429
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 1995, Numar persoane,441
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 1996, Numar persoane,474
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 1997, Numar persoane,533
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 1998, Numar persoane,580
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 1999, Numar persoane,626
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2000, Numar persoane,632
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2001, Numar persoane,667
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2002, Numar persoane,682
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2003, Numar persoane,673
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2004, Numar persoane,674
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2005, Numar persoane,662
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2006, Numar persoane,638
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2007, Numar persoane,585
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Masculin, Harghita, Anul 2008, Numar persoane,567
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 1992, Numar persoane,454
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 1993, Numar persoane,471
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 1994, Numar persoane,447
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 1995, Numar persoane,451
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 1996, Numar persoane,427
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 1997, Numar persoane,396
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 1998, Numar persoane,394
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 1999, Numar persoane,397
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2000, Numar persoane,410
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2001, Numar persoane,445
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2002, Numar persoane,505
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2003, Numar persoane,551
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2004, Numar persoane,588
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2005, Numar persoane,575
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2006, Numar persoane,616
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2007, Numar persoane,630
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Masculin, Harghita, Anul 2008, Numar persoane,622
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 1992, Numar persoane,391
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 1993, Numar persoane,394
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 1994, Numar persoane,397
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 1995, Numar persoane,416
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 1996, Numar persoane,418
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 1997, Numar persoane,416
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 1998, Numar persoane,423
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 1999, Numar persoane,402
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2000, Numar persoane,403
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2001, Numar persoane,385
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2002, Numar persoane,358
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2003, Numar persoane,360
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2004, Numar persoane,373
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2005, Numar persoane,385
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2006, Numar persoane,413
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2007, Numar persoane,470
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Masculin, Harghita, Anul 2008, Numar persoane,503
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 1992, Numar persoane,338
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 1993, Numar persoane,325
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 1994, Numar persoane,330
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 1995, Numar persoane,343
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 1996, Numar persoane,339
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 1997, Numar persoane,339
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 1998, Numar persoane,342
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 1999, Numar persoane,351
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2000, Numar persoane,366
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2001, Numar persoane,360
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2002, Numar persoane,365
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2003, Numar persoane,376
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2004, Numar persoane,353
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2005, Numar persoane,345
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2006, Numar persoane,332
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2007, Numar persoane,304
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Masculin, Harghita, Anul 2008, Numar persoane,311
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 1992, Numar persoane,244
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 1993, Numar persoane,247
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 1994, Numar persoane,248
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 1995, Numar persoane,241
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 1996, Numar persoane,261
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 1997, Numar persoane,268
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 1998, Numar persoane,263
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 1999, Numar persoane,267
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2000, Numar persoane,276
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2001, Numar persoane,276
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2002, Numar persoane,276
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2003, Numar persoane,279
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2004, Numar persoane,288
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2005, Numar persoane,298
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2006, Numar persoane,299
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2007, Numar persoane,300
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Masculin, Harghita, Anul 2008, Numar persoane,310
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 1992, Numar persoane,117
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 1993, Numar persoane,137
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 1994, Numar persoane,159
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 1995, Numar persoane,167
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 1996, Numar persoane,170
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 1997, Numar persoane,177
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 1998, Numar persoane,173
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 1999, Numar persoane,183
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2000, Numar persoane,168
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2001, Numar persoane,187
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2002, Numar persoane,201
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2003, Numar persoane,198
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2004, Numar persoane,205
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2005, Numar persoane,212
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2006, Numar persoane,211
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2007, Numar persoane,220
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Masculin, Harghita, Anul 2008, Numar persoane,221
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 1992, Numar persoane,98
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 1993, Numar persoane,75
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 1994, Numar persoane,60
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 1995, Numar persoane,64
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 1996, Numar persoane,72
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 1997, Numar persoane,73
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 1998, Numar persoane,97
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 1999, Numar persoane,102
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2000, Numar persoane,105
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2001, Numar persoane,107
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2002, Numar persoane,117
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2003, Numar persoane,118
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2004, Numar persoane,119
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2005, Numar persoane,109
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2006, Numar persoane,128
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2007, Numar persoane,138
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Masculin, Harghita, Anul 2008, Numar persoane,133
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 1992, Numar persoane,52
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 1993, Numar persoane,55
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 1994, Numar persoane,57
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 1995, Numar persoane,57
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 1996, Numar persoane,52
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 1997, Numar persoane,50
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 1998, Numar persoane,39
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 1999, Numar persoane,31
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2000, Numar persoane,39
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2001, Numar persoane,40
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2002, Numar persoane,41
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2003, Numar persoane,58
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2004, Numar persoane,70
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2005, Numar persoane,76
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2006, Numar persoane,72
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2007, Numar persoane,77
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Masculin, Harghita, Anul 2008, Numar persoane,75
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 1992, Numar persoane,18
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 1993, Numar persoane,21
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 1994, Numar persoane,25
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 1995, Numar persoane,24
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 1996, Numar persoane,28
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 1997, Numar persoane,26
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 1998, Numar persoane,30
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 1999, Numar persoane,32
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2000, Numar persoane,33
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2001, Numar persoane,35
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2002, Numar persoane,35
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2003, Numar persoane,32
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2004, Numar persoane,29
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2005, Numar persoane,35
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2006, Numar persoane,34
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2007, Numar persoane,32
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Masculin, Harghita, Anul 2008, Numar persoane,40
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 1992, Numar persoane,783
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 1993, Numar persoane,721
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 1994, Numar persoane,665
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 1995, Numar persoane,571
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 1996, Numar persoane,496
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 1997, Numar persoane,450
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 1998, Numar persoane,426
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 1999, Numar persoane,425
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2000, Numar persoane,434
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2001, Numar persoane,440
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2002, Numar persoane,445
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2003, Numar persoane,454
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2004, Numar persoane,443
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2005, Numar persoane,446
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2006, Numar persoane,448
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 1992, Numar persoane,767
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 1993, Numar persoane,769
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 1994, Numar persoane,790
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 1995, Numar persoane,816
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 1996, Numar persoane,806
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 1997, Numar persoane,760
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 1998, Numar persoane,705
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 1999, Numar persoane,643
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2000, Numar persoane,553
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2001, Numar persoane,485
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2002, Numar persoane,444
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2003, Numar persoane,420
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2004, Numar persoane,424
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2005, Numar persoane,426
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2006, Numar persoane,443
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 1992, Numar persoane,777
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 1993, Numar persoane,772
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 1994, Numar persoane,754
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 1995, Numar persoane,735
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 1996, Numar persoane,721
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 1997, Numar persoane,742
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 1998, Numar persoane,742
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 1999, Numar persoane,763
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2000, Numar persoane,800
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2001, Numar persoane,787
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2002, Numar persoane,740
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2003, Numar persoane,689
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2004, Numar persoane,630
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2005, Numar persoane,546
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2006, Numar persoane,484
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 1992, Numar persoane,694
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 1993, Numar persoane,691
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 1994, Numar persoane,743
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 1995, Numar persoane,761
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 1996, Numar persoane,773
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 1997, Numar persoane,758
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 1998, Numar persoane,757
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 1999, Numar persoane,734
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2000, Numar persoane,716
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2001, Numar persoane,716
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2002, Numar persoane,737
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2003, Numar persoane,735
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2004, Numar persoane,757
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2005, Numar persoane,782
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2006, Numar persoane,767
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 1992, Numar persoane,935
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 1993, Numar persoane,893
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 1994, Numar persoane,791
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 1995, Numar persoane,720
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 1996, Numar persoane,645
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 1997, Numar persoane,646
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 1998, Numar persoane,661
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 1999, Numar persoane,699
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2000, Numar persoane,726
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2001, Numar persoane,755
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2002, Numar persoane,740
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2003, Numar persoane,734
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2004, Numar persoane,713
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2005, Numar persoane,693
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2006, Numar persoane,694
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 1992, Numar persoane,576
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 1993, Numar persoane,668
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 1994, Numar persoane,755
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 1995, Numar persoane,802
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 1996, Numar persoane,880
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 1997, Numar persoane,886
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 1998, Numar persoane,818
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 1999, Numar persoane,738
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2000, Numar persoane,667
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2001, Numar persoane,616
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2002, Numar persoane,634
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2003, Numar persoane,638
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2004, Numar persoane,667
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2005, Numar persoane,683
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2006, Numar persoane,699
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 1992, Numar persoane,785
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 1993, Numar persoane,712
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 1994, Numar persoane,648
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 1995, Numar persoane,605
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 1996, Numar persoane,577
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 1997, Numar persoane,549
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 1998, Numar persoane,639
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 1999, Numar persoane,723
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2000, Numar persoane,767
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2001, Numar persoane,829
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2002, Numar persoane,851
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2003, Numar persoane,806
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2004, Numar persoane,729
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2005, Numar persoane,651
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2006, Numar persoane,596
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 1992, Numar persoane,718
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 1993, Numar persoane,764
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 1994, Numar persoane,798
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 1995, Numar persoane,803
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 1996, Numar persoane,774
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 1997, Numar persoane,750
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 1998, Numar persoane,688
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 1999, Numar persoane,626
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2000, Numar persoane,599
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2001, Numar persoane,560
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2002, Numar persoane,532
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2003, Numar persoane,606
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2004, Numar persoane,686
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2005, Numar persoane,733
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2006, Numar persoane,792
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 1992, Numar persoane,539
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 1993, Numar persoane,570
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 1994, Numar persoane,604
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 1995, Numar persoane,608
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 1996, Numar persoane,628
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 1997, Numar persoane,682
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 1998, Numar persoane,721
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 1999, Numar persoane,755
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2000, Numar persoane,765
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2001, Numar persoane,752
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2002, Numar persoane,727
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2003, Numar persoane,670
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2004, Numar persoane,613
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2005, Numar persoane,575
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2006, Numar persoane,545
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 1992, Numar persoane,443
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 1993, Numar persoane,452
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 1994, Numar persoane,450
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 1995, Numar persoane,462
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 1996, Numar persoane,505
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 1997, Numar persoane,519
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 1998, Numar persoane,548
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 1999, Numar persoane,580
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2000, Numar persoane,587
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2001, Numar persoane,604
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2002, Numar persoane,662
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2003, Numar persoane,706
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2004, Numar persoane,733
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2005, Numar persoane,750
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2006, Numar persoane,731
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 1992, Numar persoane,461
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 1993, Numar persoane,441
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 1994, Numar persoane,422
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 1995, Numar persoane,441
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 1996, Numar persoane,423
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 1997, Numar persoane,421
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 1998, Numar persoane,431
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 1999, Numar persoane,429
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2000, Numar persoane,445
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2001, Numar persoane,487
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2002, Numar persoane,502
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2003, Numar persoane,530
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2004, Numar persoane,563
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2005, Numar persoane,568
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2006, Numar persoane,579
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 1992, Numar persoane,395
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 1993, Numar persoane,400
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 1994, Numar persoane,414
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 1995, Numar persoane,422
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 1996, Numar persoane,440
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 1997, Numar persoane,438
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 1998, Numar persoane,421
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 1999, Numar persoane,399
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2000, Numar persoane,416
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2001, Numar persoane,396
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2002, Numar persoane,397
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2003, Numar persoane,414
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2004, Numar persoane,413
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2005, Numar persoane,427
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2006, Numar persoane,467
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 1992, Numar persoane,366
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 1993, Numar persoane,390
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 1994, Numar persoane,385
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 1995, Numar persoane,394
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 1996, Numar persoane,370
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 1997, Numar persoane,365
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 1998, Numar persoane,363
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 1999, Numar persoane,379
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2000, Numar persoane,392
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2001, Numar persoane,414
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2002, Numar persoane,403
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2003, Numar persoane,387
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2004, Numar persoane,372
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2005, Numar persoane,390
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2006, Numar persoane,376
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 1992, Numar persoane,272
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 1993, Numar persoane,267
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 1994, Numar persoane,288
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 1995, Numar persoane,291
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 1996, Numar persoane,321
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 1997, Numar persoane,326
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 1998, Numar persoane,345
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 1999, Numar persoane,352
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2000, Numar persoane,358
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2001, Numar persoane,334
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2002, Numar persoane,333
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2003, Numar persoane,333
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2004, Numar persoane,346
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2005, Numar persoane,358
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2006, Numar persoane,383
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 1992, Numar persoane,157
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 1993, Numar persoane,181
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 1994, Numar persoane,192
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 1995, Numar persoane,198
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 1996, Numar persoane,207
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 1997, Numar persoane,225
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 1998, Numar persoane,222
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 1999, Numar persoane,240
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2000, Numar persoane,254
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2001, Numar persoane,292
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2002, Numar persoane,297
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2003, Numar persoane,310
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2004, Numar persoane,316
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2005, Numar persoane,323
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2006, Numar persoane,305
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 1992, Numar persoane,126
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 1993, Numar persoane,115
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 1994, Numar persoane,102
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 1995, Numar persoane,103
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 1996, Numar persoane,102
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 1997, Numar persoane,117
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 1998, Numar persoane,138
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 1999, Numar persoane,148
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2000, Numar persoane,149
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2001, Numar persoane,155
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2002, Numar persoane,169
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2003, Numar persoane,172
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2004, Numar persoane,190
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2005, Numar persoane,197
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2006, Numar persoane,216
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 1992, Numar persoane,88
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 1993, Numar persoane,95
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 1994, Numar persoane,87
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 1995, Numar persoane,85
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 1996, Numar persoane,83
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 1997, Numar persoane,74
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 1998, Numar persoane,67
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 1999, Numar persoane,64
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2000, Numar persoane,76
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2001, Numar persoane,71
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2002, Numar persoane,77
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2003, Numar persoane,89
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2004, Numar persoane,86
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2005, Numar persoane,96
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2006, Numar persoane,102
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 1992, Numar persoane,39
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 1993, Numar persoane,35
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 1994, Numar persoane,48
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 1995, Numar persoane,53
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 1996, Numar persoane,52
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 1997, Numar persoane,47
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 1998, Numar persoane,44
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 1999, Numar persoane,47
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2000, Numar persoane,46
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2001, Numar persoane,47
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2002, Numar persoane,48
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2003, Numar persoane,45
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2004, Numar persoane,44
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2005, Numar persoane,55
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2006, Numar persoane,55
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2007, Numar persoane,460
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2008, Numar persoane,456
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2009, Numar persoane,433
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2010, Numar persoane,420
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2011, Numar persoane,411
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2012, Numar persoane,369
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2013, Numar persoane,342
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2014, Numar persoane,337
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2015, Numar persoane,318
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2016, Numar persoane,319
+ 83632 MUNICIPIUL  TOPLITA,0- 4 ani, Feminin, Harghita, Anul 2017, Numar persoane,335
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2007, Numar persoane,438
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2008, Numar persoane,441
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2009, Numar persoane,427
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2010, Numar persoane,431
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2011, Numar persoane,426
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2012, Numar persoane,441
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2013, Numar persoane,427
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2014, Numar persoane,415
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2015, Numar persoane,404
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2016, Numar persoane,403
+ 83632 MUNICIPIUL  TOPLITA,5- 9 ani, Feminin, Harghita, Anul 2017, Numar persoane,361
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2007, Numar persoane,431
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2008, Numar persoane,403
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2009, Numar persoane,411
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2010, Numar persoane,414
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2011, Numar persoane,429
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2012, Numar persoane,413
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2013, Numar persoane,414
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2014, Numar persoane,407
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2015, Numar persoane,418
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2016, Numar persoane,408
+ 83632 MUNICIPIUL  TOPLITA,10-14 ani, Feminin, Harghita, Anul 2017, Numar persoane,422
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2007, Numar persoane,722
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2008, Numar persoane,662
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2009, Numar persoane,597
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2010, Numar persoane,519
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2011, Numar persoane,445
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2012, Numar persoane,397
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2013, Numar persoane,389
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2014, Numar persoane,390
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2015, Numar persoane,398
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2016, Numar persoane,425
+ 83632 MUNICIPIUL  TOPLITA,15-19 ani, Feminin, Harghita, Anul 2017, Numar persoane,427
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2007, Numar persoane,702
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2008, Numar persoane,702
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2009, Numar persoane,721
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2010, Numar persoane,749
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2011, Numar persoane,727
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2012, Numar persoane,694
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2013, Numar persoane,647
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2014, Numar persoane,579
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2015, Numar persoane,499
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2016, Numar persoane,426
+ 83632 MUNICIPIUL  TOPLITA,20-24 ani, Feminin, Harghita, Anul 2017, Numar persoane,397
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2007, Numar persoane,682
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2008, Numar persoane,671
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2009, Numar persoane,649
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2010, Numar persoane,629
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2011, Numar persoane,623
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2012, Numar persoane,635
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2013, Numar persoane,621
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2014, Numar persoane,635
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2015, Numar persoane,670
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2016, Numar persoane,680
+ 83632 MUNICIPIUL  TOPLITA,25-29 ani, Feminin, Harghita, Anul 2017, Numar persoane,640
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2007, Numar persoane,596
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2008, Numar persoane,591
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2009, Numar persoane,609
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2010, Numar persoane,624
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2011, Numar persoane,636
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2012, Numar persoane,632
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2013, Numar persoane,620
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2014, Numar persoane,604
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2015, Numar persoane,597
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2016, Numar persoane,588
+ 83632 MUNICIPIUL  TOPLITA,30-34 ani, Feminin, Harghita, Anul 2017, Numar persoane,601
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2007, Numar persoane,821
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2008, Numar persoane,782
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2009, Numar persoane,704
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2010, Numar persoane,639
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2011, Numar persoane,590
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2012, Numar persoane,571
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2013, Numar persoane,559
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2014, Numar persoane,599
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2015, Numar persoane,606
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2016, Numar persoane,617
+ 83632 MUNICIPIUL  TOPLITA,35-39 ani, Feminin, Harghita, Anul 2017, Numar persoane,613
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2007, Numar persoane,515
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2008, Numar persoane,577
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2009, Numar persoane,655
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2010, Numar persoane,710
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2011, Numar persoane,766
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2012, Numar persoane,802
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2013, Numar persoane,778
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2014, Numar persoane,699
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2015, Numar persoane,644
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2016, Numar persoane,593
+ 83632 MUNICIPIUL  TOPLITA,40-44 ani, Feminin, Harghita, Anul 2017, Numar persoane,579
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2007, Numar persoane,702
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2008, Numar persoane,648
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2009, Numar persoane,590
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2010, Numar persoane,553
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2011, Numar persoane,527
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2012, Numar persoane,500
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2013, Numar persoane,567
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2014, Numar persoane,644
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2015, Numar persoane,700
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2016, Numar persoane,755
+ 83632 MUNICIPIUL  TOPLITA,45-49 ani, Feminin, Harghita, Anul 2017, Numar persoane,783
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2007, Numar persoane,637
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2008, Numar persoane,671
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2009, Numar persoane,707
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2010, Numar persoane,722
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2011, Numar persoane,704
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2012, Numar persoane,672
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2013, Numar persoane,623
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2014, Numar persoane,573
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2015, Numar persoane,538
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2016, Numar persoane,516
+ 83632 MUNICIPIUL  TOPLITA,50-54 ani, Feminin, Harghita, Anul 2017, Numar persoane,491
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2007, Numar persoane,478
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2008, Numar persoane,497
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2009, Numar persoane,523
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2010, Numar persoane,528
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2011, Numar persoane,542
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2012, Numar persoane,607
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2013, Numar persoane,644
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2014, Numar persoane,678
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2015, Numar persoane,696
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2016, Numar persoane,675
+ 83632 MUNICIPIUL  TOPLITA,55-59 ani, Feminin, Harghita, Anul 2017, Numar persoane,654
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2007, Numar persoane,378
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2008, Numar persoane,391
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2009, Numar persoane,393
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2010, Numar persoane,398
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2011, Numar persoane,428
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2012, Numar persoane,436
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2013, Numar persoane,464
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2014, Numar persoane,492
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2015, Numar persoane,504
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2016, Numar persoane,518
+ 83632 MUNICIPIUL  TOPLITA,60-64 ani, Feminin, Harghita, Anul 2017, Numar persoane,575
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2007, Numar persoane,367
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2008, Numar persoane,352
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2009, Numar persoane,339
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2010, Numar persoane,358
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2011, Numar persoane,343
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2012, Numar persoane,350
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2013, Numar persoane,364
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2014, Numar persoane,363
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2015, Numar persoane,373
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2016, Numar persoane,400
+ 83632 MUNICIPIUL  TOPLITA,65-69 ani, Feminin, Harghita, Anul 2017, Numar persoane,409
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2007, Numar persoane,300
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2008, Numar persoane,298
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2009, Numar persoane,304
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2010, Numar persoane,319
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2011, Numar persoane,343
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2012, Numar persoane,328
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2013, Numar persoane,312
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2014, Numar persoane,300
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2015, Numar persoane,322
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2016, Numar persoane,312
+ 83632 MUNICIPIUL  TOPLITA,70-74 ani, Feminin, Harghita, Anul 2017, Numar persoane,323
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2007, Numar persoane,221
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2008, Numar persoane,233
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2009, Numar persoane,249
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2010, Numar persoane,249
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2011, Numar persoane,232
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2012, Numar persoane,233
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2013, Numar persoane,230
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2014, Numar persoane,254
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2015, Numar persoane,271
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2016, Numar persoane,288
+ 83632 MUNICIPIUL  TOPLITA,75-79 ani, Feminin, Harghita, Anul 2017, Numar persoane,269
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2007, Numar persoane,118
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2008, Numar persoane,124
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2009, Numar persoane,118
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2010, Numar persoane,115
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2011, Numar persoane,133
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2012, Numar persoane,150
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2013, Numar persoane,171
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2014, Numar persoane,179
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2015, Numar persoane,190
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2016, Numar persoane,177
+ 83632 MUNICIPIUL  TOPLITA,80-84 ani, Feminin, Harghita, Anul 2017, Numar persoane,178
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2007, Numar persoane,48
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2008, Numar persoane,54
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2009, Numar persoane,60
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2010, Numar persoane,65
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2011, Numar persoane,67
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2012, Numar persoane,68
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2013, Numar persoane,73
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2014, Numar persoane,83
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2015, Numar persoane,84
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2016, Numar persoane,98
+ 83632 MUNICIPIUL  TOPLITA,85 ani si peste, Feminin, Harghita, Anul 2017, Numar persoane,118

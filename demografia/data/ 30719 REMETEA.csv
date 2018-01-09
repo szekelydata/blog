@@ -1,0 +1,937 @@
+ Localitati ,Varste si grupe de varsta, Sexe, Judete, Ani, UM: Numar persoane, Valoare
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 1992, Numar persoane,84
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 1993, Numar persoane,76
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 1994, Numar persoane,73
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 1995, Numar persoane,91
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 1996, Numar persoane,87
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 1997, Numar persoane,82
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 1998, Numar persoane,83
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 1999, Numar persoane,99
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 1992, Numar persoane,98
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 1993, Numar persoane,92
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 1994, Numar persoane,97
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 1995, Numar persoane,89
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 1996, Numar persoane,83
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 1997, Numar persoane,72
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 1998, Numar persoane,74
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 1999, Numar persoane,77
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 1992, Numar persoane,101
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 1993, Numar persoane,103
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 1994, Numar persoane,99
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 1995, Numar persoane,81
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 1996, Numar persoane,89
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 1997, Numar persoane,85
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 1998, Numar persoane,83
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 1999, Numar persoane,74
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 1992, Numar persoane,110
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 1993, Numar persoane,110
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 1994, Numar persoane,97
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 1995, Numar persoane,98
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 1996, Numar persoane,94
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 1997, Numar persoane,87
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 1998, Numar persoane,79
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 1999, Numar persoane,87
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 1992, Numar persoane,111
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 1993, Numar persoane,111
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 1994, Numar persoane,96
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 1995, Numar persoane,101
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 1996, Numar persoane,96
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 1997, Numar persoane,103
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 1998, Numar persoane,101
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 1999, Numar persoane,98
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 1992, Numar persoane,94
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 1993, Numar persoane,96
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 1994, Numar persoane,102
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 1995, Numar persoane,100
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 1996, Numar persoane,99
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 1997, Numar persoane,108
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 1998, Numar persoane,107
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 1999, Numar persoane,95
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 1992, Numar persoane,122
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 1993, Numar persoane,120
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 1994, Numar persoane,139
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 1995, Numar persoane,137
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 1996, Numar persoane,120
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 1997, Numar persoane,115
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 1998, Numar persoane,109
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 1999, Numar persoane,98
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 1992, Numar persoane,112
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 1993, Numar persoane,101
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 1994, Numar persoane,97
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 1995, Numar persoane,93
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 1996, Numar persoane,102
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 1997, Numar persoane,95
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 1998, Numar persoane,94
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 1999, Numar persoane,101
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 1992, Numar persoane,145
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 1993, Numar persoane,131
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 1994, Numar persoane,122
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 1995, Numar persoane,121
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 1996, Numar persoane,121
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 1997, Numar persoane,119
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 1998, Numar persoane,119
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 1999, Numar persoane,141
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 1992, Numar persoane,147
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 1993, Numar persoane,128
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 1994, Numar persoane,114
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 1995, Numar persoane,119
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 1996, Numar persoane,107
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 1997, Numar persoane,102
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 1998, Numar persoane,91
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 1999, Numar persoane,95
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 1992, Numar persoane,75
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 1993, Numar persoane,90
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 1994, Numar persoane,102
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 1995, Numar persoane,112
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 1996, Numar persoane,113
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 1997, Numar persoane,123
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 1998, Numar persoane,118
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 1999, Numar persoane,111
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 1992, Numar persoane,63
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 1993, Numar persoane,81
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 1994, Numar persoane,103
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 1995, Numar persoane,107
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 1996, Numar persoane,113
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 1997, Numar persoane,122
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 1998, Numar persoane,117
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 1999, Numar persoane,101
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 1992, Numar persoane,104
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 1993, Numar persoane,91
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 1994, Numar persoane,78
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 1995, Numar persoane,78
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 1996, Numar persoane,81
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 1997, Numar persoane,73
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 1998, Numar persoane,85
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 1999, Numar persoane,93
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 1992, Numar persoane,87
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 1993, Numar persoane,80
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 1994, Numar persoane,66
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 1995, Numar persoane,60
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 1996, Numar persoane,62
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 1997, Numar persoane,56
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 1998, Numar persoane,73
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 1999, Numar persoane,96
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 1992, Numar persoane,122
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 1993, Numar persoane,123
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 1994, Numar persoane,119
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 1995, Numar persoane,108
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 1996, Numar persoane,101
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 1997, Numar persoane,98
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 1998, Numar persoane,91
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 1999, Numar persoane,78
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 1992, Numar persoane,97
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 1993, Numar persoane,96
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 1994, Numar persoane,102
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 1995, Numar persoane,99
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 1996, Numar persoane,91
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 1997, Numar persoane,88
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 1998, Numar persoane,76
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 1999, Numar persoane,60
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 1992, Numar persoane,95
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 1993, Numar persoane,94
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 1994, Numar persoane,109
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 1995, Numar persoane,112
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 1996, Numar persoane,113
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 1997, Numar persoane,121
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 1998, Numar persoane,119
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 1999, Numar persoane,115
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 1992, Numar persoane,96
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 1993, Numar persoane,100
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 1994, Numar persoane,99
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 1995, Numar persoane,104
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 1996, Numar persoane,103
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 1997, Numar persoane,96
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 1998, Numar persoane,99
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 1999, Numar persoane,108
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 1992, Numar persoane,84
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 1993, Numar persoane,94
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 1994, Numar persoane,97
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 1995, Numar persoane,104
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 1996, Numar persoane,107
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 1997, Numar persoane,96
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 1998, Numar persoane,94
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 1999, Numar persoane,107
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 1992, Numar persoane,101
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 1993, Numar persoane,95
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 1994, Numar persoane,101
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 1995, Numar persoane,101
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 1996, Numar persoane,100
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 1997, Numar persoane,93
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 1998, Numar persoane,98
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 1999, Numar persoane,100
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 1992, Numar persoane,111
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 1993, Numar persoane,96
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 1994, Numar persoane,87
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 1995, Numar persoane,81
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 1996, Numar persoane,76
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 1997, Numar persoane,81
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 1998, Numar persoane,90
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 1999, Numar persoane,91
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 1992, Numar persoane,124
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 1993, Numar persoane,116
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 1994, Numar persoane,99
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 1995, Numar persoane,97
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 1996, Numar persoane,86
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 1997, Numar persoane,94
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 1998, Numar persoane,89
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 1999, Numar persoane,96
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 1992, Numar persoane,138
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 1993, Numar persoane,131
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 1994, Numar persoane,125
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 1995, Numar persoane,124
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 1996, Numar persoane,121
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 1997, Numar persoane,113
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 1998, Numar persoane,99
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 1999, Numar persoane,86
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 1992, Numar persoane,165
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 1993, Numar persoane,155
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 1994, Numar persoane,158
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 1995, Numar persoane,136
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 1996, Numar persoane,124
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 1997, Numar persoane,117
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 1998, Numar persoane,110
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 1999, Numar persoane,91
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 1992, Numar persoane,139
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 1993, Numar persoane,135
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 1994, Numar persoane,126
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 1995, Numar persoane,125
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 1996, Numar persoane,122
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 1997, Numar persoane,117
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 1998, Numar persoane,113
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 1999, Numar persoane,111
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 1992, Numar persoane,151
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 1993, Numar persoane,159
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 1994, Numar persoane,154
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 1995, Numar persoane,163
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 1996, Numar persoane,161
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 1997, Numar persoane,155
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 1998, Numar persoane,145
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 1999, Numar persoane,152
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 1992, Numar persoane,110
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 1993, Numar persoane,118
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 1994, Numar persoane,130
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 1995, Numar persoane,123
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 1996, Numar persoane,125
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 1997, Numar persoane,119
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 1998, Numar persoane,118
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 1999, Numar persoane,106
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 1992, Numar persoane,155
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 1993, Numar persoane,144
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 1994, Numar persoane,136
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 1995, Numar persoane,127
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 1996, Numar persoane,133
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 1997, Numar persoane,131
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 1998, Numar persoane,138
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 1999, Numar persoane,136
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 1992, Numar persoane,63
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 1993, Numar persoane,76
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 1994, Numar persoane,75
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 1995, Numar persoane,82
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 1996, Numar persoane,78
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 1997, Numar persoane,85
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 1998, Numar persoane,86
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 1999, Numar persoane,98
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 1992, Numar persoane,82
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 1993, Numar persoane,105
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 1994, Numar persoane,113
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 1995, Numar persoane,119
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 1996, Numar persoane,125
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 1997, Numar persoane,123
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 1998, Numar persoane,111
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 1999, Numar persoane,107
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 1992, Numar persoane,43
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 1993, Numar persoane,30
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 1994, Numar persoane,27
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 1995, Numar persoane,32
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 1996, Numar persoane,39
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 1997, Numar persoane,39
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 1998, Numar persoane,51
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 1999, Numar persoane,52
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 1992, Numar persoane,53
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 1993, Numar persoane,41
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 1994, Numar persoane,39
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 1995, Numar persoane,43
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 1996, Numar persoane,46
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 1997, Numar persoane,54
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 1998, Numar persoane,71
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 1999, Numar persoane,80
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 1992, Numar persoane,40
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 1993, Numar persoane,37
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 1994, Numar persoane,25
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 1995, Numar persoane,25
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 1996, Numar persoane,21
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 1997, Numar persoane,14
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 1998, Numar persoane,12
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 1999, Numar persoane,11
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 1992, Numar persoane,31
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 1993, Numar persoane,26
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 1994, Numar persoane,30
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 1995, Numar persoane,32
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 1996, Numar persoane,28
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 1997, Numar persoane,20
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 1998, Numar persoane,19
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 1999, Numar persoane,18
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 1992, Numar persoane,11
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 1993, Numar persoane,9
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 1994, Numar persoane,8
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 1995, Numar persoane,8
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 1996, Numar persoane,6
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 1997, Numar persoane,6
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 1998, Numar persoane,9
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 1999, Numar persoane,8
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 1992, Numar persoane,16
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 1993, Numar persoane,15
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 1994, Numar persoane,12
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 1995, Numar persoane,14
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 1996, Numar persoane,17
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 1997, Numar persoane,18
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 1998, Numar persoane,15
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 1999, Numar persoane,15
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2000, Numar persoane,89
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2001, Numar persoane,87
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2002, Numar persoane,93
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2003, Numar persoane,91
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2004, Numar persoane,87
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2005, Numar persoane,89
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2006, Numar persoane,83
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2000, Numar persoane,86
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2001, Numar persoane,85
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2002, Numar persoane,88
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2003, Numar persoane,90
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2004, Numar persoane,86
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2005, Numar persoane,77
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2006, Numar persoane,76
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2000, Numar persoane,91
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2001, Numar persoane,90
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2002, Numar persoane,84
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2003, Numar persoane,84
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2004, Numar persoane,96
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2005, Numar persoane,86
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2006, Numar persoane,83
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2000, Numar persoane,83
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2001, Numar persoane,82
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2002, Numar persoane,75
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2003, Numar persoane,77
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2004, Numar persoane,80
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2005, Numar persoane,87
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2006, Numar persoane,87
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2000, Numar persoane,82
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2001, Numar persoane,89
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2002, Numar persoane,87
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2003, Numar persoane,85
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2004, Numar persoane,81
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2005, Numar persoane,93
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2006, Numar persoane,91
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2000, Numar persoane,98
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2001, Numar persoane,93
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2002, Numar persoane,90
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2003, Numar persoane,81
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2004, Numar persoane,89
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2005, Numar persoane,84
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2006, Numar persoane,80
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2000, Numar persoane,103
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2001, Numar persoane,99
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2002, Numar persoane,106
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2003, Numar persoane,100
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2004, Numar persoane,96
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2005, Numar persoane,84
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2006, Numar persoane,94
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2000, Numar persoane,97
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2001, Numar persoane,99
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2002, Numar persoane,109
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2003, Numar persoane,111
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2004, Numar persoane,101
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2005, Numar persoane,101
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2006, Numar persoane,94
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2000, Numar persoane,137
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2001, Numar persoane,125
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2002, Numar persoane,120
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2003, Numar persoane,113
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2004, Numar persoane,97
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2005, Numar persoane,103
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2006, Numar persoane,98
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2000, Numar persoane,102
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2001, Numar persoane,108
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2002, Numar persoane,101
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2003, Numar persoane,100
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2004, Numar persoane,101
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2005, Numar persoane,100
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2006, Numar persoane,102
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2000, Numar persoane,114
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2001, Numar persoane,116
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2002, Numar persoane,118
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2003, Numar persoane,121
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2004, Numar persoane,139
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2005, Numar persoane,131
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2006, Numar persoane,122
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2000, Numar persoane,100
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2001, Numar persoane,102
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2002, Numar persoane,100
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2003, Numar persoane,97
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2004, Numar persoane,105
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2005, Numar persoane,108
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2006, Numar persoane,110
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2000, Numar persoane,100
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2001, Numar persoane,104
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2002, Numar persoane,112
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2003, Numar persoane,105
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2004, Numar persoane,101
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2005, Numar persoane,107
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2006, Numar persoane,114
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2000, Numar persoane,102
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2001, Numar persoane,104
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2002, Numar persoane,118
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2003, Numar persoane,108
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2004, Numar persoane,98
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2005, Numar persoane,96
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2006, Numar persoane,99
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2000, Numar persoane,73
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2001, Numar persoane,77
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2002, Numar persoane,72
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2003, Numar persoane,78
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2004, Numar persoane,86
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2005, Numar persoane,94
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2006, Numar persoane,94
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2000, Numar persoane,53
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2001, Numar persoane,58
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2002, Numar persoane,54
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2003, Numar persoane,70
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2004, Numar persoane,91
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2005, Numar persoane,97
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2006, Numar persoane,101
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2000, Numar persoane,110
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2001, Numar persoane,104
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2002, Numar persoane,98
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2003, Numar persoane,85
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2004, Numar persoane,77
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2005, Numar persoane,70
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2006, Numar persoane,75
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2000, Numar persoane,102
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2001, Numar persoane,93
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2002, Numar persoane,89
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2003, Numar persoane,79
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2004, Numar persoane,63
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2005, Numar persoane,57
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2006, Numar persoane,61
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2000, Numar persoane,106
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2001, Numar persoane,112
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2002, Numar persoane,115
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2003, Numar persoane,117
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2004, Numar persoane,112
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2005, Numar persoane,104
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2006, Numar persoane,95
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2000, Numar persoane,109
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2001, Numar persoane,104
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2002, Numar persoane,99
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2003, Numar persoane,103
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2004, Numar persoane,109
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2005, Numar persoane,105
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2006, Numar persoane,99
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2000, Numar persoane,102
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2001, Numar persoane,96
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2002, Numar persoane,90
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2003, Numar persoane,89
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2004, Numar persoane,103
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2005, Numar persoane,105
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2006, Numar persoane,106
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2000, Numar persoane,99
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2001, Numar persoane,106
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2002, Numar persoane,96
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2003, Numar persoane,101
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2004, Numar persoane,101
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2005, Numar persoane,111
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2006, Numar persoane,106
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2000, Numar persoane,74
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2001, Numar persoane,68
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2002, Numar persoane,73
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2003, Numar persoane,81
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2004, Numar persoane,82
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2005, Numar persoane,91
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2006, Numar persoane,87
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2000, Numar persoane,89
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2001, Numar persoane,83
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2002, Numar persoane,94
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2003, Numar persoane,92
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2004, Numar persoane,97
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2005, Numar persoane,100
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2006, Numar persoane,106
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2000, Numar persoane,109
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2001, Numar persoane,107
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2002, Numar persoane,103
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2003, Numar persoane,88
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2004, Numar persoane,75
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2005, Numar persoane,65
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2006, Numar persoane,60
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2000, Numar persoane,130
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2001, Numar persoane,119
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2002, Numar persoane,115
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2003, Numar persoane,106
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2004, Numar persoane,90
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2005, Numar persoane,88
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2006, Numar persoane,78
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2000, Numar persoane,100
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2001, Numar persoane,101
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2002, Numar persoane,94
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2003, Numar persoane,96
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2004, Numar persoane,94
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2005, Numar persoane,97
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2006, Numar persoane,100
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2000, Numar persoane,152
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2001, Numar persoane,147
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2002, Numar persoane,137
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2003, Numar persoane,130
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2004, Numar persoane,137
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2005, Numar persoane,123
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2006, Numar persoane,114
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2000, Numar persoane,96
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2001, Numar persoane,90
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2002, Numar persoane,90
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2003, Numar persoane,92
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2004, Numar persoane,84
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2005, Numar persoane,83
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2006, Numar persoane,81
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2000, Numar persoane,98
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2001, Numar persoane,106
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2002, Numar persoane,109
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2003, Numar persoane,117
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2004, Numar persoane,121
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2005, Numar persoane,127
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2006, Numar persoane,121
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2000, Numar persoane,56
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2001, Numar persoane,55
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2002, Numar persoane,62
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2003, Numar persoane,60
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2004, Numar persoane,66
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2005, Numar persoane,61
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2006, Numar persoane,66
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2000, Numar persoane,85
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2001, Numar persoane,87
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2002, Numar persoane,84
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2003, Numar persoane,79
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2004, Numar persoane,83
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2005, Numar persoane,75
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2006, Numar persoane,78
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2000, Numar persoane,14
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2001, Numar persoane,20
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2002, Numar persoane,24
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2003, Numar persoane,31
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2004, Numar persoane,23
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2005, Numar persoane,30
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2006, Numar persoane,29
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2000, Numar persoane,24
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2001, Numar persoane,31
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2002, Numar persoane,35
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2003, Numar persoane,45
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2004, Numar persoane,47
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2005, Numar persoane,53
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2006, Numar persoane,59
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2000, Numar persoane,7
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2001, Numar persoane,7
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2002, Numar persoane,7
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2003, Numar persoane,7
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2004, Numar persoane,7
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2005, Numar persoane,7
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2006, Numar persoane,11
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2000, Numar persoane,16
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2001, Numar persoane,18
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2002, Numar persoane,12
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2003, Numar persoane,12
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2004, Numar persoane,10
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2005, Numar persoane,16
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2006, Numar persoane,16
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2007, Numar persoane,77
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2008, Numar persoane,74
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2009, Numar persoane,67
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2010, Numar persoane,72
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2011, Numar persoane,68
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2012, Numar persoane,70
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2007, Numar persoane,74
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2008, Numar persoane,67
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2009, Numar persoane,65
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2010, Numar persoane,62
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2011, Numar persoane,55
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2012, Numar persoane,54
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2007, Numar persoane,91
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2008, Numar persoane,90
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2009, Numar persoane,85
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2010, Numar persoane,89
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2011, Numar persoane,83
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2012, Numar persoane,77
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2007, Numar persoane,94
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2008, Numar persoane,96
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2009, Numar persoane,90
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2010, Numar persoane,81
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2011, Numar persoane,80
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2012, Numar persoane,75
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2007, Numar persoane,87
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2008, Numar persoane,87
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2009, Numar persoane,101
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2010, Numar persoane,95
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2011, Numar persoane,88
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2012, Numar persoane,93
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2007, Numar persoane,73
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2008, Numar persoane,75
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2009, Numar persoane,78
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2010, Numar persoane,88
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2011, Numar persoane,85
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2012, Numar persoane,90
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2007, Numar persoane,97
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2008, Numar persoane,94
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2009, Numar persoane,88
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2010, Numar persoane,99
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2011, Numar persoane,98
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2012, Numar persoane,87
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2007, Numar persoane,93
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2008, Numar persoane,83
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2009, Numar persoane,85
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2010, Numar persoane,85
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2011, Numar persoane,85
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2012, Numar persoane,81
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2007, Numar persoane,104
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2008, Numar persoane,105
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2009, Numar persoane,99
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2010, Numar persoane,86
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2011, Numar persoane,94
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2012, Numar persoane,100
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2007, Numar persoane,110
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2008, Numar persoane,113
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2009, Numar persoane,95
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2010, Numar persoane,98
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2011, Numar persoane,103
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2012, Numar persoane,102
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2007, Numar persoane,119
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2008, Numar persoane,113
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2009, Numar persoane,100
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2010, Numar persoane,106
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2011, Numar persoane,102
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2012, Numar persoane,103
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2007, Numar persoane,100
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2008, Numar persoane,100
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2009, Numar persoane,97
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2010, Numar persoane,94
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2011, Numar persoane,90
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2012, Numar persoane,100
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2007, Numar persoane,116
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2008, Numar persoane,116
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2009, Numar persoane,134
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2010, Numar persoane,127
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2011, Numar persoane,113
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2012, Numar persoane,111
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2007, Numar persoane,102
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2008, Numar persoane,99
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2009, Numar persoane,107
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2010, Numar persoane,107
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2011, Numar persoane,104
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2012, Numar persoane,95
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2007, Numar persoane,97
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2008, Numar persoane,99
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2009, Numar persoane,100
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2010, Numar persoane,108
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2011, Numar persoane,110
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2012, Numar persoane,114
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2007, Numar persoane,116
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2008, Numar persoane,107
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2009, Numar persoane,96
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2010, Numar persoane,97
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2011, Numar persoane,96
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2012, Numar persoane,98
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2007, Numar persoane,64
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2008, Numar persoane,73
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2009, Numar persoane,80
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2010, Numar persoane,95
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2011, Numar persoane,96
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2012, Numar persoane,104
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2007, Numar persoane,57
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2008, Numar persoane,74
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2009, Numar persoane,91
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2010, Numar persoane,96
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2011, Numar persoane,102
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2012, Numar persoane,114
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2007, Numar persoane,98
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2008, Numar persoane,92
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2009, Numar persoane,80
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2010, Numar persoane,70
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2011, Numar persoane,77
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2012, Numar persoane,66
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2007, Numar persoane,95
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2008, Numar persoane,84
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2009, Numar persoane,68
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2010, Numar persoane,60
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2011, Numar persoane,61
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2012, Numar persoane,58
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2007, Numar persoane,110
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2008, Numar persoane,109
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2009, Numar persoane,112
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2010, Numar persoane,103
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2011, Numar persoane,93
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2012, Numar persoane,102
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2007, Numar persoane,100
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2008, Numar persoane,104
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2009, Numar persoane,115
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2010, Numar persoane,110
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2011, Numar persoane,105
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2012, Numar persoane,99
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2007, Numar persoane,83
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2008, Numar persoane,88
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2009, Numar persoane,99
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2010, Numar persoane,98
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2011, Numar persoane,105
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2012, Numar persoane,105
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2007, Numar persoane,97
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2008, Numar persoane,107
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2009, Numar persoane,104
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2010, Numar persoane,116
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2011, Numar persoane,107
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2012, Numar persoane,101
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2007, Numar persoane,62
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2008, Numar persoane,69
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2009, Numar persoane,74
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2010, Numar persoane,83
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2011, Numar persoane,80
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2012, Numar persoane,77
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2007, Numar persoane,90
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2008, Numar persoane,86
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2009, Numar persoane,94
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2010, Numar persoane,95
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2011, Numar persoane,105
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2012, Numar persoane,100
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2007, Numar persoane,94
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2008, Numar persoane,82
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2009, Numar persoane,70
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2010, Numar persoane,59
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2011, Numar persoane,53
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2012, Numar persoane,57
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2007, Numar persoane,109
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2008, Numar persoane,95
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2009, Numar persoane,76
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2010, Numar persoane,74
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2011, Numar persoane,68
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2012, Numar persoane,83
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2007, Numar persoane,75
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2008, Numar persoane,72
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2009, Numar persoane,71
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2010, Numar persoane,72
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2011, Numar persoane,77
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2012, Numar persoane,73
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2007, Numar persoane,116
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2008, Numar persoane,115
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2009, Numar persoane,120
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2010, Numar persoane,109
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2011, Numar persoane,99
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2012, Numar persoane,92
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2007, Numar persoane,61
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2008, Numar persoane,61
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2009, Numar persoane,61
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2010, Numar persoane,51
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2011, Numar persoane,54
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2012, Numar persoane,52
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2007, Numar persoane,81
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2008, Numar persoane,85
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2009, Numar persoane,90
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2010, Numar persoane,95
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2011, Numar persoane,92
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2012, Numar persoane,92
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2007, Numar persoane,39
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2008, Numar persoane,41
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2009, Numar persoane,43
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2010, Numar persoane,40
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2011, Numar persoane,40
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2012, Numar persoane,38
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2007, Numar persoane,52
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2008, Numar persoane,46
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2009, Numar persoane,44
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2010, Numar persoane,43
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2011, Numar persoane,46
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2012, Numar persoane,48
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2007, Numar persoane,14
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2008, Numar persoane,16
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2009, Numar persoane,14
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2010, Numar persoane,20
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2011, Numar persoane,19
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2012, Numar persoane,21
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2007, Numar persoane,21
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2008, Numar persoane,29
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2009, Numar persoane,29
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2010, Numar persoane,26
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2011, Numar persoane,25
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2012, Numar persoane,23
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2013, Numar persoane,63
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2014, Numar persoane,62
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2015, Numar persoane,51
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2016, Numar persoane,67
+ 30719 REMETEA,0- 4 ani, Masculin, Bihor, Anul 2017, Numar persoane,66
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2013, Numar persoane,56
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2014, Numar persoane,56
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2015, Numar persoane,56
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2016, Numar persoane,64
+ 30719 REMETEA,0- 4 ani, Feminin, Bihor, Anul 2017, Numar persoane,65
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2013, Numar persoane,77
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2014, Numar persoane,72
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2015, Numar persoane,79
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2016, Numar persoane,76
+ 30719 REMETEA,5- 9 ani, Masculin, Bihor, Anul 2017, Numar persoane,73
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2013, Numar persoane,69
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2014, Numar persoane,69
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2015, Numar persoane,67
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2016, Numar persoane,60
+ 30719 REMETEA,5- 9 ani, Feminin, Bihor, Anul 2017, Numar persoane,58
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2013, Numar persoane,92
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2014, Numar persoane,85
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2015, Numar persoane,83
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2016, Numar persoane,82
+ 30719 REMETEA,10-14 ani, Masculin, Bihor, Anul 2017, Numar persoane,77
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2013, Numar persoane,95
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2014, Numar persoane,89
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2015, Numar persoane,81
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2016, Numar persoane,80
+ 30719 REMETEA,10-14 ani, Feminin, Bihor, Anul 2017, Numar persoane,77
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2013, Numar persoane,89
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2014, Numar persoane,96
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2015, Numar persoane,87
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2016, Numar persoane,85
+ 30719 REMETEA,15-19 ani, Masculin, Bihor, Anul 2017, Numar persoane,92
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2013, Numar persoane,79
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2014, Numar persoane,79
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2015, Numar persoane,88
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2016, Numar persoane,84
+ 30719 REMETEA,15-19 ani, Feminin, Bihor, Anul 2017, Numar persoane,91
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2013, Numar persoane,98
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2014, Numar persoane,89
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2015, Numar persoane,98
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2016, Numar persoane,91
+ 30719 REMETEA,20-24 ani, Masculin, Bihor, Anul 2017, Numar persoane,78
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2013, Numar persoane,94
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2014, Numar persoane,96
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2015, Numar persoane,88
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2016, Numar persoane,87
+ 30719 REMETEA,20-24 ani, Feminin, Bihor, Anul 2017, Numar persoane,80
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2013, Numar persoane,99
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2014, Numar persoane,93
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2015, Numar persoane,87
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2016, Numar persoane,96
+ 30719 REMETEA,25-29 ani, Masculin, Bihor, Anul 2017, Numar persoane,94
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2013, Numar persoane,98
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2014, Numar persoane,96
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2015, Numar persoane,106
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2016, Numar persoane,105
+ 30719 REMETEA,25-29 ani, Feminin, Bihor, Anul 2017, Numar persoane,104
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2013, Numar persoane,110
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2014, Numar persoane,96
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2015, Numar persoane,98
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2016, Numar persoane,96
+ 30719 REMETEA,30-34 ani, Masculin, Bihor, Anul 2017, Numar persoane,102
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2013, Numar persoane,100
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2014, Numar persoane,90
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2015, Numar persoane,84
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2016, Numar persoane,83
+ 30719 REMETEA,30-34 ani, Feminin, Bihor, Anul 2017, Numar persoane,92
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2013, Numar persoane,111
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2014, Numar persoane,130
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2015, Numar persoane,121
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2016, Numar persoane,110
+ 30719 REMETEA,35-39 ani, Masculin, Bihor, Anul 2017, Numar persoane,111
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2013, Numar persoane,98
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2014, Numar persoane,102
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2015, Numar persoane,103
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2016, Numar persoane,101
+ 30719 REMETEA,35-39 ani, Feminin, Bihor, Anul 2017, Numar persoane,96
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2013, Numar persoane,104
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2014, Numar persoane,105
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2015, Numar persoane,112
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2016, Numar persoane,113
+ 30719 REMETEA,40-44 ani, Masculin, Bihor, Anul 2017, Numar persoane,114
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2013, Numar persoane,106
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2014, Numar persoane,98
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2015, Numar persoane,95
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2016, Numar persoane,94
+ 30719 REMETEA,40-44 ani, Feminin, Bihor, Anul 2017, Numar persoane,96
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2013, Numar persoane,73
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2014, Numar persoane,77
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2015, Numar persoane,92
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2016, Numar persoane,100
+ 30719 REMETEA,45-49 ani, Masculin, Bihor, Anul 2017, Numar persoane,106
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2013, Numar persoane,75
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2014, Numar persoane,89
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2015, Numar persoane,94
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2016, Numar persoane,104
+ 30719 REMETEA,45-49 ani, Feminin, Bihor, Anul 2017, Numar persoane,115
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2013, Numar persoane,98
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2014, Numar persoane,86
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2015, Numar persoane,78
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2016, Numar persoane,80
+ 30719 REMETEA,50-54 ani, Masculin, Bihor, Anul 2017, Numar persoane,65
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2013, Numar persoane,89
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2014, Numar persoane,69
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2015, Numar persoane,64
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2016, Numar persoane,65
+ 30719 REMETEA,50-54 ani, Feminin, Bihor, Anul 2017, Numar persoane,61
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2013, Numar persoane,108
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2014, Numar persoane,113
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2015, Numar persoane,105
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2016, Numar persoane,91
+ 30719 REMETEA,55-59 ani, Masculin, Bihor, Anul 2017, Numar persoane,95
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2013, Numar persoane,104
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2014, Numar persoane,112
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2015, Numar persoane,108
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2016, Numar persoane,102
+ 30719 REMETEA,55-59 ani, Feminin, Bihor, Anul 2017, Numar persoane,96
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2013, Numar persoane,85
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2014, Numar persoane,96
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2015, Numar persoane,97
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2016, Numar persoane,100
+ 30719 REMETEA,60-64 ani, Masculin, Bihor, Anul 2017, Numar persoane,104
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2013, Numar persoane,106
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2014, Numar persoane,104
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2015, Numar persoane,111
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2016, Numar persoane,108
+ 30719 REMETEA,60-64 ani, Feminin, Bihor, Anul 2017, Numar persoane,101
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2013, Numar persoane,57
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2014, Numar persoane,60
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2015, Numar persoane,73
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2016, Numar persoane,76
+ 30719 REMETEA,65-69 ani, Masculin, Bihor, Anul 2017, Numar persoane,71
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2013, Numar persoane,81
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2014, Numar persoane,88
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2015, Numar persoane,91
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2016, Numar persoane,98
+ 30719 REMETEA,65-69 ani, Feminin, Bihor, Anul 2017, Numar persoane,95
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2013, Numar persoane,61
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2014, Numar persoane,56
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2015, Numar persoane,48
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2016, Numar persoane,44
+ 30719 REMETEA,70-74 ani, Masculin, Bihor, Anul 2017, Numar persoane,42
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2013, Numar persoane,80
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2014, Numar persoane,64
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2015, Numar persoane,60
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2016, Numar persoane,60
+ 30719 REMETEA,70-74 ani, Feminin, Bihor, Anul 2017, Numar persoane,74
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2013, Numar persoane,55
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2014, Numar persoane,51
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2015, Numar persoane,56
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2016, Numar persoane,56
+ 30719 REMETEA,75-79 ani, Masculin, Bihor, Anul 2017, Numar persoane,52
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2013, Numar persoane,90
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2014, Numar persoane,91
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2015, Numar persoane,82
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2016, Numar persoane,77
+ 30719 REMETEA,75-79 ani, Feminin, Bihor, Anul 2017, Numar persoane,66
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2013, Numar persoane,36
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2014, Numar persoane,37
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2015, Numar persoane,36
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2016, Numar persoane,36
+ 30719 REMETEA,80-84 ani, Masculin, Bihor, Anul 2017, Numar persoane,38
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2013, Numar persoane,51
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2014, Numar persoane,49
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2015, Numar persoane,58
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2016, Numar persoane,63
+ 30719 REMETEA,80-84 ani, Feminin, Bihor, Anul 2017, Numar persoane,62
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2013, Numar persoane,18
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2014, Numar persoane,17
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2015, Numar persoane,20
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2016, Numar persoane,20
+ 30719 REMETEA,85 ani si peste, Masculin, Bihor, Anul 2017, Numar persoane,21
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2013, Numar persoane,27
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2014, Numar persoane,29
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2015, Numar persoane,29
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2016, Numar persoane,25
+ 30719 REMETEA,85 ani si peste, Feminin, Bihor, Anul 2017, Numar persoane,25
