@@ -479,8 +479,7 @@ a:visited{
 	  }
 	
 	  function extend(rawdata){
-	  	  console.log('ext',rawdata);
-		  var zip = new JSZip(rawdata);
+	  	  var zip = new JSZip(rawdata);
 		  var data=JSON.parse(zip.files['data.json'].asText());
 		  
 		  data.filter(function(d){return d["partner"]!=5009})
