@@ -12,6 +12,9 @@
 <div class="togglebutton slow" data-val="slow">Lassú</div>
 <div class="togglebutton medium current" data-val="medium">Közepes</div>
 <div class="togglebutton fast" data-val="fast">Gyors</div>
+
+<div class="togglebutton hkoz current" data-val="hkoz">Hétköznap</div>
+<div class="togglebutton hetv" data-val="hetv">Hétvége</div>
 <div class="clr"></div>
 </div>
 <div id="note"></div>
@@ -19,7 +22,7 @@
 <div id="dgraph" style="border: none; width :295px;height :273px;position: fixed;top: 354px; left:-25px;background:none;overflow:hidden;">
 </div>
 <div id="cite">
-	266 erdélyi válaszadó hétköznapi rutinja. A forrás <a href="https://szekelydata.csaladen.es/kerdoiv/">ez a kérdőív.</a>&nbsp;|&nbsp;<a href="https://szekelydata.csaladen.es/" target="_blank">SZÉKELYDATA</a>
+	266 erdélyi válaszadó hétvégi rutinja. A forrás <a href="https://szekelydata.csaladen.es/kerdoiv/">ez a kérdőív.</a>&nbsp;|&nbsp;<a href="https://szekelydata.csaladen.es/" target="_blank">SZÉKELYDATA</a>
 </div>
 </div>
 <div id="chart"></div>
@@ -75,12 +78,12 @@ var time_notes = [
 	{ "start_minute": 35, "stop_minute": 65, "note":"A pontok a válaszadók napi rutinját tükrözik. Most éppen hajnali 5 óra van."}, 
 	{ "start_minute": 70, "stop_minute": 100, "note": "A legtöbben még szundítunk kora reggel. Lassan ébredezünk. De a kutyát már le kell vinni." },
 	{ "start_minute": 130, "stop_minute": 170, "note": "A nap zuhannyal és rántottával indul. Közben újságot olvasunk és híreket - a Facebookon." },
-	{ "start_minute": 180, "stop_minute": 300, "note": "Reggeli után irány munkahely, iskola vagy egyetem. Odaút a forgalomban is eltöltünk pár percet. Van aki otthon marad, és ott végzi teendőit." },
+	{ "start_minute": 180, "stop_minute": 300, "note": "Reggeli után irány munkahely, iskola vagy egyetem. Odaút a forgalomban is eltöltünk pár percet. Van aki otthon marad, és ott végzi teendőit. Mások sporttal, esetleg imával indítják a napot." },
 	{ "start_minute": 360, "stop_minute": 440, "note": "Robog a munkanap, tanulunk, dolgozunk és kilincselünk a hivatalokban." },
-	{ "start_minute": 480, "stop_minute": 540, "note": "Ebédidő, de nem indenki tartja be. Sokan egészen délután 3-ig eltolják." },
+	{ "start_minute": 480, "stop_minute": 540, "note": "Ebédidő, de nem mindenki tartja be. Sokan egészen délután 3-ig eltolják." },
 	{ "start_minute": 660, "stop_minute": 720, "note": "A sulinak már vége, és lassan a munkahelyről is kezdünk hazaszállingózni." },
-	{ "start_minute": 780, "stop_minute": 830, "note": "Munka után a sport vagy hobby! Sokan még bevásárolunk úton hazafele." },
-	{ "start_minute": 870, "stop_minute": 890, "note": "Vacsoraidő!" },
+	{ "start_minute": 780, "stop_minute": 830, "note": "Munka után család, sport vagy hobby! Sokan még bevásárolunk úton hazafele." },
+	{ "start_minute": 840, "stop_minute": 910, "note": "Vacsoraidő! De este 7 és 11 között a leggyakoribb elfoglaltság az internet." },
 	{ "start_minute": 930, "stop_minute": 1030, "note": "Vacsora után jöhet egy kis relaxáció. TV, Internet, esetleg egy sör vagy tea a haverokkal, vagy talán színház/mozi. De olvasni, sportolni is kitűnő ez az óra." },
 	{ "start_minute": 1080, "stop_minute": 1140, "note": "Lassan mindenki hazatér, majd pedig egy rövid zuhany és néhány lájk után irány az ágy." },
 	{ "start_minute": 1112, "stop_minute": 1180, "note": "Még befejezzük az utólsó oldalt, filmet, linket, üzenetet." },
@@ -114,7 +117,7 @@ var svg = d3.select("#chart").append("svg")
 
 // Load data and let's do it.
 //d3.tsv("ex/data/days-simulated-v2.tsv", function(error, data) {	
-d3.tsv("hkoz.csv", function(error, data) {	
+d3.tsv("hetv.csv", function(error, data) {	
 	
 	data.forEach(function(d) {
 		var day_array = d.day.split(",");

@@ -14,6 +14,11 @@
 <div class="togglebutton fast" data-val="fast">Gyors</div>
 <div class="clr"></div>
 </div>
+<div id="week">
+<div class="togglebutton2 hkoz current" data-val="hkoz">Hétköznap</div>
+<div class="togglebutton2 hetv" data-val="hetv">Hétvége</div>
+<div class="clr"></div>
+</div>
 <div id="note"></div>
 <img src="szekelydatabw3.png" style="border: 1px solid #333;height:70px;position: fixed;top: 615px; left:10px;"/>
 <div id="dgraph" style="border: none; width :295px;height :273px;position: fixed;top: 354px; left:-25px;background:none;overflow:hidden;">
@@ -75,12 +80,12 @@ var time_notes = [
 	{ "start_minute": 35, "stop_minute": 65, "note":"A pontok a válaszadók napi rutinját tükrözik. Most éppen hajnali 5 óra van."}, 
 	{ "start_minute": 70, "stop_minute": 100, "note": "A legtöbben még szundítunk kora reggel. Lassan ébredezünk. De a kutyát már le kell vinni." },
 	{ "start_minute": 130, "stop_minute": 170, "note": "A nap zuhannyal és rántottával indul. Közben újságot olvasunk és híreket - a Facebookon." },
-	{ "start_minute": 180, "stop_minute": 300, "note": "Reggeli után irány munkahely, iskola vagy egyetem. Odaút a forgalomban is eltöltünk pár percet. Van aki otthon marad, és ott végzi teendőit." },
+	{ "start_minute": 180, "stop_minute": 300, "note": "Reggeli után irány munkahely, iskola vagy egyetem. Odaút a forgalomban is eltöltünk pár percet. Van aki otthon marad, és ott végzi teendőit. Mások sporttal, esetleg imával indítják a napot." },
 	{ "start_minute": 360, "stop_minute": 440, "note": "Robog a munkanap, tanulunk, dolgozunk és kilincselünk a hivatalokban." },
-	{ "start_minute": 480, "stop_minute": 540, "note": "Ebédidő, de nem indenki tartja be. Sokan egészen délután 3-ig eltolják." },
+	{ "start_minute": 480, "stop_minute": 540, "note": "Ebédidő, de nem mindenki tartja be. Sokan egészen délután 3-ig eltolják." },
 	{ "start_minute": 660, "stop_minute": 720, "note": "A sulinak már vége, és lassan a munkahelyről is kezdünk hazaszállingózni." },
-	{ "start_minute": 780, "stop_minute": 830, "note": "Munka után a sport vagy hobby! Sokan még bevásárolunk úton hazafele." },
-	{ "start_minute": 870, "stop_minute": 890, "note": "Vacsoraidő!" },
+	{ "start_minute": 780, "stop_minute": 830, "note": "Munka után család, sport vagy hobby! Sokan még bevásárolunk úton hazafele." },
+	{ "start_minute": 840, "stop_minute": 910, "note": "Vacsoraidő! De este 7 és 11 között a leggyakoribb elfoglaltság az internet." },
 	{ "start_minute": 930, "stop_minute": 1030, "note": "Vacsora után jöhet egy kis relaxáció. TV, Internet, esetleg egy sör vagy tea a haverokkal, vagy talán színház/mozi. De olvasni, sportolni is kitűnő ez az óra." },
 	{ "start_minute": 1080, "stop_minute": 1140, "note": "Lassan mindenki hazatér, majd pedig egy rövid zuhany és néhány lájk után irány az ágy." },
 	{ "start_minute": 1112, "stop_minute": 1180, "note": "Még befejezzük az utólsó oldalt, filmet, linket, üzenetet." },
@@ -111,10 +116,31 @@ var svg = d3.select("#chart").append("svg")
     .attr("width", width)
     .attr("height", height);
 
+//Render bar chart
+var visualization = d3plus.viz()
+    .container("#dgraph")
+    .type("bar")
+    .id("activity")
+    .order("order")
+    .color("color")
+    .text("Tevékenység")
+    .x({"value":"activity","axis":false,"grid":false,"label":false,"ticks":{"color":"none","width":"0"}})
+    .y({"value":"Minta","axis":false,"grid":false,"label":false,"ticks":{"color":"none","width":"0"}})
+    .legend(false)
+    .messages(false)
+    //.tooltip(false)
+    .background("none")
+    .axes({"background":{"color":"none","stroke":{"color":"none"}},"ticks":false})
+    .draw()
 
 // Load data and let's do it.
 //d3.tsv("ex/data/days-simulated-v2.tsv", function(error, data) {	
-d3.tsv("hkoz.csv", function(error, data) {	
+function loader(datalink) {
+d3.tsv(datalink, function(error, data) {	
+
+	curr_minute = 0;
+	notes_index = 0;
+	sched_objs=[];
 	
 	data.forEach(function(d) {
 		var day_array = d.day.split(",");
@@ -128,6 +154,8 @@ d3.tsv("hkoz.csv", function(error, data) {
 		}
 		sched_objs.push(activities);
 	});
+	
+	console.log(sched_objs.length)
 	
 	// Used for percentages by minute
 	var act_counts = { "0": 0, "1": 0, "2": 0, "3": 0, "4": 0, "5": 0, "6": 0, "7": 0, "8": 0, "9": 0, "10": 0, "11": 0, "12": 0, "13": 0, "14": 0, "15": 0, "16": 0 };
@@ -218,41 +246,6 @@ d3.tsv("hkoz.csv", function(error, data) {
 			return act_counts[d.index] + "%";
 		});
 		
-	var data2 = [
-	    {"year": 1991, "name":"alpha", "value": 15},
-	    {"year": 1991, "name":"beta", "value": 10},
-	    {"year": 1991, "name":"gamma", "value": 5},
-	    {"year": 1991, "name":"delta", "value": 50},
-	    {"year": 1992, "name":"alpha", "value": 20},
-	    {"year": 1992, "name":"beta", "value": 10},
-	    {"year": 1992, "name":"gamma", "value": 10},
-	    {"year": 1992, "name":"delta", "value": 43},
-	    {"year": 1993, "name":"alpha", "value": 30},
-	    {"year": 1993, "name":"beta", "value": 40},
-	    {"year": 1993, "name":"gamma", "value": 20},
-	    {"year": 1993, "name":"delta", "value": 17},
-	    {"year": 1994, "name":"alpha", "value": 60},
-	    {"year": 1994, "name":"beta", "value": 60},
-	    {"year": 1994, "name":"gamma", "value": 25},
-	    {"year": 1994, "name":"delta", "value": 32}
-	  ]
-
- 	//Render bar chart
-	var visualization = d3plus.viz()
-    .container("#dgraph")
-    .type("bar")
-    .id("activity")
-    .order("order")
-    .color("color")
-    .text("Tevékenység")
-    .x({"value":"activity","axis":false,"grid":false,"label":false,"ticks":{"color":"none","width":"0"}})
-    .y({"value":"Minta","axis":false,"grid":false,"label":false,"ticks":{"color":"none","width":"0"}})
-    .legend(false)
-    .messages(false)
-    //.tooltip(false)
-    .background("none")
-    .axes({"background":{"color":"none","stroke":{"color":"none"}},"ticks":false})
-    .draw()
 
 	// Update nodes based on activity and duration
 	function timer() {
@@ -417,9 +410,25 @@ d3.tsv("hkoz.csv", function(error, data) {
 		USER_SPEED = d3.select(this).attr("data-val");
     });
 
+    // Week toggle
+	d3.selectAll(".togglebutton2")
+      .on("click", function() {
+        if (d3.select(this).attr("data-val") == "hkoz") {
+            d3.select(".hkoz").classed("current", true);
+			d3.select(".hetv").classed("current", false);
+        } 
+		else {
+            d3.select(".hkoz").classed("current", false);
+			d3.select(".hetv").classed("current", true);
+        }
+		
+		loader(d3.select(this).attr("data-val")+".csv");
+    });
+
 }); // @end d3.tsv
+}
 
-
+loader("hkoz.csv");
 
 function color(activity) {
 	
