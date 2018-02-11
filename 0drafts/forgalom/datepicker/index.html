@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sample datepickrs</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" type="text/css" href="datepickr.min.css">
+        <style>
+            body {
+                font-family: Verdana;
+            }
+
+            h1 {
+                font-size: 25px;
+            }
+
+            .calendar-icon {
+                display: inline-block;
+                vertical-align: middle;
+                width: 32px;
+                height: 32px;
+                background: url(images/calendar.png);
+            }
+
+            input {
+                border: 1px solid #aaa;
+                padding: 5px;
+                width: 300px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>datepickr examples</h1>
+
+        <p><input id="minAndMax" placeholder="Min and max date options"></p>
+
+        <script src="datepickr.min.js"></script>
+        <script>
+        
+            // Min and max date
+            datepickr('#minAndMax')
+            // Won't affect previously created datepickrs, but will affect any new ones
+            datepickr.prototype.l10n.months.shorthand = ['jan', 'feb', 'már', 'ápr', 'máj', 'jún', 'júl', 'aug', 'szep', 'okt', 'nov', 'dec'];
+            datepickr.prototype.l10n.months.longhand = ['január', 'február', 'március', 'április', 'május', 'június', 'július', 'augusztus', 'szeptember', 'október', 'november', 'december'];
+            datepickr.prototype.l10n.weekdays.shorthand = ['vas', 'hét', 'ked', 'sze', 'csü', 'pén', 'szo'];
+            datepickr.prototype.l10n.weekdays.longhand = ['vasárnap', 'hétfő', 'kedd', 'szerda', 'csütörtök', 'péntek', 'szombat'];
+            datepickr('#minAndMax', {
+                // few days ago
+                minDate: new Date().getTime() - 2.592e8,
+                // few days from now
+                maxDate: new Date().getTime() + 2.592e8
+            });
+
+            //d3.select('#minAndMax').onchange(function(d){console.log(d)})
+            
+        </script>
+    </body>
+</html>

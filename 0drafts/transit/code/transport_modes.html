@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Transport Overlay</title>
+    <style>
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+    </style>
+    <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBXYBOShebHbHHNKEZuBKnr7inNvNckzxM"></script>
+    <script>
+
+var timings = [
+[ 1.300000,103.825000,597,780,605,3207 ],
+
+// Rest of timing data omitted
+
+[ 1.307000,103.755000,752,720,1204,3899 ],
+];
+
+
+
+function initialize() {
+  var map = new google.maps.Map(document.getElementById('map-canvas'), {
+    zoom: 13,
+    center: new google.maps.LatLng(1.33, 103.92), // Singapore
+  });
+
+ for(var i=0; i < timings.length; i++) {
+    var point = timings[i];
+    var driving = point[2] * 1.25; // add 25% for traffic
+  // point[3] is time on public transport, point[4] is time walking to/from public transport
+    var transit = point[3] + point[4]; 
+    var walking = point[5];
+    var cycling = point[5] / 4; // assume you can cycle 4 times faster than walking
+
+    var colour = '#000000'; // default
+
+    if(driving < transit && driving < cycling) {
+        colour = '#FF0000';
+    }
+    else if (transit < driving && transit < cycling) {
+        colour = '#00FF00';
+    }
+    else if (cycling < driving && cycling < transit) {
+        colour = '#0000FF';
+    }
+
+    var sx=0.00125;
+    var sy=0.00125;
+
+      var rectangle = new google.maps.Rectangle({
+        strokeWeight: 0,
+        fillColor: colour,
+        fillOpacity: 0.35,
+        map: map,
+        bounds: new google.maps.LatLngBounds(
+          new google.maps.LatLng(point[0] - sx/2, point[1] - sy/2),
+          new google.maps.LatLng(point[0] + sx/2, point[1] + sy/2))
+      });
+    }
+
+      var goldStar = {
+        path: 'M 125,5 155,90 245,90 175,145 200,230 125,180 50,230 75,145 5,90 95,90 z',
+        fillColor: 'yellow',
+        fillOpacity: 0.8,
+        scale: 0.1,
+        strokeColor: 'gold',
+        strokeWeight: 2
+      };
+
+    // put a gold star on starting locations
+      var myLatLng = new google.maps.LatLng(1.2781524, 103.8445065);
+      var marker = new google.maps.Marker({ position: myLatLng, icon: goldStar, map: map });
+
+      var myLatLng = new google.maps.LatLng(1.374129, 103.947333);
+      var marker = new google.maps.Marker({ position: myLatLng, icon: goldStar, map: map });
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+  </head>
+  <body>
+    <div id="map-canvas"></div>
+  </body>
+</html>

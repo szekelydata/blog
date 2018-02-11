@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>TopoJSON data</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.38.0/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.38.0/mapbox-gl.css' rel='stylesheet' />
+<!-- load D3js -->
+<script src="http://d3plus.org/js/d3.js"></script>
+<script src="../../js/jszip.min.js"></script>
+<script src="../../js/JSZipUtils.min.js"></script>
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; z-index: 100 }
+  #dt { position:fixed; top:10px; left:10px; z-index: 101}
+</style>
+<!-- load datepickr -->
+<link rel="stylesheet" type="text/css" href="../../datepicker/datepickr.min.css">
+</head>
+<body>
+
+<div id='map'></div>
+
+<div id="dt"><input id="minAndMax" placeholder=" válassz dátumot..." style="width:115px;"></div>
+
+<script src="../../datepicker/datepickr.min.js"></script>
+<script>
+
+    // Min and max date
+    datepickr('#minAndMax')
+    // Won't affect previously created datepickrs, but will affect any new ones
+    datepickr.prototype.l10n.months.shorthand = ['jan', 'feb', 'már', 'ápr', 'máj', 'jún', 'júl', 'aug', 'szep', 'okt', 'nov', 'dec'];
+    datepickr.prototype.l10n.months.longhand = ['január', 'február', 'március', 'április', 'május', 'június', 'július', 'augusztus', 'szeptember', 'október', 'november', 'december'];
+    datepickr.prototype.l10n.weekdays.shorthand = ['vas', 'hét', 'ked', 'sze', 'csü', 'pén', 'szo'];
+    datepickr.prototype.l10n.weekdays.longhand = ['vasárnap', 'hétfő', 'kedd', 'szerda', 'csütörtök', 'péntek', 'szombat'];
+    datepickr('#minAndMax', {
+        // few days ago
+        minDate: new Date().getTime() - 2.592e8,
+        // few days from now
+        maxDate: new Date().getTime() + 2.592e8
+    });
+    
+</script>
+
+<script>
+
+function trigger(date){
+	yr=date.year
+	if (date.month>8) mo=date.month+1;
+	else mo="0"+String(date.month+1);
+	if (date.day>9) dy=date.day;
+	else dy="0"+String(date.day);
+	console.log(yr+'-'+mo+'-'+dy)
+}
+
+JSZipUtils.getBinaryContent('data.zip', function(err, rawzip) {
+
+	var zip = new JSZip(rawzip);
+	var rawdata=JSON.parse(zip.files['data.json'].asText());
+
+	var data=rawdata['2018-01-04']['08:00']['response']
+	var c=[];
+	for (k=0;k<data.isoline.length;k++) {
+		var a=data.isoline[k].component[0].shape;
+		var b=[];
+		for (i=0;i<a.length;i=i+2) {
+			b.push([a[i+1],a[i]])
+		};
+		c.push(b);
+	}
+	
+	colors=['white','cyan','blue','green']
+
+	mapboxgl.accessToken = 'pk.eyJ1IjoiY3NhbGFkZW5lcyIsImEiOiJjajQ0YzFmcjkxOHlzMzNtZ3A0ZDlyZnZsIn0.iDOBmJibZ81VFxQvkOmS8A';
+	var map = new mapboxgl.Map({
+	    container: 'map', // container id
+	    style: 'mapbox://styles/mapbox/basic-v8', //stylesheet location
+	    center: [data.center.longitude,data.center.latitude], // starting position
+	    zoom: 9, // starting zoom
+	    //pitch: 185,
+    	//bearing: -50,
+	});
+
+	map.on('load', function () {
+
+	    for (k=data.isoline.length-1;k>=0;k--) {
+		    map.addLayer({
+		        'id': 'id'+k,
+		        'type': 'fill',
+		        'source': {
+		            'type': 'geojson',
+		            'data': {
+		                'type': 'Feature',
+		                'geometry': {
+		                    'type': 'Polygon',
+		                    'coordinates': [c[k]]
+		                }
+		            }
+		        },
+		        'layout': {},
+		        'paint': {
+		            'fill-color': colors[k],
+		            'fill-opacity': 0.4
+		        }
+		    });
+		};
+	});
+
+})
+</script>
+
+</body>
+</html>

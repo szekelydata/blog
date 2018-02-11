@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<style>
+img {
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	opacity:1;
+	margin:-50px;
+	/*screen, overlay, darken, lighten, color-dodge, color-burn, hard-light, soft-light, difference, exclusion, hue, saturation, color, luminosity */
+}
+</style>
+</head>
+<body>
+<script>
+  	var i = 311, hi = 343;
+  	$('body').append('<img id="img" src="Screenshot ('+i+').png" />')
+  	i++;
+	function f() {
+		$('#img').attr('src','Screenshot ('+i+').png'); 
+	    i++;
+	    if( i <= hi ){
+	        setTimeout( f, 500 );
+	    }
+	}
+	f();
+</script>
+</body>
+</html>
