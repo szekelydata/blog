@@ -15,8 +15,8 @@
 <div class="clr"></div>
 </div>
 <div id="week">
-<div class="togglebutton2 hkoz current" data-val="hkoz">Hétköznap</div>
-<div class="togglebutton2 hetv" data-val="hetv">Hétvége</div>
+<a class="togglebutton2 hkoz" id="hkoz" href="#hkoz" onclick='location.reload();' data-val="hkoz">Hétköznap</a>
+<a class="togglebutton2 hetv" id="hetv" href="#hetv" onclick='location.reload();' data-val="hetv">Hétvége</a>
 <div class="clr"></div>
 </div>
 <div id="note"></div>
@@ -24,7 +24,6 @@
 <div id="dgraph" style="border: none; width :295px;height :273px;position: fixed;top: 354px; left:-25px;background:none;overflow:hidden;">
 </div>
 <div id="cite">
-	266 erdélyi válaszadó hétköznapi rutinja. A forrás <a href="https://szekelydata.csaladen.es/kerdoiv/">ez a kérdőív.</a>&nbsp;|&nbsp;<a href="https://szekelydata.csaladen.es/" target="_blank">SZÉKELYDATA</a>
 </div>
 </div>
 <div id="chart"></div>
@@ -75,7 +74,7 @@ act_codes.forEach(function(d,i){
 var speeds = { "slow": 500, "medium": 200, "fast": 70 };
 
 
-var time_notes = [
+var all_time_notes = {"hkoz":[
 	{ "start_minute": 1, "stop_minute": 30, "note": "Még egy átlagos erdélyi hétköznap! Az adatokat a SZÉKELYDATA online időfelhasználási kérdőívből nyertük."},
 	{ "start_minute": 35, "stop_minute": 65, "note":"A pontok a válaszadók napi rutinját tükrözik. Most éppen hajnali 5 óra van."}, 
 	{ "start_minute": 70, "stop_minute": 100, "note": "A legtöbben még szundítunk kora reggel. Lassan ébredezünk. De a kutyát már le kell vinni." },
@@ -90,7 +89,19 @@ var time_notes = [
 	{ "start_minute": 1080, "stop_minute": 1140, "note": "Lassan mindenki hazatér, majd pedig egy rövid zuhany és néhány lájk után irány az ágy." },
 	{ "start_minute": 1112, "stop_minute": 1180, "note": "Még befejezzük az utólsó oldalt, filmet, linket, üzenetet." },
 	{ "start_minute": 1210, "stop_minute": 1300, "note": "Jó éjt! Majdnem mindenki alszik már. Néhányan későig lógunk a neten, de éjjel 2:30 és 5:30 között 96 %-unk pihen." },
-];
+],"hetv":[{ "start_minute": 1, "stop_minute": 30, "note": "Még egy átlagos erdélyi hétvége! Az adatokat a SZÉKELYDATA online időfelhasználási kérdőívből nyertük."},
+	{ "start_minute": 35, "stop_minute": 65, "note":"A pontok a válaszadók napi rutinját tükrözik. Most éppen hajnali 5 óra van, egy átlagos hétvégi napon"}, 
+	{ "start_minute": 70, "stop_minute": 100, "note": "A legtöbben még szundítunk kora reggel. Lassan ébredezünk. De a kutyát már le kell vinni." },
+	{ "start_minute": 130, "stop_minute": 170, "note": "Hétvégén később kelünk. A nap zuhannyal és reggelivel indul." },
+	{ "start_minute": 270, "stop_minute": 330, "note": "Hosszű reggeli után kevesen dolgozunk. Néhányan vásárolni mennek, mások templomba." },
+	{ "start_minute": 360, "stop_minute": 440, "note": "Van aki a természetet választja, kirándul vagy hobbijának hódol. A házimunkára is kerül idő." },
+	{ "start_minute": 480, "stop_minute": 540, "note": "Hétvégén rendszeresbbek az étkezések is: 10-kor reggelizünk, délután 3-kor ebédelünk és este 8-kor vacsorázunk" },
+	{ "start_minute": 660, "stop_minute": 720, "note": "A délután a pihenésé és a kirándulásé." },
+	{ "start_minute": 780, "stop_minute": 830, "note": "Az itthon maradtak tévézünk, internetezünk." },
+	{ "start_minute": 930, "stop_minute": 1030, "note": "Vacsora után jöhet a készülődés, majd irány a város! Hétvégi estéink egyértelműen a barátainknak szenteljük." },
+	{ "start_minute": 1080, "stop_minute": 1140, "note": "Hétvégén később térünk nyugovóra, akár ha otthon is maradtunk." },
+	{ "start_minute": 1112, "stop_minute": 1180, "note": "De lassan az utolsó buli is befjeződik és mindenki hazatér.." },
+]};
 var notes_index = 0;
 
 
@@ -116,8 +127,23 @@ var svg = d3.select("#chart").append("svg")
     .attr("width", width)
     .attr("height", height);
 
+
+// Load data and let's do it.
+//d3.tsv("ex/data/days-simulated-v2.tsv", function(error, data) {	
+datalink="hkoz";
+
+if (window.location.hash=="#hkoz") datalink="hkoz";
+if (window.location.hash=="#hetv") datalink="hetv";
+
+var week={"hkoz":"hétköznap","hetv":"hétvég"}
+d3.select("#cite").html('266 erdélyi válaszadó '+week[datalink]+'i rutinja. A forrás <a href="https://szekelydata.csaladen.es/kerdoiv/">ez a kérdőív.</a>&nbsp;|&nbsp;<a href="https://szekelydata.csaladen.es/" target="_blank">SZÉKELYDATA</a>')
+
+d3.select("."+datalink).attr("class","togglebutton2 current "+datalink);
+
+var time_notes=all_time_notes[datalink];
+
 //Render bar chart
-var visualization = d3plus.viz()
+	var visualization = d3plus.viz()
     .container("#dgraph")
     .type("bar")
     .id("activity")
@@ -131,16 +157,8 @@ var visualization = d3plus.viz()
     //.tooltip(false)
     .background("none")
     .axes({"background":{"color":"none","stroke":{"color":"none"}},"ticks":false})
-    .draw()
 
-// Load data and let's do it.
-//d3.tsv("ex/data/days-simulated-v2.tsv", function(error, data) {	
-function loader(datalink) {
-d3.tsv(datalink, function(error, data) {	
-
-	curr_minute = 0;
-	notes_index = 0;
-	sched_objs=[];
+d3.tsv(datalink+'.csv', function(error, data) {	
 	
 	data.forEach(function(d) {
 		var day_array = d.day.split(",");
@@ -154,8 +172,6 @@ d3.tsv(datalink, function(error, data) {
 		}
 		sched_objs.push(activities);
 	});
-	
-	console.log(sched_objs.length)
 	
 	// Used for percentages by minute
 	var act_counts = { "0": 0, "1": 0, "2": 0, "3": 0, "4": 0, "5": 0, "6": 0, "7": 0, "8": 0, "9": 0, "10": 0, "11": 0, "12": 0, "13": 0, "14": 0, "15": 0, "16": 0 };
@@ -246,7 +262,6 @@ d3.tsv(datalink, function(error, data) {
 			return act_counts[d.index] + "%";
 		});
 		
-
 	// Update nodes based on activity and duration
 	function timer() {
 		d3.range(nodes.length).map(function(i) {
@@ -320,6 +335,7 @@ d3.tsv(datalink, function(error, data) {
 		
 		if (curr_minute % 5 == 0) {
 			data2=[];
+			//console.log(act_counts);
 			Object.keys(act_counts).forEach(function(d){
 				data2.push({"activity":d,"Minta":act_counts[d],"order":order[d],"color":color(d),"Tevékenység":act_codes[order[d]]["short"]})
 			})
@@ -410,6 +426,7 @@ d3.tsv(datalink, function(error, data) {
 		USER_SPEED = d3.select(this).attr("data-val");
     });
 
+    /*
     // Week toggle
 	d3.selectAll(".togglebutton2")
       .on("click", function() {
@@ -422,13 +439,13 @@ d3.tsv(datalink, function(error, data) {
 			d3.select(".hetv").classed("current", true);
         }
 		
-		loader(d3.select(this).attr("data-val")+".csv");
+		USER_DATA = d3.select(this).attr("data-val");
     });
+    */
 
 }); // @end d3.tsv
-}
 
-loader("hkoz.csv");
+
 
 function color(activity) {
 	
@@ -450,26 +467,6 @@ function color(activity) {
 		"14": "#cc87fa",
 		"15": "#ee8e76",
 		"16": "#bbbbbb",
-	}
-	
-	var colorByActivity2 = {
-		"0": "#3288bd",
-		"1": "#5e4fa2",
-		"2": "#66c2a5",
-		"3": "#abdda4",
-		"4": "#e6f598",
-		"5": "#ffffbf",
-		"6": "#fee08b",
-		"7": "#fdae61",
-		"8": "#f46d43",
-		"9": "#d53e4f",
-		"10": "#9e0142",
-		"11": "#c51b7d",
-		"12": "#de77ae",
-		"13": "#f1b6da",
-		"14": "#7fbc41",
-		"15": "#01665e",
-		"16": "#8c510a",
 	}
 	
 	return colorByActivity[activity];

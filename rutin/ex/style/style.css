@@ -144,13 +144,13 @@ circle {
 }
 
 a {
-    color: #444;
+    color: #777;
     text-decoration: none;
-    border-bottom: 1px solid #444;
+    border-bottom: 1px solid #777;
 }
 
 a:hover {
-    border-bottom: 3px solid #444;
+    border-bottom: 3px solid #777;
 }
 
 .clr {
