@@ -1,13 +1,24 @@
 <!DOCTYPE html>
 <head>
-<title>Időfelhasználási szimuláció</title>
 <link rel="stylesheet" href="ex/style/style.css" type="text/css" media="screen" />
 </head>
 <meta charset="utf-8">
-<meta property="og:image" content="https://szekelydata.csaladen.es/rutin/download%20(3).png" />
-<meta property="twitter:image" content="https://szekelydata.csaladen.es/rutin/download%20(3).png" />
-<meta property="og:url" content="https://szekelydata.csaladen.es/rutin/"/>
-<meta property="twitter:url" content="https://szekelydata.csaladen.es/rutin/"/>
+<meta name="description" content="SZÉKELYDATA | Időfelhasználási Vizualizáció" />
+<meta name="keywords" content="csaladenes, d3.js, data visualization, d3, szekelyfold, szekelydata, time use, sand dance, sand map, interactive data visualization, dataviz, transylvania, erdély, székely, point cloud, dynamic, time utilization, atus" />
+<meta property="og:image" content="https://szekelydata.csaladen.es/rutin/snapshot.png" />
+<meta property="twitter:image" content="https://szekelydata.csaladen.es/rutin/snapshot.png" />
+<meta property="og:description" content="SZÉKELYDATA | Időfelhasználási Vizualizáció" />
+<meta property="twitter:description" content="SZÉKELYDATA | Időfelhasználási Vizualizáció" />
+<meta property="og:title" content="Rutin - egy átlagos erdélyi hétköznap villanásai" />
+<meta property="twitter:title" content="Rutin - egy átlagos erdélyi hétköznap villanásai" />
+<meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+<meta property="og:url" content="http://csaladenes.egologo.ro/?p=1157"/>
+<meta property="twitter:url" content="http://csaladenes.egologo.ro/?p=1157"/>
+<meta property="og:site_name" content="SZÉKELYDATA" />
+<meta property="fb:admins" content="100943737036023614165" />
+<link rel="shortcut icon" href="https://szekelydata.csaladen.es/favicon.ico" />
+<link rel="publisher" href="https://plus.google.com/106181965793093327960" />
+<title>Rutin - egy átlagos erdélyi hétköznap villanásai</title>
 <body>
 <div id="main-wrapper">
 <div id="sidebar">
@@ -162,7 +173,7 @@ var time_notes=all_time_notes[datalink];
     .background("none")
     .axes({"background":{"color":"none","stroke":{"color":"none"}},"ticks":false})
 
-d3.tsv(datalink+'.csv', function(error, data) {	
+d3.tsv(datalink+'3.csv', function(error, data) {	
 	
 	data.forEach(function(d) {
 		var day_array = d.day.split(",");
@@ -375,7 +386,7 @@ d3.tsv(datalink+'.csv', function(error, data) {
 	  	  .each(collide(.5))
 	  	  .attr("cx", function(d) { return d.x; })
 	      .attr("cy", function(d) { return d.y; })
-	      //.transition(3000).delay(3000)
+	      //.transition(2000).delay(1000)
 	      .style("fill", function(d) { return d.color; });
 	}
 
