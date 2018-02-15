@@ -314,10 +314,10 @@ d3.tsv(datalink+'3.csv', function(error, data) {
 				nodes[i].next_move_time += nodes[i].sched[ curr_node.moves ].duration;
 			
 				//audio
-				if (i%7==0) {
+				if (i%3==0) {
 					//var audioid=parseInt(1+68*Math.random()); //random sounds
-					var audioid=parseInt(70-act_codes[curr_node.act]["index"]*4)-parseInt(12*Math.random()) //sounds by activity
-					var audiodelay=parseInt(1+200*Math.random())
+					var audioid=parseInt(60-act_codes[curr_node.act]["index"]*4)-parseInt(3*Math.random()) //sounds by activity
+					var audiodelay=parseInt(1+100*Math.random())
 					setTimeout(function(){
 						d3.select("#audio"+i).attr("src","music/piano/"+audioid+".wav")
 					},audiodelay);
