@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Székelyföldi diaszpóra - Hargita, Kovászna és Maros megye városaiból elszármazottak szerte a világban #szekelydata  #d3js @csaladenes" />
+    <meta name="keywords" content="csaladenes, d3.js, data visualization, infographic, szekelyland, székelyföld, adatvizualizáció, diaszpóra, diaspora, d3" />
+    <meta property="og:image" content="http://csaladenes.egologo.ro/wp-content/uploads/2015/08/szekely_diaszpora1.jpg" />
+    <meta property="og:description" content="Székelyföldi diaszpóra - Hargita, Kovászna és Maros megye városaiból elszármazottak szerte a világban #szekelydata  #d3js @csaladenes" />
+    <meta property="og:title" content="Székelyföldi diaszpóra" />
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+	<meta property="og:url" content="http://csaladenes.egologo.ro/?p=773"/>
+    <meta property="og:site_name" content="SZÉKELYDATA" />
+    <meta property="fb:admins" content="100943737036023614165" />
+	<link rel="shortcut icon" href="szekelydata.png" />
+	<link rel="publisher" href="https://plus.google.com/106181965793093327960" />
+    <title>Székelyföldi diaszpóra</title>
+    <style>
+        @font-face {
+            font-family: "Righteous";
+            src: url(Righteous-Regular.ttf) format("truetype");
+        }
+        
+        html,
+        body {
+            font-family: "Righteous", "Trebuchet MS", "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            height: 100%;
+            width: 100%;
+            background-color: #112;
+        }
+        
+        .background {
+            fill: none;
+            pointer-events: all;
+        }
+        
+        .feature {
+            fill: #334;
+            cursor: pointer;
+        }
+        
+        .feature.active {
+            fill: #334;
+        }
+        
+        .feature:hover {
+            fill: #445;
+        }
+        
+        .mesh {
+            fill: none;
+            stroke: #112;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+        
+        .graticule {
+            fill: none;
+            stroke: #000;
+            stroke-opacity: .3;
+            stroke-width: .5px;
+        }
+        
+        .graticule.outline {
+            stroke: #333;
+            stroke-opacity: 1;
+            stroke-width: 1.5px;
+        }
+        
+        div.tooltip {
+            line-height: 1;
+            font-size: 14px;
+            padding: 6px;
+            background: rgba(25, 25, 45, 0.8);
+            color: #667;
+            border-radius: 4px;
+            border-color: black;
+            border: solid 1px;
+            z-index: 2000;
+            position: absolute;
+        }
+        
+        a {
+            text-decoration: none;
+            color: #667;
+        }
+        
+        #social {
+            position: fixed;
+            top: 0;
+            right: 0;
+            text-decoration: none;
+            text-align: right;
+            padding: 3px;
+            z-index: 800;
+            white-space: nowrap;
+            overflow: hidden;
+            opacity: 0;
+        }
+    </style>
+    <script type="text/javascript">
+        var switchTo5x = true;
+    </script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">
+        stLight.options({
+            publisher: "505a26ad-d820-47bd-a500-7f49d04a30f5",
+            doNotHash: true,
+            doNotCopy: false,
+            hashAddressBar: false
+        });
+    </script>
+</head>
+<body>
+
+	<div id="container" style="width:900px;height:500px;margin:0px;opacity:0;border:solid 1px #667;">
+		<div style="position:fixed;float:left;top:486px;left:800px;opacity:1;font-size:8px;color:#667; white-space: nowrap;overflow:hidden;"><a href="http://www.csaladen.es" target="_blank">csaladen.es</a> | <a href="https://twitter.com/csaladenes" target="_blank">@csaladenes</a></div>
+		<div style="position:fixed;float:left;top:440px;left:315px;opacity:1;font-size:34.4px;"><a href="http://wp.me/p5qKps-ct" target="_blank" style="color:#667;">SZÉKELYFÖLDI DIASZPÓRA</a></div>
+		<div style="position:fixed;float:left;top:480px;left:315px;opacity:1;font-size:12px;"><a href="http://wp.me/p5qKps-ct" target="_blank" style="color:#667;">Hargita, Kovászna és Maros megye városaiból elszármazottak szerte a világban</a></div>
+		<div style="position:fixed;float:left;top:158px;left:123px;opacity:1;font-size:10px;color:#667;">más ország | megye</div>
+		<div style="position:fixed;float:left;top:433px;left:841px;opacity:1;cursor:pointer;" id="logo">
+			<a href="http://wp.me/p5qKps-ct" target="_blank"><img style="width:55px;border:none;" src="szekelydata.png" alt="Leírás" title="Leírás" /></a>
+		</div>
+	</div>
+
+	<div id="social">
+		<span class='st_facebook'></span>
+		<span class='st_twitter'></span>
+		<span class='st_googleplus'></span>
+		<span class='st_linkedin'></span>
+		<span class='st_tumblr'></span>
+		<span class='st_reddit'></span>
+		<span class='st_email'></span>
+	</div>
+
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<script src="http://d3js.org/d3.geo.projection.v0.min.js"></script>
+	<script src="http://d3js.org/topojson.v1.min.js"></script>
+
+	<script>
+		var colors = {
+			'toplita': '#dd1c77',
+			'gyergyo': '#c51b8a',
+			'balan': '#f768a1',
+			'csikszereda': '#fecc5c',
+			'vlahica': '#fd8d3c',
+			'udvarhely': '#f03b20',
+			'keresztur': '#bd0026',
+			'szentgyorgy': '#253494',
+			'barot': '#2c7fb8',
+			'kezdi': '#41b6c4',
+			'kovaszna': '#a1dab4',
+			'segesvar': '#78c679',
+			'vasarhely': '#31a354',
+			'parajd': '#006837',
+			'szovata': '#1c9099',
+			'regen': '#016c59',
+			'kolozsvar': '#993404'
+		}
+		var citylist = [
+			'toplita',
+			'gyergyo',
+			'balan',
+			'csikszereda',
+			'vlahica',
+			'udvarhely',
+			'keresztur',
+			'szentgyorgy',
+			'barot',
+			'kezdi',
+			'kovaszna',
+			'segesvar',
+			'vasarhely',
+			'parajd',
+			'szovata',
+			'regen',
+			'kolozsvar'
+		]
+
+		var cities = {
+			'csikszereda': 'Csíkszereda',
+			'udvarhely': 'Székelyudvarhely',
+			'szentgyorgy': 'Sepsiszentgyörgy',
+			'vasarhely': 'Marosvásárhely',
+			'barot': 'Barót',
+			'gyergyo': 'Gyergyószentmiklós',
+			'kezdi': 'Kézdivásárhely',
+			'keresztur': 'Székelykeresztúr',
+			'kovaszna': 'Kovászna',
+			'balan': 'Balánbánya',
+			'vlahica': 'Szentegyháza',
+			'parajd': 'Parajd',
+			'szovata': 'Szováta',
+			'regen': 'Szászrégen',
+			'kolozsvar': 'Kolozsvár',
+			'segesvar': 'Segesvár',
+			'toplita': 'Maroshévíz'
+		}
+		var ison = {
+			'csikszereda': true,
+			'udvarhely': true,
+			'szentgyorgy': true,
+			'vasarhely': true,
+			'barot': true,
+			'gyergyo': true,
+			'kezdi': true,
+			'keresztur': true,
+			'kovaszna': true,
+			'balan': true,
+			'vlahica': true,
+			'parajd': true,
+			'szovata': true,
+			'regen': true,
+			'kolozsvar': true,
+			'segesvar': true,
+			'toplita': true
+		}
+		var citycoords = {
+			'csikszereda': [46.3695574, 25.7953655],
+			'udvarhely': [46.3049996, 25.2926479],
+			'szentgyorgy': [45.8609375, 25.7885796],
+			'vasarhely': [46.5385862, 24.5514392],
+			'barot': [46.0753937, 25.6050476],
+			'gyergyo': [46.7212112, 25.5855274],
+			'kezdi': [46.0006001, 26.1345785],
+			'keresztur': [46.2924526, 25.0317145],
+			'kovaszna': [45.84727669999999, 26.1783452],
+			'balan': [46.6585838, 25.8076679],
+			'vlahica': [46.3266994, 25.5148069],
+			'parajd': [46.5553429, 25.1272723],
+			'szovata': [46.5990794, 25.0774363],
+			'regen': [46.7710931, 24.700762],
+			'kolozsvar': [46.7712101, 23.6236353],
+			'segesvar': [46.2197025, 24.7963878],
+			'toplita': [46.9260303, 25.3534041]
+		}
+		var countries = {
+			'Italy':'Olaszország',
+			'Spain':'Spanyolország',
+			'Germany':'Németország',
+			'Hungary':'Magyarország',
+			'United Kingdom':'Egyesült Királyság',
+			'Other':'Más',
+			'France':'Franciaország',
+			'United States':'Egyesült Államok',
+			'Austria':'Ausztria',
+			'Canada':'Kanada',
+			'Denmark':'Dánia',
+			'Sweden':'Svédország',
+			'Switzerland':'Svájc',
+			 'Romania':'Románia',
+			 'Poland':'Lengyelország',
+			 'Belgium':'Belgium',
+			 'Netherlands':'Hollandia'
+		}
+
+		var width = document.getElementById("container").offsetWidth - 2,
+			height = document.getElementById("container").offsetHeight - 2,
+			active = d3.select(null);
+
+		var projection = d3.geo.mercator(),//kavrayskiy7
+			graticule = d3.geo.graticule();
+		
+		var defaultZoom = 4;
+		var defaultTranslateX = -1530;
+		var defaultTranslateY = -160;
+
+		var path = d3.geo.path()
+			.projection(projection);
+
+		var tiptext = "no data";
+
+		var tooltipdiv = d3.select("body")
+			.append("div")
+			.attr("class", "tooltip")
+			.style("visibility", "hidden")
+
+		var tipshow = function() {
+			tooltipdiv.style("visibility", "visible");
+
+			tooltipdiv.html(function() {
+
+					//sort the rows - largest first
+					var city=city=countries[tiptext[0].city];
+					var tt = '<table><tr><td style="color:#889;font-size:18px;">' + city +
+						'</td><td style="color:#889;font-size:18px;">' + parseInt(tiptext[0].data.count) + '</td></tr>';
+
+					for (var ii = 0; ii < tiptext[2].length; ii++) {
+						i = tiptext[2][ii];
+						if ((i != 'count') && (i != 'coords'))
+							if (tiptext[1] != i) {
+								tt = tt + '<tr><td style="color:#667;">' + cities[i] + '</td>' + '<td style="color:#667;">' + parseInt(tiptext[0].data[i].count) + '</td></tr>';
+							} else {
+								tt = tt + '<tr><td style="color:' + colors[i] + ';">' + cities[i] + '</td>' + '<td style="color:' + colors[i] + ';">' + parseInt(tiptext[0].data[i].count) + '</td></tr>';
+							}
+					}
+
+					return tt + '</table>';
+				})
+				.style("left", Math.min(document.getElementById("container").parentElement.offsetWidth-200,(d3.event.pageX + 30)) + "px")
+				.style("top", Math.min(document.getElementById("container").parentElement.offsetHeight-330	,(d3.event.pageY - 30)) + "px");
+
+		}
+		var tiphide = function() {
+			tooltipdiv.style("visibility", "hidden");
+		}
+
+		d3.json("data2b.json", function(error, rawdata) {
+	
+			d3.json("data3.json", function(error, data3) {
+			d3.json("data4.json", function(error, data4) {
+	
+			for (i = 0; i < citylist.length - 1; i++) {
+			
+			d3.select("#container")
+				.datum(citylist[i])
+				.append("div")
+				.attr("alt","Szűrés")
+				.attr("title","Szűrés")
+				.attr("style", "position:fixed;float:left;top:" + (173 + 20 * i) + "px;left:5px;width:95px;height:21px;background-color:" +
+					colors[citylist[i]] + ";font-size:10px;text-align:center;line-height:21px;cursor:pointer;color:#112;opacity:0.9;z-index:8;")
+				.text(cities[citylist[i]])
+				.on("mouseover", function(d) {
+					d3.selectAll(".el").style("opacity", 0.1);
+					d3.selectAll("." + d).style("opacity", 0.8);
+				})
+				.on("click", function(d) {
+					if (ison[d]){
+						d3.selectAll("." + d).style("visibility", "hidden");
+						ison[d]=false;
+						
+						d3.select(this).style("background","#445");
+					} else {
+						d3.selectAll("." + d).style("visibility", "visible");
+						ison[d]=true;
+						d3.select(this).style("background",colors[d]);
+					}
+				})
+				.on("mouseout", function(d) {
+					d3.selectAll(".el").style("opacity", 0.8);
+				})
+				.append("div")
+				.attr("alt","Város külföldön élő százaléka")
+				.attr("class",citylist[i])
+				.attr("title","Város külföldön élő százaléka")
+				.attr("style", "position:fixed;float:left;top:" + (173 + 20 * i) + "px;left:105px;width:"+data3[citylist[i]]*1.5+"px;padding-left:5px;height:21px;background-color:" +
+					colors[citylist[i]] + ";font-size:12px;text-align:left;cursor:default;line-height:21px;color:#112;opacity:0.8;z-index:8;")
+				.text(data3[citylist[i]]+" %")
+				.append("div")
+				.attr("alt","Város megyén kívül élő százaléka")
+				.attr("class",citylist[i])
+				.attr("title","Város megyén kívül élő százaléka")
+				.attr("style", "position:fixed;float:left;top:" + (173 + 20 * i) + "px;left:"+(111+data3[citylist[i]]*1.5)+"px;width:"+(parseInt(((100-data3[citylist[i]])*data4[citylist[i]])/100)*1.5)+"px;padding-left:5px;height:21px;background-color:" +
+					colors[citylist[i]] + ";font-size:12px;text-align:left;cursor:default;line-height:21px;color:#112;opacity:0.8;z-index:8;")
+				.text(parseInt(((100-data3[citylist[i]])*data4[citylist[i]])/100)+" %")
+			}
+			})})
+		
+
+			data = [];
+			for (i in rawdata.cities) {
+				data.push({
+					"city": i,
+					"data": rawdata.cities[i]
+				});
+			}
+
+			var svg = d3.select("#container").append("svg")
+				.attr("width", width)
+				.attr("height", height)
+				.on("click", stopped, true);
+				
+			svg.append("path")
+            .datum(graticule)
+            .attr("class", "graticule")
+            .attr("d", path);
+
+
+			svg.append("rect")
+				.attr("class", "background")
+				.attr("width", width)
+				.attr("height", height)
+				.on("click", reset);
+
+			var g = svg.append("g");
+
+			var zoom = d3.behavior.zoom()
+				.translate([defaultTranslateX, defaultTranslateY])
+				.scale(defaultZoom)
+				.scaleExtent([1, 1000])
+				.on("zoom", zoomed);
+
+			svg
+				.call(zoom) // delete this line to disable free zooming
+				.call(zoom.event);
+
+			d3.json("world.json", function(error, world) {
+				g.selectAll("path")
+					.data(topojson.feature(world, world.objects.countries).features)
+					.enter().append("path")
+					.attr("d", path)
+					.attr("style",function(d){if (d.id==10) return "visibility:hidden;"; else return "visibility:visible;";})
+					.attr("class", "feature")
+					.on("click", clicked);
+
+				g.append("path")
+					.datum(topojson.mesh(world, world.objects.countries, function(a, b) {
+						return a !== b;
+					}))
+					.attr("class", "mesh")
+					.attr("d", path);
+			});
+
+			var scale = defaultZoom;
+			var translate = [defaultTranslateX, defaultTranslateY];
+
+			var update = function() {
+
+				//sort pies - largest on the bottom
+				data.sort(function(a, b) {
+					return b.data.count - a.data.count;
+				});
+
+				//draw pies
+				for (k in data) {
+
+					helperdata = [];
+
+					for (j in data[k].data) {
+						if ((j != "coords") && (j != "count")) {
+							helperdata.push({
+								"colorArr": colors[j],
+								"pieData": data[k].data[j].count,
+								"corder": j
+							});
+						}
+					}
+
+					//sort slices - largest first
+
+					helperdata.sort(function(a, b) {
+						return b.pieData - a.pieData;
+					});
+
+					//record ranks
+					var gorder = [];
+					for (var j = 0; j < helperdata.length; j++) {
+						gorder.push(helperdata[j].corder);
+					}
+
+					var sectorAngleArr = [];
+					var total = 0;
+					var startAngle = 90;
+					var endAngle = 90;
+					var x1, x2, y1, y2, r, cx, cy = 0;
+
+					function drawpie() {
+						//CALCULATE THE TOTAL
+						for (var i = 0; i < helperdata.length; i++) {
+							total += helperdata[i].pieData;
+						}
+
+						//CALCULATE THE ANGLES THAT EACH SECTOR SWIPES AND STORE IN AN ARRAY
+						for (var i = 0; i < helperdata.length; i++) {
+							var angle = Math.round((360.0) * helperdata[i].pieData / total);
+							sectorAngleArr.push(angle);
+						}
+						drawArcs();
+					}
+
+					function drawArcs() {
+						var d = "";
+						var pin = svg.append("g")
+							.datum(data[k])
+							.attr("class", "pin")
+
+						for (var i = 0; i < sectorAngleArr.length; i++) {
+
+							startAngle = endAngle;
+							endAngle = startAngle + sectorAngleArr[i];
+							r = 8 + Math.pow(Math.min(data[k].data.count/1.5, 40000), 1 / 1.9) / scale;
+
+							x1 = Math.round(0 + r * Math.cos(Math.PI * startAngle / 180.0));
+							y1 = Math.round(0 + r * Math.sin(Math.PI * startAngle / 180.0));
+
+							x2 = Math.round(0 + r * Math.cos(Math.PI * endAngle / 180.0));
+							y2 = Math.round(0 + r * Math.sin(Math.PI * endAngle / 180.0));
+
+							cx = 0;
+							cy = 0;
+
+							var large_arc_flag=0;
+							if (sectorAngleArr[i]>180) large_arc_flag = 1;
+							
+							//first draw in zero, translate later
+							d = "M" + cx + "," + cy + "  L" + x1 + "," + y1 + "  A" + r + "," + r + " 0 "+ large_arc_flag +" 1 " + x2 + "," + y2 + " z"; //1 means clockwise
+
+							if (sectorAngleArr.length > 1) {
+								var el = pin.append("path")
+									.attr("d", d)
+							} else {
+								var el = pin.append("circle")
+									.attr("r", r)
+									.attr("cx", cx)
+									.attr("cy", cy)
+							}
+
+							el.datum([data[k], helperdata[i].corder, gorder])
+								.attr("class", "el " + helperdata[i].corder)
+								.attr("fill", helperdata[i].colorArr)
+								.attr("stroke", "#112")
+								.attr("stroke-width", 1)
+								.on("mouseover", function(d) {
+									tiptext = d;
+									tipshow();
+									return;
+								})
+								.on("mouseout", tiphide)
+								.style("opacity", "0.8")
+							
+							pin.append("text")
+								.attr("x",0)
+								.attr("y",function(d){
+									if ((d.city=="Poland")||(d.city=="Hungary")||(d.city=="Germany")||(d.city=="Netherlands")||(d.city=="Denmark")) {
+										return -r-16-13
+									}
+									return r;
+								})
+								.attr("dy", 13)
+								.attr("fill", "#667")
+								.attr("font-size", "12px")
+								.attr("stroke", "none")
+								.attr("text-anchor", "middle").attr("transform", null)
+								.text(function(d){
+									return countries[d.city];
+								})
+								
+							pin.append("text")
+								.attr("x",0)
+								.attr("y",function(d){
+									if ((d.city=="Poland")||(d.city=="Hungary")||(d.city=="Germany")||(d.city=="Netherlands")||(d.city=="Denmark")) {
+										return -r-16
+									}
+									return r+13;
+								})
+								.attr("dy", 13)
+								.attr("fill", "#667")
+								.attr("font-size", "12px")
+								.attr("stroke", "none")
+								.attr("text-anchor", "middle").attr("transform", null)
+								.text(function(d){
+								
+									return Math.round(d.data.count/10)*10;
+								})
+								
+
+						}
+					}
+
+					drawpie();
+				};
+
+			};
+
+			update();
+			reset();
+
+
+			function clicked(d) {
+				if (active.node() === this) return reset();
+				active.classed("active", false);
+				active = d3.select(this).classed("active", true);
+
+				var bounds = path.bounds(d),
+					dx = bounds[1][0] - bounds[0][0],
+					dy = bounds[1][1] - bounds[0][1],
+					x = (bounds[0][0] + bounds[1][0]) / 2,
+					y = (bounds[0][1] + bounds[1][1]) / 2;
+
+				scale = .9 / Math.max(dx / width, dy / height);
+
+				translate = [width / 2 - scale * x, height / 2 - scale * y];
+
+				svg.transition()
+					.duration(750)
+					.call(zoom.translate(translate).scale(scale).event);
+			}
+
+			function reset() {
+				active.classed("active", false);
+				active = d3.select(null);
+				scale = defaultZoom;
+				translate = [defaultTranslateX, defaultTranslateY];
+				svg.transition()
+					.duration(750)
+					.call(zoom.translate([defaultTranslateX, defaultTranslateY]).scale(defaultZoom).event);
+			}
+			
+			function zoomed() {
+				scale = d3.event.scale;
+				translate = d3.event.translate;
+				g.style("stroke-width", 1.5 / d3.event.scale + "px");
+				g.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+
+				d3.selectAll(".lin.el").attr("stroke-width", function(d){ return Math.min(10,d) / d3.event.scale});
+				d3.selectAll(".lin").attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")")
+				d3.selectAll(".pin").each(function(d){	
+					x = projection([d.data.coords[1], d.data.coords[0]])[0];
+					y = projection([d.data.coords[1], d.data.coords[0]])[1];
+					d3.select(this).attr("transform", "translate(" + 
+						[d3.event.translate[0]+x*d3.event.scale,
+						 d3.event.translate[1]+y*d3.event.scale]+")")
+				})
+			}
+
+			// If the drag behavior prevents the default click,
+			// also stop propagation so we don’t click-to-zoom.
+			function stopped() {
+				if (d3.event.defaultPrevented) d3.event.stopPropagation();
+			}
+
+
+		});
+
+		var rescale = function() {
+			//scale content
+			var scal = Math.min((document.getElementById("container").parentElement.offsetWidth) / document.getElementById("container").offsetWidth, (document.getElementById("container").parentElement.offsetHeight) / document.getElementById("container").offsetHeight)
+			document.getElementById("container").style.WebkitTransform = "scale(" + scal + ")";
+			document.getElementById("container").style.OTransform = "scale(" + scal + ")";
+			document.getElementById("container").style.MozTransform = "scale(" + scal + ")";
+			document.getElementById("container").style.msTransform = "scale(" + scal + ")";
+			document.getElementById("container").style.Transform = "scale(" + scal + ")";
+
+			document.getElementById("container").style.WebkitTransformOrigin = "0 0";
+			document.getElementById("container").style.OTransformOrigin = "0 0";
+			document.getElementById("container").style.MozTransformOrigin = "0 0";
+			document.getElementById("container").style.msTransformOrigin = "0 0";
+			document.getElementById("container").style.TransformOrigin = "0 0";
+
+		};
+
+		window.onresize = function() {
+			rescale();
+		}
+
+		//init content
+		rescale();
+		d3.select("#container").transition().delay(1000).duration(500).style("opacity", "1");
+		d3.select("#social").transition().delay(3000).duration(500).style("opacity", "1");
+	</script>
+</body>

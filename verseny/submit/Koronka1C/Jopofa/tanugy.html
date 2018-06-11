@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+
+    <head>
+        <title>JopoFA</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script>function type(){typeWriter3("szakma",'És még azt es megmutatom, hogy honnót vannak űk',0)}</script>
+        
+        <script src="js.js"></script>
+        <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+         <!-- Resources -->
+         <script src="https://www.amcharts.com/lib/3/amcharts.js"></script>
+         <script src="https://www.amcharts.com/lib/3/pie.js"></script>
+         <script src="https://www.amcharts.com/lib/3/plugins/export/export.min.js"></script>
+         <link rel="stylesheet" href="https://www.amcharts.com/lib/3/plugins/export/export.css" type="text/css" media="all" />
+         <script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+         
+         <!-- Chart code -->
+         <script>
+         var chart = AmCharts.makeChart( "chartdiv", {
+           "type": "pie",
+           "theme": "none",
+           "dataProvider": [ {
+             "country": "Balánbánya",
+             "litres": 14
+           }, {
+             "country": "Barót",
+             "litres": 37
+           }, {
+             "country": "Csikszereda",
+             "litres": 49
+           }, {
+             "country": "Gyergyószentmiklós",
+             "litres": 49
+           }, {
+             "country": "Kézdivásárhely",
+             "litres": 54
+           }, {
+             "country": "Kolozsvár",
+             "litres": 63
+           }, {
+             "country": "Kovászna",
+             "litres": 85
+           }, {
+             "country": "Maroshévíz",
+             "litres": 17
+           }, {
+             "country": "Marosvásárhely",
+             "litres": 65
+           }, {
+             "country": "Parajd",
+             "litres": 8
+           }, {
+             "country": "Segesvár",
+             "litres": 24
+           }, {
+             "country": "Sepsiszentgyörgy",
+             "litres": 72
+           }, {
+             "country": "Szászrégen",
+             "litres": 34
+           }, {
+             "country": "Székelykeresztúr",
+             "litres": 34
+           }, {
+             "country": "Székelyudvarhely",
+             "litres": 55
+           },{
+             "country": "Szentegyháza",
+             "litres": 24
+           },{
+             "country": "Szováta",
+             "litres": 11
+           } ],
+           "valueField": "litres",
+           "titleField": "country",
+            "balloon":{
+            "fixedPosition":true
+           },
+           "export": {
+             "enabled": true
+           }
+         } );
+         </script>
+         
+    </head>
+    <body>
+        <div class="pistaName">
+            <p>Pista Bá</p>
+        </div>
+        <div class="pistaText">
+            <p></p>
+        </div>
+        <div class="content"> 
+            <div class="pistaba">
+                <p id="szakma"></p>
+            </div>
+            <div class="post">
+                    <div id="chartdiv"></div>
+            </div>
+        </div>
+    </body>
+</html>

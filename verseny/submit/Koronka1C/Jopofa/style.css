@@ -1,0 +1,198 @@
+body{
+    background-image: url("pistaba.png");
+    background-repeat: no-repeat;
+    background-color: rgb(79, 26, 0);
+}
+.content{
+    width: 70%;
+    margin-left: 280pt;
+    margin-top:10px;
+}
+.pistaba{
+    width: 90%;
+    max-width: 630pt;
+    color:rgb(255, 255, 255);
+    /* color:rgb(230, 115, 0);*/
+    height: 86px;
+    max-height: 86px;
+    overflow: hidden;
+}
+.post{
+  
+}
+.circle-container {
+	position: relative;
+	width: 24em;
+	height: 24em;
+	padding: 2.8em; /*= 2em * 1.4 (2em = half the width of an img, 1.4 = sqrt(2))*/
+	/*border: dashed 1px;
+	border-radius: 50%;
+    margin: 1.75em auto 0;*/
+    margin-left: 10%;
+}
+.circle-container a {
+    text-decoration: none;
+	display: block;
+	overflow: hidden;
+	position: absolute;
+	top: 50%; left: 50%;
+	/*width: 4em; height: 4em;*/
+	margin: -2em; /* 2em = 4em/2 */ /* half the width */
+}
+.circle-container img { display: block; width: 100%; }
+.deg837 { transform: translate(15em); } /* 12em = half the width of the wrapper */
+.deg695 { transform: rotate(45deg) translate(15em) rotate(-45deg); }
+.deg334 { transform: rotate(135deg) translate(15em) rotate(-135deg); }
+.deg320 { transform: translate(-15em); }
+.deg271 { transform: rotate(225deg) translate(15em) rotate(-225deg); }
+.deg243{ transform: rotate(315deg) translate(15em) rotate(-315deg); }
+
+/* this is just for showing the angle on hover */
+.circle-container a:before {
+	position: absolute;
+    width: 15em;
+    height: 15em;
+	color: white;
+	opacity: 0;
+	background: rgba(0,0,0,.5);
+	font: 1.1em/3.45 Courier, monospace;
+	letter-spacing: 2px;
+	text-decoration: none;
+	text-indent: -2.1em;
+	text-shadow: 0 0 .1em deeppink;
+	transition: .7s; /* only works in Firefox */
+	content: attr(class)' Szakember';
+}
+.circle-container a:hover:before { opacity: 1; }
+
+/* this is for showing the circle on which the images are placed */
+
+.circle-container:hover:after { opacity: 1; }
+
+.circle-container:hover a:after { opacity: 1; }
+.circle-container a:hover:after { opacity: .3; }
+
+.single-chart {
+    width: 130pt;
+    justify-content: space-around ;
+}
+
+.circular-chart {
+    margin: 10px auto;
+    max-width: 60%;
+    max-height: 250px;
+    display: block;
+}
+p.circular-chart
+{
+    text-align: center;
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+}
+.circle-bg {
+    fill: none;
+    stroke: #eee;
+    stroke-width: 3.8;
+}
+
+.circle {
+    fill: none;
+    stroke-width: 2.8;
+    stroke-linecap: round;
+    animation: progress 1s ease-out forwards;
+}
+
+@keyframes progress {
+0% {
+        stroke-dasharray: 0 100;
+    }
+}
+    
+
+.circular-chart.orange .circle {
+    stroke: rgb(230, 115, 0);
+}
+
+.circular-chart.green .circle {
+    stroke: #4CC790;
+}
+
+.circular-chart.blue .circle {
+    stroke: #3c9ee5;
+}
+
+.percentage {
+    fill: #666;
+    font-family: sans-serif;
+    font-size: 0.5em;
+    text-anchor: middle;
+}
+#chartdiv {
+    width: 100%;
+    height: 500px;
+    }
+.amcharts-export-menu li
+{
+    display: none!important;
+}
+.amcharts-chart-div>a{
+    display: none!important;
+}
+.amcharts-pie-label{
+    fill: white!important ;
+}
+.amcharts-pie-tick
+{
+    stroke: white!important;
+}
+.class1
+{
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+.cont
+{
+    width: 390px;
+    margin: auto ;
+    color:white;
+}
+.detalies{
+    width: 150px;
+    margin-top: -380px;
+    color: white;
+    margin-left: 70px;
+}
+.pistaText{
+    position: absolute;
+    top:400px;
+    padding: 10px;
+    color: white;
+    width: 270px;
+}
+.pistaName{
+    position: absolute;
+    top:360px;
+    padding-left:70px;
+    font-size: 20px;
+    color: rgb(230, 115, 0);
+}
+.title{
+    margin-left: 340px;
+    
+    color: #fff;
+}
+.title>p{
+    font-size: 30px;
+}
+.button{
+    margin-left: -15px;
+    text-align: center;
+    width: 200px;
+    border: solid rgb(230, 115, 0);
+    margin-top:10px;
+    padding: 5px;
+}
+.button:hover{
+    background-color:rgb(230, 115, 0);
+    color: #000;
+}
