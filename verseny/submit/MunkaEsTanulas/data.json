@@ -1,0 +1,3094 @@
+{ 
+ "name": "Emberek", 
+ "children": [ 
+  { 
+   "name": "Székelykeresztúr",
+   "children": [ 
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+      {"name": "Berde Mózes Unitárius Gimnázium, Székelykeresztúr", "size": 1}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Székelykeresztúri Zeyk Domokos Iskolaközpont", "size": 4},
+      {"name": "Bányai János Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Más", "size": 10},
+      {"name": "Orbán Balázs Gimnázium, Székelykeresztúr", "size": 4},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Más", "size": 11},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 7},
+      {"name": "Székelykeresztúri Zeyk Domokos Iskolaközpont", "size": 2},
+      {"name": "Nincs", "size": 5},
+      {"name": "Orbán Balázs Gimnázium, Székelykeresztúr", "size": 2},
+      {"name": "Berde Mózes Unitárius Gimnázium, Székelykeresztúr", "size": 1}
+     ]
+    },
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 2},
+      {"name": "Más", "size": 7},
+      {"name": "Orbán Balázs Gimnázium, Székelykeresztúr", "size": 1}
+     ]
+    },
+    {"name": "Más",
+     "children": [ 
+      {"name": "Nincs", "size": 5},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 5},
+      {"name": "Spiru Haret Egyetem", "size": 2},
+      {"name": "Más", "size": 15},
+      {"name": "Orbán Balázs Gimnázium, Székelykeresztúr", "size": 13},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Székelykeresztúri Zeyk Domokos Iskolaközpont", "size": 9},
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Ady Endre Elméleti Líceum, Nagyvárad", "size": 1},
+      {"name": "Orbán Balázs Gimnázium, Székelykeresztúr", "size": 1}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Más", "size": 11},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 11},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Orbán Balázs Gimnázium, Székelykeresztúr", "size": 1},
+      {"name": "Partiumi Keresztény Egyetem, Nagyvárad", "size": 1},
+      {"name": "Székelykeresztúri Zeyk Domokos Iskolaközpont", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 3},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 2}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Más", "size": 3},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Székelykeresztúri Zeyk Domokos Iskolaközpont", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Más", "size": 4},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Orbán Balázs Gimnázium, Székelykeresztúr", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Más", "size": 4},
+      {"name": "Székelykeresztúri Zeyk Domokos Iskolaközpont", "size": 2},
+      {"name": "Nincs", "size": 1}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Orbán Balázs Gimnázium, Székelykeresztúr", "size": 3},
+      {"name": "Más", "size": 2},
+      {"name": "Nincs", "size": 1},
+      {"name": "Székelykeresztúri Zeyk Domokos Iskolaközpont", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Bányai János Szakközépiskola, Székelyudvarhely", "size": 1}
+     ]
+    },
+    {"name": "None",
+     "children": [ 
+      {"name": "Nincs", "size": 1},
+      {"name": "Berde Mózes Unitárius Gimnázium, Székelykeresztúr", "size": 2},
+      {"name": "Orbán Balázs Gimnázium, Székelykeresztúr", "size": 1}
+     ]
+    },
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Más", "size": 2}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Berde Mózes Unitárius Gimnázium, Székelykeresztúr", "size": 1},
+      {"name": "Orbán Balázs Gimnázium, Székelykeresztúr", "size": 2},
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 1}
+     ]
+    },
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Székelykeresztúri Zeyk Domokos Iskolaközpont", "size": 1},
+      {"name": "Orbán Balázs Gimnázium, Székelykeresztúr", "size": 2},
+      {"name": "Partiumi Keresztény Egyetem, Nagyvárad", "size": 1}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Más", "size": 1},
+      {"name": "Székelykeresztúri Zeyk Domokos Iskolaközpont", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Más", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Berde Mózes Unitárius Gimnázium, Székelykeresztúr", "size": 1},
+      {"name": "Bányai János Szakközépiskola, Székelyudvarhely", "size": 1}
+     ]
+    },
+    {"name": "Ügyvéd/Közjegyző",
+     "children": [ 
+     ]
+    },
+    {"name": "Raktáros/Logisztikus",
+     "children": [ 
+      {"name": "Székelykeresztúri Zeyk Domokos Iskolaközpont", "size": 1}
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Csíkszereda",
+   "children": [ 
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 6},
+      {"name": "Más", "size": 13},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1}
+     ]
+    },
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Más", "size": 3},
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 2},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Más",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 8},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Nagy István Művészeti Líceum, Csíkszereda", "size": 1},
+      {"name": "Más", "size": 17},
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 4},
+      {"name": "Nincs", "size": 3},
+      {"name": "Nagy Imre Általános Iskola, Csíkszereda", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 3},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 3},
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Más", "size": 5},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 5},
+      {"name": "Partiumi Keresztény Egyetem, Nagyvárad", "size": 1}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Partiumi Keresztény Egyetem, Nagyvárad", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 4},
+      {"name": "Más", "size": 8},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 1},
+      {"name": "Márton Áron Főgimnázium, Csíkszereda", "size": 1},
+      {"name": "Nagy István Művészeti Líceum, Csíkszereda", "size": 1}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Más", "size": 23},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 3},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 11},
+      {"name": "Nagy István Művészeti Líceum, Csíkszereda", "size": 1},
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 5},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 2},
+      {"name": "Segítő Mária Római Katolikus Gimnázium, Csíkszereda", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Más", "size": 3},
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 2},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Márton Áron Főgimnázium, Csíkszereda", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Más", "size": 3}
+     ]
+    },
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 2},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 2},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Más", "size": 9},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 5},
+      {"name": "Segítő Mária Római Katolikus Gimnázium, Csíkszereda", "size": 1},
+      {"name": "Partiumi Keresztény Egyetem, Nagyvárad", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 2},
+      {"name": "Nagy István Művészeti Líceum, Csíkszereda", "size": 1}
+     ]
+    },
+    {"name": "None",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 17},
+      {"name": "Más", "size": 7},
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 1},
+      {"name": "Márton Áron Főgimnázium, Csíkszereda", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Más", "size": 1},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Más", "size": 11},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 5},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 2},
+      {"name": "Nagy Imre Általános Iskola, Csíkszereda", "size": 1},
+      {"name": "Nincs", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Nagy Imre Általános Iskola, Csíkszereda", "size": 2},
+      {"name": "Más", "size": 4},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 1}
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 7},
+      {"name": "Más", "size": 2},
+      {"name": "Műszaki Egyetem, Temesvár", "size": 1},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 9},
+      {"name": "Más", "size": 4},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 2},
+      {"name": "Más", "size": 1},
+      {"name": "Márton Áron Főgimnázium, Csíkszereda", "size": 1},
+      {"name": "Nagy Imre Általános Iskola, Csíkszereda", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Raktáros/Logisztikus",
+     "children": [ 
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1}
+     ]
+    },
+    {"name": "Ügyvéd/Közjegyző",
+     "children": [ 
+     ]
+    },
+    {"name": "Édesanya/Háztartásbeli",
+     "children": [ 
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1}
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Székelyudvarhely",
+   "children": [ 
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Nincs", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 11},
+      {"name": "Más", "size": 18},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Korondi Középiskola", "size": 1},
+      {"name": "Bányai János Szakközépiskola, Székelyudvarhely", "size": 3},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Partiumi Keresztény Egyetem, Nagyvárad", "size": 2},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 1},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 4},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 10},
+      {"name": "Más", "size": 9},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Partiumi Keresztény Egyetem, Nagyvárad", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Nincs", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Más", "size": 7},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 11},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Bányai János Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Más", "size": 5},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3}
+     ]
+    },
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+      {"name": "Más", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 4},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 2},
+      {"name": "Bányai János Szakközépiskola, Székelyudvarhely", "size": 2}
+     ]
+    },
+    {"name": "Más",
+     "children": [ 
+      {"name": "Korondi Középiskola", "size": 1},
+      {"name": "Más", "size": 16},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 7},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 4},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Partiumi Keresztény Egyetem, Nagyvárad", "size": 1},
+      {"name": "Orbán Balázs Gimnázium, Székelykeresztúr", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 1},
+      {"name": "Bányai János Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 7},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 2},
+      {"name": "Más", "size": 6},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Nagy Imre Általános Iskola, Csíkszereda", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Más", "size": 4},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 4},
+      {"name": "Nincs", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Más", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 6},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 18},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Más", "size": 7},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 2},
+      {"name": "Más", "size": 6},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Bányai János Szakközépiskola, Székelyudvarhely", "size": 4},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Korondi Középiskola", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Ügyvéd/Közjegyző",
+     "children": [ 
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 2},
+      {"name": "Más", "size": 5},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Műszaki Egyetem, Temesvár", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Édesanya/Háztartásbeli",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Más", "size": 2},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Székelykeresztúri Zeyk Domokos Iskolaközpont", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Más", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 7},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 1}
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 7},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 1}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Más", "size": 4},
+      {"name": "Székelykeresztúri Zeyk Domokos Iskolaközpont", "size": 1}
+     ]
+    },
+    {"name": "None",
+     "children": [ 
+     ]
+    },
+    {"name": "Raktáros/Logisztikus",
+     "children": [ 
+      {"name": "Más", "size": 2}
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Barót",
+   "children": [ 
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 14},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Nincs", "size": 2},
+      {"name": "Más", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Bányai János Szakközépiskola, Székelyudvarhely", "size": 1}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 2},
+      {"name": "Más", "size": 3}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 9},
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Más", "size": 2},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Nincs", "size": 1}
+     ]
+    },
+    {"name": "Édesanya/Háztartásbeli",
+     "children": [ 
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 1}
+     ]
+    },
+    {"name": "None",
+     "children": [ 
+      {"name": "Más", "size": 1},
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 2},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 1},
+      {"name": "Hyperion Egyetem, Bukarest", "size": 1},
+      {"name": "Székely Mikó Kollégium, Sepsiszentgyörgy", "size": 1},
+      {"name": "Ady Endre Elméleti Líceum, Nagyvárad", "size": 1}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 3},
+      {"name": "Más", "size": 1},
+      {"name": "Hyperion Egyetem, Bukarest", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Más",
+     "children": [ 
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 2},
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 10},
+      {"name": "Gaál Mózes Általános Iskola, Barót", "size": 2},
+      {"name": "Más", "size": 15},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 4},
+      {"name": "Nincs", "size": 1}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Transilvania Egyetem, Brassó", "size": 4},
+      {"name": "Más", "size": 7},
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 4},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 12},
+      {"name": "Gaál Mózes Általános Iskola, Barót", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Más", "size": 2},
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Más", "size": 5},
+      {"name": "Spiru Haret Egyetem", "size": 2},
+      {"name": "Bod Péter Tanítóképző, Kézdivásárhely", "size": 1},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 1},
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 2},
+      {"name": "Nincs", "size": 1},
+      {"name": "Más", "size": 3},
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 1}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Más", "size": 6},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 2}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 4},
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 4},
+      {"name": "Más", "size": 4},
+      {"name": "Hyperion Egyetem, Bukarest", "size": 1}
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Gaál Mózes Általános Iskola, Barót", "size": 1}
+     ]
+    },
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Más", "size": 2},
+      {"name": "Gaál Mózes Általános Iskola, Barót", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Más", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Más", "size": 4},
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2}
+     ]
+    },
+    {"name": "Raktáros/Logisztikus",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Ügyvéd/Közjegyző",
+     "children": [ 
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Sepsiszentgyörgy",
+   "children": [ 
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Más", "size": 9},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 10},
+      {"name": "Transilvania Egyetem, Brassó", "size": 3},
+      {"name": "Bod Péter Tanítóképző, Kézdivásárhely", "size": 2},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 1}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Más", "size": 3}
+     ]
+    },
+    {"name": "Más",
+     "children": [ 
+      {"name": "Berde Áron Közgazdasági és Közigazgatási Szakközépiskola, Sepsiszentgyörgy", "size": 2},
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 6},
+      {"name": "Más", "size": 35},
+      {"name": "Transilvania Egyetem, Brassó", "size": 7},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 12},
+      {"name": "Plugor Sándor Művészeti Líceum, Sepsiszentgyörgy", "size": 2},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 2},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 2},
+      {"name": "Nincs", "size": 3},
+      {"name": "Spiru Haret Egyetem", "size": 2},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Mikes Kelemen Elméleti Líceum, Sepsiszentgyörgy", "size": 2},
+      {"name": "Székely Mikó Kollégium, Sepsiszentgyörgy", "size": 2},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Hyperion Egyetem, Bukarest", "size": 1},
+      {"name": "Más", "size": 2},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 1},
+      {"name": "Plugor Sándor Művészeti Líceum, Sepsiszentgyörgy", "size": 1},
+      {"name": "Nincs", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 16},
+      {"name": "Mikes Kelemen Elméleti Líceum, Sepsiszentgyörgy", "size": 1},
+      {"name": "Más", "size": 9},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Székely Mikó Kollégium, Sepsiszentgyörgy", "size": 1}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 16},
+      {"name": "Más", "size": 16},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 5},
+      {"name": "Transilvania Egyetem, Brassó", "size": 5},
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Székely Mikó Kollégium, Sepsiszentgyörgy", "size": 2},
+      {"name": "Berde Áron Közgazdasági és Közigazgatási Szakközépiskola, Sepsiszentgyörgy", "size": 1},
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 2},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Mikes Kelemen Elméleti Líceum, Sepsiszentgyörgy", "size": 1},
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 3},
+      {"name": "Más", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 8},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 4},
+      {"name": "Mikes Kelemen Elméleti Líceum, Sepsiszentgyörgy", "size": 1},
+      {"name": "Székely Mikó Kollégium, Sepsiszentgyörgy", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 1},
+      {"name": "Plugor Sándor Művészeti Líceum, Sepsiszentgyörgy", "size": 1}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Más", "size": 5},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 5},
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 1},
+      {"name": "Partiumi Keresztény Egyetem, Nagyvárad", "size": 2},
+      {"name": "Székely Mikó Kollégium, Sepsiszentgyörgy", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 1},
+      {"name": "Más", "size": 10},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 15},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 2},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 3},
+      {"name": "Műszaki Egyetem, Bukarest", "size": 1},
+      {"name": "Bukaresti Egyetem", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Plugor Sándor Művészeti Líceum, Sepsiszentgyörgy", "size": 2}
+     ]
+    },
+    {"name": "None",
+     "children": [ 
+      {"name": "Székely Mikó Kollégium, Sepsiszentgyörgy", "size": 1},
+      {"name": "Más", "size": 1},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 16},
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 6},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Székely Mikó Kollégium, Sepsiszentgyörgy", "size": 1},
+      {"name": "Más", "size": 7},
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Berde Áron Közgazdasági és Közigazgatási Szakközépiskola, Sepsiszentgyörgy", "size": 1},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 1},
+      {"name": "Nincs", "size": 2}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 5},
+      {"name": "Más", "size": 6},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2}
+     ]
+    },
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Más", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Nincs", "size": 1},
+      {"name": "Berde Áron Közgazdasági és Közigazgatási Szakközépiskola, Sepsiszentgyörgy", "size": 3},
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Transilvania Egyetem, Brassó", "size": 4},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 4},
+      {"name": "Mikes Kelemen Elméleti Líceum, Sepsiszentgyörgy", "size": 2},
+      {"name": "Más", "size": 3},
+      {"name": "Székely Mikó Kollégium, Sepsiszentgyörgy", "size": 1},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Más", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Mikes Kelemen Elméleti Líceum, Sepsiszentgyörgy", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Nincs", "size": 2},
+      {"name": "Más", "size": 2},
+      {"name": "Berde Áron Közgazdasági és Közigazgatási Szakközépiskola, Sepsiszentgyörgy", "size": 1},
+      {"name": "Mikes Kelemen Elméleti Líceum, Sepsiszentgyörgy", "size": 1},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Más", "size": 3},
+      {"name": "Ady Endre Elméleti Líceum, Nagyvárad", "size": 1}
+     ]
+    },
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Mikes Kelemen Elméleti Líceum, Sepsiszentgyörgy", "size": 2}
+     ]
+    },
+    {"name": "Édesanya/Háztartásbeli",
+     "children": [ 
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Raktáros/Logisztikus",
+     "children": [ 
+      {"name": "Más", "size": 1}
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Kézdivásárhely",
+   "children": [ 
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Más", "size": 2},
+      {"name": "Bod Péter Tanítóképző, Kézdivásárhely", "size": 1},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 1}
+     ]
+    },
+    {"name": "Más",
+     "children": [ 
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 7},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 10},
+      {"name": "Más", "size": 18},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 8},
+      {"name": "Bod Péter Tanítóképző, Kézdivásárhely", "size": 2},
+      {"name": "Nincs", "size": 2},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 3},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 5},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 6},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Hyperion Egyetem, Bukarest", "size": 1}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Más", "size": 17},
+      {"name": "Transilvania Egyetem, Brassó", "size": 5},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 7},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 4},
+      {"name": "Bod Péter Tanítóképző, Kézdivásárhely", "size": 4},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 3},
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 2},
+      {"name": "Bukaresti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 18},
+      {"name": "Más", "size": 4},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 2},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1}
+     ]
+    },
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+      {"name": "Más", "size": 4},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 1},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 5},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 2},
+      {"name": "Bod Péter Tanítóképző, Kézdivásárhely", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 2},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Nincs", "size": 2},
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 2},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 3},
+      {"name": "Más", "size": 4},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Plugor Sándor Művészeti Líceum, Sepsiszentgyörgy", "size": 1},
+      {"name": "Más", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Bod Péter Tanítóképző, Kézdivásárhely", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 1}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Más", "size": 2},
+      {"name": "Plugor Sándor Művészeti Líceum, Sepsiszentgyörgy", "size": 2}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Bod Péter Tanítóképző, Kézdivásárhely", "size": 2},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Más", "size": 3},
+      {"name": "Nincs", "size": 1},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 3},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 2},
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Más", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 4}
+     ]
+    },
+    {"name": "Raktáros/Logisztikus",
+     "children": [ 
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 3},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 4},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Más", "size": 2}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 2},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 4},
+      {"name": "Más", "size": 2},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Transilvania Egyetem, Brassó", "size": 3},
+      {"name": "Más", "size": 4},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 2}
+     ]
+    },
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 3},
+      {"name": "Más", "size": 7},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Plugor Sándor Művészeti Líceum, Sepsiszentgyörgy", "size": 1},
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Partiumi Keresztény Egyetem, Nagyvárad", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 8},
+      {"name": "Más", "size": 1},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 1},
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 2},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1}
+     ]
+    },
+    {"name": "None",
+     "children": [ 
+      {"name": "Más", "size": 2}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 4},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2}
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 5},
+      {"name": "Más", "size": 2}
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Kovászna",
+   "children": [ 
+    {"name": "Más",
+     "children": [ 
+      {"name": "Más", "size": 45},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 19},
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 5},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 3},
+      {"name": "Berde Mózes Unitárius Gimnázium, Székelykeresztúr", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 7},
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 1},
+      {"name": "Nincs", "size": 2},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 3},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 3},
+      {"name": "Plugor Sándor Művészeti Líceum, Sepsiszentgyörgy", "size": 2},
+      {"name": "Mikes Kelemen Elméleti Líceum, Sepsiszentgyörgy", "size": 2},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Berde Áron Közgazdasági és Közigazgatási Szakközépiskola, Sepsiszentgyörgy", "size": 1},
+      {"name": "Hyperion Egyetem, Bukarest", "size": 1},
+      {"name": "Bukaresti Egyetem", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Székely Mikó Kollégium, Sepsiszentgyörgy", "size": 2},
+      {"name": "Kőrösi Csoma Sándor Líceum, Kovászna", "size": 1},
+      {"name": "Műszaki Egyetem, Bukarest", "size": 1}
+     ]
+    },
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Más", "size": 5},
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 9},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Bukaresti Egyetem", "size": 1},
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 1},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Bod Péter Tanítóképző, Kézdivásárhely", "size": 1}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 2},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Áprily Lajos Főgimnázium, Brassó", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 4},
+      {"name": "Más", "size": 6},
+      {"name": "Székely Mikó Kollégium, Sepsiszentgyörgy", "size": 1},
+      {"name": "Mikes Kelemen Elméleti Líceum, Sepsiszentgyörgy", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 4},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 1}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 5},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 4},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Más", "size": 6}
+     ]
+    },
+    {"name": "Raktáros/Logisztikus",
+     "children": [ 
+      {"name": "Más", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Más", "size": 18},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 4},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 27},
+      {"name": "Transilvania Egyetem, Brassó", "size": 4},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 2},
+      {"name": "Plugor Sándor Művészeti Líceum, Sepsiszentgyörgy", "size": 1},
+      {"name": "Bukaresti Egyetem", "size": 1},
+      {"name": "Műszaki Egyetem, Bukarest", "size": 1},
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 1},
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 1},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Más", "size": 4},
+      {"name": "Berde Áron Közgazdasági és Közigazgatási Szakközépiskola, Sepsiszentgyörgy", "size": 3},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 6},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 1},
+      {"name": "Kőrösi Csoma Sándor Líceum, Kovászna", "size": 1}
+     ]
+    },
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 10},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 4},
+      {"name": "Más", "size": 8},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Székely Mikó Kollégium, Sepsiszentgyörgy", "size": 1},
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 1},
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 2}
+     ]
+    },
+    {"name": "None",
+     "children": [ 
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Más", "size": 3},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 1},
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 1}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 23},
+      {"name": "Más", "size": 24},
+      {"name": "Kőrösi Csoma Sándor Líceum, Kovászna", "size": 2},
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 3},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 2},
+      {"name": "Berde Áron Közgazdasági és Közigazgatási Szakközépiskola, Sepsiszentgyörgy", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 7},
+      {"name": "Mikes Kelemen Elméleti Líceum, Sepsiszentgyörgy", "size": 1},
+      {"name": "Bukaresti Egyetem", "size": 3},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 1}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Más", "size": 12},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 14},
+      {"name": "Kőrösi Csoma Sándor Líceum, Kovászna", "size": 1},
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 2},
+      {"name": "Székely Mikó Kollégium, Sepsiszentgyörgy", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 3},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 5},
+      {"name": "Nincs", "size": 1},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Bod Péter Tanítóképző, Kézdivásárhely", "size": 2},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Berde Áron Közgazdasági és Közigazgatási Szakközépiskola, Sepsiszentgyörgy", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 19},
+      {"name": "Más", "size": 11},
+      {"name": "Székely Mikó Kollégium, Sepsiszentgyörgy", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 3},
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Mikes Kelemen Elméleti Líceum, Sepsiszentgyörgy", "size": 1},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 1}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Más", "size": 6},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 5},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 1},
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 1},
+      {"name": "Nincs", "size": 1},
+      {"name": "Nagy Mózes Elméleti Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Partiumi Keresztény Egyetem, Nagyvárad", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Mikes Kelemen Elméleti Líceum, Sepsiszentgyörgy", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Más", "size": 4},
+      {"name": "Puskás Tivadar Szakközépiskola, Sepsiszentgyörgy", "size": 1},
+      {"name": "Berde Áron Közgazdasági és Közigazgatási Szakközépiskola, Sepsiszentgyörgy", "size": 1},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Más", "size": 5},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Plugor Sándor Művészeti Líceum, Sepsiszentgyörgy", "size": 1},
+      {"name": "Gaál Mózes Általános Iskola, Barót", "size": 1}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 7},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 3},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 5},
+      {"name": "Más", "size": 7},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Ady Endre Elméleti Líceum, Nagyvárad", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Hyperion Egyetem, Bukarest", "size": 1},
+      {"name": "Nincs", "size": 1},
+      {"name": "Bod Péter Tanítóképző, Kézdivásárhely", "size": 1},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Más", "size": 4},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Apor Péter Iskolaközpont, Kézdivásárhely", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Baróti Szabó Dávid Iskolaközpont, Barót", "size": 1}
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Bukaresti Egyetem", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 4},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Édesanya/Háztartásbeli",
+     "children": [ 
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Ügyvéd/Közjegyző",
+     "children": [ 
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Szováta",
+   "children": [ 
+    {"name": "Más",
+     "children": [ 
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 5},
+      {"name": "Domokos Kázmér Iskolacsoport, Szováta", "size": 14},
+      {"name": "Nincs", "size": 2},
+      {"name": "Bukaresti Egyetem", "size": 1},
+      {"name": "Más", "size": 7}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Más", "size": 4},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Más", "size": 3},
+      {"name": "Salamon Ernő Elméleti Líceum, Gyergyószentmiklós", "size": 1},
+      {"name": "Domokos Kázmér Iskolacsoport, Szováta", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 2},
+      {"name": "Nincs", "size": 1}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Más", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3}
+     ]
+    },
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Más", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Domokos Kázmér Iskolacsoport, Szováta", "size": 1}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Domokos Kázmér Iskolacsoport, Szováta", "size": 4},
+      {"name": "Más", "size": 2}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Más", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Domokos Kázmér Iskolacsoport, Szováta", "size": 4},
+      {"name": "Más", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Bolyai Farkas Elméleti Líceum, Marosvásárhely", "size": 1}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Más", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Más", "size": 2}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Más", "size": 4},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Domokos Kázmér Iskolacsoport, Szováta", "size": 1}
+     ]
+    },
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1}
+     ]
+    },
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1}
+     ]
+    },
+    {"name": "Raktáros/Logisztikus",
+     "children": [ 
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Marosvásárhely",
+   "children": [ 
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 9},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 6},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 7},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 7},
+      {"name": "Más", "size": 2},
+      {"name": "Műszaki Egyetem, Temesvár", "size": 1}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Más", "size": 7},
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Más", "size": 33},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 12},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 3},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 11},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 8},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 3},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 2},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 2},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 3},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 11},
+      {"name": "Más", "size": 5},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 8},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 4},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Más", "size": 19},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 5},
+      {"name": "Bolyai Farkas Elméleti Líceum, Marosvásárhely", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 3},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 8},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 12},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 2},
+      {"name": "Nincs", "size": 1},
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Más", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 2},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 4},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Más", "size": 7},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 5},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Hyperion Egyetem, Bukarest", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 45},
+      {"name": "Más", "size": 9},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 2},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 14},
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 7},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 4},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Más", "size": 9},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 2},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 3},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 10},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 2},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 3},
+      {"name": "Más", "size": 6},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 3},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Bolyai Farkas Elméleti Líceum, Marosvásárhely", "size": 1},
+      {"name": "Berde Mózes Unitárius Gimnázium, Székelykeresztúr", "size": 1}
+     ]
+    },
+    {"name": "Más",
+     "children": [ 
+      {"name": "Más", "size": 29},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 17},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 11},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 3},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 11},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 8},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 2},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 3},
+      {"name": "Bolyai Farkas Elméleti Líceum, Marosvásárhely", "size": 1},
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 1},
+      {"name": "Nincs", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Műszaki Egyetem, Temesvár", "size": 1}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Más", "size": 9},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 14},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 3},
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 2},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Bolyai Farkas Elméleti Líceum, Marosvásárhely", "size": 1}
+     ]
+    },
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Dimitrie Cantemir Egyetem", "size": 2},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 2},
+      {"name": "Más", "size": 7},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 4},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 2},
+      {"name": "Bányai János Szakközépiskola, Székelyudvarhely", "size": 1}
+     ]
+    },
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 13},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 3},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 4},
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Más", "size": 4},
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 2},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Más", "size": 2},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Ügyvéd/Közjegyző",
+     "children": [ 
+      {"name": "Más", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Más", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 2},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1}
+     ]
+    },
+    {"name": "Édesanya/Háztartásbeli",
+     "children": [ 
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Raktáros/Logisztikus",
+     "children": [ 
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "None",
+     "children": [ 
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 2}
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Gyergyószentmiklós",
+   "children": [ 
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Nagy István Művészeti Líceum, Csíkszereda", "size": 2},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Más", "size": 4},
+      {"name": "Partiumi Keresztény Egyetem, Nagyvárad", "size": 1},
+      {"name": "Salamon Ernő Elméleti Líceum, Gyergyószentmiklós", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Más", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 4},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 15},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 3},
+      {"name": "Más", "size": 9},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Salamon Ernő Elméleti Líceum, Gyergyószentmiklós", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Márton Áron Főgimnázium, Csíkszereda", "size": 1},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Más",
+     "children": [ 
+      {"name": "Gépgyártó Iskolaközpont, Gyergyószentmiklós", "size": 10},
+      {"name": "Más", "size": 26},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Batthyány Ignác Technikai Kollégium, Gyergyószentmiklós", "size": 6},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 4},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 15},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Nincs", "size": 2},
+      {"name": "Ady Endre Elméleti Líceum, Nagyvárad", "size": 1},
+      {"name": "Hyperion Egyetem, Bukarest", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Salamon Ernő Elméleti Líceum, Gyergyószentmiklós", "size": 1}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 5},
+      {"name": "Hyperion Egyetem, Bukarest", "size": 1},
+      {"name": "Más", "size": 4},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Más", "size": 8},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Gépgyártó Iskolaközpont, Gyergyószentmiklós", "size": 1},
+      {"name": "Batthyány Ignác Technikai Kollégium, Gyergyószentmiklós", "size": 1},
+      {"name": "Hyperion Egyetem, Bukarest", "size": 1}
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Más", "size": 4}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Más", "size": 10},
+      {"name": "Salamon Ernő Elméleti Líceum, Gyergyószentmiklós", "size": 1},
+      {"name": "Gépgyártó Iskolaközpont, Gyergyószentmiklós", "size": 1}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Más", "size": 19},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 10},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 3},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Nincs", "size": 1},
+      {"name": "Gépgyártó Iskolaközpont, Gyergyószentmiklós", "size": 1}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Más", "size": 4},
+      {"name": "Batthyány Ignác Technikai Kollégium, Gyergyószentmiklós", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 5},
+      {"name": "Más", "size": 4},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 2},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 2},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Márton Áron Főgimnázium, Csíkszereda", "size": 2}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Gépgyártó Iskolaközpont, Gyergyószentmiklós", "size": 2},
+      {"name": "Batthyány Ignác Technikai Kollégium, Gyergyószentmiklós", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Más", "size": 6},
+      {"name": "Salamon Ernő Elméleti Líceum, Gyergyószentmiklós", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Partiumi Keresztény Egyetem, Nagyvárad", "size": 1}
+     ]
+    },
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Batthyány Ignác Technikai Kollégium, Gyergyószentmiklós", "size": 2},
+      {"name": "Más", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 4},
+      {"name": "Székely Mikó Kollégium, Sepsiszentgyörgy", "size": 2},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 7},
+      {"name": "Más", "size": 6},
+      {"name": "Salamon Ernő Elméleti Líceum, Gyergyószentmiklós", "size": 1},
+      {"name": "Batthyány Ignác Technikai Kollégium, Gyergyószentmiklós", "size": 1},
+      {"name": "Nincs", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+      {"name": "Spiru Haret Egyetem", "size": 2}
+     ]
+    },
+    {"name": "Raktáros/Logisztikus",
+     "children": [ 
+      {"name": "Más", "size": 1},
+      {"name": "Salamon Ernő Elméleti Líceum, Gyergyószentmiklós", "size": 1}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Transilvania Egyetem, Brassó", "size": 2}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Más", "size": 4},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Édesanya/Háztartásbeli",
+     "children": [ 
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Szentegyháza",
+   "children": [ 
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Más", "size": 4},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 6},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Segítő Mária Római Katolikus Gimnázium, Csíkszereda", "size": 1},
+      {"name": "Nagy István Művészeti Líceum, Csíkszereda", "size": 1}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Más", "size": 2},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Más", "size": 2}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Nincs", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Más",
+     "children": [ 
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 8},
+      {"name": "Más", "size": 11},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 4},
+      {"name": "Nincs", "size": 2},
+      {"name": "Márton Áron Főgimnázium, Csíkszereda", "size": 3},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 1}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Nincs", "size": 1},
+      {"name": "Más", "size": 4},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 3},
+      {"name": "Márton Áron Főgimnázium, Csíkszereda", "size": 1},
+      {"name": "Orbán Balázs Gimnázium, Székelykeresztúr", "size": 1},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2}
+     ]
+    },
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Márton Áron Főgimnázium, Csíkszereda", "size": 1},
+      {"name": "Bolyai Farkas Elméleti Líceum, Marosvásárhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 4},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Más", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Nincs", "size": 3},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Más", "size": 2},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 2}
+     ]
+    },
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Más", "size": 3},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Más", "size": 3},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 2}
+     ]
+    },
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Más", "size": 8},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 9},
+      {"name": "Bányai János Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Más", "size": 1},
+      {"name": "Márton Áron Főgimnázium, Csíkszereda", "size": 1}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Márton Áron Főgimnázium, Csíkszereda", "size": 1},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 1}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 3},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "None",
+     "children": [ 
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 1},
+      {"name": "Nincs", "size": 1}
+     ]
+    },
+    {"name": "Raktáros/Logisztikus",
+     "children": [ 
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Édesanya/Háztartásbeli",
+     "children": [ 
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 1}
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Segesvár",
+   "children": [ 
+    {"name": "Más",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 4},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 8},
+      {"name": "Más", "size": 42},
+      {"name": "Nincs", "size": 3},
+      {"name": "Műszaki Egyetem, Bukarest", "size": 1},
+      {"name": "Grup Școlar AgricoL, Segesvár", "size": 11},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 3},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 2},
+      {"name": "Spiru Haret Egyetem", "size": 2},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 4},
+      {"name": "Transilvania Egyetem, Brassó", "size": 4},
+      {"name": "Bukaresti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Más", "size": 7}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Más", "size": 6},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 5},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Más", "size": 2},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Műszaki Egyetem, Temesvár", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Más", "size": 4},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Más", "size": 21},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 10},
+      {"name": "Grup Școlar AgricoL, Segesvár", "size": 3},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 2},
+      {"name": "Gábor Áron Szakképző Líceum, Kézdivásárhely", "size": 1}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Más", "size": 1},
+      {"name": "Grup Școlar AgricoL, Segesvár", "size": 2}
+     ]
+    },
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Más", "size": 4},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Grup Școlar AgricoL, Segesvár", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Más", "size": 5},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Más", "size": 5},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 2},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Más", "size": 5},
+      {"name": "Nincs", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Más", "size": 8},
+      {"name": "Grup Școlar AgricoL, Segesvár", "size": 3}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Bukaresti Egyetem", "size": 2},
+      {"name": "Más", "size": 16},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 3},
+      {"name": "Grup Școlar AgricoL, Segesvár", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Nincs", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Más", "size": 8},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Bukaresti Egyetem", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Ügyvéd/Közjegyző",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Más", "size": 4},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Más", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Édesanya/Háztartásbeli",
+     "children": [ 
+      {"name": "Nincs", "size": 1},
+      {"name": "Más", "size": 2}
+     ]
+    },
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+      {"name": "Más", "size": 1},
+      {"name": "Grup Școlar AgricoL, Segesvár", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "None",
+     "children": [ 
+      {"name": "Más", "size": 2}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Nincs", "size": 1}
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Kolozsvár",
+   "children": [ 
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 11},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 16},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Más", "size": 8},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 3}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 4},
+      {"name": "Más", "size": 17},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 20},
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 64},
+      {"name": "Más", "size": 70},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 19},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 8},
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 3},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 1},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Báthory István Elméleti Líceum, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 2},
+      {"name": "Más", "size": 12},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 17},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Nincs", "size": 1},
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 16},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 19},
+      {"name": "Más", "size": 4},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+      {"name": "Más", "size": 11},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 4},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 15},
+      {"name": "Partiumi Keresztény Egyetem, Nagyvárad", "size": 1},
+      {"name": "Más", "size": 11},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Más",
+     "children": [ 
+      {"name": "Más", "size": 60},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 3},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 36},
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 5},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 10},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 16},
+      {"name": "Más", "size": 9},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 13},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 2},
+      {"name": "Más", "size": 15},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 13},
+      {"name": "Berde Mózes Unitárius Gimnázium, Székelykeresztúr", "size": 1},
+      {"name": "Más", "size": 8},
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Édesanya/Háztartásbeli",
+     "children": [ 
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 13},
+      {"name": "Más", "size": 14},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 1},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 13},
+      {"name": "Más", "size": 7},
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 2},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Más", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Báthory István Elméleti Líceum, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Más", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 4}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 3},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Ügyvéd/Közjegyző",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 7},
+      {"name": "Más", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Más", "size": 2}
+     ]
+    },
+    {"name": "None",
+     "children": [ 
+      {"name": "Más", "size": 2}
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Balánbánya",
+   "children": [ 
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Liviu Rebreanu Szakközépiskola, Balánbánya", "size": 4},
+      {"name": "Más", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Más", "size": 2}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Más", "size": 4},
+      {"name": "Liviu Rebreanu Szakközépiskola, Balánbánya", "size": 3}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Transilvania Egyetem, Brassó", "size": 4},
+      {"name": "Liviu Rebreanu Szakközépiskola, Balánbánya", "size": 6},
+      {"name": "Más", "size": 10},
+      {"name": "Bukaresti Egyetem", "size": 1},
+      {"name": "Nincs", "size": 2}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Más", "size": 10},
+      {"name": "Liviu Rebreanu Szakközépiskola, Balánbánya", "size": 5},
+      {"name": "Nincs", "size": 4},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Más",
+     "children": [ 
+      {"name": "Más", "size": 22},
+      {"name": "Liviu Rebreanu Szakközépiskola, Balánbánya", "size": 21},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 2},
+      {"name": "Műszaki Egyetem, Bukarest", "size": 1},
+      {"name": "Bukaresti Egyetem", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 2},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Más", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 2},
+      {"name": "Liviu Rebreanu Szakközépiskola, Balánbánya", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Más", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Más", "size": 6},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Bukaresti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Liviu Rebreanu Szakközépiskola, Balánbánya", "size": 1}
+     ]
+    },
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Más", "size": 3},
+      {"name": "Liviu Rebreanu Szakközépiskola, Balánbánya", "size": 4}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Bukarest", "size": 1},
+      {"name": "Liviu Rebreanu Szakközépiskola, Balánbánya", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Édesanya/Háztartásbeli",
+     "children": [ 
+      {"name": "Liviu Rebreanu Szakközépiskola, Balánbánya", "size": 2}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Hyperion Egyetem, Bukarest", "size": 1},
+      {"name": "Liviu Rebreanu Szakközépiskola, Balánbánya", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Más", "size": 2},
+      {"name": "Liviu Rebreanu Szakközépiskola, Balánbánya", "size": 4},
+      {"name": "Joannes Kájoni Szakközépiskola, Csíkszereda", "size": 1}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Más", "size": 2}
+     ]
+    },
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+     ]
+    },
+    {"name": "None",
+     "children": [ 
+      {"name": "Liviu Rebreanu Szakközépiskola, Balánbánya", "size": 2}
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Liviu Rebreanu Szakközépiskola, Balánbánya", "size": 1}
+     ]
+    },
+    {"name": "Ügyvéd/Közjegyző",
+     "children": [ 
+      {"name": "Liviu Rebreanu Szakközépiskola, Balánbánya", "size": 1}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Szászrégen",
+   "children": [ 
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 2},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Más",
+     "children": [ 
+      {"name": "Más", "size": 37},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 10},
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 7},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 2},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 4},
+      {"name": "Bukaresti Egyetem", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Más", "size": 10},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 9},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 2},
+      {"name": "Nincs", "size": 1},
+      {"name": "Hyperion Egyetem, Bukarest", "size": 1},
+      {"name": "Műszaki Egyetem, Bukarest", "size": 1}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 6},
+      {"name": "Más", "size": 5},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 16},
+      {"name": "Más", "size": 14},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Más", "size": 8},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Dimitrie Cantemir Egyetem", "size": 4},
+      {"name": "Más", "size": 15},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 5},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 9},
+      {"name": "Nincs", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 6},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 3},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 6},
+      {"name": "Más", "size": 5},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 2},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Más", "size": 4}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Más", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Bolyai Farkas Elméleti Líceum, Marosvásárhely", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1}
+     ]
+    },
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Más", "size": 8},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Marosvásárhelyi Művészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Más", "size": 3},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 5}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Sapientia Erdélyi Magyar Tudományegyetem", "size": 2},
+      {"name": "Más", "size": 4},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 4},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 3},
+      {"name": "Más", "size": 5}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Bukaresti Egyetem", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1},
+      {"name": "Más", "size": 2}
+     ]
+    },
+    {"name": "Édesanya/Háztartásbeli",
+     "children": [ 
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Más", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Ügyvéd/Közjegyző",
+     "children": [ 
+      {"name": "Hyperion Egyetem, Bukarest", "size": 1},
+      {"name": "Más", "size": 2}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Temesvár", "size": 1}
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Maroshévíz",
+   "children": [ 
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 2},
+      {"name": "Colegiul National Mihai Eminescu, Maroshévíz", "size": 4},
+      {"name": "Más", "size": 6},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Liceul Teoretic O. C. Taslauanu, Maroshévíz", "size": 3}
+     ]
+    },
+    {"name": "Más",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 4},
+      {"name": "Colegiul National Mihai Eminescu, Maroshévíz", "size": 18},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Liceul Teoretic O. C. Taslauanu, Maroshévíz", "size": 11},
+      {"name": "Más", "size": 26},
+      {"name": "Nincs", "size": 2},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 4},
+      {"name": "Transilvania Egyetem, Brassó", "size": 3},
+      {"name": "George Barițiu Egyetem, Barassó", "size": 1},
+      {"name": "Bukaresti Egyetem", "size": 1},
+      {"name": "Domokos Kázmér Iskolacsoport, Szováta", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 2},
+      {"name": "Batthyány Ignác Technikai Kollégium, Gyergyószentmiklós", "size": 1}
+     ]
+    },
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Colegiul National Mihai Eminescu, Maroshévíz", "size": 3},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Liceul Teoretic O. C. Taslauanu, Maroshévíz", "size": 2},
+      {"name": "Más", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Nincs", "size": 1}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+      {"name": "Más", "size": 2}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Más", "size": 6},
+      {"name": "Colegiul National Mihai Eminescu, Maroshévíz", "size": 2},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Bukaresti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Más", "size": 5},
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Liceul Teoretic O. C. Taslauanu, Maroshévíz", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Iuliu Hațieganu Orvosi és Gyógyszerészeti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Édesanya/Háztartásbeli",
+     "children": [ 
+      {"name": "Más", "size": 1},
+      {"name": "Liceul Teoretic O. C. Taslauanu, Maroshévíz", "size": 1},
+      {"name": "Colegiul National Mihai Eminescu, Maroshévíz", "size": 2}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Liceul Teoretic O. C. Taslauanu, Maroshévíz", "size": 3},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 2},
+      {"name": "Más", "size": 20},
+      {"name": "Colegiul National Mihai Eminescu, Maroshévíz", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 7},
+      {"name": "Műszaki Egyetem, Temesvár", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Bukaresti Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Más", "size": 9},
+      {"name": "Transilvania Egyetem, Brassó", "size": 3},
+      {"name": "Bukaresti Egyetem", "size": 3},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Spiru Haret Egyetem", "size": 2},
+      {"name": "Liceul Teoretic O. C. Taslauanu, Maroshévíz", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Gheorghe Dima Zeneakadémia, Kolozsvár", "size": 1},
+      {"name": "Más", "size": 2},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Colegiul National Mihai Eminescu, Maroshévíz", "size": 1}
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "George Barițiu Egyetem, Barassó", "size": 2},
+      {"name": "Más", "size": 2},
+      {"name": "Hyperion Egyetem, Bukarest", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1},
+      {"name": "Bukaresti Egyetem", "size": 1},
+      {"name": "Lucian Blaga Egyetem, Nagyszeben", "size": 1},
+      {"name": "Colegiul National Mihai Eminescu, Maroshévíz", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Liceul Teoretic O. C. Taslauanu, Maroshévíz", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Más", "size": 3},
+      {"name": "Hyperion Egyetem, Bukarest", "size": 1}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Műszaki Egyetem, Bukarest", "size": 1}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Liceul Teoretic O. C. Taslauanu, Maroshévíz", "size": 3},
+      {"name": "Más", "size": 3},
+      {"name": "Colegiul National Mihai Eminescu, Maroshévíz", "size": 1}
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Colegiul National Mihai Eminescu, Maroshévíz", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Más", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Ügyvéd/Közjegyző",
+     "children": [ 
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "None",
+     "children": [ 
+      {"name": "Liceul Teoretic O. C. Taslauanu, Maroshévíz", "size": 1},
+      {"name": "Colegiul National Mihai Eminescu, Maroshévíz", "size": 1}
+     ]
+    },
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Más", "size": 2},
+      {"name": "Colegiul National Mihai Eminescu, Maroshévíz", "size": 1},
+      {"name": "Tamási Áron Gimnázium, Székelyudvarhely", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1}
+     ]
+    },
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    },
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Más", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 2},
+      {"name": "Colegiul National Mihai Eminescu, Maroshévíz", "size": 3},
+      {"name": "Liceul Teoretic O. C. Taslauanu, Maroshévíz", "size": 1}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Kolozsvári Agrártudományi és Állatorvosi Egyetem", "size": 1},
+      {"name": "Liceul Teoretic O. C. Taslauanu, Maroshévíz", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Más", "size": 1},
+      {"name": "Műszaki Egyetem, Kolozsvár", "size": 1}
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Parajd",
+   "children": [ 
+    {"name": "Sofőr",
+     "children": [ 
+      {"name": "Áprily Lajos Főgimnázium, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Más",
+     "children": [ 
+      {"name": "Más", "size": 6},
+      {"name": "Dimitrie Cantemir Egyetem", "size": 1},
+      {"name": "Nincs", "size": 1},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Médiamunkás",
+     "children": [ 
+      {"name": "Más", "size": 2},
+      {"name": "Nincs", "size": 1}
+     ]
+    },
+    {"name": "Tanár/Kutató",
+     "children": [ 
+      {"name": "Más", "size": 3},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 3}
+     ]
+    },
+    {"name": "Eladó/Ügynök/Recepciós",
+     "children": [ 
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Igazgató/Vállalkozó",
+     "children": [ 
+      {"name": "Más", "size": 2},
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 2}
+     ]
+    },
+    {"name": "Zenész/Művész",
+     "children": [ 
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Szakmunkás",
+     "children": [ 
+      {"name": "Domokos Kázmér Iskolacsoport, Szováta", "size": 1},
+      {"name": "Korondi Középiskola", "size": 1},
+      {"name": "Transilvania Egyetem, Brassó", "size": 1},
+      {"name": "Kós Károly Szakközépiskola, Székelyudvarhely", "size": 1},
+      {"name": "Más", "size": 1},
+      {"name": "Petru Maior Egyetem, Marosvásárhely", "size": 1},
+      {"name": "Áprily Lajos Főgimnázium, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Mérnök/Műépítész",
+     "children": [ 
+     ]
+    },
+    {"name": "Irodai_alkalmazott",
+     "children": [ 
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Sportoló/Edző/Bíró",
+     "children": [ 
+      {"name": "Áprily Lajos Főgimnázium, Brassó", "size": 1}
+     ]
+    },
+    {"name": "Bartender/Pincér/Szakács",
+     "children": [ 
+      {"name": "Más", "size": 1}
+     ]
+    },
+    {"name": "Nevelő/Au Pair/Önkéntes",
+     "children": [ 
+      {"name": "Márton Áron Főgimnázium, Csíkszereda", "size": 1}
+     ]
+    },
+    {"name": "Orvos/Gyógyszerész",
+     "children": [ 
+      {"name": "Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem", "size": 2}
+     ]
+    },
+    {"name": "Fodrász/Kozmetikus",
+     "children": [ 
+      {"name": "Spiru Haret Egyetem", "size": 1}
+     ]
+    },
+    {"name": "Közalkalmazott",
+     "children": [ 
+      {"name": "Korondi Középiskola", "size": 1}
+     ]
+    },
+    {"name": "Tanuló",
+     "children": [ 
+     ]
+    },
+    {"name": "Informatikus",
+     "children": [ 
+      {"name": "Babeș- Bolyai Tudományegyetem, Kolozsvár", "size": 1}
+     ]
+    }
+   ]
+  }
+ ]
+}
