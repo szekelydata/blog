@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="https://rawgit.com/fbreitwieser/d3-hiervis/master/src/hiervis.js"></script>
+<script src="https://rawgit.com/fbreitwieser/d3-hiervis/master/src/TreeColors.js"></script>
+</head>
+<body>
+<svg width="100%" height="450"> </svg>
+<button class="vis">sankey</button>
+<button class="vis">vertical sankey</button>
+<button class="vis">partition</button>
+<button class="vis">icicle</button>
+<button class="vis">sunburst</button>
+<button class="vis">treemap</button>
+<button class="vis">cluster</button>
+
+See https://github.com/fbreitwieser/d3-hiervis for details, and https://github.com/fbreitwieser/hiervis for the R/Shiny library.
+<script>
+  d3.csv("data.csv").then(function(data) {
+    chart = hiervis(d3.select("svg"), data, {nameField: "id", pathSep: ".", valueField: "value", stat: "sum"});
+    chart.draw("sankey")
+  });
+  
+  d3.selectAll('button.vis').on('click', function(){
+    const vis = d3.select(this).text();
+    chart.draw(vis);
+  });
+
+</script>
+</body>
+</html>

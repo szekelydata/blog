@@ -1,0 +1,63 @@
+
+<!doctype html>
+<meta charset="utf-8">
+
+<script src="js/d3.js"></script>
+<script src="js/d3plus.js"></script>
+
+<div id="viz"></div>
+
+<script>
+
+  d3.json('ep/export/json/eu_allegiance_list.json',function(rawdata){
+
+  	console.log(rawdata)
+  	nodes=[]
+  	nodes_track=[]
+  	edges=[]
+  	cutoff=0.6
+  	rawdata.forEach(function(d){
+  		if (d['allegiance_type1']=='party')
+  			if (d['allegiance_type2']=='party')
+  				if (d['country']=='Hungary')
+  					if (d['year']=='2019')
+	  					if (d['name1']!=d['name2']) 
+	  						if (d['Same_perc']>cutoff)
+	  						{
+		  						edge={}
+		  						edge['source']=d['name1']
+		  						edge['target']=d['name2']
+		  						edge['size']=d['Same_perc']
+		  						edges.push(edge)
+		  						if (!(nodes_track.includes(d['name1'])))
+		  						{
+				  					node={}
+			  						node['name']=d['name1']
+			  						node['size']=d['Total']
+			  						nodes.push(node)
+			  						nodes_track.push(d['name1'])
+			  					}
+			  					else
+			  					{
+			  						node['size']=node['size']+d['Total']
+			  					}
+	  						}
+  	})
+  	console.log(nodes)
+  	console.log(edges)
+
+	var visualization = d3plus.viz()
+	    .container("#viz")
+	    .type("network")
+	    .data(nodes)
+	    .edges({
+	      "size": "size",
+	      "value": edges
+	    })
+	    .id('name')
+	    .size('size')
+	    .draw()
+
+	})
+
+</script>

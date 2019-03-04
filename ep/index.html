@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<script src="https://d3plus.org/js/d3plus-hierarchy.v0.8.full.min.js"></script>
+
+<style>
+
+    body {
+      margin: 0;
+      overflow: hidden;
+    }
+
+  </style>
+</head>
+<body>
+</body>
+<script>
+  // sample data array
+  var ids=['country',"cluster_level_2","cluster_level_3", "cluster_level_4",'cluster_level_5','name'];
+  new d3plus.Pack()
+  .data("ep/export/json/cluster_list.json",function(d){
+    d.forEach(function(e){
+      e['value']=1
+    })
+    return d
+  })
+  .groupBy(ids)
+  .color('cluster_level_4')
+  //.shapeConfig({
+  //  backgroundImage: function(d) {
+  //    return d.image;
+  //  },
+  //  label: true
+  //})
+  .label(function(d){return d['last']})
+  .tooltipConfig({
+    body: function(d) {
+      return "Name: " + d.name;
+    }
+  })
+  //.sum('value')
+  .render();               // finally, draw the visualization!
+</script>
+</html>
