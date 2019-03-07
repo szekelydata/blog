@@ -135,13 +135,10 @@
           "x": {"field": "x"},
           "y": {"field": "y"},
           "dx": {
-            "signal": "datum.children ? 0 : 7"
-          },
-          "dy": {
-            "signal": "datum.children ? 14 : 0"
+            "signal": "datum.children ? 7 : 7"
           },
           "align": {
-            "signal": "datum.children ? 'center' : 'left'"
+            "signal": "datum.children ? 'left' : 'left'"
           },
           "opacity": {
             "signal": "datum.parent ? 0 : 1"
