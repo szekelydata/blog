@@ -11,6 +11,16 @@
       margin: 0;
       overflow: hidden;
     }
+    .d3plus-viz-back{
+      font-size:14px !important;
+    }
+    .d3plus-Image {
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      -ms-border-radius: 50%;
+      -o-border-radius: 50%;
+      border-radius: 50%; 
+    }
 
   </style>
 </head>
@@ -19,32 +29,33 @@
 <script>
   // sample data array
   var ids=['group',"party",'name'];
-  new d3plus.Treemap()
-  .data("ep/export/json/pnames.json",function(d){
+  viz=new d3plus.Pack()
+  viz.data("ep/export/json/pnames.json",function(d){
     d.forEach(function(e){
       e['value']=1
     })
     return d
   })
   .groupBy(ids)
-  .color('partycolor')
+  .color(function(d){return (viz._depth==0) ? d.groupcolor: d.partycolor})
   .shapeConfig({
+    label: function(d){return 'ds'},
     backgroundImage: function(d) {
-      //return d.image;
+      return (viz._depth==2) ? d.image : '';
     },
-    label: function(d) {
-      d.group
+    labelConfig: function(e){
+        text: return e.group
     }
   })
   .depth(0)
-  .label(function(d){return d['name']})
   .legend(false)
   .tooltipConfig({
     body: function(d) {
-      return "Party: " + d.party+'<br>Group: ' + d.group;
+      return (viz._depth==0) ? "Group: "+ d.group: "Group: "+ d.group+"<br>Party: "+ d.party
     }
   })
-  //.sum('value')
+  .sum('value')
   .render();               // finally, draw the visualization!
+  //console.log(viz)
 </script>
 </html>
