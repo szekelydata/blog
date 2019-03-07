@@ -40,7 +40,7 @@
     {
       "name": "Label", "value": "party",
       "bind": {"input": "radio",
-      "options": ["party", "group", "none"]
+      "options": ["party", "group","party2", "group2", "none"]
       }
     }
   ],
@@ -171,7 +171,7 @@
           "x": {"field": "x"},
           "y": {"field": "y"},
           "dx": {"signal": "-7"},
-          "fill": {"field": {"signal":"Label=='party' ? 'partycolor' : 'groupcolor'"}},
+          "fill": {"field": {"signal":"Label=='party' ? 'partycolor' : Label=='party2' ? 'partycolor' : 'groupcolor'"}},
           "align": {"signal": "datum.children ? 'left' : 'right'"},
           "opacity": {"signal": "datum.children ? 0 : 1"}
         }

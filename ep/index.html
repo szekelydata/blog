@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<script src="https://d3plus.org/js/d3plus-hierarchy.v0.8.full.min.js"></script>
+
+<style>
+
+    body {
+      margin: 0;
+      overflow: hidden;
+    }
+
+  </style>
+</head>
+<body>
+</body>
+<script>
+  // sample data array
+  var ids=['group',"party",'name'];
+  new d3plus.Treemap()
+  .data("ep/export/json/pnames.json",function(d){
+    d.forEach(function(e){
+      e['value']=1
+    })
+    return d
+  })
+  .groupBy(ids)
+  .color('partycolor')
+  .shapeConfig({
+    backgroundImage: function(d) {
+      //return d.image;
+    },
+    label: function(d) {
+      d.group
+    }
+  })
+  .depth(0)
+  .label(function(d){return d['name']})
+  .legend(false)
+  .tooltipConfig({
+    body: function(d) {
+      return "Party: " + d.party+'<br>Group: ' + d.group;
+    }
+  })
+  //.sum('value')
+  .render();               // finally, draw the visualization!
+</script>
+</html>
