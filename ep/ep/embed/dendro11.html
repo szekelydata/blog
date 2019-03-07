@@ -37,7 +37,7 @@
 
     function render(spec) {
       view = new vega.View(vega.parse(spec), {
-        renderer: 'canvas', // renderer (canvas or svg)
+        renderer: 'svg', // renderer (canvas or svg)
         container: '#view', // parent DOM container
         hover: true // enable hover processing
       });
