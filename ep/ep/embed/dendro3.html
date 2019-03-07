@@ -1,34 +1,47 @@
 <head>
   <script src="https://cdn.jsdelivr.net/npm/vega@5.0.0"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@3.0.0-rc13"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@3.29.0"></script>
-</head>
-<body>
   <style>
-  html {
-  	font-family: Arial;
-  	font-size: 12px;
-    margin-left:30px;
-  }
-  .vega-bind{
-  	margin-top: 5px;
-  }
-  	.vega-bindings {
-  		position:fixed !important;
-  		left:10 !important;
-  		top:10 !important;
-
-  }
-  select {
-  		position:absolute;
-  		left:50 ;
-  }
+    html {
+      font-family: Arial;
+      font-size: 12px;
+      margin-left: 30px;
+    }
+  
+    .vega-bind {
+      margin-top: 5px;
+    }
+  
+    .vega-bindings {
+      position: fixed !important;
+      left: 10 !important;
+      top: 10 !important;
+  
+    }
+  
+    select {
+      position: absolute;
+      left: 50;
+    }
   </style>
+</head>
+
+<body>
   <div id="view"></div>
-  <script>
-    vegaEmbed(
-      '#view',
-      'dendro3.json'
-    );
+  <script type="text/javascript">
+    var view;
+
+    fetch('https://szekelydata.csaladen.es/ep/ep/embed/dendro3.json')
+      .then(res => res.json())
+      .then(spec => render(spec))
+      .catch(err => console.error(err));
+
+    function render(spec) {
+      view = new vega.View(vega.parse(spec), {
+        renderer: 'canvas', // renderer (canvas or svg)
+        container: '#view', // parent DOM container
+        hover: true // enable hover processing
+      });
+      return view.runAsync();
+    }
   </script>
 </body>
