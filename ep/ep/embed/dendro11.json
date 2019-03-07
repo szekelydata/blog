@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "width": 600,
   "height": 550,
-  "padding": 25,
+  "padding": 5,
 
   "signals": [
     {
@@ -134,9 +134,18 @@
         "update": {
           "x": {"field": "x"},
           "y": {"field": "y"},
-          "dx": {"signal": "datum.children ? -7 : 7"},
-          "align": {"signal": "datum.children ? 'right' : 'left'"},
-          "opacity": {"signal": "datum.parent ? 0 : 1"}
+          "dx": {
+            "signal": "datum.children ? 0 : 7"
+          },
+          "dy": {
+            "signal": "datum.children ? 14 : 0"
+          },
+          "align": {
+            "signal": "datum.children ? 'center' : 'left'"
+          },
+          "opacity": {
+            "signal": "datum.parent ? 0 : 1"
+          }
         }
       }
     },
