@@ -6,8 +6,21 @@
 
   "signals": [
     {
+      "name": "Label", "value": "group2",
+      "bind": {"input": "radio",
+      "options": ["party", "group","party2", "group2", "none"]
+      }
+    },
+    {
       "name": "Layout", "value": "cluster",
       "bind": {"input": "radio", "options": ["tidy","cluster"]}
+    },
+    {
+      "name": "Year", "value": 2018,
+      "bind": {
+        "input": "range",
+         "min": 2004, "max": 2019, "step": 1
+      }
     },
     {
       "name": "Links", "value": "diagonal",
@@ -24,23 +37,10 @@
       }
     },
     {
-      "name": "Country", "value": "Romania",
+      "name": "Country", "value": "Joint",
       "bind": {
         "input": "select",
         "options": ["Romania", "Hungary", "Joint"]
-      }
-    },
-    {
-      "name": "Year", "value": 2018,
-      "bind": {
-        "input": "range",
-         "min": 2004, "max": 2019, "step": 1
-      }
-    },
-    {
-      "name": "Label", "value": "party",
-      "bind": {"input": "radio",
-      "options": ["party", "group","party2", "group2", "none"]
       }
     }
   ],
