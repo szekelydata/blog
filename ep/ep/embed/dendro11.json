@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "width": 550,
+  "width": 650,
   "height": 550,
   "padding": 5,
 
@@ -67,7 +67,7 @@
         {
           "type": "tree",
           "method":{"signal": "Layout"},
-          "size": [{"signal": "height"}, {"signal": "width - 100"}],
+          "size": [{"signal": "height"}, {"signal": "width - 150"}],
           "as": ["y", "x", "depth", "children"]
         }
       ]
