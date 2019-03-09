@@ -15,7 +15,7 @@
       position: fixed !important;
       left: 10 !important;
       top: 10 !important;
-dendro1
+  
     }
   
     select {
@@ -30,7 +30,7 @@ dendro1
   <script type="text/javascript">
     var view;
 
-    fetch('https://szekelydata.csaladen.es/ep/ep/embed/dendro1.json')
+    fetch('topic1.json')
       .then(res => res.json())
       .then(spec => render(spec))
       .catch(err => console.error(err));
