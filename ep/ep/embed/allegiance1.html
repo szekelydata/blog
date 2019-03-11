@@ -1,0 +1,407 @@
+<meta charset="utf-8">
+<meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.0.0"></script>
+  <style>
+    html {
+      font-family: Arial;
+      font-size: 12px;
+      margin-left: 10px;
+    }
+  
+    .vega-bind {
+      margin-top: 5px;
+      
+    }
+  
+    .vega-bindings {
+      position: fixed !important;
+      left: 10 !important;
+      top: 10 !important;
+  
+    }
+  
+    select {
+      position: absolute;
+      left: 60;
+      width: 100;
+    }
+
+    #view {
+      position: absolute;
+      left: 300;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="view"></div>
+  <script type="text/javascript">
+    var view;
+
+    /*
+    fetch('topic1.json')
+      .then(res => res.json())
+      .then(spec => render(spec))
+      .catch(err => console.error(err));
+      */
+    
+    spec={
+      "$schema": "https://vega.github.io/schema/vega/v5.json",
+      "width": 400,
+      "height": 200,
+      "padding": 5,
+      "signals": [
+        {
+          "name": "Year", "value": 2018,
+          "bind": {
+            "input": "range",
+            "min": 2004, "max": 2019, "step": 1,
+            "name": "Év"
+          }
+        },
+        {
+          "name": "Country", "value": "Romania",
+          "bind": {
+            "input": "select",
+            "options": ["Romania", "Hungary", "Joint"],
+            "name": "Ország"
+          }
+        },
+        {
+          "name": "Type1", "value": "party",
+          "bind": {
+            "input": "select",
+            "options": ["name", "party", "group"],
+            "name": "Csoport 1"
+          }
+        },
+        {
+          "name": "Type2", "value": "party",
+          "bind": {
+            "input": "select",
+            "options": ["name", "party", "group"],
+            "name": "Csoport 2"
+          }
+        },
+        {
+          "name": "Area",
+          "value": "All areas",
+          "bind": {
+            "input": "select",
+            "options": [
+              "All areas",
+              "ACP Countries",
+              "Afghanistan",
+              "Albania",
+              "Algeria",
+              "Andorra",
+              "Armenia",
+              "Atlantic Ocean Area",
+              "Australia",
+              "Austria",
+              "Azerbaijan",
+              "Baltic Sea Area",
+              "Bangladesh",
+              "Belarus",
+              "Belgium",
+              "Belize",
+              "Black Sea area",
+              "Bosnia and Herzegovina",
+              "Botswana",
+              "Brazil",
+              "Brunei",
+              "Bulgaria",
+              "Burma",
+              "Cambodia",
+              "Cameroon",
+              "Canada",
+              "Cape Verde",
+              "Chad",
+              "Chile",
+              "China",
+              "Colombia",
+              "Comoros",
+              "Congo DR, ex-Zaire",
+              "Cook Islands",
+              "Costa Rica",
+              "Croatia",
+              "Cuba",
+              "Cyprus",
+              "Czech Republic",
+              "Côte d'Ivoire ",
+              "Denmark",
+              "Dominica",
+              "Dominican Republic",
+              "Ecuador",
+              "Egypt",
+              "El Salvador",
+              "Eritrea",
+              "Estonia",
+              "Ethiopia",
+              "Faroe Islands",
+              "Finland",
+              "France",
+              "French Guiana",
+              "Gabon",
+              "Georgia",
+              "Germany FR",
+              "Ghana",
+              "Greece",
+              "Greenland",
+              "Grenada",
+              "Guadeloupe",
+              "Guatemala",
+              "Guinea",
+              "Guinea-Bissau",
+              "Honduras",
+              "Hungary",
+              "Iceland",
+              "India",
+              "Indonesia",
+              "Iran",
+              "Iraq",
+              "Ireland",
+              "Israel",
+              "Italy",
+              "Jamaica",
+              "Japan",
+              "Jordan",
+              "Kazakhstan",
+              "Kiribati",
+              "Korea, Republic",
+              "Kosovo",
+              "Kyrgyzstan",
+              "Laos",
+              "Latvia",
+              "Lebanon",
+              "Lesotho",
+              "Liberia",
+              "Libya",
+              "Liechtenstein",
+              "Lithuania",
+              "Macao",
+              "Macedonia",
+              "Madagascar",
+              "Malaysia",
+              "Maldives",
+              "Malta",
+              "Marshall Islands",
+              "Martinique",
+              "Mauritania",
+              "Mauritius",
+              "Mayotte",
+              "Mediterranean Sea Area",
+              "Mexico",
+              "Micronesia",
+              "Moldova",
+              "Monaco",
+              "Mongolia",
+              "Montenegro",
+              "Morocco",
+              "Mozambique",
+              "Myanmar",
+              "Namibia",
+              "Netherlands",
+              "New Zealand",
+              "Nicaragua",
+              "Nigeria",
+              "North Sea Area",
+              "Norway",
+              "Pakistan",
+              "Palau",
+              "Palestine Authority",
+              "Panama",
+              "Peru",
+              "Philippines",
+              "Poland",
+              "Portugal",
+              "Romania",
+              "Russian Federation",
+              "Réunion",
+              "Saint Lucia",
+              "Saint Vincent and Grenadines",
+              "Samoa",
+              "Sao Tome and Principe",
+              "Saudi Arabia",
+              "Senegal",
+              "Serbia",
+              "Seychelles",
+              "Sierra Leone",
+              "Singapore",
+              "Slovakia",
+              "Slovenia",
+              "Solomon Islands",
+              "Somalia",
+              "South Africa",
+              "South Korea",
+              "Spain",
+              "Sri Lanka",
+              "Sudan",
+              "Suriname",
+              "Swaziland",
+              "Sweden",
+              "Switzerland",
+              "Syrian Arab Republic",
+              "Tajikistan",
+              "Thailand",
+              "Tibet",
+              "Timor-Leste",
+              "Tonga",
+              "Trinidad and Tobago",
+              "Tunisia",
+              "Turkey",
+              "Turkmenistan",
+              "Tuvalu",
+              "Uganda",
+              "Ukraine",
+              "United Arab Emirates",
+              "United Kingdom",
+              "United States",
+              "Uruguay",
+              "Uzbekistan",
+              "Vanuatu",
+              "Venezuela",
+              "Vietnam",
+              "Western Sahara",
+              "Yemen",
+              "Zimbabwe"
+            ],
+            "name": "Területek"
+          }
+        },
+        {
+          "name": "Name1", "value": "Iuliu Winkler",
+          "bind": {
+            "input": "select",
+            "options": ["Iuliu Winkler"],
+            "name": "Név 1"
+          }
+        },
+        {
+          "name": "Name2", "value": "Csaba SÓGOR",
+          "bind": {
+            "input": "select",
+            "options": ["Csaba SÓGOR"],
+            "name": "Név 2"
+          }
+        },
+        {
+          "name": "tooltip",
+          "value": {},
+          "on": [
+            {"events": "rect:mouseover", "update": "datum"},
+            {"events": "rect:mouseout",  "update": "{}"}
+          ]
+        }
+      ],
+
+      "data": [{
+        "name": "allegiance",
+        "url":"https://szekelydata.csaladen.es/ep/ep/export/json/allegiance.json",    
+        "transform": [
+          {"type":"filter",
+            "expr": "datum.country==Country"
+          },
+          {"type":"filter",
+            "expr": "datum.year==Year"
+          },
+          {"type":"filter",
+            "expr": "datum.allegiance_type1==Type1"
+          },
+          {
+            "type": "filter",
+            "expr": "datum.allegiance_type2==Type2"
+          },
+          {
+            "type": "filter",
+            "expr": "datum.area==Area"
+          },
+          {
+            "type": "filter",
+            "expr": "datum.name1==Name1"
+          },
+          {
+            "type": "filter",
+            "expr": "datum.name2==Name2"
+          }
+        ]
+      }],
+
+      "scales": [
+        {
+          "name": "xscale",
+          "type": "band",
+          "domain": {"data": "allegiance", "field": "topic"},
+          "range": "width",
+          "padding": 0.05,
+          "round": true
+        },
+        {
+          "name": "yscale",
+          "domain": {"data": "allegiance", "field": "Perc_value"},
+          "nice": true,
+          "range": "height"
+        }
+      ],
+
+      "axes": [
+        { "orient": "bottom", "scale": "xscale" },
+        { "orient": "left", "scale": "yscale" }
+      ],
+
+      "marks": [
+        {
+          "type": "rect",
+          "from": {"data":"allegiance"},
+          "encode": {
+            "enter": {
+              "x": {"scale": "xscale", "field": "topic"},
+              "width": {"scale": "xscale", "band": 1},
+              "y": {"scale": "yscale", "field": "Perc_value"},
+              "y2": {"scale": "yscale", "value": 0}
+            },
+            "update": {
+              "fill": {"value": "steelblue"}
+            },
+            "hover": {
+              "fill": {"value": "red"}
+            }
+          }
+        },
+        {
+          "type": "text",
+          "encode": {
+            "enter": {
+              "align": {"value": "center"},
+              "baseline": {"value": "bottom"},
+              "fill": {"value": "#333"}
+            },
+            "update": {
+              "x": {"scale": "xscale", "signal": "tooltip.category", "band": 0.5},
+              "y": {"scale": "yscale", "signal": "tooltip.amount", "offset": -2},
+              "text": {"signal": "tooltip.amount"},
+              "fillOpacity": [
+                {"test": "datum === tooltip", "value": 0},
+                {"value": 1}
+              ]
+            }
+          }
+        }
+      ]
+    } 
+
+
+    function render(spec) {
+      view = new vega.View(vega.parse(spec), {
+        renderer: 'svg', // renderer (canvas or svg)
+        container: '#view', // parent DOM container
+        hover: true // enable hover processing
+      });
+      return view.runAsync();      
+    }
+render(spec)
+
+    
+  </script>
+</body>
