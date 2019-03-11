@@ -2,7 +2,10 @@
 <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
 <head>
   <script src="https://cdn.jsdelivr.net/npm/vega@5.0.0"></script>
-  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="../../js/d3.js"></script>
+<script src="../../js/jszip.min.js"></script>
+<script src="../../js/JSZipUtils.min.js"></script>
+
   <style>
     html {
       font-family: Arial;
@@ -62,19 +65,52 @@
           }
         },
         {
-          "name": "Country", "value": "Romania",
+          "name": "Country", "value": "Joint",
           "bind": {
             "input": "select",
             "options": ["Romania", "Hungary", "Joint"],
             "name": "Ország"
           }
-        },
+},
+{
+"name": "Area",
+"value": "All areas",
+"bind": {
+"input": "select",
+"options":["All areas"],
+"name": "Területek"
+}
+},
         {
           "name": "Type1", "value": "party",
           "bind": {
             "input": "select",
             "options": ["name", "party", "group"],
-            "name": "Csoport 1"
+            "name": "Típus 1"
+          }
+        },
+        {
+          "name": "Name1party", "value": "RMDSZ",
+          "bind": {
+            "input": "select",
+"options": ["RMDSZ"],
+            "name": "Név 1"
+          }
+        },
+        {
+          "name": "Name1group", "value": "EPP",
+          "bind": {
+            "input": "select",
+"options": ["EPP"],
+            "name": "Név 1"
+          }
+        },
+        {
+          "name": "Name1name", "value": "Csaba SÓGOR",
+          "bind": {
+            "input": "select",
+"options": ["Csaba SÓGOR"],
+            "name": "Név 1"
           }
         },
         {
@@ -82,208 +118,30 @@
           "bind": {
             "input": "select",
             "options": ["name", "party", "group"],
-            "name": "Csoport 2"
+            "name": "Típus 2"
           }
         },
         {
-          "name": "Area",
-          "value": "All areas",
+          "name": "Name2party", "value": "PSD",
           "bind": {
             "input": "select",
-            "options": [
-              "All areas",
-              "ACP Countries",
-              "Afghanistan",
-              "Albania",
-              "Algeria",
-              "Andorra",
-              "Armenia",
-              "Atlantic Ocean Area",
-              "Australia",
-              "Austria",
-              "Azerbaijan",
-              "Baltic Sea Area",
-              "Bangladesh",
-              "Belarus",
-              "Belgium",
-              "Belize",
-              "Black Sea area",
-              "Bosnia and Herzegovina",
-              "Botswana",
-              "Brazil",
-              "Brunei",
-              "Bulgaria",
-              "Burma",
-              "Cambodia",
-              "Cameroon",
-              "Canada",
-              "Cape Verde",
-              "Chad",
-              "Chile",
-              "China",
-              "Colombia",
-              "Comoros",
-              "Congo DR, ex-Zaire",
-              "Cook Islands",
-              "Costa Rica",
-              "Croatia",
-              "Cuba",
-              "Cyprus",
-              "Czech Republic",
-              "Côte d'Ivoire ",
-              "Denmark",
-              "Dominica",
-              "Dominican Republic",
-              "Ecuador",
-              "Egypt",
-              "El Salvador",
-              "Eritrea",
-              "Estonia",
-              "Ethiopia",
-              "Faroe Islands",
-              "Finland",
-              "France",
-              "French Guiana",
-              "Gabon",
-              "Georgia",
-              "Germany FR",
-              "Ghana",
-              "Greece",
-              "Greenland",
-              "Grenada",
-              "Guadeloupe",
-              "Guatemala",
-              "Guinea",
-              "Guinea-Bissau",
-              "Honduras",
-              "Hungary",
-              "Iceland",
-              "India",
-              "Indonesia",
-              "Iran",
-              "Iraq",
-              "Ireland",
-              "Israel",
-              "Italy",
-              "Jamaica",
-              "Japan",
-              "Jordan",
-              "Kazakhstan",
-              "Kiribati",
-              "Korea, Republic",
-              "Kosovo",
-              "Kyrgyzstan",
-              "Laos",
-              "Latvia",
-              "Lebanon",
-              "Lesotho",
-              "Liberia",
-              "Libya",
-              "Liechtenstein",
-              "Lithuania",
-              "Macao",
-              "Macedonia",
-              "Madagascar",
-              "Malaysia",
-              "Maldives",
-              "Malta",
-              "Marshall Islands",
-              "Martinique",
-              "Mauritania",
-              "Mauritius",
-              "Mayotte",
-              "Mediterranean Sea Area",
-              "Mexico",
-              "Micronesia",
-              "Moldova",
-              "Monaco",
-              "Mongolia",
-              "Montenegro",
-              "Morocco",
-              "Mozambique",
-              "Myanmar",
-              "Namibia",
-              "Netherlands",
-              "New Zealand",
-              "Nicaragua",
-              "Nigeria",
-              "North Sea Area",
-              "Norway",
-              "Pakistan",
-              "Palau",
-              "Palestine Authority",
-              "Panama",
-              "Peru",
-              "Philippines",
-              "Poland",
-              "Portugal",
-              "Romania",
-              "Russian Federation",
-              "Réunion",
-              "Saint Lucia",
-              "Saint Vincent and Grenadines",
-              "Samoa",
-              "Sao Tome and Principe",
-              "Saudi Arabia",
-              "Senegal",
-              "Serbia",
-              "Seychelles",
-              "Sierra Leone",
-              "Singapore",
-              "Slovakia",
-              "Slovenia",
-              "Solomon Islands",
-              "Somalia",
-              "South Africa",
-              "South Korea",
-              "Spain",
-              "Sri Lanka",
-              "Sudan",
-              "Suriname",
-              "Swaziland",
-              "Sweden",
-              "Switzerland",
-              "Syrian Arab Republic",
-              "Tajikistan",
-              "Thailand",
-              "Tibet",
-              "Timor-Leste",
-              "Tonga",
-              "Trinidad and Tobago",
-              "Tunisia",
-              "Turkey",
-              "Turkmenistan",
-              "Tuvalu",
-              "Uganda",
-              "Ukraine",
-              "United Arab Emirates",
-              "United Kingdom",
-              "United States",
-              "Uruguay",
-              "Uzbekistan",
-              "Vanuatu",
-              "Venezuela",
-              "Vietnam",
-              "Western Sahara",
-              "Yemen",
-              "Zimbabwe"
-            ],
-            "name": "Területek"
+"options": ["PSD"],
+            "name": "Név 2"
           }
         },
         {
-          "name": "Name1", "value": "RMDSZ",
+          "name": "Name2group", "value": "S&D",
           "bind": {
             "input": "select",
-"options": ["RMDSZ", "FIDESZ-KDNP","Iuliu WINKLER"],
-            "name": "Név 1"
+"options": ["S&D"],
+            "name": "Név 2"
           }
         },
         {
-          "name": "Name2", "value": "PSD",
+          "name": "Name2name", "value": "Monica MACOVEI",
           "bind": {
             "input": "select",
-"options": ["PSD","FIDESZ-KDNP","Csaba SÓGOR"],
+"options": ["Monica MACOVEI"],
             "name": "Név 2"
           }
         },
@@ -299,7 +157,7 @@
 
       "data": [{
         "name": "allegiance",
-        "url":"../export/json/allegiance.json",    
+        "values":[],    
         "transform": [
           {"type":"filter",
             "expr": "datum.country==Country"
@@ -320,11 +178,11 @@
           },
           {
             "type": "filter",
-            "expr": "datum.name1==Name1"
+"expr": "(Type1=='party')?datum.name1==Name1party:(Type1=='name')?datum.name1==Name1name:datum.name1==Name1group"
           },
           {
             "type": "filter",
-            "expr": "datum.name2==Name2"
+"expr": "(Type2=='party')?datum.name2==Name2party:(Type2=='name')?datum.name2==Name2name:datum.name2==Name2group"
           }
         ]
       }],
@@ -399,17 +257,72 @@
 
     function render(spec) {
       view = new vega.View(vega.parse(spec), {
-        renderer: 'svg', // renderer (canvas or svg)
+        renderer: 'canvas', // renderer (canvas or svg)
         container: '#view', // parent DOM container
         hover: true // enable hover processing
       });
-d3.json("https://szekelydata.csaladen.es/ep/ep/son/groupdata.json", function(groupdata){
 
-  console.log(groupdata)
-})
       return view.runAsync();      
     }
-render(spec)
+
+JSZipUtils.getBinaryContent(
+  '../export/json/eu_allegiance_list.zip', function(err, rawdata) {
+var zip = new JSZip(rawdata);
+spec.data[0].values=JSON.parse(zip.files['data.json'].asText());
+
+  d3.json('../export/json/clean_names.json',function(clean_names)
+{
+function extend(init)  {
+spec.signals[4].bind.options=clean_names['party']
+spec.signals[5].bind.options=clean_names['group']
+spec.signals[6].bind.options=clean_names['name']
+spec.signals[8].bind.options=clean_names['party']
+spec.signals[9].bind.options=clean_names['group']
+spec.signals[10].bind.options=clean_names['name']
+if (init) {
+spec.signals[4].value=spec.signals[4].bind.options[0]
+spec.signals[5].value=spec.signals[5].bind.options[0]
+spec.signals[6].value=spec.signals[6].bind.options[0]
+spec.signals[8].value=spec.signals[8].bind.options[0]
+spec.signals[9].value=spec.signals[9].bind.options[0]
+spec.signals[10].value=spec.signals[10].bind.options[0]
+}
+}
+ extend(false)
+  render(spec)
+update_selects()
+
+d3.selectAll('.vega-bind')
+  .on('change',function(d){
+  update_selects()
+  })
+
+function update_selects(){
+  var sig1=view.signal('Type1')
+  var sig2=view.signal('Type2')
+  var all_selects=d3.selectAll('.vega-bind')[0];
+  for (i=0; i<all_selects.length;i++) {
+  inner_select=d3.select(all_selects[i]).selectAll('select')[0]
+  if (inner_select.length) {
+  name=inner_select[0].getAttribute("name")
+if (name=='Country') d3.select(all_selects[i]).style('display','block')
+else if (name=='Area') d3.select(all_selects[i]).style('display','block')
+else if (name=='Type1') d3.select(all_selects[i]).style('display','block')
+else if (name=='Type2') d3.select(all_selects[i]).style('display','block')
+else if ((sig1=='party')&&(name=='Name1party')) d3.select(all_selects[i]).style('display','block')
+else if ((sig1=='group')&&(name=='Name1group')) d3.select(all_selects[i]).style('display','block')
+else if ((sig1=='name')&&(name=='Name1name')) d3.select(all_selects[i]).style('display','block')
+else if ((sig2=='party')&&(name=='Name2party')) d3.select(all_selects[i]).style('display','block')
+else if ((sig2=='group')&&(name=='Name2group')) d3.select(all_selects[i]).style('display','block')
+else if ((sig2=='name')&&(name=='Name2name')) d3.select(all_selects[i]).style('display','block')
+  else d3.select(all_selects[i]).style('display','none')
+
+  }
+  }
+}
+})
+
+})
 
   </script>
 </body>

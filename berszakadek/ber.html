@@ -24,6 +24,7 @@ var parcoords = d3.parcoords()("#example")
 
 // load csv file and create the chart
 d3.csv('data.csv', function(data) {
+  console.log(data)
   parcoords
     .data(data)
     .hideAxis(["Agazat"])
