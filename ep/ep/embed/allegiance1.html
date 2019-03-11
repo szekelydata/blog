@@ -2,6 +2,7 @@
 <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
 <head>
   <script src="https://cdn.jsdelivr.net/npm/vega@5.0.0"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
   <style>
     html {
       font-family: Arial;
@@ -29,7 +30,7 @@
 
     #view {
       position: absolute;
-      left: 300;
+      left: 200;
     }
   </style>
 </head>
@@ -48,7 +49,7 @@
     
     spec={
       "$schema": "https://vega.github.io/schema/vega/v5.json",
-      "width": 400,
+      "width": 450,
       "height": 200,
       "padding": 5,
       "signals": [
@@ -271,18 +272,18 @@
           }
         },
         {
-          "name": "Name1", "value": "Iuliu Winkler",
+          "name": "Name1", "value": "RMDSZ",
           "bind": {
             "input": "select",
-            "options": ["Iuliu Winkler"],
+"options": ["RMDSZ", "FIDESZ-KDNP","Iuliu WINKLER"],
             "name": "Név 1"
           }
         },
         {
-          "name": "Name2", "value": "Csaba SÓGOR",
+          "name": "Name2", "value": "PSD",
           "bind": {
             "input": "select",
-            "options": ["Csaba SÓGOR"],
+"options": ["PSD","FIDESZ-KDNP","Csaba SÓGOR"],
             "name": "Név 2"
           }
         },
@@ -298,7 +299,7 @@
 
       "data": [{
         "name": "allegiance",
-        "url":"https://szekelydata.csaladen.es/ep/ep/export/json/allegiance.json",    
+        "url":"../export/json/allegiance.json",    
         "transform": [
           {"type":"filter",
             "expr": "datum.country==Country"
@@ -339,15 +340,19 @@
         },
         {
           "name": "yscale",
-          "domain": {"data": "allegiance", "field": "Perc_value"},
+          "domain": {"data": "allegiance", "field": "Same_perc"},
           "nice": true,
           "range": "height"
         }
       ],
 
       "axes": [
-        { "orient": "bottom", "scale": "xscale" },
-        { "orient": "left", "scale": "yscale" }
+        { "orient": "bottom", "scale": "xscale",
+        "labelAngle": 50,
+        "labelAlign":"left"
+         },
+        { "orient": "left", "scale": "yscale" ,
+        "title":"Ratio of votes in agreement "}
       ],
 
       "marks": [
@@ -358,7 +363,7 @@
             "enter": {
               "x": {"scale": "xscale", "field": "topic"},
               "width": {"scale": "xscale", "band": 1},
-              "y": {"scale": "yscale", "field": "Perc_value"},
+              "y": {"scale": "yscale", "field": "Same_perc"},
               "y2": {"scale": "yscale", "value": 0}
             },
             "update": {
@@ -378,9 +383,9 @@
               "fill": {"value": "#333"}
             },
             "update": {
-              "x": {"scale": "xscale", "signal": "tooltip.category", "band": 0.5},
-              "y": {"scale": "yscale", "signal": "tooltip.amount", "offset": -2},
-              "text": {"signal": "tooltip.amount"},
+              "x": {"scale": "xscale", "signal": "tooltip.topic", "band": 0.5},
+              "y": {"scale": "yscale", "signal": "tooltip.Same_perc", "offset": -2},
+"text": {"signal": "tooltip.Same_perc"},
               "fillOpacity": [
                 {"test": "datum === tooltip", "value": 0},
                 {"value": 1}
@@ -398,10 +403,13 @@
         container: '#view', // parent DOM container
         hover: true // enable hover processing
       });
+d3.json("https://szekelydata.csaladen.es/ep/ep/son/groupdata.json", function(groupdata){
+
+  console.log(groupdata)
+})
       return view.runAsync();      
     }
 render(spec)
 
-    
   </script>
 </body>
