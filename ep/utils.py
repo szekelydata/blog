@@ -116,6 +116,12 @@ def get_photos(df,names,allegiance_type2):
     df=df[list(df.columns[:2])+list([df.columns[-1]])+list(df.columns[2:-1])]
     return df
 
+def get_url(name,names,allegiance):
+    if allegiance=='name':
+        return names[name]['meta']['url']
+    else:
+        return ''
+    
 from colorthief import ColorThief
 
 def party_color(party,default_color="#000000"):

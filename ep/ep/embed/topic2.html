@@ -1,0 +1,553 @@
+<meta charset="utf-8">
+<meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.0.0"></script>
+  <style>
+    html {
+      font-family: Arial;
+      font-size: 12px;
+      margin-left: 10px;
+    }
+  
+    .vega-bind {
+      margin-top: 5px;
+      
+    }
+  
+    .vega-bindings {
+      position: fixed !important;
+      left: 10 !important;
+      top: 10 !important;
+  
+    }
+  
+    select {
+      position: absolute;
+      left: 50;
+      width: 100;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="view"></div>
+  <script type="text/javascript">
+var label_k=14;
+var spec={
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "width": 650,
+  "height": 850,
+  "padding": 5,
+  "signals": [
+    {
+      "name": "Label", "value": "party2",
+      "bind": {"input": "radio",
+      "options": ["party", "group","party2", "group2", "none"],
+      "name": "Címke"
+      }
+    },
+    {
+      "name": "Layout", "value": "cluster",
+      "bind": {"input": "radio", "options": ["tidy","cluster"],
+      "name": "Elrendezés"
+      }
+    },
+    {
+      "name": "Year", "value": 2018,
+      "bind": {
+        "input": "range",
+         "min": 2008, "max": 2018, "step": 5,
+         "name": "Év"
+      }
+    },
+    {
+      "name": "Links", "value": "diagonal",
+      "description":"Changes layout of dendrogram",
+      "bind": {
+        "input": "select",
+        "options": ["line", "curve", "diagonal", "orthogonal"],
+        "name": "Linkek"
+      }
+    },
+    {
+      "name": "Cluster", "value": "name",
+      "bind": {
+        "input": "select",
+        "options": ["name", "party", "group"],
+        "name": "Csoport"
+      }
+    },
+    {
+      "name": "Country", "value": "Romania",
+      "bind": {
+        "input": "select",
+        "options": ["Romania", "Hungary", "Joint"],
+        "name": "Ország"
+      }
+    },
+    {
+      "name": "Area",
+      "value": "All areas",
+      "bind": {
+        "input": "select",
+        "options": [
+          "All areas",
+          "ACP Countries",
+          "Afghanistan",
+          "Albania",
+          "Algeria",
+          "Andorra",
+          "Armenia",
+          "Atlantic Ocean Area",
+          "Australia",
+          "Austria",
+          "Azerbaijan",
+          "Baltic Sea Area",
+          "Bangladesh",
+          "Belarus",
+          "Belgium",
+          "Belize",
+          "Black Sea area",
+          "Bosnia and Herzegovina",
+          "Botswana",
+          "Brazil",
+          "Brunei",
+          "Bulgaria",
+          "Burma",
+          "Cambodia",
+          "Cameroon",
+          "Canada",
+          "Cape Verde",
+          "Chad",
+          "Chile",
+          "China",
+          "Colombia",
+          "Comoros",
+          "Congo DR, ex-Zaire",
+          "Cook Islands",
+          "Costa Rica",
+          "Croatia",
+          "Cuba",
+          "Cyprus",
+          "Czech Republic",
+          "Côte d'Ivoire ",
+          "Denmark",
+          "Dominica",
+          "Dominican Republic",
+          "Ecuador",
+          "Egypt",
+          "El Salvador",
+          "Eritrea",
+          "Estonia",
+          "Ethiopia",
+          "Faroe Islands",
+          "Finland",
+          "France",
+          "French Guiana",
+          "Gabon",
+          "Georgia",
+          "Germany FR",
+          "Ghana",
+          "Greece",
+          "Greenland",
+          "Grenada",
+          "Guadeloupe",
+          "Guatemala",
+          "Guinea",
+          "Guinea-Bissau",
+          "Honduras",
+          "Hungary",
+          "Iceland",
+          "India",
+          "Indonesia",
+          "Iran",
+          "Iraq",
+          "Ireland",
+          "Israel",
+          "Italy",
+          "Jamaica",
+          "Japan",
+          "Jordan",
+          "Kazakhstan",
+          "Kiribati",
+          "Korea, Republic",
+          "Kosovo",
+          "Kyrgyzstan",
+          "Laos",
+          "Latvia",
+          "Lebanon",
+          "Lesotho",
+          "Liberia",
+          "Libya",
+          "Liechtenstein",
+          "Lithuania",
+          "Macao",
+          "Macedonia",
+          "Madagascar",
+          "Malaysia",
+          "Maldives",
+          "Malta",
+          "Marshall Islands",
+          "Martinique",
+          "Mauritania",
+          "Mauritius",
+          "Mayotte",
+          "Mediterranean Sea Area",
+          "Mexico",
+          "Micronesia",
+          "Moldova",
+          "Monaco",
+          "Mongolia",
+          "Montenegro",
+          "Morocco",
+          "Mozambique",
+          "Myanmar",
+          "Namibia",
+          "Netherlands",
+          "New Zealand",
+          "Nicaragua",
+          "Nigeria",
+          "North Sea Area",
+          "Norway",
+          "Pakistan",
+          "Palau",
+          "Palestine Authority",
+          "Panama",
+          "Peru",
+          "Philippines",
+          "Poland",
+          "Portugal",
+          "Romania",
+          "Russian Federation",
+          "Réunion",
+          "Saint Lucia",
+          "Saint Vincent and Grenadines",
+          "Samoa",
+          "Sao Tome and Principe",
+          "Saudi Arabia",
+          "Senegal",
+          "Serbia",
+          "Seychelles",
+          "Sierra Leone",
+          "Singapore",
+          "Slovakia",
+          "Slovenia",
+          "Solomon Islands",
+          "Somalia",
+          "South Africa",
+          "South Korea",
+          "Spain",
+          "Sri Lanka",
+          "Sudan",
+          "Suriname",
+          "Swaziland",
+          "Sweden",
+          "Switzerland",
+          "Syrian Arab Republic",
+          "Tajikistan",
+          "Thailand",
+          "Tibet",
+          "Timor-Leste",
+          "Tonga",
+          "Trinidad and Tobago",
+          "Tunisia",
+          "Turkey",
+          "Turkmenistan",
+          "Tuvalu",
+          "Uganda",
+          "Ukraine",
+          "United Arab Emirates",
+          "United Kingdom",
+          "United States",
+          "Uruguay",
+          "Uzbekistan",
+          "Vanuatu",
+          "Venezuela",
+          "Vietnam",
+          "Western Sahara",
+          "Yemen",
+          "Zimbabwe"
+        ],
+        "name": "Területek"
+      }
+    },
+    {
+      "name": "Topic",
+      "value": "All topics",
+      "bind": {
+        "input": "select",
+        "options": [
+          "All topics",
+          "Agriculture",
+          "Citizen rights",
+          "Citizenship",
+          "Civil society",
+          "Communication",
+          "Consumers protection",
+          "Cooperation",
+          "EU budget",
+          "EU institutions",
+          "EU law",
+          "EU members",
+          "Economy",
+          "Education",
+          "Energy",
+          "Environment",
+          "Equality",
+          "Euro",
+          "Financial",
+          "Foreign aid",
+          "Foreign development",
+          "Foreign policy",
+          "Foreign relations",
+          "Foreign trade",
+          "Free movement",
+          "Health",
+          "Industry",
+          "Justice",
+          "Market",
+          "Monopolies",
+          "Public security",
+          "Regional policy",
+          "Research",
+          "Schengen area",
+          "Taxation",
+          "Tourism",
+          "Trade",
+          "Transport"
+        ],
+        "name": "Témák"
+      }
+    },
+    {
+      "name": "hover",
+      "value": null,
+      "on": [{
+          "events": "@images:mouseover",
+          "update": "datum"
+        },
+        {
+          "events": "@images:mouseout",
+          "update": "null"
+        }
+      ]
+    }, 
+    {
+      "name": "title",
+      "value": "EP allegiance votes",
+      "update": "hover ? hover.name + ' | ' + hover.party + ' | ' + hover.group : 'EP allegiance votes'"
+    }
+  ],
+
+  "data": [
+    {
+      "name": "tree",
+"url":"../export/json/topics.json",    
+      "transform": [
+        {"type":"filter",
+          "expr": "datum.country==Country"
+        },
+        {"type":"filter",
+          "expr": "datum.year==Year"
+        },
+        {"type":"filter",
+          "expr": "datum.allegiance==Cluster"
+        },
+        {
+          "type": "filter",
+          "expr": "datum.area==Area"
+        },
+        {
+          "type": "filter",
+          "expr": "datum.topic==Topic"
+        },
+        {
+          "type": "stratify",
+          "key": "name",
+          "parentKey": "parent"
+        },
+        {
+          "type": "tree",
+          "method":{"signal": "Layout"},
+          "size": [{"signal": "height"}, {"signal": "width - 150"}],
+          "as": ["y", "x", "depth", "children"]
+        }
+      ]
+    },
+    {
+      "name": "links",
+      "source": "tree",
+      "transform": [
+        { "type": "treelinks" },
+        {
+          "type": "linkpath",
+          "orient": "horizontal",
+          "shape": {"signal": "Links"}
+        }
+      ]
+    }
+  ],
+
+  "scales": [
+    {
+      "name": "color",
+      "type": "linear",
+      "range": {"scheme": "viridis"},
+      "domain": {"data": "tree", "field": "depth"},
+      "zero": false
+    }
+  ],
+
+  "marks": [
+    {
+      "type": "path",
+      "from": {"data": "links"},
+      "encode": {
+        "update": {
+          "path": {"field": "path"},
+          "stroke": {"value": "#ccc"},
+          "baseline": {"value": "middle"},
+          "align": {"value": "center"}
+        }
+      }
+    },
+    {
+      "type": "symbol",
+      "name":"circle",
+      "from": {"data": "tree"},
+      "encode": {
+        "enter": {
+          "size": {"value": 100},
+          //"stroke": {"value": "#000"},
+          "shape": {"value": "circle"}
+        },
+        "update": {
+          "x": {"field": "x"},
+          "y": {"field": "y"},
+          "fill": {"scale": "color", "field": "depth"},
+        }
+      }
+    },
+    {
+      "type": "image",
+      "name":"images",
+      "from": {"data": "tree"},
+      "encode": {
+        "enter": {
+          "width": {"value": 26},
+          "height": {"value": 26},
+          "baseline": {"value": "middle"},
+          "align": {"value": "center"},
+          "cursor": {
+            "value": "pointer"
+          },
+          "url": {"field": "image"},
+          "href": {"field": "url"}
+        },
+        "update": {
+          "x": {"field": "x"},
+          "y": {"field": "y"}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "from": {"data": "tree"},
+      "encode": {
+        "enter": {
+          "text": {"field": "name"},
+          "fontSize": {"value": 14},
+          "baseline": {"value": "middle"}
+        },
+        "update": {
+          "x": {"field": "x"},
+          "y": {"field": "y"},
+          "dx": {"value": 7},
+          "align": {"signal": "datum.children ? 'left' : 'left'"},
+          "opacity": {"signal": "datum.parent ? 0 : 1"}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "from": {"data": "tree"},
+      "encode": {
+        "enter": {
+          "text": {"field": "name"},
+          "fontSize": {"signal": "datum.country=='Joint' ? 10 : 12"},
+          "baseline": {"value": "middle"}
+        },
+        "update": {
+          "x": {"field": "x"},
+          "y": {"field": "y"},
+          "dx": {"value": label_k},
+          "align": {"signal": "datum.children ? 'right' : 'left'"},
+          "opacity": {"signal": "datum.children ? 0 : 1"}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "from": {"data": "tree"},
+      "encode": {
+        "enter": {
+          "fontSize": {"signal": "datum.country=='Joint' ? 10 : 12"},
+          "baseline": {"value": "middle"}
+        },
+        "update": {
+          "text": {"field": {"signal":"Label"}},
+          "x": {"field": "x"},
+          "y": {"field": "y"},
+          "dx": {"value": -label_k},
+          "fill": {"field": {"signal":"Label=='party' ? 'partycolor' : Label=='party2' ? 'partycolor' : 'groupcolor'"}},
+          "align": {"signal": "datum.children ? 'left' : 'right'"},
+          "opacity": {"signal": "datum.children ? 0 : 1"}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "encode": {
+        "enter": {
+          "x": {
+            "value": 700
+          },
+          "y": {
+            "value": 0
+          },
+          "fill": {
+            "value": "black"
+          },
+          "fontSize": {
+            "value": 14
+          },
+          "align": {
+            "value": "right"
+          }
+        },
+        "update": {
+          "text": {
+            "signal": "title"
+          }
+        }
+      }
+    }
+  ]
+};
+
+    var view;
+
+    function render(spec) {
+      view = new vega.View(vega.parse(spec), {
+        renderer: 'svg', // renderer (canvas or svg)
+        container: '#view', // parent DOM container
+        hover: true // enable hover processing
+      });
+      return view.runAsync();      
+    }
+
+render(spec)
+
+  </script>
+</body>
