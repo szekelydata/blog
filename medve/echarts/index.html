@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="//www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+    <meta name="description"
+        content="Migration narratives in Europe: Through conversations on public social media @BakamoSocial @FES_EU #EU #Migration #Refugees" />
+    <meta name="keywords"
+        content="migration immigration europe european union bakamo social friedrich erbert stiftung refugees social media narrative EU dataviz echarts csaladenes dc2 d3js d3" />
+    <meta property="og:image"
+        content="https://denesdata.github.io/eu-immigration-opinion-map/EU_migration_narratives_Security_Sweden.png" />
+    <meta property="og:description"
+        content="Migration narratives in Europe: Through conversations on public social media @BakamoSocial @FES_EU #EU #Migration #Refugees" />
+    <meta property="og:title" content="Migration narratives in Europe" />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="https://www.bakamosocial.com" />
+    <meta property="og:url" content="https://www.bakamosocial.com" />
+    <meta property="fb:admins" content="bakamo.social" />
+    <title>Migration narratives in Europe</title>
+    <link rel="shortcut icon" href="https://www.bakamosocial.com/favicon.ico" />
+
+    <!-- |---------------------------------------------------------------------------| -->
+    <!-- viz created by: Denes Csala Data Consulting | https://data.csaladen.es | 2019 -->
+    <!-- MIT LICENSE | https://denesdata.github.io/eu-immigration-opinion-map/LICENSE  -->
+    <!-- |---------------------------------------------------------------------------| -->
+
+    <style>
+        html,
+        body {
+            height: 100%;
+            width: 100%;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            padding: 0;
+            margin: 0;
+            border: none;
+            overflow: hidden;
+        }
+
+        div {
+            transition: opacity 0.5s;
+            -webkit-transition: opacity 0.5s;
+        }
+
+        iframe {
+            border: none;
+            overflow: hidden;
+            background: none;
+            padding: 0;
+            margin: 0;
+            display: block;
+            width: 1000px;
+            height: 720px;
+        }
+
+
+        #bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            opacity: 0;
+            z-index: -2;
+            width: 100%;
+            height: 100%;
+        }
+
+        #fr {
+            z-index: 2;
+        }
+
+        #cg {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            background-color: #eee;
+            opacity: 1;
+            z-index: -1;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+
+<body>
+    <div id='bg'><video style="position: absolute; left:0px; top:0px; min-width: 100%;
+        min-height: 100%;" loop muted autoplay poster="../viz/medv2.gif">
+            <source src="medve.mp4" type="video/mp4">
+    </div>
+    <div id='cg'></div>
+    <div id='fr'>
+        <iframe id="container" src='frame.html'></iframe>
+    </div>
+    <script>
+
+        setTimeout(function () {
+            var cg = document.getElementById('cg');
+            cg.style.opacity = 0;
+            var bg = document.getElementById('bg');
+            bg.style.opacity = .2;
+        }, 2000)
+
+        var rescale = function (full) {
+
+            //scale content
+            var container = document.getElementById("container")
+            var parent = document.body;
+            var scal = Math.min(
+                (parent.offsetWidth) /
+                container.offsetWidth,
+                (parent.offsetHeight) /
+                container.offsetHeight)
+
+            scal = (scal > 1) ? (full ? scal : 1) : scal;
+
+            console.log('rendering...scaling', scal)
+
+            container.style.WebkitTransform = "scale(" + scal + ")";
+            container.style.OTransform = "scale(" + scal + ")";
+            container.style.MozTransform = "scale(" + scal + ")";
+            container.style.msTransform = "scale(" + scal + ")";
+            container.style.Transform = "scale(" + scal + ")";
+
+            container.style.WebkitTransformOrigin = "50% 50%";
+            container.style.OTransformOrigin = "50% 50%";
+            container.style.MozTransformOrigin = "50% 50%";
+            container.style.msTransformOrigin = "50% 50%";
+            container.style.TransformOrigin = "50% 50%";
+
+        };
+
+        //init view
+        if (window.location.hash == '#full') {
+            rescale(true);
+        } else rescale(false);
+
+    </script>
+</body>
