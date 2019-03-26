@@ -1,531 +1,106 @@
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="//www.w3.org/1999/xhtml">
+
 <head>
-  <!-- Use correct character set. -->
-  <meta charset="utf-8">
-  <!-- Tell IE to use the latest, best version. -->
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-  <title>A N T A R C T I C A</title>
-  <meta name="description" content="A N T A R C T I C A | Research Stations Exploratorium with Ceisum JS and D3plus #tsne #cesiumjs #d3plus #dataviz #d3js #cesium @csaladenes" />
-    <meta name="keywords" content="csaladenes, d3.js, data visualization, infographic, d3plus, d3, cesium, cesiumjs, map, interactivemap, data visualization, mit oec, mit, mit atlas, macro connections" />
-    <meta property="og:image" content="https://blog.csaladen.es/antarctica/antarctica.gif" />
-    <meta property="og:image:width" content="604px" />
-    <meta property="og:image:height" content="300px" />
-  <meta property="twitter:image" content="https://blog.csaladen.es/antarctica/antarctica.gif" />
-    <meta property="og:description" content="A N T A R C T I C A | Research Stations Exploratorium with Ceisum JS and D3plus #tsne #cesiumjs #d3plus #dataviz #d3js #cesium @csaladenes" />
-  <meta property="twitter:description" content="A N T A R C T I C A | Research Stations Exploratorium with Ceisum JS and D3plus #tsne #cesiumjs #d3plus #dataviz #d3js #cesium @csaladenes" />
-    <meta property="og:title" content="A N T A R C T I C A research stations interactive map" />
-  <meta property="twitter:title" content="A N T A R C T I C A research stations interactive map" />
-    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
-  <meta property="og:url" content="https://blog.csaladen.es/antarctica/"/>
-  <meta property="twitter:url" content="https://blog.csaladen.es/antarctica/"/>
-    <meta property="og:site_name" content="Try something new. Everyday." />
-    <meta property="fb:admins" content="100943737036023614165" />
-  <link rel="shortcut icon" href="https://blog.csaladen.es/favicon.ico" />
+  <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+  <meta name="description" content="Medvetérkép | székelydata @csaladenes" />
+  <meta name="keywords"
+    content="csaladenes, d3.js, data visualization, infographic, d3plus, d3, data visualization, mit oec, mit, mit atlas, macro connections, set, d3.js, ipython, flourish, economy, omnibus, szekelyland, szekelydata, romania, transylvania, erdely" />
+  <meta property="og:image" content="https://szekelydata.csaladen.es/medve/hamarosan.png" />
+  <meta property="twitter:image" content="https://szekelydata.csaladen.es/gazdasag/2018/header1.png" />
+  <meta property="og:description" content="Medvetérkép | székelydata @csaladenes" />
+  <meta property="twitter:description" content="Medvetérkép | székelydata @csaladenes" />
+  <meta property="og:title" content="Medvetérkép | székelydata" />
+  <meta property="twitter:title" content="Medvetérkép | székelydata" />
+  <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+  <meta property="og:url" content="https://szekelydata.csaladen.es/medve" />
+  <meta property="twitter:url" content="https://szekelydata.csaladen.es/medve" />
+  <meta property="og:site_name" content="SZÉKELYDATA" />
+  <meta property="fb:admins" content="100943737036023614165" />
+  <link rel="shortcut icon" href="https://szekelydata.csaladen.es/favicon.ico" />
   <link rel="publisher" href="https://plus.google.com/106181965793093327960" />
-  <script src="https://cesiumjs.org/Cesium/Build/Cesium/Cesium.js"></script>
-  <script src="viz/d3.v3.min.js"></script>
-  <script src="viz/d3plus.js"></script>
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <title>Medvetérkép | székelydata</title>
+
   <style>
-  @import url(https://cesiumjs.org/Cesium/Build/Cesium/Widgets/widgets.css);
-  html, body, #cesiumContainer {
-    width: 100%; height: 100%; margin: 0; padding: 0; overflow: hidden;
-  }
-  .cesium-infoBox{
-    max-width: 300px !important;
-  }
-  .d3plus_node, .d3plus_drop_list, .d3plus_drop_selector, .d3plus_drop_search,.d3plus_drop_search input,.d3plus_drop_search input:focus{
-    background-color: rgba(38,38,38,0.95) !important;
-    border-color: rgba(99,99,99,0.95) !important;
-    color: #eeeeee !important;
-  }
-  
-</style>
-</style>
-</head>
-<body>
-  <div id="cesiumContainer">
-  </div>
-  <audio src="vi/bg.mp3" loop="true" autoplay="true" volume="0.5"></audio>
-  <script>
-    d3.json('data/szekelyhon_data.json',function(data){
-      console.log(data)
-      var viewer = new Cesium.Viewer('cesiumContainer', {
-        shouldAnimate: true,
-        animation : true,
-        geocoder: true, 
-        homeButton: false,
-        timeline: true, 
-        navigationInstructionsInitiallyVisible: false,
-        geocoder: new OpenStreetMapNominatimGeocoder()
-      });
+    html,
+    body {
+      height: 100%;
+      width: 100%;
 
-    //Enable lighting based on sun/moon positions
-    viewer.scene.globe.enableLighting = false;
-    viewer.clock.clockRange = Cesium.ClockRange.LOOP_STOP; //Loop at the end
-    viewer.clock.multiplier = 1000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
 
-    function OpenStreetMapNominatimGeocoder() {
+      padding: 0;
+      margin: 0;
+      border: none;
+      overflow: hidden;
     }
 
-    OpenStreetMapNominatimGeocoder.prototype.geocode = function (input) {
-    var endpoint = 'https://nominatim.openstreetmap.org/search';
-    var resource = new Cesium.Resource({
-        url: endpoint,
-        queryParameters: {
-            format: 'json',
-            q: input
-        }
-    });
+    div {
+      transition: opacity 0.5s;
+      -webkit-transition: opacity 0.5s;
+    }
 
-    return resource.fetchJson()
-        .then(function (results) {
-            var bboxDegrees;
-            return results.map(function (resultObject) {
-                bboxDegrees = resultObject.boundingbox;
-                return {
-                    displayName: resultObject.display_name,
-                    destination: Cesium.Rectangle.fromDegrees(
-                        bboxDegrees[2],
-                        bboxDegrees[0],
-                        bboxDegrees[3],
-                        bboxDegrees[1]
-                    )
-                };
-            });
-        });
-    };
+    iframe {
+      border: none;
+      overflow: hidden;
+      background: none;
+      padding: 0;
+      margin: 0;
+      display: block;
+      width: 1000px;
+      height: 720px;
+    }
 
-    var czml = [{
-      "id" : "document",
-      "name" : "Székelyföldi Medvetérkép",
-      "version" : "1.0"
-    }];
+    img {
+      display: block;
+    }
 
-    var order=[];
-    var vizdata=[];
-    var dropdata=[];
+    #bg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      z-index: -2;
+      width: 100%;
+      height: 100%;
+    }
 
-    Object.keys(data).forEach(function(base,i){
-      order.push({"id":data[base]["id"],"index":data[base]["index"]});
-      var desc='df';
-      var r=0.6;
-      var t=40000;
-      cyl={
-            "id":data[base]["id"],
-            "name":data[base]["id"],
-            "description": data[base]["title"]+data[base]["content"],
-            "availability" : data[base]["date"]+"/2019-01-01",
-            "position" : {
-              "cartographicDegrees":[
-              data[base]['coords'][1], data[base]['coords'][0], 0
-              ]
-            },
-            "point" : {
-              "color" : {
-                  "rgba" : [166, 189, 219, 255]
-                },
-                "outlineColor": {
-                    "rgba": [255, 0, 0, 255]
-                },
-                "outlineWidth" : 1,
-                "pixelSize": 20
-            }
-          }
-       czml.push(cyl);
+    #fr {
+      z-index: 2;
+    }
 
-       /*
-       var pinBuilder = new Cesium.PinBuilder();
+    #cg {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      background-color: #eee;
+      opacity: 1;
+      z-index: -1;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
 
-       var questionPin = viewer.entities.add({
-		    position : Cesium.Cartesian3.fromDegrees(data[base]['coords'][1], data[base]['coords'][0]),
-		    billboard : {
-		        image : pinBuilder.fromText('?', Cesium.Color.BLACK, 48).toDataURL(),
-		        verticalOrigin : Cesium.VerticalOrigin.BOTTOM
-		    },
-		    name:data[base]["id"],
-            description: data[base]["title"]
-            
-		});
-		*/
+<body>
+  <div id='bg'><video style="position: absolute; left:0px; top:0px; min-width: 100%;
+        min-height: 100%;" loop muted autoplay poster="hamarosan.png">
+      <source src="medve.mp4" type="video/mp4">
+  </div>
+  <div id='cg'></div>
+  <div id='fr'>
+    <a href='http://szekelydata.csaladen.es'><img src='hamarosan.png' width="500px;"></a>
+  </div>
+  <script>
 
-      })
-    //console.log(czml)
+    setTimeout(function () {
+      var cg = document.getElementById('cg');
+      cg.style.opacity = 0;
+      var bg = document.getElementById('bg');
+      bg.style.opacity = .2;
+    }, 2000)
 
-viewer.dataSources.add(Cesium.CzmlDataSource.load(czml));
-
-function createModel(url, height) {
-    //viewer.entities.removeAll();
-
-    var position = Cesium.Cartesian3.fromDegrees(25, 45, height);
-    var heading = Cesium.Math.toRadians(135);
-    var pitch = 0;
-    var roll = 0;
-    var hpr = new Cesium.HeadingPitchRoll(heading, pitch, roll);
-    var orientation = Cesium.Transforms.headingPitchRollQuaternion(position, hpr);
-
-    var entity = viewer.entities.add({
-        name : url,
-        position : position,
-        orientation : orientation,
-        model : {
-            uri : url,
-            minimumPixelSize : 128,
-            maximumScale : 20000
-        }
-    });
-    //viewer.trackedEntity = entity;
-}
-
-//createModel('viz/bear2.glb', 0.0);
-
-
-home = d3.select(".cesium-viewer-toolbar").insert("div",":first-child")
-.attr("class","cesium-button cesium-toolbar-button material-icons")
-.text("home")
-.attr("title","Home")
-.style("padding-left","3px")
-.style("padding-top","3px")
-d3.select(".cesium-viewer-toolbar").insert("span",":first-child").style("width","10px").text(" ")
-shuffle = d3.select(".cesium-viewer-toolbar").insert("div",":first-child")
-.attr("class","cesium-button cesium-toolbar-button material-icons")
-.text("loop")
-.attr("title","Sequential scroll order")
-.style("padding-left","3px")
-.style("padding-top","3px")
-skip = d3.select(".cesium-viewer-toolbar").insert("div",":first-child")
-.attr("class","cesium-button cesium-toolbar-button material-icons")
-.text("skip_next")
-.attr("title","Skip")
-.style("padding-left","3px")
-.style("padding-top","3px")
-play = d3.select(".cesium-viewer-toolbar").insert("div",":first-child")
-.attr("class","cesium-button cesium-toolbar-button material-icons")
-.text("pause")
-.attr("title","Pause auto-scroll")
-.style("padding-left","3px")
-.style("padding-top","3px")
-d3.select(".cesium-viewer-toolbar").insert("span",":first-child").style("width","10px").text(" ")
-summeron = d3.select(".cesium-viewer-toolbar").insert("div",":first-child")
-.attr("class","cesium-button cesium-toolbar-button material-icons")
-.text("ac_unit")
-.attr("title","Show summer only bases")
-.style("padding-left","3px")
-.style("padding-top","3px")
-deadon = d3.select(".cesium-viewer-toolbar").insert("div",":first-child")
-.attr("class","cesium-button cesium-toolbar-button material-icons")
-.text("layers_clear")
-.attr("title","Show all bases including defunct")
-.style("padding-left","3px")
-.style("padding-top","3px")
-d3.select(".cesium-viewer-toolbar").insert("span",":first-child").style("width","10px").text(" ")
-treeon = d3.select(".cesium-viewer-toolbar").insert("div",":first-child")
-.attr("class","cesium-button cesium-toolbar-button material-icons")
-.text("dashboard")
-.attr("title","Toggle treemap")
-.style("padding-left","3px")
-.style("padding-top","3px")
-soundon = d3.select(".cesium-viewer-toolbar").insert("div",":first-child")
-.attr("class","cesium-button cesium-toolbar-button material-icons")
-.text("volume_up")
-.attr("title","Toggle background music")
-.style("padding-left","3px")
-.style("padding-top","3px")
-
-var next=103;
-var dt=2.0;
-    var k=1.5; //timing to spent at each point (1 none, direct advance)
-    var tour=false;
-    var shuffled=false;
-    var deads=true;
-    var summers=true;
-    var sounds=true;
-    var trees=true;
-    orderSorted = Object.keys(order).sort(function(a,b){return order[a]["id"]-order[b]["id"]})
-    
-    function fly(to,dt){
-      console.log('flying to',to,Object.keys(data)[to]);
-
-      viewer.camera.flyToBoundingSphere({center:Cesium.Cartesian3.fromDegrees(
-        data[Object.keys(data)[to]]["coords"][1], 
-        data[Object.keys(data)[to]]["coords"][0], 
-        0.0),
-      radius:(0.2+Math.random())*3000*(50+Math.pow(100,0.7))},
-      {
-        duration : ((shuffled)?dt*1:dt*2)
-      });
-
-      if (next==Object.keys(data).length-1) next=0;
-      else next=next+1;
-        //console.log(viewer.dataSources._dataSources[0]._entityCollection._entities._array)
-        //console.log(viewer.dataSources.get([0]).entities.values)
-        viewer.selectedEntity=viewer.dataSources.get([0]).entities.getById(Object.keys(data)[to])
-        //setTimeout(function(){viewer.infoBox.showInfo=false;},dt*1000);
-      }
-
-      function ordered(nxt){
-        return orderSorted[nxt];
-      }
-
-      skip.on("click",function(d){
-        fly(ordered(next),dt/4.0);
-      })
-      soundon.on("click",function(d){
-        sounds=!(sounds);
-        if (sounds){
-          soundon.text("volume_up")
-          d3.select("audio").attr("src","viz/bg.mp3")
-        } else {
-          soundon.text("volume_off")
-          d3.select("audio").attr("src","")
-        }
-      })
-      treeon.on("click",function(d){
-        trees=!(trees);
-        if (trees){
-          d3.select("#viz").style("visibility","visible")
-          d3.select("#drop").style("visibility","visible")
-        } else {
-          d3.select("#viz").style("visibility","hidden")
-          d3.select("#drop").style("visibility","hidden")
-        }
-      })
-      home.on("click",function(d){
-        tour=false;
-        play.text("play_arrow").attr("title","Resume auto-scroll")
-        fly(2,3);
-      })
-      shuffle.on("click",function(d){
-        shuffled=!(shuffled);
-        if (shuffled) shuffle.text("shuffle").attr("title","Random scroll order")
-          else shuffle.text("loop").attr("title","Sequential scroll order")
-        })
-      function playit(){
-        if (tour) {
-        fly(ordered(next),dt);
-        setInterval(function() {
-          if (tour) {
-            fly(ordered(next),dt);
-          }
-        }, ((shuffled)?dt*k:dt*2*k)*1000);
-      }};
-      play.on("click",function(d){
-        tour=!(tour);
-        if (tour) playit();
-        if (tour) play.text("pause").attr("title","Pause auto-scroll")
-          else play.text("play_arrow").attr("title","Resume auto-scroll")
-        })
-
-      setTimeout(function(){fly(2,3);},3000);
-      setTimeout(function(){playit();},20000);
-
-      viewer.infoBox.frame.sandbox = "allow-same-origin allow-top-navigation allow-pointer-lock allow-popups allow-forms allow-scripts";
-
-      d3.select(".cesium-widget-credits").insert("a",":first-child")
-      .attr("class","cesium-credit-imageContainer")
-               //.text('fd')
-               .attr("href","http://www.csaladenes.wordpress.com")
-               .attr("target","_blank")
-               .html("<img style='height:30px;' src='../szekelydata.png' alt='Try something new. Everyday.' title='Try something new. Everyday.' />")             
-
-    
-      d3.select(".cesium-viewer-cesiumWidgetContainer").append("div")
-              .style("position","absolute")
-              .style("top","3px")
-              .style("left","0px")
-              .style("width","90%")
-              .style("text-align","center")
-              .style("color","#eee")
-              .style("font-size","38px")
-              .style("text-shadow","1px 1px 2px black")
-              .text("A N T A R C T I C A")
-        d3.select(".cesium-viewer-cesiumWidgetContainer").append("div")
-              .style("position","absolute")
-              .style("top","5px")
-              .style("left","10px")
-              .style("width","400px")
-              .style("color","#eee")
-              .style("font-size","10px")
-              .attr("id","subs")
-        d3.select(".cesium-viewer-cesiumWidgetContainer").append("div")
-              .style("position","absolute")
-              .style("top","28px")
-              .style("left","10px")
-              .style("width","400px")
-              .style("color","#eee")
-              .style("font-size","10px")
-              .attr("id","subs2")
-      d3.select("#subs").append("span")
-              .attr("class","material-icons")
-              .text("language")
-        d3.select("#subs").append("span")
-              .text("  ")
-        d3.select("#subs").append("a")
-              .attr("class","cesium-viewer-cesiumWidgetContainer")
-              .text("Dénes Csala")
-              .attr("rel","author")
-              .style("color","#eee")
-              .style("position","relative")
-              .style("top","-7px")
-              .attr("href","https://csaladen.es")
-              .attr("target","_blank")
-        d3.select("#subs").append("span")
-              .text("  ")
-        d3.select("#subs").append("span")
-              .attr("class","material-icons")
-              .text("thumb_up")
-        d3.select("#subs").append("span")
-              .text("  ")
-        d3.select("#subs").append("a")
-              //.attr("class","cesium-viewer-cesiumWidgetContainer")
-              .text("csaladenes")
-              .style("color","#eee")
-              .style("position","relative")
-              .style("top","-7px")
-              .attr("href","https://twitter.com/csaladenes")
-              .attr("target","_blank")
-        d3.select("#subs").append("span")
-              .text("  ")
-        d3.select("#subs").append("span")
-              .attr("class","material-icons")
-              .text("assessment")
-        d3.select("#subs").append("span")
-              .text("  ")
-        d3.select("#subs").append("a")
-              .attr("class","cesium-viewer-cesiumWidgetContainer")
-              .text("data source")
-              .style("color","#eee")
-              .style("position","relative")
-              .style("top","-7px")
-              //.style("left","5px")
-              .attr("href","https://en.wikipedia.org/wiki/Research_stations_in_Antarctica")
-              .attr("target","_blank")
-
-      d3.select("#subs2").append("span")
-              .attr("class","material-icons")
-              .text("star")
-        d3.select("#subs2").append("span")
-              .text("  ")
-        d3.select("#subs2").append("a")
-              .text("2041")
-              .attr("rel","author")
-              .style("color","#eee")
-              .style("position","relative")
-              .style("top","-7px")
-              .attr("href","https://twitter.com/robertswan2041")
-              .attr("target","_blank")
-              d3.select("#subs2").append("span")
-              .text("  ")
-      d3.select("#subs2").append("span")
-              .attr("class","material-icons")
-              .text("star")
-  
-        d3.select("#subs2").append("span")
-              .text("  ")
-        d3.select("#subs2").append("a")
-              .text("Antarctica2048")
-              .attr("rel","author")
-              .style("color","#eee")
-              .style("position","relative")
-              .style("top","-7px")
-              .attr("href","https://twitter.com/Antarctica2048")
-              .attr("target","_blank")
-              d3.select("#subs2").append("span")
-              .text("  ")
-      d3.select("#subs2").append("span")
-              .attr("class","material-icons")
-              .text("star")
-        d3.select("#subs2").append("span")
-              .text("  ")
-        d3.select("#subs2").append("a")
-              .text("AntarcticReport")
-              .attr("rel","author")
-              .style("color","#eee")
-              .style("position","relative")
-              .style("top","-7px")
-              .attr("href","https://twitter.com/AntarcticReport")
-              .attr("target","_blank")
-
-      d3.select(".cesium-viewer-cesiumWidgetContainer").append("div").attr("id","viz")
-              .style("position","absolute")
-              .style("top","55px")
-              .style("left","5px")
-              .style("opacity","0.9")
-              .style("width","255px")
-              .style("height","260px")
-      d3.select(".cesium-viewer-cesiumWidgetContainer").append("div").attr("id","drop")
-              .style("position","absolute")
-              .style("top","315px")
-              .style("left","5px")
-              .style("opacity","0")
-              .style("width","255px")
-              .style("height","20px")
-
-
-
-      var visualization = d3plus.viz()
-      .container("#viz")
-      .data(vizdata)
-      .type("tree_map")
-      .id(["season","season","season","country","base"])
-      .depth(3)
-      .color({"value":"country","scale":[
-      	"#a6bddb",
-"#67a9cf",
-"#02818a",
-"#016c59",
-"#74a9cf",
-"#045a8d",
-"#3690c0",
-"#807dba",
-"#6a51a3",
-"#225ea8",
-"#a6bddb",
-"#4eb3d3",
-"#3690c0",
-"#7bccc4",
-"#2b8cbe",
-"#0868ac",
-"#0570b0",
-"#023858"
-]})
-      .size("people")
-      .background("none")
-      .messages(false)
-      .history(false)
-      .icon("flag")
-      .font({"family":"sans-serif"})
-      .tooltip(["season"])
-      .draw()
-
-    
-var font={"family":"sans-serif","size":14,"align":"left","secondary":{"family":"sans-serif","size":11}};
-var dropdown = d3plus.form()
-  .data(dropdata)
-  .container("#drop")
-  .focus(2,function(d){
-      fly(d,4)  
-  })
-  .id("id")
-  .width(245)
-  .keywords("kw")
-  .icon("flag")
-  .font(font)
-  .text("base")
-  .type("drop")
-    .draw()
-
-setTimeout(function(){d3.select("#drop").transition().duration(1000).style("opacity","0.9")},3000)
-
-  })
-
-
-
-
-           </script>
-         </body>
-         </html>
+  </script>
+</body>
