@@ -1,78 +1,37 @@
 <!DOCTYPE html>
-<html style="height: 100%">
-   <head>
-       <meta charset="utf-8">
-   </head>
-   <body style="height: 100%; margin: 0">
-       <div id="container" style="height: 100%"></div>
-       <!-- <script type="text/javascript" src="echarts.min.js"></script> -->
-       <!-- <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-gl/echarts-gl.min.js"></script> -->
-       <!-- <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-stat/ecStat.min.js"></script> -->
-       <!-- <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/dataTool.min.js"></script> -->
-       <!-- <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/china.js"></script> -->
-       <!-- <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/world.js"></script> -->
-       <!-- <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=xfhhaTThl11qYVrqLZii6w8qE5ggnhrY&__ec_v__=20190126"></script> -->
-       <!-- <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/bmap.min.js"></script> -->
-       <!-- <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/simplex.js"></script> -->
-       <script type="text/javascript">
-var dom = document.getElementById("container");
-var myChart = echarts.init(dom);
-var app = {};
-option = null;
-function getVirtulData(year) {
-    year = year || '2017';
-    var date = +echarts.number.parseDate(year + '-01-01');
-    var end = +echarts.number.parseDate((+year + 1) + '-01-01');
-    var dayTime = 3600 * 24 * 1000;
-    var data = [];
-    for (var time = date; time < end; time += dayTime) {
-        data.push([
-            echarts.format.formatTime('yyyy-MM-dd', time),
-            Math.floor(Math.random() * 10000)
-        ]);
-    }
-    return data;
-}
+<html lang="en" xmlns="//www.w3.org/1999/xhtml">
 
-option = {
-    title: {
-        top: 30,
-        left: 'center',
-        text: '2016年某人每天的步数'
-    },
-    tooltip : {},
-    visualMap: {
-        min: 0,
-        max: 10000,
-        type: 'piecewise',
-        orient: 'horizontal',
-        left: 'center',
-        top: 65,
-        textStyle: {
-            color: '#000'
-        }
-    },
-    calendar: {
-        top: 120,
-        left: 30,
-        right: 30,
-        cellSize: ['auto', 13],
-        range: '2016',
-        itemStyle: {
-            normal: {borderWidth: 0.5}
-        },
-        yearLabel: {show: false}
-    },
-    series: {
-        type: 'heatmap',
-        coordinateSystem: 'calendar',
-        data: getVirtulData(2016)
-    }
-};
-;
-if (option && typeof option === "object") {
-    myChart.setOption(option, true);
-}
-       </script>
-   </body>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+    <meta name="description"
+        content="Migration narratives in Europe: Through conversations on public social media @BakamoSocial @FES_EU #EU #Migration #Refugees" />
+    <meta name="keywords"
+        content="migration immigration europe european union bakamo social friedrich erbert stiftung refugees social media narrative EU dataviz echarts csaladenes dc2 d3js d3" />
+    <meta property="og:image"
+        content="https://denesdata.github.io/eu-immigration-opinion-map/EU_migration_narratives_Security_Sweden.png" />
+    <meta property="og:description"
+        content="Migration narratives in Europe: Through conversations on public social media @BakamoSocial @FES_EU #EU #Migration #Refugees" />
+    <meta property="og:title" content="Migration narratives in Europe" />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="https://www.bakamosocial.com" />
+    <meta id='social_meta_url' property="og:url" content="https://www.bakamosocial.com" />
+    <meta property="fb:admins" content="bakamo.social" />
+    <meta name="twitter:creator" content="@BakamoSocial">
+    <title>Migration narratives in Europe</title>
+    <link rel="shortcut icon" href="https://www.bakamosocial.com/favicon.ico" />
+
+    <link rel="stylesheet" type="text/css" href="default.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css"
+        integrity="sha384-Mmxa0mLqhmOeaE8vgOSbKacftZcsNYDjQzuCOm6D02luYSzBG8vpaOykv9lFQ51Y" crossorigin="anonymous">
+</head>
+
+<body>
+    <div id='title' class='text fade'>
+    <a href='https://szekelydata.csaladen.es'><img src='hamarosan.png' style='width:400px;'></a>
+    </div>
+</body>
+
 </html>
