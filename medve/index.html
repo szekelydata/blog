@@ -73,7 +73,7 @@
         #logo {
             position: absolute;
             left: 15%;
-            top: 15px;
+            top: 10px;
         }
 
         #footer {
@@ -82,10 +82,16 @@
             bottom: 0px;
         }
 
+        #mysearch {
+            left: 0px;
+            width: 100%;
+            /* text-shadow: 1px 1px 1px black; */
+        }
+
         #table {
             position: absolute;
             left: 5%;
-            top: 160px;
+            top: 150px;
             width: 90%;
             /* text-shadow: 1px 1px 1px black; */
         }
@@ -93,7 +99,7 @@
         #image {
             position: absolute;
             left: 0px;
-            top: 42px;
+            top: 57px;
             width: 100px;
             height: 73px;
             border: solid 1px rgb(56, 37, 26);
@@ -107,9 +113,9 @@
             height: 20px;
         }
 
-        #tb,
-        #search {
-            padding-bottom: 20px;
+        #tb {
+            padding-bottom: 10px;
+            z-index:10;
         }
 
         .head {
@@ -126,9 +132,16 @@
 
         #navi {
             position: absolute;
-            right: 44px;
-            top: 150px;
+            right: 0px;
+            top: 8px;
             font-size: 24px;
+        }
+
+         #looking {
+            position: absolute;
+            left: 13px;
+            top: 13px;
+            font-size: 18px;
         }
 
         #radar {
@@ -139,8 +152,8 @@
 
         }
 
-         #navi i:hover {
-           text-shadow: 1px 1px 3px black;
+        #navi i:hover {
+            text-shadow: 1px 1px 3px black;
         }
 
         #legend {
@@ -171,13 +184,61 @@
             text-shadow: 1px 1px 3px black;
         }
 
-        svg text:hover, #navi:hover {
+        svg text:hover,
+        #navi:hover {
             cursor: pointer;
         }
 
-        svg text{
-            font-size: 0.9em; 
-            font-weight:'bold';
+        svg text {
+            font-size: 0.9em;
+            font-weight: 'bold';
+        }
+
+        #myInput {
+            /* Do not repeat the icon image */
+            width: 100%;
+            /* Full-width */
+            font-size: 16px;
+            /* Increase font-size */
+            padding: 12px 20px 12px 40px;
+            /* Add some padding */
+            /* border: 1px solid #ddd; */
+            /* Add a grey border */
+            margin-bottom: 12px;
+            /* Add some space below the input */
+            z-index:5;
+        }
+
+        #myUL {
+            /* Remove default list styling */
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        #myUL li a {
+            border: 1px solid #ddd;
+            /* Add a border to all links */
+            margin-top: -1px;
+            /* Prevent double borders */
+            background-color: #f6f6f6;
+            /* Grey background color */
+            padding: 12px;
+            /* Add some padding */
+            text-decoration: none;
+            /* Remove default text underline */
+            font-size: 18px;
+            /* Increase the font-size */
+            color: black;
+            /* Add a black text color */
+            display: block;
+            z-index:5;
+            /* Make it into a block element to fill the whole list */
+        }
+
+        #myUL li a:hover:not(.header) {
+            background-color: #eee;
+            /* Add a hover effect to all links, except for headers */
         }
     </style>
     <video loop muted autoplay id='v'>
@@ -195,8 +256,13 @@
                     class="fas fa-wifi"></i></a>
         </div>
         <div id='table'>
-            <div id='search'><i class="fas fa-search"></i>Search</div>
             <img id='image' src='viz/medv.png'>
+            <div id='mysearch'>
+                <input type="text" id="myInput" placeholder="Keresés...">
+
+                <ul id="myUL">
+                </ul>
+            </div>
             <table id='desc'>
                 <tr>
                     <td class='head'><i class="fas fa-map-marker"></i><b id='geo_loc'></b></td>
@@ -207,6 +273,8 @@
                 <tr>
                     <td id='tb' class='head'><i class="fas fa-paw"></i><b id='severity'></b></td>
                 </tr>
+            </table>
+            <table id='desc2'>
                 <tr>
                     <td colspan='1'><b id='title'></b></td>
                 </tr>
@@ -214,6 +282,13 @@
                     <td colspan='1' id='content'></td>
                 </tr>
             </table>
+            <div id='navi'>
+                <i class="fas fa-caret-left" id='left'></i>
+                <i class="fas fa-caret-right" id='right'></i></a>
+            </div>
+            <div id='looking'>
+                <i class="fas fa-search"></i></a>
+            </div>
         </div>
         <div id='social'>
             <a href="#" id='fb' class='text'
@@ -221,10 +296,6 @@
                 <i class="fab fa-facebook-f"></i>
             </a>
             <a href='' id='tw' target='_blank' class='text'><i class="fab fa-twitter"></i></a>
-        </div>
-        <div id='navi'>
-            <i class="fas fa-caret-left" id='left'></i>
-            <i class="fas fa-caret-right" id='right'></i></a>
         </div>
     </div>
 
@@ -386,7 +457,7 @@
 
                     var data = convertData(rawdata);
                     var z = 4; //index of params
-                    var year='2019';
+                    var year = '2019';
 
                     // console.log(data)
 
@@ -435,7 +506,7 @@
                                 }
                             }]
                         },
-                        
+
                         visualMap: {
                             type: 'piecewise',
                             dimension: 2,
@@ -557,13 +628,14 @@
                         day: "numeric"
                     };
 
-                    var all_data=data.concat(sheetdata)
-                    
-                    function sortObject(objs, k1, k2, k3) {
-						return objs.sort((a, b) => (a[k1][k2][k3] > b[k1][k2][k3]) ? -1 : ((b[k1][k2][k3] > a[k1][k2][k3]) ? 1 : 0));
-					}
+                    var all_data = data.concat(sheetdata)
 
-                    var sorted_data=sortObject(all_data,'value',4,'date')
+                    function sortObject(objs, k1, k2, k3) {
+                        return objs.sort((a, b) => (a[k1][k2][k3] > b[k1][k2][k3]) ? -1 : ((b[k1][k2][k3] > a[
+                            k1][k2][k3]) ? 1 : 0));
+                    }
+
+                    var sorted_data = sortObject(all_data, 'value', 4, 'date')
 
                     function update_labels(d) {
                         // console.log(d)
@@ -588,13 +660,14 @@
                         // console.log(d)
                         d3.select('#center')
                             .html('<span style="font-size:15px">' + d.title +
-                                '</span><br>'+d.geo_loc + ', ' + d.date.toLocaleString("hu-HU", date_options) +
+                                '</span><br>' + d.geo_loc + ', ' + d.date.toLocaleString("hu-HU",
+                                    date_options) +
                                 '<br><span style="color:' + colors[d.severity] + '">' + leiras[d.severity] +
                                 '</span>')
                     }
 
-                    var counter=5;
-                    var this_data=sorted_data[counter]['value'][4];
+                    var counter = 5;
+                    var this_data = sorted_data[counter]['value'][4];
                     update_labels(this_data)
 
                     function update_data(data, k, toggle) {
@@ -618,47 +691,71 @@
                     })
 
                     d3.select('#left')
-                        .on('click',function(){
-                            counter=counter-1;
-                            var this_data=sorted_data[counter]['value'][4];
+                        .on('click', function () {
+                            counter = counter - 1;
+                            var this_data = sorted_data[counter]['value'][4];
                             update_labels(this_data)
                         })
 
                     d3.select('#right')
-                        .on('click',function(){
-                            counter=counter+1;
-                            this_data=sorted_data[counter]['value'][4];
+                        .on('click', function () {
+                            counter = counter + 1;
+                            this_data = sorted_data[counter]['value'][4];
                             update_labels(this_data)
                         })
-                        
+
 
                     setTimeout(function () {
                         var v = document.getElementById('v');
                         v.style.opacity = 0.8;
                     }, 2000)
 
-                    function update_chart(){
+                    function update_chart() {
                         myChart.setOption({
-                                series: [{
-                                        id: 'szekelyhon',
-                                        data: rtoggle[0] ? update_data(data, z, toggle) : []
-                                    },
-                                    {
-                                        id: 'radar',
-                                        data: rtoggle[1] ? update_data(sheetdata, z, toggle) :
-                                        []
-                                    },
-                                    {
-                                        id: 'eszekelyhon',
-                                        data: rtoggle[0] ? later_than(update_data(data, z, toggle), z, year) : []
-                                    },
-                                    {
-                                        id: 'eradar',
-                                        data: rtoggle[1] ? later_than(update_data(sheetdata, z, toggle), z, year) :
-                                        []
-                                    }
-                                ]
-                            })
+                            series: [{
+                                    id: 'szekelyhon',
+                                    data: rtoggle[0] ? update_data(data, z, toggle) : []
+                                },
+                                {
+                                    id: 'radar',
+                                    data: rtoggle[1] ? update_data(sheetdata, z, toggle) : []
+                                },
+                                {
+                                    id: 'eszekelyhon',
+                                    data: rtoggle[0] ? later_than(update_data(data, z, toggle), z,
+                                        year) : []
+                                },
+                                {
+                                    id: 'eradar',
+                                    data: rtoggle[1] ? later_than(update_data(sheetdata, z, toggle),
+                                        z, year) : []
+                                }
+                            ]
+                        })
+                    }
+
+                    d3.select('#myInput')
+                    .on('keyup',myFunction)
+
+                    function myFunction() {
+                        // Declare variables
+                        var input, filter, ul, li, a, i, txtValue;
+                        input = document.getElementById('myInput');
+                        filter = input.value.toUpperCase();
+                        ul = document.getElementById("myUL");
+                        li = ul.getElementsByTagName('li');
+
+                        // Loop through all list items, and hide those who don't match the search query
+                        for (i = 0; i < li.length; i++) {
+                            a = li[i].getElementsByTagName("a")[0];
+                            txtValue = a.textContent ||
+                                a.innerText;
+                            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                                li[i].style.display = "";
+                            } else {
+                                li[i].style.display = "none";
+                            }
+                        }
                     }
 
                     var toggle = [true, true, true, true, true];
@@ -714,9 +811,9 @@
                         .text(function (d, i) {
                             return leiras[i]
                         })
-                        .on('click', function (d,i) {
+                        .on('click', function (d, i) {
                             toggle[i] = !(toggle[i]);
-                            d3.select('.cat'+i).style('opacity',toggle[i]?1:0.2)
+                            d3.select('.cat' + i).style('opacity', toggle[i] ? 1 : 0.2)
                             update_chart();
                         })
 
@@ -767,9 +864,9 @@
                             return 'Hírek'
                         })
                         .on('click', function (d) {
-                            i=0;
+                            i = 0;
                             rtoggle[i] = !(rtoggle[i]);
-                            d3.select('.dim'+i).style('opacity',rtoggle[i]?1:0.2)
+                            d3.select('.dim' + i).style('opacity', rtoggle[i] ? 1 : 0.2)
                             update_chart();
                         })
 
@@ -789,10 +886,10 @@
                         .text(function (d, i) {
                             return 'Medveradar'
                         })
-                       .on('click', function (d) {
-                            i=1;
+                        .on('click', function (d) {
+                            i = 1;
                             rtoggle[i] = !(rtoggle[i]);
-                            d3.select('.dim'+i).style('opacity',rtoggle[i]?1:0.2)
+                            d3.select('.dim' + i).style('opacity', rtoggle[i] ? 1 : 0.2)
                             update_chart();
                         })
 
