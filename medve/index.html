@@ -124,12 +124,23 @@
             font-size: 24px;
         }
 
+        #navi {
+            position: absolute;
+            right: 44px;
+            top: 150px;
+            font-size: 24px;
+        }
+
         #radar {
             position: absolute;
             left: 15px;
             font-size: 17px;
             bottom: 10px;
 
+        }
+
+         #navi i:hover {
+           text-shadow: 1px 1px 3px black;
         }
 
         #legend {
@@ -160,7 +171,7 @@
             text-shadow: 1px 1px 3px black;
         }
 
-        svg text:hover {
+        svg text:hover, #navi:hover {
             cursor: pointer;
         }
 
@@ -210,6 +221,10 @@
                 <i class="fab fa-facebook-f"></i>
             </a>
             <a href='' id='tw' target='_blank' class='text'><i class="fab fa-twitter"></i></a>
+        </div>
+        <div id='navi'>
+            <i class="fas fa-caret-left" id='left'></i>
+            <i class="fas fa-caret-right" id='right'></i></a>
         </div>
     </div>
 
@@ -542,6 +557,14 @@
                         day: "numeric"
                     };
 
+                    var all_data=data.concat(sheetdata)
+                    
+                    function sortObject(objs, k1, k2, k3) {
+						return objs.sort((a, b) => (a[k1][k2][k3] > b[k1][k2][k3]) ? -1 : ((b[k1][k2][k3] > a[k1][k2][k3]) ? 1 : 0));
+					}
+
+                    var sorted_data=sortObject(all_data,'value',4,'date')
+
                     function update_labels(d) {
                         // console.log(d)
                         d3.select('#geo_loc')
@@ -570,6 +593,10 @@
                                 '</span>')
                     }
 
+                    var counter=5;
+                    var this_data=sorted_data[counter]['value'][4];
+                    update_labels(this_data)
+
                     function update_data(data, k, toggle) {
                         var dummy = [];
                         for (var i = 0; i < data.length; i++) {
@@ -589,6 +616,21 @@
                         var d = event.data.value[z];
                         update_title(d)
                     })
+
+                    d3.select('#left')
+                        .on('click',function(){
+                            counter=counter-1;
+                            var this_data=sorted_data[counter]['value'][4];
+                            update_labels(this_data)
+                        })
+
+                    d3.select('#right')
+                        .on('click',function(){
+                            counter=counter+1;
+                            this_data=sorted_data[counter]['value'][4];
+                            update_labels(this_data)
+                        })
+                        
 
                     setTimeout(function () {
                         var v = document.getElementById('v');
