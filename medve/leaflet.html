@@ -1,0 +1,527 @@
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <link rel="stylesheet" href="js/leaflet.css" crossorigin="" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css"
+        integrity="sha384-Mmxa0mLqhmOeaE8vgOSbKacftZcsNYDjQzuCOm6D02luYSzBG8vpaOykv9lFQ51Y" crossorigin="anonymous">
+    <script src="https://www.google.com/jsapi"></script>
+    <script src="js/d3-fetch.v1.min.js"></script>
+    <script src="js/d3-selection.v1.min.js"></script>
+    <script src="js/echarts.min.js"></script>
+    <script src="js/leaflet.js"></script>
+    <script src="js/echarts-leaflet.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+
+<body>
+    <style>
+        @import url(//fonts.googleapis.com/css?family=Lato:300,400,700);
+
+        html,
+        body {
+            font-family: 'Lato', Calibri, Arial, sans-serif;
+            background-color: none;
+            font-weight: 400;
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            color: rgb(56, 37, 26);
+            overflow: hidden;
+        }
+
+        a {
+            color: rgb(56, 37, 26);
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        #main {
+            width: calc(100% - 350px);
+            height: 100%;
+            position: fixed;
+            top: 0;
+            left: 350px;
+            opacity: 0.9;
+            border-left: 5px solid #7F7F7F;
+        }
+
+        #nav {
+            width: 348px;
+            height: 100%;
+            padding: 0px;
+            position: fixed;
+            top: 0;
+            opacity: 0.9;
+            background: #9EA8B1;
+            border-right: 2px solid black;
+            left: 0px;
+        }
+
+        video {
+            position: fixed;
+            opacity: 0;
+            left: -20%;
+            top: 0%;
+            min-width: 120%;
+            min-height: 100%;
+            transition: opacity 0.5s;
+            -webkit-transition: opacity 0.5s;
+        }
+
+        #logo {
+            position: absolute;
+            left: 15%;
+            top: 15px;
+        }
+
+        #footer {
+            position: absolute;
+            left: 0;
+            bottom: 0px;
+        }
+
+        #table {
+            position: absolute;
+            left: 5%;
+            top: 160px;
+            width: 90%;
+        }
+
+        #image {
+            position: absolute;
+            left: 0px;
+            top: 42px;
+            width: 100px;
+            height: 73px;
+            border: solid 1px rgb(56, 37, 26);
+        }
+
+        i {
+            width: 25px;
+        }
+
+        #search {
+            height: 20px;
+        }
+
+        #tb,
+        #search {
+            padding-bottom: 20px;
+        }
+
+        .head {
+            font-size: 18px;
+            padding-left: 110px;
+        }
+
+        #social {
+            position: absolute;
+            right: 44px;
+            bottom: 60px;
+            font-size: 24px;
+        }
+
+        #radar {
+            position: absolute;
+            left: 15px;
+            font-size: 17px;
+            bottom: 10px;
+
+        }
+
+        #radar a {
+            color: rgb(83, 56, 40);
+            text-shadow: 1px 1px 2px black;
+        }
+
+        #social a {
+            color: rgb(83, 56, 40);
+            text-shadow: 1px 1px 3px black;
+        }
+    </style>
+    <video loop muted autoplay id='v'>
+        <source src="viz/medve.mp4" type="video/mp4">
+    </video>
+    <div id='nav'>
+        <div id='logo'>
+            <img src='viz/szekelydata_medveterkep5.png' width="85%">
+        </div>
+        <div id='footer'>
+            <img src='viz/footer_medve4.png' width="100%">
+        </div>
+        <div id='radar'>
+            <a href='radar/' target='_blank'>Medvét láttál? Jelezd a Medveradaron&nbsp;&nbsp;<i
+                    class="fas fa-wifi"></i></a>
+        </div>
+        <div id='table'>
+            <div id='search'><i class="fas fa-search"></i>Search</div>
+            <img id='image' src='viz/medv.png'>
+            <table id='desc'>
+                <tr>
+                    <td class='head'><i class="fas fa-map-marker"></i><b id='geo_loc'></b></td>
+                </tr>
+                <tr>
+                    <td class='head'><i class="fas fa-clock"></i><b id='date'></b></td>
+                </tr>
+                <tr>
+                    <td id='tb' class='head'><i class="fas fa-paw"></i><b id='severity'></b></td>
+                </tr>
+                <tr>
+                    <td colspan='1'><b id='title'></b></td>
+                </tr>
+                <tr>
+                    <td colspan='1' id='content'></td>
+                </tr>
+            </table>
+        </div>
+        <div id='social'>
+            <a href="#" id='fb' class='text'
+                onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+            <a href='' id='tw' target='_blank' class='text'><i class="fab fa-twitter"></i></a>
+        </div>
+    </div>
+    <div id='main'></div>
+    <script>
+        google.load("visualization", "1");
+        google.setOnLoadCallback(init);
+
+        function init() {
+
+            var GSheetID = '1-Ygp1M_nIK-iHq3hqF3qtKNgq6tZHttfzT42_1d_L-E'
+            var query_type = 'data'
+            var sheetdata = [];
+
+            function data_to_lists(ColumnNames, DataArray) {
+                return [ColumnNames].concat(DataArray)
+            }
+
+            function data_lists_to_object_array(data) {
+                var dummy = [];
+                var keys = data[0]
+                for (i = 1; i < data.length; i++) {
+                    var d = {};
+                    for (j = 0; j < keys.length; j++) {
+                        d[keys[j]] = data[i][j];
+                    }
+                    dummy.push(d);
+                }
+                return dummy
+            }
+
+            var query1 = new
+            google.visualization.Query("https://docs.google.com/spreadsheet/ccc?key=" + GSheetID);
+            query1.setQuery("");
+            query1.send(handleQueryResponse1);
+
+            function handleQueryResponse1(response) {
+                var data = response.getDataTable();
+                var ColumnNames = []
+                var n_col = data.getNumberOfColumns()
+                var DataArray = new Array(data.getNumberOfRows());
+
+                for (var col = 0; col < n_col; col++) {
+                    ColumnNames.push(data.getColumnLabel(col))
+                }
+                for (var row = 0; row <
+                    data.getNumberOfRows(); row++) {
+                    DataArray[row] = new Array(n_col);
+                    for (var col = 0; col < n_col; col++) {
+                        DataArray[row][col] = data.getValue(row, col);
+                    }
+                }
+
+                sheetdata = data_lists_to_object_array(data_to_lists(ColumnNames, DataArray))
+
+                var s = 0.005; //coordinate randomizer
+                var sheet_severity = {
+                    'Medvét láttam a környéken': 1,
+                    'Állatokra támadt': 2,
+                    'Emberre támadt': 3,
+                    'Állatokra támadott': 2,
+                    'Emberre támadott': 3,
+                    'Emberi áldozat': 4,
+                    'Medvepolitikai döntés vagy esemény': 0
+                }
+
+                // console.log(sheetdata)
+
+                function sheet_formatter(data) {
+                    var res = [];
+                    for (var i = 0; i < data.length; i++) {
+                        var d = data[i];
+                        if (d['Display'] != 0) {
+                            var pt = d['Mikor történt az eset?'].split("/");
+                            var dt = pt[1] + '/' + pt[0] + '/' + pt[2];
+                            res.push({
+                                name: d['Submission ID'],
+                                value: d['Pontosabban hol?'].split(',').reverse().concat({
+                                    'geo_loc': d['Melyik település környékén?'].split('\n')[1],
+                                    'content': (d['Egyedül volt?'] ?
+                                            '<ul><li>' + d['Egyedül volt?'].split('\n').join(', ') : ''
+                                        ) +
+                                        (d['Közel volt?'] ?
+                                            '</li><li>' + 'Távolság: ' + d['Közel volt?'].split('(')[1]
+                                            .replace(')', '') : '') +
+                                        '</ul>',
+                                    'date': dt ?
+                                        new Date(Date.parse(dt)) : 'Ismeretlen',
+                                    'deaths': '',
+                                    'link': '',
+                                    'image': d['Szelfid van róla?'],
+                                    'severity': sheet_severity[d['Milyen eseményről van szó?']],
+                                    'title': (d['Ismert mackó? Van neve vagy ismertető jele?'] ?
+                                        d['Ismert mackó? Van neve vagy ismertető jele?'] :
+                                        'Ismeretlen medve')
+                                })
+                            });
+                        }
+                    }
+                    return res;
+                }
+
+                sheetdata = sheet_formatter(sheetdata)
+
+                // console.log(sheetdata)
+
+                d3.json("data/szekelyhon_data.json").then(function (rawdata) {
+
+                    // console.log(rawdata)
+
+                    var convertData = function (data) {
+                        var res = [];
+                        for (var i = 0; i < Object.keys(data.id).length; i++) {
+                            var geoCoord = [data.longitude[i] + (Math.random() - 0.5) * s, data.latitude[
+                                i] + (Math
+                                .random() - 0.5) * s];
+                            if (geoCoord) {
+                                if (data.relevant[i]) {
+                                    if (!(data.duplicate[i])) {
+                                        res.push({
+                                            name: data.id[i],
+                                            value: geoCoord.concat({
+                                                'geo_loc': data.geo_loc[i],
+                                                'content': data.content[i],
+                                                'date': new Date(data.date[i]),
+                                                'deaths': data.deaths[i],
+                                                'link': data.link[i],
+                                                'image': data.image[i],
+                                                'severity': (data.severity[i] == 3) ? ((data
+                                                        .deaths[
+                                                            i] > 0) ? data.severity[i] +
+                                                    1 : data
+                                                    .severity[i]) : data.severity[i],
+                                                'title': data.title[i]
+                                            }),
+                                        });
+                                    }
+                                }
+                            }
+                        }
+                        return res;
+                    };
+
+
+                    var data = convertData(rawdata);
+
+                    // console.log(data)
+
+                    function later_than(data, t) {
+                        var dummy = [];
+                        var t = new Date(Date.parse(t));
+                        for (var i = 0; i < data.length; i++) {
+                            if (data[i].value[2].date > t) {
+                                dummy.push(data[i])
+                            }
+                        }
+                        return dummy;
+                    }
+
+                    function filter_than(data, key, t) {
+                        var dummy = [];
+                        for (var i = 0; i < data.length; i++) {
+                            if (data[i].value[2][key] > t) {
+                                dummy.push(data[i])
+                            }
+                        }
+                        return dummy;
+                    }
+
+                    var myChart = echarts.init(document.getElementById('main'));
+
+                    myChart.setOption({
+                        tooltip: {
+                            trigger: 'item',
+                            showContent: false
+                        },
+                        leaflet: {
+                            center: [25.4, 46.5],
+                            zoom: 9,
+                            roam: true,
+                            tiles: [{
+                                label: 'Open Street Map',
+                                urlTemplate: 'https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png?lang=hu',
+                                options: {
+                                    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="https://maps.wikimedia.org" target="_blank">Wikimedia</a>'
+                                }
+                            }]
+                        },
+                        visualMap: {
+                            type: 'piecewise',
+                            dimension: 3,
+                        },
+                        series: [{
+                                name: 'szekelyhon',
+                                type: 'scatter',
+                                coordinateSystem: 'leaflet',
+                                data: data,
+                                symbolSize: 20,
+                                itemStyle: {
+                                    normal: {
+                                        // color: 'red',
+                                        borderColor: 'black',
+                                        opacity: 0.8
+                                    }
+                                }
+                            },
+                            {
+                                name: 'radar',
+                                type: 'scatter',
+                                animation:false,
+                                animationDurationUpdate: 1,
+                                animationDuration: 1,
+                                coordinateSystem: 'leaflet',
+                                data: sheetdata,
+                                symbolSize: 20,
+                                itemStyle: {
+                                    normal: {
+                                        color: 'blue',
+                                        borderColor: 'black',
+                                        opacity: 0.8
+                                    }
+                                }
+                            },
+                            {
+                                name: 'Top 5',
+                                type: 'effectScatter',
+                                coordinateSystem: 'leaflet',
+                                data: later_than(data, '2019'),
+                                symbolSize: 20,
+                                // showEffectOn: 'emphasis',
+                                rippleEffect: {
+                                    brushType: 'stroke'
+                                },
+                                hoverAnimation: true,
+                                itemStyle: {
+                                    normal: {
+                                        color: 'red',
+                                        shadowBlur: 4,
+                                        shadowColor: '#333',
+                                        borderColor: 'black'
+                                    }
+                                },
+                                zlevel: 1
+                            },
+                            {
+                                name: 'Top 5',
+                                type: 'effectScatter',
+                                coordinateSystem: 'leaflet',
+                                data: filter_than(data, 'severity', 3),
+                                symbolSize: 10,
+                                // showEffectOn: 'emphasis',
+                                rippleEffect: {
+                                    brushType: 'stroke'
+                                },
+                                hoverAnimation: true,
+                                itemStyle: {
+                                    normal: {
+                                        color: 'green',
+                                        shadowBlur: 4,
+                                        shadowColor: '#333',
+                                        borderColor: 'black'
+                                    }
+                                },
+                                zlevel: 1
+                            }
+                        ]
+                    });
+
+                    var date_options = {
+                        year: "numeric",
+                        month: "long",
+                        day: "numeric"
+                    };
+
+                    var leiras = ['Más esemény',
+                        'Medvét láttak',
+                        'Állatokra támadt',
+                        'Emberre támadt',
+                        'Emberáldozat'
+                    ]
+
+                    // an application may want to use UTC and make that visible
+                    // date_options.timeZone = "UTC";
+                    // date_options.timeZoneName = "short";
+
+                    myChart.on('click', function (event) {
+                        var d = event.data.value[2];
+                        // console.log(d)
+                        d3.select('#geo_loc')
+                            .text(d.geo_loc)
+                        d3.select('#date')
+                            .text(d.date.toLocaleString("hu-HU", date_options))
+                        d3.select('#severity')
+                            .text(leiras[d.severity])
+                        d3.select('#title')
+                            .text(d.title)
+                        d3.select('#image')
+                            .attr('src', d.image ? d.image : 'viz/medv.png')
+                        d3.select('#content')
+                            .html(d.content + ' <a href="' + d.link + '" target="_blank">' + (d.link ?
+                                '(forrás)' : '') + '</a>')
+                    })
+
+                    setTimeout(function () {
+                        var v = document.getElementById('v');
+                        v.style.opacity = 0.8;
+                    }, 2000)
+
+                    // // https://developer.mozilla.org/en-US/docs/Web/Events/resize
+                    // (function () {
+                    //     var throttle = function (type, name, obj) {
+                    //         obj = obj || window;
+                    //         var running = false;
+                    //         var func = function () {
+                    //             if (running) {
+                    //                 return;
+                    //             }
+                    //             running = true;
+                    //             requestAnimationFrame(function () {
+                    //                 obj.dispatchEvent(new CustomEvent(name));
+                    //                 running = false;
+                    //             });
+                    //         };
+                    //         obj.addEventListener(type, func);
+                    //     };
+
+                    //     /* init - you can init any event */
+                    //     throttle("resize", "optimizedResize");
+                    // })();
+
+                    // // handle event
+                    // window.addEventListener("optimizedResize", function () {
+                    //     myChart.resize({
+                    //         width: 'auto',
+                    //         height: 'auto'
+                    //     });
+                    // });
+                });
+            };
+        };
+    </script>
+</body>
+
+</html>
