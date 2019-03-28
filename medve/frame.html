@@ -143,8 +143,12 @@
         }
 
         #tb {
-            padding-bottom: 10px;
             z-index: 10;
+        }
+
+        #tc {
+            padding-bottom: 10px;
+
         }
 
         .head {
@@ -196,6 +200,16 @@
         #center {
             position: absolute;
             left: 410px;
+            font-size: 18px;
+            top: 10px;
+            color: rgb(83, 56, 40);
+            font-weight: bold;
+            text-shadow: 1px 1px 1px black;
+        }
+
+        #help {
+            position: absolute;
+            left: 710px;
             font-size: 18px;
             top: 10px;
             color: rgb(83, 56, 40);
@@ -295,9 +309,9 @@
     </video>
     <div id='bga'></div>
     <div id='nav'>
-        <div id='logo'>
+            <a href='https://szekelydata.csaladen.es/medve' target='_blank'><div id='logo'>
             <img src='viz/szekelydata_medveterkep5.png' width="85%">
-        </div>
+        </div></a>
         <div id='footer'>
             <img src='viz/footer_medve4.png' width="100%">
         </div>
@@ -306,24 +320,26 @@
                     class="fas fa-wifi"></i></a>
         </div>
         <div id='table'>
-            <img id='image' src='viz/medv.png'>
             <div id='mysearch'>
                 <input type="text" id="myInput" placeholder="Keresés...">
 
                 <ul id="myUL">
                 </ul>
             </div>
-            <table id='desc'>
-                <tr>
-                    <td class='head'><i class="fas fa-clock"></i><b id='date'></b></td>
-                </tr>
-                <tr>
-                    <td id='tb' class='head'><i class="fas fa-paw"></i><b id='severity'></b></td>
-                </tr>
-                <tr>
-                    <td class='head'><i class="fab fa-sourcetree"></i><b id='source'></b></td>
-                </tr>
-            </table>
+            <a id='sourcelink' href='' target='_blank'>
+                <img id='image' src='viz/medv.png'>
+                <table id='desc'>
+                    <tr>
+                        <td class='head'><i class="fas fa-clock"></i><b id='date'></b></td>
+                    </tr>
+                    <tr>
+                        <td id='tb' class='head'><i class="fas fa-paw"></i><b id='severity'></b></td>
+                    </tr>
+                    <tr>
+                        <td id='tc' class='head'><i class="fas fa-at"></i><b id='source'></b></td>
+                    </tr>
+                </table>
+            </a>
             <table id='desc2'>
                 <tr>
                     <td colspan='1'><b id='title'></b></td>
@@ -352,8 +368,9 @@
     <div id='main'>
         <div id='chart'></div>
         <div id='chart2'></div>
-    </div>>
+    </div>
     <div id='center'>Medvetérkép beta</div>
+    <div id='help'><a href='https://szekelydata.csaladen.es' target='_blank' title='Leírás'><i class="fas fa-question"></i></div>
     <script>
         google.load("visualization", "1");
         google.setOnLoadCallback(init);
@@ -454,10 +471,11 @@
                                         'date': dt ?
                                             new Date(Date.parse(dt)) : 'Ismeretlen',
                                         'deaths': '',
-                                        'link': '',
+                                        'link': 'radar',
                                         'name': d['Submission ID'],
                                         'image': d['Szelfid van róla?'],
                                         'type': 'news',
+                                        'source': 'Medveradar',
                                         'severity': sheet_severity[d['Milyen eseményről van szó?']],
                                         'title': (d['Ismert mackó? Van neve vagy ismertető jele?'] ?
                                             d['Ismert mackó? Van neve vagy ismertető jele?'] :
@@ -506,6 +524,7 @@
                                                     'image': data.image[i],
                                                     'severity': severity,
                                                     'type': 'news',
+                                                    'source': 'Székelyhon',
                                                     'title': data.title[i]
                                                 }),
                                         });
@@ -807,7 +826,7 @@
 
                         counter = label_dict[d.name]
                         console.log(d.name, counter)
-                        
+
                         myChart.setOption({
                             leaflet: {
                                 center: coord_dict[d.name],
@@ -819,6 +838,8 @@
                             .property('value', d.geo_loc)
                         d3.select('#source')
                             .text(d.source)
+                        d3.select('#sourcelink')
+                            .attr('href', d.link)
                         d3.select('#date')
                             .text(d.date.toLocaleString("hu-HU", date_options))
                         d3.select('#severity')
@@ -828,10 +849,8 @@
                         d3.select('#image')
                             .attr('src', d.image ? d.image : 'viz/medv.png')
                         d3.select('#content')
-                            .html(d.content + ' <a href="' + d.link + '" target="_blank">' + (d
-                                .link ?
-                                '(forrás)' : '') + '</a>')
-                        
+                            .html(d.content)
+
                         update_title(d)
 
                         setTimeout(() => {
