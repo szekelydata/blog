@@ -156,7 +156,7 @@
 
         #social {
             position: absolute;
-            right: 44px;
+            right: 24px;
             bottom: 60px;
             font-size: 24px;
         }
@@ -198,16 +198,6 @@
         #center {
             position: absolute;
             left: 410px;
-            font-size: 18px;
-            top: 10px;
-            color: rgb(83, 56, 40);
-            font-weight: bold;
-            text-shadow: 1px 1px 1px black;
-        }
-
-        #help {
-            position: absolute;
-            left: 710px;
             font-size: 18px;
             top: 10px;
             color: rgb(83, 56, 40);
@@ -362,7 +352,12 @@
                 onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;">
                 <i class="fab fa-facebook-f"></i>
             </a>
-            <a href='' id='tw' target='_blank' class='text'><i class="fab fa-twitter"></i></a>
+            <a href='' id='tw' target='_blank' class='text'>
+                <i class="fab fa-twitter"></i>
+            </a>&nbsp;
+            <a id='help' href='https://szekelydata.csaladen.es'  class='text' target='_blank' title='Leírás'>
+                <i class="fas fa-question"></i>
+            </a>
         </div>
     </div>
 
@@ -371,8 +366,6 @@
         <div id='chart2'></div>
     </div>
     <div id='center'></div>
-    <div id='help'><a href='https://szekelydata.csaladen.es' target='_blank' title='Leírás'><i
-                class="fas fa-question-circle"></i></div>
     <script>
         google.load("visualization", "1");
         google.setOnLoadCallback(init);
@@ -1249,6 +1242,20 @@
                         .attr('id', 'home')
                         .html('<i class="fas fa-home"></i>')
                         .on('click', go_home)
+
+                    function urlFormatter(url) {
+                        return url.toString()
+                            .split(' ').join('%20')
+                            .split('#').join('%23')
+                            .split(':').join('%3A')
+                            .split('/').join('%2F')
+                            .split('@').join('%40')
+                    }
+
+                    var tweet = 'https:szekelydata.csaladen.es/medve #medveterkep #medveradar #szekelydata #dataviz @csaladenes'
+
+                    d3.select('#tw')
+                        .attr('href', 'https://twitter.com/home?status=' + urlFormatter(tweet))
 
 
                     //init

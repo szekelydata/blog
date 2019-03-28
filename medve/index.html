@@ -6,6 +6,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+    <meta name="description"
+        content="Térképre helyeztük a székelyföldi medvetámadásokat. #medve #medveterkep #medveradar #szekelydata #szekelyland #dataviz @csaladenes" />
+    <meta name="keywords"
+        content="csaladenes, d3.js, data visualization, infographic, d3plus, d3, echarts, leaflet, map, terkep, bear map, bear, medveterkep, bear attack, medvetamadas, szekelyland, szekelydata, romania, transylvania, erdely" />
+    <meta property="og:image" content="https://szekelydata.csaladen.es/medve/snapshot.png" />
+    <meta property="twitter:image" content="https://szekelydata.csaladen.es/medve/snapshot.png" />
+    <meta property="og:description"
+        content="Térképre helyeztük a székelyföldi medvetámadásokat. #medve #medveterkep #medveradar #szekelydata #szekelyland #dataviz @csaladenes" />
+    <meta property="twitter:description"
+        content="Térképre helyeztük a székelyföldi medvetámadásokat. #medve #medveterkep #medveradar #szekelydata #szekelyland #dataviz @csaladenes" />
+    <meta property="og:title" content="Medvetérkép | székelydata" />
+    <meta property="twitter:title" content="Medvetérkép | székelydata" />
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+    <meta property="og:url" content="https://szekelydata.csaladen.es/medve" />
+    <meta property="twitter:url" content="https://szekelydata.csaladen.es/medve" />
+    <meta property="og:site_name" content="SZÉKELYDATA" />
+    <meta property="fb:admins" content="100943737036023614165" />
+    <link rel="shortcut icon" href="https://szekelydata.csaladen.es/favicon.ico" />
+    <link rel="publisher" href="https://plus.google.com/106181965793093327960" />
     <title>Medvetérkép | székelydata</title>
     <link rel="shortcut icon" href="https://szekelydata.csaladen.es/blog/favicon.ico" />
 
@@ -42,7 +61,7 @@
 
         #fr {
             z-index: 2;
-            
+
         }
     </style>
 
@@ -53,8 +72,8 @@
     </div>
     <script>
 
-        var width=1200;
-        var height=720;
+        var width = 1200;
+        var height = 720;
 
         var rescale = function () {
 
@@ -66,12 +85,12 @@
                 width,
                 (parent.offsetHeight) /
                 height)
-            
-            if (scal < 1) {                
+
+            if (scal < 1) {
 
                 console.log('rendering...scaling', scal)
-                container.width=width
-                container.height=height
+                container.width = width
+                container.height = height
 
                 container.style.WebkitTransform = "scale(" + scal + ")";
                 container.style.OTransform = "scale(" + scal + ")";
@@ -87,11 +106,11 @@
             }
             else {
                 console.log('rendering...no scaling', scal)
-                container.width=parent.offsetWidth
-                container.height=parent.offsetHeight
+                container.width = parent.offsetWidth
+                container.height = parent.offsetHeight
             }
 
-            container.setAttribute('src','frame.html')
+            container.setAttribute('src', 'frame.html')
 
         };
 
