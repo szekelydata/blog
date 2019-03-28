@@ -114,6 +114,7 @@
         #mysearch {
             left: 0px;
             width: 100%;
+            z-index: 99;
             /* text-shadow: 1px 1px 1px black; */
         }
 
@@ -126,10 +127,7 @@
         }
 
         #image {
-            position: absolute;
-            left: 0px;
-            top: 60px;
-            width: 100px;
+            width: 110px;
             height: 73px;
             border: solid 1px rgb(56, 37, 26);
         }
@@ -143,7 +141,7 @@
         }
 
         #tb {
-            z-index: 10;
+            /* z-index: 10; */
         }
 
         #tc {
@@ -153,7 +151,7 @@
 
         .head {
             font-size: 17px;
-            padding-left: 110px;
+            /* padding-left: 110px; */
         }
 
         #social {
@@ -262,7 +260,7 @@
             margin-bottom: 15px;
             background-color: rgb(189, 203, 216);
             /* Add some space below the input */
-            z-index: 5;
+            /* z-index: 50; */
         }
 
         #myUL {
@@ -295,7 +293,7 @@
             /* Add a black text color */
             display: block;
             text-shadow: 1px 1px 2px black;
-            z-index: 5;
+            /* z-index: 50; */
             /* Make it into a block element to fill the whole list */
         }
 
@@ -309,9 +307,11 @@
     </video>
     <div id='bga'></div>
     <div id='nav'>
-            <a href='https://szekelydata.csaladen.es/medve' target='_blank'><div id='logo'>
-            <img src='viz/szekelydata_medveterkep5.png' width="85%">
-        </div></a>
+        <a href='https://szekelydata.csaladen.es/medve' target='_blank'>
+            <div id='logo'>
+                <img src='viz/szekelydata_medveterkep5.png' width="85%">
+            </div>
+        </a>
         <div id='footer'>
             <img src='viz/footer_medve4.png' width="100%">
         </div>
@@ -322,16 +322,17 @@
         <div id='table'>
             <div id='mysearch'>
                 <input type="text" id="myInput" placeholder="Keresés...">
-
                 <ul id="myUL">
                 </ul>
             </div>
             <a id='sourcelink' href='' target='_blank'>
-                <img id='image' src='viz/medv.png'>
                 <table id='desc'>
                     <tr>
+                        <td rowspan='3' style='width:115px;'>
+                            <img id='image' src='viz/medv.png'>
+                        </td>
+
                         <td class='head'><i class="fas fa-clock"></i><b id='date'></b></td>
-                    </tr>
                     <tr>
                         <td id='tb' class='head'><i class="fas fa-paw"></i><b id='severity'></b></td>
                     </tr>
@@ -370,7 +371,8 @@
         <div id='chart2'></div>
     </div>
     <div id='center'>Medvetérkép beta</div>
-    <div id='help'><a href='https://szekelydata.csaladen.es' target='_blank' title='Leírás'><i class="fas fa-question"></i></div>
+    <div id='help'><a href='https://szekelydata.csaladen.es' target='_blank' title='Leírás'><i
+                class="fas fa-question"></i></div>
     <script>
         google.load("visualization", "1");
         google.setOnLoadCallback(init);
