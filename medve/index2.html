@@ -38,31 +38,23 @@
         }
 
         #main {
-            width: calc(100% - 350px);
+            width: calc(85% - 350px);
             height: 100%;
             position: fixed;
             top: 0;
             left: 350px;
+            opacity: 0.9;
             border-left: 5px solid #7F7F7F;
         }
 
-        #chart {
-            position: absolute;
-            left: 0;
-            top: 0;
-            width: 80%;
+        #main2 {
+            width: calc(15% - 350px);
             height: 100%;
-            opacity: 0.8;
-        }
-
-        #chart2 {
-            position: absolute;
+            position: fixed;
+            top: 0;
             right: 0;
-            top: 0;
-            width: 20%;
-            height: 100%;
-            background: rgba(255, 255, 255, 0.8);
-            border-left: 1px solid #7F7F7F;
+            opacity: 0.9;
+            border: 5px solid #7F7F7F;
         }
 
         #nav {
@@ -318,11 +310,9 @@
         </div>
     </div>
 
-    <div id='main'>
-        <div id='chart'></div>
-        <div id='chart2'></div>
-    </div>>
-    <div id='center'>Medvetérkép beta</div>
+    <div id='main'></div>
+    <div id='main2'></div>
+    <div id='center'>Medvetérkép</div>
     <script>
         google.load("visualization", "1");
         google.setOnLoadCallback(init);
@@ -415,8 +405,6 @@
                                             (d['Közel volt?'] ?
                                                 '</li><li>' + 'Távolság: ' + d['Közel volt?'].split('(')[1]
                                                 .replace(')', '') : '') +
-                                            (d['Még valami?'] ?
-                                                '</li><li>' + d['Még valami?'] : '') +
                                             '</ul>',
                                         'date': dt ?
                                             new Date(Date.parse(dt)) : 'Ismeretlen',
@@ -486,8 +474,6 @@
                     var data = convertData(rawdata);
                     var z = 4; //index of params
                     var year = '2019';
-                    var minyear = '2006';
-                    var zoom = [60, 100]
 
                     // console.log(data)
 
@@ -520,31 +506,20 @@
                     }
 
                     var label_dict = {}
-                    var time_array = []
                     var sorted_data = sortObject(all_data, 'value', z, 'date')
 
                     for (i = 0; i < sorted_data.length; i++) {
                         label_dict[sorted_data[i]['name']] = i;
-                        if (sorted_data[i]['value'][z]['date'] >= Date.parse(minyear)) {
-                            time_array.push(sorted_data[i]['value'][z]['date'])
-                        }
                     }
-
-                    time_array.sort(function (a, b) {
-                        return new Date(a.start).getTime() - new Date(b.start).getTime()
-                    })
-                    var max_time = time_array[0]
-                    // var min_time=time_array.reverse()[0]
-                    var min_time = new Date(Date.parse(minyear))
 
                     //init counter
                     var counter = 5;
                     var this_data = sorted_data[counter]['value'][z];
 
-                    var myChart = echarts.init(document.getElementById('chart'));
-                    var myChart2 = echarts.init(document.getElementById('chart2'));
+                    var myChart = echarts.init(document.getElementById('main'));
+                    var myChart2 = echarts.init(document.getElementById('main2'));
 
-                    options = {
+                    myChart.setOption({
                         tooltip: {
                             trigger: 'item',
                             showContent: false
@@ -552,10 +527,25 @@
                         textStyle: {
                             fontFamily: 'Lato'
                         },
+                        leaflet: {
+                            center: [25.4, 46.5],
+                            zoom: 9,
+                            height: '100%',
+                            roam: true,
+                            tiles: [{
+                                label: 'Open Street Map',
+                                urlTemplate: 'https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png?lang=hu',
+                                options: {
+                                    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="https://maps.wikimedia.org" target="_blank">Wikimedia</a>'
+                                }
+                            }]
+                        },
+
                         visualMap: {
                             type: 'piecewise',
                             dimension: 2,
                             show: false,
+                            //categories:leiras,
                             min: 0,
                             max: 4,
                             inverse: true,
@@ -593,25 +583,7 @@
                                 fontWeight: 'bold'
                             }
                         },
-                    }
-
-                    myChart.setOption(options)
-                    myChart2.setOption(options)
-
-                    myChart.setOption({
-                        leaflet: {
-                            center: [25.4, 46.5],
-                            zoom: 9,
-                            height: '100%',
-                            roam: true,
-                            tiles: [{
-                                label: 'Open Street Map',
-                                urlTemplate: 'https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png?lang=hu',
-                                options: {
-                                    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="https://maps.wikimedia.org" target="_blank">Wikimedia</a>'
-                                }
-                            }]
-                        },
+                        animation: false,
                         series: [{
                                 id: 'szekelyhon',
                                 type: 'scatter',
@@ -682,60 +654,93 @@
                                 zlevel: 2
                             }
                         ]
-                    })
-                    myChart2.setOption({
+                    });
 
+                    myChart2.setOption({
+                        tooltip: {
+                            trigger: 'item',
+                            showContent: false
+                        },
+                        textStyle: {
+                            fontFamily: 'Lato'
+                        },
+                        width:'100%',
+                        height: '100%',
+                        visualMap: {
+                            type: 'piecewise',
+                            dimension: 2,
+                            show: false,
+                            //categories:leiras,
+                            min: 0,
+                            max: 4,
+                            inverse: true,
+                            pieces: [{
+                                    value: 0,
+                                    label: leiras[0],
+                                    color: colors[0]
+                                },
+                                {
+                                    value: 1,
+                                    label: leiras[1],
+                                    color: colors[1]
+                                },
+                                {
+                                    value: 2,
+                                    label: leiras[2],
+                                    color: colors[2]
+                                },
+                                {
+                                    value: 3,
+                                    label: leiras[3],
+                                    color: colors[3]
+                                },
+                                {
+                                    value: 4,
+                                    label: leiras[4],
+                                    color: colors[4]
+                                }
+                            ],
+                            itemWidth: 30,
+                            itemHeight: 20,
+                            textStyle: {
+                                color: '#533828',
+                                fontSize: 16,
+                                fontWeight: 'bold'
+                            }
+                        },
                         yAxis: {
                             type: 'time',
-                            min: minyear
+                            min: '2006'
                         },
                         xAxis: {
                             gridIndex: 0,
-                            max: 4,
-                            inverse: true,
-                            show: false
+                            max: 4
                         },
                         grid: {
-                            left: '50px',
-                            bottom: '40px',
-                            right: '80px',
-                            top: '40px'
+                            right: '0px',
+                            height: '100%',
+                            width: '100%',
+                            top: '0px'
                         },
                         dataZoom: [{
                             id: 'dataZoomY',
                             type: 'slider',
                             yAxisIndex: [0],
-                            filterMode: 'empty',
-                            start: zoom[0],
-                            end: zoom[1],
-                            right: 30
+                            filterMode: 'empty'
                         }],
+                        animation: false,
                         series: [{
-                                id: 'sc',
-                                type: 'scatter',
-                                symbolSize: 10,
-                                itemStyle: {
-                                    normal: {
-                                        // color: 'red',
-                                        borderColor: 'black',
-                                        opacity: 0.4
-                                    }
-                                }
-                            },
-                            {
-                                id: 'sc2',
-                                type: 'scatter',
-                                symbolSize: 10,
-                                symbol: 'rect',
-                                itemStyle: {
-                                    normal: {
-                                        // color: 'red',
-                                        borderColor: 'black',
-                                        opacity: 0.4
-                                    }
+                            id: 'sc',
+                            type: 'scatter',
+                            symbolSize: 10,
+                            itemStyle: {
+                                normal: {
+                                    // color: 'red',
+                                    // borderColor: 'black',
+                                    opacity: 0.3
                                 }
                             }
-                        ]
+                        }]
                     });
 
                     var date_options = {
@@ -766,8 +771,7 @@
                         d3.select('#image')
                             .attr('src', d.image ? d.image : 'viz/medv.png')
                         d3.select('#content')
-                            .html(d.content + ' <a href="' + d.link + '" target="_blank">' + (d
-                                .link ?
+                            .html(d.content + ' <a href="' + d.link + '" target="_blank">' + (d.link ?
                                 '(forrás)' : '') + '</a>')
                     }
 
@@ -777,55 +781,36 @@
                             .html('<span style="font-size:15px">' + d.title +
                                 '</span><br>' + d.geo_loc + ', ' + d.date.toLocaleString("hu-HU",
                                     date_options) +
-                                '<br><span style="color:' + colors[d.severity] + '">' + leiras[d
-                                    .severity] +
+                                '<br><span style="color:' + colors[d.severity] + '">' + leiras[d.severity] +
                                 '</span>')
                     }
 
-                    function update_data(data, k, toggle, zoom) {
-                        diff = Math.abs(max_time - min_time)
-                        start = min_time.getTime() + diff * zoom[0] / 100
-                        end = min_time.getTime() + diff * zoom[1] / 100
+                    function update_data(data, k, toggle) {
                         var dummy = [];
                         for (var i = 0; i < data.length; i++) {
                             if (toggle[data[i].value[k]['severity']]) {
-                                this_date = data[i].value[k]['date']
-                                if ((this_date <= end) && (this_date >= start)) {
-                                    dummy.push(data[i])
-                                }
+                                dummy.push(data[i])
                             }
                         }
                         return dummy;
                     }
 
                     myChart.on('click', function (event) {
-                        // console.log(event)
                         var d = event.data.value[z];
                         update_labels(d)
                     })
 
                     myChart.on('mouseover', function (event) {
-                        // console.log(event)
+                        console.log(event)
                         var d = event.data.value[z];
                         update_title(d)
                     })
 
-                    myChart2.on('click', function (event) {
-                        // console.log(event)
-                        var d = event.data[3].value[z];
-                        update_labels(d)
-                    })
-
-                    myChart2.on('mouseover', function (event) {
-                        // console.log(event)
-                        var d = event.data[3].value[z];
-                        update_title(d)
-                    })
-
-                    myChart2.on('datazoom', function (event) {
-                        zoom = [event.start, event.end]
-                        update_chart()
-                    })
+                    // myChart2.on('mouseover', function (event) {
+                    //     console.log(event)
+                    //     var d = event.data.value[z];
+                    //     update_title(d)
+                    // })
 
                     d3.select('#left')
                         .on('click', function () {
@@ -847,12 +832,10 @@
                         v.style.opacity = 0.8;
                     }, 2000)
 
-                    function get_values(data, key, z, key2, noise) {
+                    function get_values(data, key, z, key2) {
                         dummy = [];
                         for (i = 0; i < data.length; i++) {
-                            jitter=(Math.random(1)-0.5)*0.6
                             dummy.push(data[i][key][z][key2])
-                            // if (noise) console.log(jitter)
                         }
                         return dummy
                     }
@@ -872,6 +855,7 @@
                     function get_names(data, z) {
                         dummy = []
                         for (i = 0; i < data.length; i++) {
+                            console.log(data[i])
                             d = data[i];
                             d[z] = data[i][z]['value']
 
@@ -880,12 +864,13 @@
                                 'value': d
                             })
                         }
+                        console.log(dummy)
                         return data
                     }
 
                     function update_chart() {
-                        var data0 = rtoggle[0] ? update_data(data, z, toggle, zoom) : []
-                        var data1 = rtoggle[1] ? update_data(sheetdata, z, toggle, zoom) : []
+                        var data0 = rtoggle[0] ? update_data(data, z, toggle) : []
+                        var data1 = rtoggle[1] ? update_data(sheetdata, z, toggle) : []
                         myChart.setOption({
                             series: [{
                                 id: 'szekelyhon',
@@ -896,39 +881,26 @@
                             }, {
                                 id: 'eszekelyhon',
                                 data: rtoggle[0] ? later_than(update_data(data,
-                                        z, toggle, zoom), z,
+                                        z, toggle), z,
                                     year) : []
                             }, {
                                 id: 'eradar',
                                 data: rtoggle[1] ? later_than(update_data(
-                                        sheetdata, z, toggle, zoom),
+                                        sheetdata, z, toggle),
                                     z, year) : []
                             }]
                         })
                         myChart2.setOption({
                             series: [{
-                                    id: 'sc',
-                                    data: transpose([get_values(data0, 'value', z,
-                                            'severity',true),
-                                        get_values(data0, 'value', z,
-                                            'date',false),
-                                        get_values(data0, 'value', z,
-                                            'severity',false),
-                                        data0
-                                    ])
-                                },
-                                {
-                                    id: 'sc2',
-                                    data: transpose([get_values(data1, 'value', z,
-                                            'severity',true),
-                                        get_values(data1, 'value', z,
-                                            'date',false),
-                                        get_values(data1, 'value', z,
-                                            'severity',false),
-                                        data1
-                                    ])
-                                }
-                            ]
+                                id: 'sc',
+                                data: transpose([get_values(data0, 'value', z,
+                                        'severity'),
+                                    get_values(data0, 'value', z,
+                                        'date'),
+                                    get_values(data0, 'value', z,
+                                        'severity')
+                                ])
+                            }]
                         })
                     }
 
