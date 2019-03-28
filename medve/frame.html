@@ -575,14 +575,20 @@
                             ((b[k1][k2][k3] > a[k1][k2][k3]) ? 1 : 0));
                     }
 
-                    var label_dict = {}
                     var coord_dict = {}
                     var data_dict = {}
                     var time_array = []
                     var sorted_data = sortObject(all_data, 'value', z, 'date')
 
+                    function label_dict(data) {
+                        dummy = []
+                        for (i = 0; i < data.length; i++) {
+                            dummy[data[i]['name']] = i;
+                        }
+                        return dummy
+                    }
+
                     for (i = 0; i < sorted_data.length; i++) {
-                        label_dict[sorted_data[i]['name']] = i;
                         data_dict[sorted_data[i]['name']] = sorted_data[i];
                         coord_dict[sorted_data[i]['name']] = sorted_data[i]['value'].slice(0, 2)
                         if (sorted_data[i]['value'][z]['date'] >= Date.parse(minyear)) {
@@ -600,6 +606,9 @@
                     //init counter
                     var counter = 5;
                     var this_data = sorted_data[counter]['value'][z];
+                    var data0;
+                    var data1;
+                    var datax;
 
                     var myChart = echarts.init(document.getElementById('chart'));
                     var myChart2 = echarts.init(document.getElementById('chart2'));
@@ -827,7 +836,7 @@
 
                     function update_labels(d) {
 
-                        counter = label_dict[d.name]
+                        counter = label_dict(datax)[d.name]
                         console.log(d.name, counter)
 
                         myChart.setOption({
@@ -926,15 +935,15 @@
 
                     d3.select('#left')
                         .on('click', function () {
-                            counter = counter - 1;
-                            var this_data = sorted_data[counter]['value'][z];
+                            counter = Math.max(counter - 1, 0);
+                            var this_data = datax[counter]['value'][z];
                             update_labels(this_data)
                         })
 
                     d3.select('#right')
                         .on('click', function () {
-                            counter = counter + 1;
-                            this_data = sorted_data[counter]['value'][z];
+                            counter = Math.min(counter + 1, datax.length);
+                            this_data = datax[counter]['value'][z];
                             update_labels(this_data)
                         })
 
@@ -986,8 +995,9 @@
                     }
 
                     function update_chart() {
-                        var data0 = rtoggle[0] ? update_data(data, z, toggle, zoom) : []
-                        var data1 = rtoggle[1] ? update_data(sheetdata, z, toggle, zoom) : []
+                        data0 = rtoggle[0] ? update_data(data, z, toggle, zoom) : [];
+                        data1 = rtoggle[1] ? update_data(sheetdata, z, toggle, zoom) : [];
+                        datax = data0.concat(data1);
                         myChart.setOption({
                             series: [{
                                 id: 'szekelyhon',
