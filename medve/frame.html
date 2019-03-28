@@ -340,6 +340,8 @@
             var GSheetID = '1-Ygp1M_nIK-iHq3hqF3qtKNgq6tZHttfzT42_1d_L-E'
             var query_type = 'data'
             var sheetdata = [];
+            var home = [25.82, 46.36];
+            var home_center = [25.3, 46.4];
 
             function data_to_lists(ColumnNames, DataArray) {
                 return [ColumnNames].concat(DataArray)
@@ -359,7 +361,7 @@
             }
 
             var query1 = new
-                google.visualization.Query("https://docs.google.com/spreadsheet/ccc?key=" + GSheetID);
+            google.visualization.Query("https://docs.google.com/spreadsheet/ccc?key=" + GSheetID);
             query1.setQuery("");
             query1.send(handleQueryResponse1);
 
@@ -412,17 +414,18 @@
                             var dt = pt[1] + '/' + pt[0] + '/' + pt[2];
                             res.push({
                                 name: d['Submission ID'],
-                                value: d['Pontosabban hol?'].split(',').reverse()
+                                value: (!(d['Pontosabban hol?'][0]) ? home.reverse() : d['Pontosabban hol?']
+                                        .split(',').reverse())
                                     .concat([sheet_severity[d['Milyen eseményről van szó?']]])
                                     .concat([leiras[sheet_severity[d['Milyen eseményről van szó?']]]])
                                     .concat({
                                         'geo_loc': d['Melyik település környékén?'].split('\n')[1],
                                         'content': (d['Egyedül volt?'] ?
-                                            '<ul><li>' + d['Egyedül volt?'].split('\n').join(', ') : ''
-                                        ) +
+                                                '<ul><li>' + d['Egyedül volt?'].split('\n').join(', ') : ''
+                                            ) +
                                             (d['Közel volt?'] ?
                                                 '</li><li>' + 'Távolság: ' + d['Közel volt?'].split('(')[1]
-                                                    .replace(')', '') : '') +
+                                                .replace(')', '') : '') +
                                             (d['Még valami?'] ?
                                                 '</li><li>' + d['Még valami?'] : '') +
                                             '</ul>',
@@ -455,14 +458,15 @@
                     var convertData = function (data) {
                         var res = [];
                         for (var i = 0; i < Object.keys(data.id).length; i++) {
-                            var geoCoord = [data.longitude[i] + (Math.random() - 0.5) * s, data.latitude[
-                                i] + (Math
-                                    .random() - 0.5) * s];
+                            var geoCoord = (!data.longitude[i]) ? home : [data.longitude[i], data.latitude[
+                                i]];
+                            var geoCoord = [geoCoord[0] + (Math.random() - 0.5) * s, geoCoord[1] + (Math
+                                .random() - 0.5) * s]
                             var severity = (data.severity[i] == 3) ? ((data
-                                .deaths[
-                                i] > 0) ? data.severity[i] +
+                                    .deaths[
+                                        i] > 0) ? data.severity[i] +
                                 1 : data
-                                    .severity[i]) : data.severity[i];
+                                .severity[i]) : data.severity[i];
                             if (geoCoord) {
                                 if (data.relevant[i]) {
                                     if (!(data.duplicate[i])) {
@@ -528,11 +532,13 @@
                     }
 
                     var label_dict = {}
+                    var coord_dict = {}
                     var time_array = []
                     var sorted_data = sortObject(all_data, 'value', z, 'date')
-
+                    
                     for (i = 0; i < sorted_data.length; i++) {
                         label_dict[sorted_data[i]['name']] = i;
+                        coord_dict[sorted_data[i]['name']] = sorted_data[i]['value'].slice(0, 2)
                         if (sorted_data[i]['value'][z]['date'] >= Date.parse(minyear)) {
                             time_array.push(sorted_data[i]['value'][z]['date'])
                         }
@@ -568,30 +574,30 @@
                             max: 4,
                             inverse: true,
                             pieces: [{
-                                value: 0,
-                                label: leiras[0],
-                                color: colors[0]
-                            },
-                            {
-                                value: 1,
-                                label: leiras[1],
-                                color: colors[1]
-                            },
-                            {
-                                value: 2,
-                                label: leiras[2],
-                                color: colors[2]
-                            },
-                            {
-                                value: 3,
-                                label: leiras[3],
-                                color: colors[3]
-                            },
-                            {
-                                value: 4,
-                                label: leiras[4],
-                                color: colors[4]
-                            }
+                                    value: 0,
+                                    label: leiras[0],
+                                    color: colors[0]
+                                },
+                                {
+                                    value: 1,
+                                    label: leiras[1],
+                                    color: colors[1]
+                                },
+                                {
+                                    value: 2,
+                                    label: leiras[2],
+                                    color: colors[2]
+                                },
+                                {
+                                    value: 3,
+                                    label: leiras[3],
+                                    color: colors[3]
+                                },
+                                {
+                                    value: 4,
+                                    label: leiras[4],
+                                    color: colors[4]
+                                }
                             ],
                             itemWidth: 30,
                             itemHeight: 20,
@@ -608,8 +614,8 @@
 
                     myChart.setOption({
                         leaflet: {
-                            center: [25.4, 46.5],
-                            zoom: 9,
+                            // center: [25.4, 46.5],
+                            // zoom: 9,
                             height: '100%',
                             roam: true,
                             tiles: [{
@@ -621,74 +627,74 @@
                             }]
                         },
                         series: [{
-                            id: 'szekelyhon',
-                            type: 'scatter',
-                            coordinateSystem: 'leaflet',
-                            symbolSize: 20,
-                            itemStyle: {
-                                normal: {
-                                    // color: 'red',
-                                    borderColor: 'black',
-                                    opacity: 0.9
+                                id: 'szekelyhon',
+                                type: 'scatter',
+                                coordinateSystem: 'leaflet',
+                                symbolSize: 20,
+                                itemStyle: {
+                                    normal: {
+                                        // color: 'red',
+                                        borderColor: 'black',
+                                        opacity: 0.9
+                                    }
                                 }
-                            }
-                        },
-                        {
-                            id: 'radar',
-                            type: 'scatter',
-                            coordinateSystem: 'leaflet',
-                            symbolSize: 20,
-                            symbol: 'rect',
-                            itemStyle: {
-                                normal: {
-                                    // color: 'blue',
-                                    borderColor: 'black',
-                                    opacity: 0.9
+                            },
+                            {
+                                id: 'radar',
+                                type: 'scatter',
+                                coordinateSystem: 'leaflet',
+                                symbolSize: 20,
+                                symbol: 'rect',
+                                itemStyle: {
+                                    normal: {
+                                        // color: 'blue',
+                                        borderColor: 'black',
+                                        opacity: 0.9
+                                    }
                                 }
-                            }
-                        },
-                        {
-                            id: 'eszekelyhon',
-                            type: 'effectScatter',
-                            coordinateSystem: 'leaflet',
-                            symbolSize: 20,
-                            // showEffectOn: 'emphasis',
-                            rippleEffect: {
-                                brushType: 'stroke',
+                            },
+                            {
+                                id: 'eszekelyhon',
+                                type: 'effectScatter',
+                                coordinateSystem: 'leaflet',
+                                symbolSize: 20,
+                                // showEffectOn: 'emphasis',
+                                rippleEffect: {
+                                    brushType: 'stroke',
 
+                                },
+                                hoverAnimation: true,
+                                itemStyle: {
+                                    normal: {
+                                        // color: 'red',
+                                        shadowBlur: 4,
+                                        shadowColor: '#333',
+                                        borderColor: 'black'
+                                    }
+                                },
+                                zlevel: 1
                             },
-                            hoverAnimation: true,
-                            itemStyle: {
-                                normal: {
-                                    // color: 'red',
-                                    shadowBlur: 4,
-                                    shadowColor: '#333',
-                                    borderColor: 'black'
-                                }
-                            },
-                            zlevel: 1
-                        },
-                        {
-                            id: 'eradar',
-                            type: 'effectScatter',
-                            coordinateSystem: 'leaflet',
-                            symbolSize: 20,
-                            symbol: 'rect',
-                            rippleEffect: {
-                                brushType: 'stroke',
+                            {
+                                id: 'eradar',
+                                type: 'effectScatter',
+                                coordinateSystem: 'leaflet',
+                                symbolSize: 20,
+                                symbol: 'rect',
+                                rippleEffect: {
+                                    brushType: 'stroke',
 
-                            },
-                            hoverAnimation: true,
-                            itemStyle: {
-                                normal: {
-                                    // color: 'red',
-                                    shadowBlur: 4,
-                                    shadowColor: '#333',
-                                    borderColor: 'black'
-                                }
-                            },
-                            zlevel: 2
-                        }
+                                },
+                                hoverAnimation: true,
+                                itemStyle: {
+                                    normal: {
+                                        // color: 'red',
+                                        shadowBlur: 4,
+                                        shadowColor: '#333',
+                                        borderColor: 'black'
+                                    }
+                                },
+                                zlevel: 2
+                            }
                         ]
                     })
                     myChart2.setOption({
@@ -719,30 +725,30 @@
                             right: 30
                         }],
                         series: [{
-                            id: 'sc',
-                            type: 'scatter',
-                            symbolSize: 10,
-                            itemStyle: {
-                                normal: {
-                                    // color: 'red',
-                                    borderColor: 'black',
-                                    opacity: 0.4
+                                id: 'sc',
+                                type: 'scatter',
+                                symbolSize: 10,
+                                itemStyle: {
+                                    normal: {
+                                        // color: 'red',
+                                        borderColor: 'black',
+                                        opacity: 0.4
+                                    }
+                                }
+                            },
+                            {
+                                id: 'sc2',
+                                type: 'scatter',
+                                symbolSize: 10,
+                                symbol: 'rect',
+                                itemStyle: {
+                                    normal: {
+                                        // color: 'red',
+                                        borderColor: 'black',
+                                        opacity: 0.4
+                                    }
                                 }
                             }
-                        },
-                        {
-                            id: 'sc2',
-                            type: 'scatter',
-                            symbolSize: 10,
-                            symbol: 'rect',
-                            itemStyle: {
-                                normal: {
-                                    // color: 'red',
-                                    borderColor: 'black',
-                                    opacity: 0.4
-                                }
-                            }
-                        }
                         ]
                     });
 
@@ -757,11 +763,12 @@
                         counter = label_dict[d.name]
                         console.log(d.name, counter)
 
-                        // myChart.dispatchAction({
-                        //     type: 'highlight',
-                        //     series: 'szekelyhon',
-                        //     name: d.name
-                        // })
+                        myChart.setOption({
+                            leaflet: {
+                                center: coord_dict[d.name],
+                                zoom: 12
+                            }
+                        })
 
                         d3.select('#myInput')
                             .property('value', d.geo_loc)
@@ -906,38 +913,38 @@
                             }, {
                                 id: 'eszekelyhon',
                                 data: rtoggle[0] ? later_than(update_data(data,
-                                    z, toggle, zoom), z,
+                                        z, toggle, zoom), z,
                                     year) : []
                             }, {
                                 id: 'eradar',
                                 data: rtoggle[1] ? later_than(update_data(
-                                    sheetdata, z, toggle, zoom),
+                                        sheetdata, z, toggle, zoom),
                                     z, year) : []
                             }]
                         })
                         myChart2.setOption({
                             series: [{
-                                id: 'sc',
-                                data: transpose([get_values(data0, 'value', z,
-                                    'severity', true),
-                                get_values(data0, 'value', z,
-                                    'date', false),
-                                get_values(data0, 'value', z,
-                                    'severity', false),
-                                    data0
-                                ])
-                            },
-                            {
-                                id: 'sc2',
-                                data: transpose([get_values(data1, 'value', z,
-                                    'severity', true),
-                                get_values(data1, 'value', z,
-                                    'date', false),
-                                get_values(data1, 'value', z,
-                                    'severity', false),
-                                    data1
-                                ])
-                            }
+                                    id: 'sc',
+                                    data: transpose([get_values(data0, 'value', z,
+                                            'severity', true),
+                                        get_values(data0, 'value', z,
+                                            'date', false),
+                                        get_values(data0, 'value', z,
+                                            'severity', false),
+                                        data0
+                                    ])
+                                },
+                                {
+                                    id: 'sc2',
+                                    data: transpose([get_values(data1, 'value', z,
+                                            'severity', true),
+                                        get_values(data1, 'value', z,
+                                            'date', false),
+                                        get_values(data1, 'value', z,
+                                            'severity', false),
+                                        data1
+                                    ])
+                                }
                             ]
                         })
 
@@ -1146,6 +1153,13 @@
                     //init
                     update_chart();
                     update_labels(this_data)
+
+                    myChart.setOption({
+                        leaflet: {
+                            center: home_center,
+                            zoom: 9
+                        }
+                    })
 
                 });
             };
