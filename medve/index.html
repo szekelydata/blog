@@ -192,7 +192,7 @@
             text-shadow: 1px 1px 1px black;
         }
 
-        #radar a {
+        #radar a, input {
             color: rgb(83, 56, 40);
             text-shadow: 1px 1px 2px black;
         }
@@ -216,13 +216,14 @@
             /* Do not repeat the icon image */
             width: 100%;
             /* Full-width */
-            font-size: 16px;
+            font-size: 18px;
             /* Increase font-size */
-            padding: 12px 20px 12px 40px;
+            padding: 12px 20px 8px 40px;
             /* Add some padding */
             /* border: 1px solid #ddd; */
             /* Add a grey border */
-            margin-bottom: 12px;
+            margin-bottom: 15px;
+            background-color: rgb(189, 203, 216);
             /* Add some space below the input */
             z-index: 5;
         }
@@ -232,7 +233,13 @@
             list-style-type: none;
             padding: 0;
             margin: 0;
+            margin-top: -12px;
+            margin-left: 1px;
             display: none;
+            position: absolute;
+            height: 300px;
+            overflow-y: auto;
+            width: 99%;
         }
 
         #myUL li a {
@@ -240,17 +247,17 @@
             /* Add a border to all links */
             margin-top: -1px;
             /* Prevent double borders */
-            background-color: #9EA8B1;
+            background-color: rgb(189, 203, 216);
             /* Grey background color */
-            padding: 12px;
+            padding: 4px;
             /* Add some padding */
             text-decoration: none;
             /* Remove default text underline */
             font-size: 18px;
             /* Increase the font-size */
-            color: black;
             /* Add a black text color */
             display: block;
+            text-shadow: 1px 1px 2px black;
             z-index: 5;
             /* Make it into a block element to fill the whole list */
         }
@@ -755,6 +762,8 @@
                         //     name: d.name
                         // })
 
+                        d3.select('#myInput')
+                            .property('value',d.geo_loc)
                         d3.select('#geo_loc')
                             .text(d.geo_loc)
                         d3.select('#date')
@@ -784,8 +793,8 @@
 
                     function update_data(data, k, toggle, zoom) {
                         diff = Math.abs(max_time - min_time)
-                        start = min_time.getTime() + diff * zoom[0] / 100
-                        end = min_time.getTime() + diff * zoom[1] / 100
+                        start = new Date(min_time.getTime() + diff * zoom[0] / 100.0)
+                        end = new Date(min_time.getTime() + diff * zoom[1] / 100.0)
                         var dummy = [];
                         for (var i = 0; i < data.length; i++) {
                             if (toggle[data[i].value[k]['severity']]) {
@@ -850,7 +859,7 @@
                     function get_values(data, key, z, key2, noise) {
                         dummy = [];
                         for (i = 0; i < data.length; i++) {
-                            jitter=(Math.random(1)-0.5)*0.6
+                            jitter = (Math.random(1) - 0.5) * 0.6
                             dummy.push(data[i][key][z][key2])
                             // if (noise) console.log(jitter)
                         }
@@ -909,22 +918,22 @@
                             series: [{
                                     id: 'sc',
                                     data: transpose([get_values(data0, 'value', z,
-                                            'severity',true),
+                                            'severity', true),
                                         get_values(data0, 'value', z,
-                                            'date',false),
+                                            'date', false),
                                         get_values(data0, 'value', z,
-                                            'severity',false),
+                                            'severity', false),
                                         data0
                                     ])
                                 },
                                 {
                                     id: 'sc2',
                                     data: transpose([get_values(data1, 'value', z,
-                                            'severity',true),
+                                            'severity', true),
                                         get_values(data1, 'value', z,
-                                            'date',false),
+                                            'date', false),
                                         get_values(data1, 'value', z,
-                                            'severity',false),
+                                            'severity', false),
                                         data1
                                     ])
                                 }
@@ -942,9 +951,34 @@
                         .text(function (d) {
                             return d.name
                         })
+                        .style('color', function (d) {
+                            return colors[d.value[z].severity]
+                        })
+                        .on('click', function (d) {
+                            drop = false;
+                            d3.select('#myUL')
+                                .style('display', 'none')
+                            update_labels(d.value[z])
+                        })
+                    
+                    d3.select('#main')
+                    .on('click', function (d) {
+                        drop = false;
+                        d3.select('#myUL')
+                        .style('display', 'none')
+                    })
 
                     d3.select('#myInput')
                         .on('keyup', myFunction)
+
+                    var drop = false;
+                    d3.select('#myInput')
+                        .on('click', function (d) {
+                            drop = !drop;
+                            d3.select('#myUL')
+                                .style('display', (drop) ? 'block' : 'none')
+                        })
+
 
                     function myFunction() {
                         // Declare variables
@@ -1101,6 +1135,7 @@
                             d3.select('.dim' + i).style('opacity', rtoggle[i] ? 1 : 0.2)
                             update_chart();
                         })
+
 
                     //init
                     update_chart();
