@@ -370,9 +370,9 @@
         <div id='chart'></div>
         <div id='chart2'></div>
     </div>
-    <div id='center'>Medvetérkép beta</div>
+    <div id='center'></div>
     <div id='help'><a href='https://szekelydata.csaladen.es' target='_blank' title='Leírás'><i
-                class="fas fa-question"></i></div>
+                class="fas fa-question-circle"></i></div>
     <script>
         google.load("visualization", "1");
         google.setOnLoadCallback(init);
@@ -383,6 +383,7 @@
             var sheetdata = [];
             var home = [25.82, 46.36];
             var home_center = [25.3, 46.4];
+            var home_title = 'Medvetérkép';
 
             function data_to_lists(ColumnNames, DataArray) {
                 return [ColumnNames].concat(DataArray)
@@ -1237,26 +1238,34 @@
                         .append('div')
                         .attr('id', 'home')
                         .html('<i class="fas fa-home"></i>')
-                        .on('click', function () {
-                            myChart.setOption({
-                                leaflet: {
-                                    center: home_center,
-                                    zoom: 9
-                                }
-                            })
-                        })
+                        .on('click', go_home)
 
 
                     //init
                     update_chart();
                     update_labels(this_data)
 
-                    myChart.setOption({
-                        leaflet: {
-                            center: home_center,
-                            zoom: 9
-                        }
-                    })
+
+                    setTimeout(() => {
+                        go_home()
+                    }, 50)
+
+                    function go_home() {
+                        myChart.setOption({
+                            leaflet: {
+                                center: home_center,
+                                zoom: 9
+                            },
+                            series: [
+                                {
+                                    id: 'infocus',
+                                    data: []
+                                }
+                            ]
+                        })
+                        d3.select('#center')
+                            .html(home_title + ' &copy; 2019<br><span style="font-size:15px">frissült: 2019.03.25</span><br><i>beta verzió</i>')
+                    }
 
                 });
             };
