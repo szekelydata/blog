@@ -383,6 +383,7 @@
             var home = [25.82, 46.36];
             var home_center = [25.3, 46.4];
             var home_title = 'Medvetérkép';
+            var home_zoom=9;
 
             function data_to_lists(ColumnNames, DataArray) {
                 return [ColumnNames].concat(DataArray)
@@ -833,7 +834,9 @@
                         day: "numeric"
                     };
 
-                    function update_labels(d) {
+                    var map_zoom=12;
+
+                    function update_labels(d,map_click) {
 
                         counter = label_dict(datax)[d.name]
                         console.log(d.name, counter)
@@ -841,7 +844,7 @@
                         myChart.setOption({
                             leaflet: {
                                 center: coord_dict[d.name],
-                                zoom: 12
+                                zoom: map_click?Math.max(map_zoom,myChart.getOption().leaflet[0].zoom):map_zoom
                             }
                         })
 
@@ -906,7 +909,7 @@
                     myChart.on('click', function (event) {
                         // console.log(event)
                         var d = event.data.value[z];
-                        update_labels(d)
+                        update_labels(d,true)
                     })
 
                     myChart.on('mouseover', function (event) {
@@ -918,7 +921,7 @@
                     myChart2.on('click', function (event) {
                         // console.log(event)
                         var d = event.data[3].value[z];
-                        update_labels(d)
+                        update_labels(d,false)
                     })
 
                     myChart2.on('mouseover', function (event) {
@@ -936,14 +939,14 @@
                         .on('click', function () {
                             counter = Math.max(counter - 1, 0);
                             var this_data = datax[counter]['value'][z];
-                            update_labels(this_data)
+                            update_labels(this_data,false)
                         })
 
                     d3.select('#right')
                         .on('click', function () {
                             counter = Math.min(counter + 1, datax.length);
                             this_data = datax[counter]['value'][z];
-                            update_labels(this_data)
+                            update_labels(this_data,false)
                         })
 
 
@@ -1062,7 +1065,7 @@
                                 drop = false;
                                 d3.select('#myUL')
                                     .style('display', 'none')
-                                update_labels(d.value[z])
+                                update_labels(d.value[z],false)
                             })
                     }
 
@@ -1266,7 +1269,7 @@
 
                     //init
                     update_chart();
-                    update_labels(this_data)
+                    update_labels(this_data,false)
 
 
                     setTimeout(() => {
@@ -1277,7 +1280,7 @@
                         myChart.setOption({
                             leaflet: {
                                 center: home_center,
-                                zoom: 9
+                                zoom: home_zoom
                             },
                             series: [
                                 {
