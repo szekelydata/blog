@@ -132,7 +132,7 @@
             position: absolute;
             left: 5%;
             top: 150px;
-            width: 90%;
+            width: 92%;
             /* text-shadow: 1px 1px 1px black; */
         }
 
@@ -233,7 +233,7 @@
             background: #eee;
         }
 
-        svg text:hover,
+        svg:hover,
         #navi:hover {
             cursor: pointer;
         }
@@ -383,7 +383,42 @@
             var home = [25.82, 46.36];
             var home_center = [25.3, 46.4];
             var home_title = 'Medvetérkép';
-            var home_zoom=9;
+            var home_zoom = 9;
+            var s = 0.005; //coordinate randomizer
+            var sheet_severity = {
+                'Medvét láttam a környéken': 1,
+                'Állatokra támadt': 2,
+                'Emberre támadt': 3,
+                'Állatokra támadott': 2,
+                'Emberre támadott': 3,
+                'Emberi áldozat': 4,
+                'Medvepolitikai döntés vagy esemény': 0
+            }
+            var leiras = ['Más esemény',
+                'Medvét láttak',
+                'Állatokra támadt',
+                'Emberre támadt',
+                'Emberáldozat'
+            ];
+            var colors = ['#35978f', '#80cdc1', '#dfc27d', '#8c510a', '#543005'];
+            var z = 4; //index of params
+            var year = '2019-03'; //min date to show ripple
+            var minyear = '2006'; //absolute min year for all points
+            var zoom = [60, 100] //starting zoom scale in percent of scale (60% about 2014-01)
+            var counter = 5; //init counter for first point to show on load
+            var date_options = {
+                year: "numeric",
+                month: "long",
+                day: "numeric"
+            };
+            var date_options2 = {
+                year: "numeric",
+                month: "numeric",
+                day: "numeric"
+            };
+            var map_zoom = 12; //default map zoom on load
+            var min_label_opc=0.3; //turned off label opacity
+
 
             function data_to_lists(ColumnNames, DataArray) {
                 return [ColumnNames].concat(DataArray)
@@ -425,26 +460,6 @@
                 }
 
                 sheetdata = data_lists_to_object_array(data_to_lists(ColumnNames, DataArray))
-
-                var s = 0.005; //coordinate randomizer
-                var sheet_severity = {
-                    'Medvét láttam a környéken': 1,
-                    'Állatokra támadt': 2,
-                    'Emberre támadt': 3,
-                    'Állatokra támadott': 2,
-                    'Emberre támadott': 3,
-                    'Emberi áldozat': 4,
-                    'Medvepolitikai döntés vagy esemény': 0
-                }
-                var leiras = ['Más esemény',
-                    'Medvét láttak',
-                    'Állatokra támadt',
-                    'Emberre támadt',
-                    'Emberáldozat'
-                ];
-                var colors = ['#35978f', '#80cdc1', '#dfc27d', '#8c510a', '#543005'];
-
-
                 // console.log(sheetdata)
 
                 function sheet_formatter(data) {
@@ -454,14 +469,20 @@
                         if (d['Display'] != 0) {
                             var pt = d['Mikor történt az eset?'].split("/");
                             var dt = pt[1] + '/' + pt[0] + '/' + pt[2];
+                            var iname = d['Submission ID'];
+                            var idate = dt ? new Date(Date.parse(dt)) : 'Ismeretlen';
+                            var igeo = d['Melyik település környékén?'].split('\n')[1];
+                            var iid = idate.toLocaleString("hu-HU",
+                                date_options2) + ' ' + igeo
                             res.push({
-                                name: d['Submission ID'],
+                                name: iid,
+                                symbol: 'rect',
                                 value: (!(d['Pontosabban hol?'][0]) ? home.reverse() : d['Pontosabban hol?']
                                     .split(',').reverse())
                                     .concat([sheet_severity[d['Milyen eseményről van szó?']]])
                                     .concat([leiras[sheet_severity[d['Milyen eseményről van szó?']]]])
                                     .concat({
-                                        'geo_loc': d['Melyik település környékén?'].split('\n')[1],
+                                        'geo_loc': igeo,
                                         'content': (d['Egyedül volt?'] ?
                                             '<ul><li>' + d['Egyedül volt?'].split('\n').join(', ') : ''
                                         ) +
@@ -471,11 +492,10 @@
                                             (d['Még valami?'] ?
                                                 '</li><li>' + d['Még valami?'] : '') +
                                             '</ul>',
-                                        'date': dt ?
-                                            new Date(Date.parse(dt)) : 'Ismeretlen',
+                                        'date': idate,
                                         'deaths': '',
                                         'link': 'radar',
-                                        'name': d['Submission ID'],
+                                        'name': iid,
                                         'image': d['Szelfid van róla?'],
                                         'type': 'news',
                                         'source': 'Medveradar',
@@ -491,7 +511,6 @@
                 }
 
                 sheetdata = sheet_formatter(sheetdata)
-
                 // console.log(sheetdata)
 
                 d3.json("data/szekelyhon_data.json").then(function (rawdata) {
@@ -513,8 +532,11 @@
                             if (geoCoord) {
                                 if (data.relevant[i]) {
                                     if (!(data.duplicate[i])) {
+                                        var iid = new Date(data.date[i]).toLocaleString("hu-HU",
+                                            date_options2) + ' ' + data.geo_loc[i]
                                         res.push({
-                                            name: data.id[i],
+                                            name: iid,
+                                            symbol: 'circle',
                                             value: geoCoord
                                                 .concat([severity, leiras[severity]])
                                                 .concat({
@@ -523,7 +545,7 @@
                                                     'date': new Date(data.date[i]),
                                                     'deaths': data.deaths[i],
                                                     'link': data.link[i],
-                                                    'name': data.id[i],
+                                                    'name': iid,
                                                     'image': data.image[i],
                                                     'severity': severity,
                                                     'type': 'news',
@@ -537,15 +559,6 @@
                         }
                         return res;
                     };
-
-
-                    var data = convertData(rawdata);
-                    var z = 4; //index of params
-                    var year = '2019';
-                    var minyear = '2006';
-                    var zoom = [60, 100]
-
-                    // console.log(data)
 
                     function later_than(data, k, t) {
                         var dummy = [];
@@ -568,17 +581,10 @@
                         return dummy;
                     }
 
-                    var all_data = data.concat(sheetdata)
-
                     function sortObject(objs, k1, k2, k3) {
                         return objs.sort((a, b) => (a[k1][k2][k3] > b[k1][k2][k3]) ? -1 :
                             ((b[k1][k2][k3] > a[k1][k2][k3]) ? 1 : 0));
                     }
-
-                    var coord_dict = {}
-                    var data_dict = {}
-                    var time_array = []
-                    var sorted_data = sortObject(all_data, 'value', z, 'date')
 
                     function label_dict(data) {
                         dummy = []
@@ -587,6 +593,17 @@
                         }
                         return dummy
                     }
+
+                    var coord_dict = {}
+                    var data_dict = {}
+                    var time_array = []
+                    var data = convertData(rawdata);
+                    // console.log(data)
+                    var all_data = data.concat(sheetdata)
+                    // console.log(all_data)
+
+                    var sorted_data = sortObject(all_data, 'value', z, 'date')
+                    // console.log(sorted_data)                    
 
                     for (i = 0; i < sorted_data.length; i++) {
                         data_dict[sorted_data[i]['name']] = sorted_data[i];
@@ -603,8 +620,6 @@
                     // var min_time=time_array.reverse()[0]
                     var min_time = new Date(Date.parse(minyear))
 
-                    //init counter
-                    var counter = 5;
                     var this_data = sorted_data[counter]['value'][z];
                     var data0;
                     var data1;
@@ -669,8 +684,6 @@
 
                     myChart.setOption({
                         leaflet: {
-                            // center: [25.4, 46.5],
-                            // zoom: 9,
                             height: '100%',
                             roam: true,
                             tiles: [{
@@ -682,38 +695,22 @@
                             }]
                         },
                         series: [{
-                            id: 'szekelyhon',
+                            id: 'points',
                             type: 'scatter',
                             coordinateSystem: 'leaflet',
                             symbolSize: 20,
                             itemStyle: {
                                 normal: {
-                                    // color: 'red',
                                     borderColor: 'black',
                                     opacity: 0.9
                                 }
                             }
                         },
                         {
-                            id: 'radar',
-                            type: 'scatter',
-                            coordinateSystem: 'leaflet',
-                            symbolSize: 20,
-                            symbol: 'rect',
-                            itemStyle: {
-                                normal: {
-                                    // color: 'blue',
-                                    borderColor: 'black',
-                                    opacity: 0.9
-                                }
-                            }
-                        },
-                        {
-                            id: 'eszekelyhon',
+                            id: 'ripples',
                             type: 'effectScatter',
                             coordinateSystem: 'leaflet',
                             symbolSize: 20,
-                            // showEffectOn: 'emphasis',
                             rippleEffect: {
                                 brushType: 'stroke',
 
@@ -721,7 +718,6 @@
                             hoverAnimation: true,
                             itemStyle: {
                                 normal: {
-                                    // color: 'red',
                                     shadowBlur: 4,
                                     shadowColor: '#333',
                                     borderColor: 'black'
@@ -730,32 +726,10 @@
                             zlevel: 1
                         },
                         {
-                            id: 'eradar',
-                            type: 'effectScatter',
-                            coordinateSystem: 'leaflet',
-                            symbolSize: 20,
-                            symbol: 'rect',
-                            rippleEffect: {
-                                brushType: 'stroke',
-
-                            },
-                            hoverAnimation: true,
-                            itemStyle: {
-                                normal: {
-                                    // color: 'red',
-                                    shadowBlur: 4,
-                                    shadowColor: '#333',
-                                    borderColor: 'black'
-                                }
-                            },
-                            zlevel: 2
-                        },
-                        {
                             id: 'infocus',
                             type: 'effectScatter',
                             coordinateSystem: 'leaflet',
                             symbolSize: 25,
-                            // showEffectOn: 'emphasis',
                             rippleEffect: {
                                 brushType: 'stroke',
 
@@ -763,7 +737,6 @@
                             hoverAnimation: true,
                             itemStyle: {
                                 normal: {
-                                    // color: 'red',
                                     shadowBlur: 4,
                                     shadowColor: '#333',
                                     borderColor: 'black'
@@ -772,7 +745,8 @@
                             zlevel: 3
                         }
                         ]
-                    })
+                    });
+
                     myChart2.setOption({
 
                         yAxis: {
@@ -801,25 +775,11 @@
                             right: 30
                         }],
                         series: [{
-                            id: 'sc',
+                            id: 'timeline',
                             type: 'scatter',
                             symbolSize: 10,
                             itemStyle: {
                                 normal: {
-                                    // color: 'red',
-                                    borderColor: 'black',
-                                    opacity: 0.4
-                                }
-                            }
-                        },
-                        {
-                            id: 'sc2',
-                            type: 'scatter',
-                            symbolSize: 10,
-                            symbol: 'rect',
-                            itemStyle: {
-                                normal: {
-                                    // color: 'red',
                                     borderColor: 'black',
                                     opacity: 0.4
                                 }
@@ -828,15 +788,7 @@
                         ]
                     });
 
-                    var date_options = {
-                        year: "numeric",
-                        month: "long",
-                        day: "numeric"
-                    };
-
-                    var map_zoom=12;
-
-                    function update_labels(d,map_click) {
+                    function update_labels(d, map_click) {
 
                         counter = label_dict(datax)[d.name]
                         console.log(d.name, counter)
@@ -844,7 +796,7 @@
                         myChart.setOption({
                             leaflet: {
                                 center: coord_dict[d.name],
-                                zoom: map_click?Math.max(map_zoom,myChart.getOption().leaflet[0].zoom):map_zoom
+                                zoom: map_click ? Math.max(map_zoom, myChart.getOption().leaflet[0].zoom) : map_zoom
                             }
                         })
 
@@ -896,10 +848,11 @@
                         end = new Date(min_time.getTime() + diff * zoom[1] / 100.0)
                         var dummy = [];
                         for (var i = 0; i < data.length; i++) {
-                            if (toggle[data[i].value[k]['severity']]) {
-                                this_date = data[i].value[k]['date']
+                            d = data[i];
+                            if (toggle[d.value[k]['severity']]) {
+                                this_date = d.value[k]['date']
                                 if ((this_date <= end) && (this_date >= start)) {
-                                    dummy.push(data[i])
+                                    dummy.push(d)
                                 }
                             }
                         }
@@ -909,7 +862,7 @@
                     myChart.on('click', function (event) {
                         // console.log(event)
                         var d = event.data.value[z];
-                        update_labels(d,true)
+                        update_labels(d, true)
                     })
 
                     myChart.on('mouseover', function (event) {
@@ -920,13 +873,13 @@
 
                     myChart2.on('click', function (event) {
                         // console.log(event)
-                        var d = event.data[3].value[z];
-                        update_labels(d,false)
+                        var d = event.data.value[3].value[z];
+                        update_labels(d, false)
                     })
 
                     myChart2.on('mouseover', function (event) {
                         // console.log(event)
-                        var d = event.data[3].value[z];
+                        var d = event.data.value[3].value[z];
                         update_title(d)
                     })
 
@@ -939,26 +892,15 @@
                         .on('click', function () {
                             counter = Math.max(counter - 1, 0);
                             var this_data = datax[counter]['value'][z];
-                            update_labels(this_data,false)
+                            update_labels(this_data, false)
                         })
 
                     d3.select('#right')
                         .on('click', function () {
                             counter = Math.min(counter + 1, datax.length);
                             this_data = datax[counter]['value'][z];
-                            update_labels(this_data,false)
+                            update_labels(this_data, false)
                         })
-
-
-                    setTimeout(function () {
-                        d3.select('#v')
-                            .style('opacity', 1)
-                    }, 5000)
-
-                    setTimeout(function () {
-                        d3.select('#bga')
-                            .style('opacity', 1)
-                    }, 4000)
 
                     function get_values(data, key, z, key2, noise) {
                         dummy = [];
@@ -982,67 +924,47 @@
                         return matrix[0].map((col, i) => matrix.map(row => row[i]));
                     }
 
-                    function get_names(data, z) {
-                        dummy = []
-                        for (i = 0; i < data.length; i++) {
-                            d = data[i];
-                            d[z] = data[i][z]['value']
-
+                    function get_timeline_data(datax) {
+                        d = transpose([get_values(datax, 'value', z,
+                            'severity', true),
+                        get_values(datax, 'value', z,
+                            'date', false),
+                        get_values(datax, 'value', z,
+                            'severity', false),
+                            datax
+                        ])
+                        var dummy = [];
+                        for (i = 0; i < d.length; i++) {
                             dummy.push({
-                                'name': data[i][z][z]['name'],
-                                'value': d
+                                'name': d[i][3]['name'],
+                                'value': d[i],
+                                'symbol':d[i][3]['symbol']
                             })
                         }
-                        return data
+                        return dummy
                     }
 
                     function update_chart() {
                         data0 = rtoggle[0] ? update_data(data, z, toggle, zoom) : [];
                         data1 = rtoggle[1] ? update_data(sheetdata, z, toggle, zoom) : [];
-                        datax = data0.concat(data1);
+                        datax = sortObject(data0.concat(data1), 'value', z, 'date');
+                        datay = get_timeline_data(datax);
                         myChart.setOption({
                             series: [{
-                                id: 'szekelyhon',
-                                data: data0
+                                id: 'points',
+                                data: datax
                             }, {
-                                id: 'radar',
-                                data: data1
-                            }, {
-                                id: 'eszekelyhon',
-                                data: rtoggle[0] ? later_than(update_data(data,
+                                id: 'ripples',
+                                data: later_than(update_data(datax,
                                     z, toggle, zoom), z,
-                                    year) : []
-                            }, {
-                                id: 'eradar',
-                                data: rtoggle[1] ? later_than(update_data(
-                                    sheetdata, z, toggle, zoom),
-                                    z, year) : []
+                                    year)
                             }]
                         })
                         myChart2.setOption({
                             series: [{
-                                id: 'sc',
-                                data: transpose([get_values(data0, 'value', z,
-                                    'severity', true),
-                                get_values(data0, 'value', z,
-                                    'date', false),
-                                get_values(data0, 'value', z,
-                                    'severity', false),
-                                    data0
-                                ])
-                            },
-                            {
-                                id: 'sc2',
-                                data: transpose([get_values(data1, 'value', z,
-                                    'severity', true),
-                                get_values(data1, 'value', z,
-                                    'date', false),
-                                get_values(data1, 'value', z,
-                                    'severity', false),
-                                    data1
-                                ])
-                            }
-                            ]
+                                id: 'timeline',
+                                data: datay
+                            }]
                         })
 
                         d3.select('#myUL')
@@ -1050,7 +972,7 @@
                             .remove()
                         d3.select('#myUL')
                             .selectAll('li')
-                            .data(data0.reverse())
+                            .data(datax)
                             .enter()
                             .append('li')
                             .append('a')
@@ -1065,30 +987,9 @@
                                 drop = false;
                                 d3.select('#myUL')
                                     .style('display', 'none')
-                                update_labels(d.value[z],false)
+                                update_labels(d.value[z], false)
                             })
                     }
-
-
-
-                    d3.select('#main')
-                        .on('click', function (d) {
-                            drop = false;
-                            d3.select('#myUL')
-                                .style('display', 'none')
-                        })
-
-                    d3.select('#myInput')
-                        .on('keyup', myFunction)
-
-                    var drop = false;
-                    d3.select('#myInput')
-                        .on('click', function (d) {
-                            drop = !drop;
-                            d3.select('#myUL')
-                                .style('display', (drop) ? 'block' : 'none')
-                        })
-
 
                     function myFunction() {
                         // Declare variables
@@ -1111,13 +1012,36 @@
                         }
                     }
 
+                    function go_home() {
+                        myChart.setOption({
+                            leaflet: {
+                                center: home_center,
+                                zoom: home_zoom
+                            },
+                            series: [
+                                {
+                                    id: 'infocus',
+                                    data: []
+                                }
+                            ]
+                        })
+                        d3.select('#center')
+                            .html(home_title + ' &copy; 2019<br><span style="font-size:15px">frissült: 2019.03.25</span><br><i>beta verzió</i>')
+                    }
+
+                    d3.select('.leaflet-control-zoom')
+                        .append('div')
+                        .attr('id', 'home')
+                        .html('<i class="fas fa-home"></i>')
+                        .on('click', go_home)
+
                     var toggle = [true, true, true, true, true];
                     var rtoggle = [true, true];
                     var h = 25;
                     var r = 10;
 
                     var svg = d3.select('body').append('div').attr('id', 'legend')
-                        .append('svg').attr('height', 172).attr('width', 170)
+                        .append('svg').attr('height', 186).attr('width', 170)
 
                     svg.selectAll('.cat')
                         .data(toggle)
@@ -1142,7 +1066,7 @@
                         .attr('r', r)
                         .on('click', function (d, i) {
                             toggle[i] = !(toggle[i]);
-                            d3.select('.cat' + i).style('opacity', toggle[i] ? 1 : 0.2)
+                            d3.selectAll('.cat' + i).style('opacity', toggle[i] ? 1 : min_label_opc)
                             update_chart();
                         })
 
@@ -1171,7 +1095,7 @@
                         })
                         .on('click', function (d, i) {
                             toggle[i] = !(toggle[i]);
-                            d3.select('.cat' + i).style('opacity', toggle[i] ? 1 : 0.2)
+                            d3.selectAll('.cat' + i).style('opacity', toggle[i] ? 1 : min_label_opc)
                             update_chart();
                         })
 
@@ -1179,7 +1103,7 @@
                         .append('circle')
                         .attr('class', 'dim dim0')
                         .attr('cx', r + 1)
-                        .attr('cy', r + 1 + 5 * h)
+                        .attr('cy', r + 1 + 5.5 * h)
                         .attr('r', r)
                         .style('fill', '#9EA8B1')
                         .style('stroke', function (d, i) {
@@ -1191,7 +1115,7 @@
                         .on('click', function (d) {
                             i = 0;
                             rtoggle[i] = !(rtoggle[i]);
-                            d3.select('.dim' + i).style('opacity', rtoggle[i] ? 1 : 0.2)
+                            d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 : min_label_opc)
                             update_chart();
                         })
 
@@ -1200,7 +1124,7 @@
                         .append('rect')
                         .attr('class', 'dim dim1')
                         .attr('x', 1)
-                        .attr('y', 1 + 6 * h)
+                        .attr('y', 1 + 6.5 * h)
                         .attr('width', 2 * r)
                         .attr('height', 2 * r)
                         .style('fill', '#9EA8B1')
@@ -1213,7 +1137,7 @@
                         .on('click', function (d) {
                             i = 1;
                             rtoggle[i] = !(rtoggle[i]);
-                            d3.select('.dim' + i).style('opacity', rtoggle[i] ? 1 : 0.2)
+                            d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 : min_label_opc)
                             update_chart();
                         })
 
@@ -1228,7 +1152,7 @@
                         })
                         .attr('x', 2 * r + 5)
                         .attr('y', function (d, i) {
-                            return 1.5 * r + 1 + 5 * h
+                            return 1.5 * r + 1 + 5.5 * h
                         })
                         .text(function (d, i) {
                             return 'Hírek'
@@ -1236,7 +1160,7 @@
                         .on('click', function (d) {
                             i = 0;
                             rtoggle[i] = !(rtoggle[i]);
-                            d3.select('.dim' + i).style('opacity', rtoggle[i] ? 1 : 0.2)
+                            d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 : min_label_opc)
                             update_chart();
                         })
 
@@ -1251,7 +1175,7 @@
                         })
                         .attr('x', 2 * r + 5)
                         .attr('y', function (d, i) {
-                            return 1.5 * r + 1 + 6 * h
+                            return 1.5 * r + 1 + 6.5 * h
                         })
                         .text(function (d, i) {
                             return 'Medveradar'
@@ -1259,15 +1183,38 @@
                         .on('click', function (d) {
                             i = 1;
                             rtoggle[i] = !(rtoggle[i]);
-                            d3.select('.dim' + i).style('opacity', rtoggle[i] ? 1 : 0.2)
+                            d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 : min_label_opc)
                             update_chart();
                         })
 
-                    d3.select('.leaflet-control-zoom')
-                        .append('div')
-                        .attr('id', 'home')
-                        .html('<i class="fas fa-home"></i>')
-                        .on('click', go_home)
+                    d3.select('#main')
+                        .on('click', function (d) {
+                            drop = false;
+                            d3.select('#myUL')
+                                .style('display', 'none')
+                        })
+
+                    d3.select('#myInput')
+                        .on('keyup', myFunction)
+
+                    var drop = false;
+                    d3.select('#myInput')
+                        .on('click', function (d) {
+                            drop = !drop;
+                            d3.select('#myUL')
+                                .style('display', (drop) ? 'block' : 'none')
+                        })
+
+
+                    setTimeout(function () {
+                        d3.select('#v')
+                            .style('opacity', 1)
+                    }, 5000)
+
+                    setTimeout(function () {
+                        d3.select('#bga')
+                            .style('opacity', 1)
+                    }, 4000)
 
                     function urlFormatter(url) {
                         return url.toString()
@@ -1286,29 +1233,12 @@
 
                     //init
                     update_chart();
-                    update_labels(this_data,false)
+                    update_labels(this_data, false)
 
 
                     setTimeout(() => {
                         go_home()
                     }, 50)
-
-                    function go_home() {
-                        myChart.setOption({
-                            leaflet: {
-                                center: home_center,
-                                zoom: home_zoom
-                            },
-                            series: [
-                                {
-                                    id: 'infocus',
-                                    data: []
-                                }
-                            ]
-                        })
-                        d3.select('#center')
-                            .html(home_title + ' &copy; 2019<br><span style="font-size:15px">frissült: 2019.03.25</span><br><i>beta verzió</i>')
-                    }
 
                 });
             };
