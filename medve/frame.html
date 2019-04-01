@@ -5,7 +5,10 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-57335320-2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
         gtag('js', new Date());
 
         gtag('config', 'UA-57335320-2');
@@ -375,11 +378,10 @@
     <script>
         google.load("visualization", "1");
         google.setOnLoadCallback(init);
+
         function init() {
 
-            var GSheetID = '1-Ygp1M_nIK-iHq3hqF3qtKNgq6tZHttfzT42_1d_L-E'
             var query_type = 'data'
-            var sheetdata = [];
             var home = [25.82, 46.36];
             var form_coords = '46.30000, 25.70000';
             var home_center = [25.3, 46.4];
@@ -403,7 +405,8 @@
             ];
             var colors = ['#35978f', '#80cdc1', '#dfc27d', '#8c510a', '#543005'];
             var z = 4; //index of params
-            var year = '2019-03'; //min date to show ripple
+            var today = new Date()
+            var year = new Date().setDate(today.getDate() - 30) //'2019-03'; //min date to show ripple
             var minyear = '2006'; //absolute min year for all points
             var zoom = [60, 100] //starting zoom scale in percent of scale (60% about 2014-01)
             var counter = 0; //init counter for first point to show on load
@@ -419,7 +422,8 @@
             };
             var map_zoom = 12; //default map zoom on load
             var min_label_opc = 0.3; //turned off label opacity
-
+            var small_symbol=7;
+            var large_symbol = 20;
 
             function data_to_lists(ColumnNames, DataArray) {
                 return [ColumnNames].concat(DataArray)
@@ -438,8 +442,10 @@
                 return dummy
             }
 
+            var GSheetID = '1-Ygp1M_nIK-iHq3hqF3qtKNgq6tZHttfzT42_1d_L-E'
+            var sheetdata = [];
             var query1 = new
-                google.visualization.Query("https://docs.google.com/spreadsheet/ccc?key=" + GSheetID);
+            google.visualization.Query("https://docs.google.com/spreadsheet/ccc?key=" + GSheetID);
             query1.setQuery("");
             query1.send(handleQueryResponse1);
 
@@ -463,9 +469,8 @@
                 sheetdata = data_lists_to_object_array(data_to_lists(ColumnNames, DataArray))
                 // console.log(sheetdata)
 
-                d3.json("huncoords.json").then(function (geo_code) {
-                    //console.log(geo_code)
-                    
+                d3.json("geo/huncoords.json").then(function (geo_code) {
+
                     function sheet_formatter(data) {
                         var res = [];
                         for (var i = 0; i < data.length; i++) {
@@ -481,31 +486,43 @@
                                 res.push({
                                     name: iid,
                                     symbol: 'rect',
-                                    value: ((d['Pontosabban hol?']==form_coords) ? geo_code[igeo] : d['Pontosabban hol?']
-                                        .split(',').reverse())
+                                    value: ((d['Pontosabban hol?'] == form_coords) ? geo_code[igeo] : d[
+                                                'Pontosabban hol?']
+                                            .split(',').reverse())
                                         .concat([sheet_severity[d['Milyen eseményről van szó?']]])
-                                        .concat([leiras[sheet_severity[d['Milyen eseményről van szó?']]]])
+                                        .concat([leiras[sheet_severity[d[
+                                            'Milyen eseményről van szó?']]]])
                                         .concat({
                                             'geo_loc': igeo,
+                                            'exact_loc': (d['Pontosabban hol?'] == form_coords) ?
+                                                0 : 1,
                                             'content': (d['Egyedül volt?'] ?
-                                                '<ul><li>' + d['Egyedül volt?'].split('\n').join(', ') : ''
-                                            ) +
+                                                    '<ul><li>' + d['Egyedül volt?'].split('\n')
+                                                    .join(', ') : ''
+                                                ) +
                                                 (d['Közel volt?'] ?
-                                                    '</li><li>' + 'Távolság: ' + d['Közel volt?'].split('(')[1]
-                                                        .replace(')', '') : '') +
+                                                    '</li><li>' + 'Távolság: ' + d['Közel volt?']
+                                                    .split('(')[1]
+                                                    .replace(')', '') : '') +
                                                 (d['Még valami?'] ?
                                                     '</li><li>' + d['Még valami?'] : '') +
                                                 '</ul>',
                                             'date': idate,
                                             'deaths': '',
-                                            'link': (d['Fotód van róla?'])?d['Fotód van róla?']:'radar',
+                                            'link': (d['Fotód van róla?']) ? d['Fotód van róla?'] :
+                                                'radar',
                                             'name': iid,
                                             'image': d['Fotód van róla?'],
                                             'type': 'news',
                                             'source': 'Medveradar',
-                                            'severity': sheet_severity[d['Milyen eseményről van szó?']],
-                                            'title': (d['Ismert mackó? Van neve vagy ismertető jele?'] ?
-                                                d['Ismert mackó? Van neve vagy ismertető jele?'] :
+                                            'severity': sheet_severity[d[
+                                                'Milyen eseményről van szó?']],
+                                            'title': (d[
+                                                    'Ismert mackó? Van neve vagy ismertető jele?'
+                                                ] ?
+                                                d[
+                                                    'Ismert mackó? Van neve vagy ismertető jele?'
+                                                ] :
                                                 'Ismeretlen medve')
                                         })
                                 });
@@ -515,58 +532,89 @@
                     }
 
                     sheetdata = sheet_formatter(sheetdata)
-                    // console.log(sheetdata)
+                    //console.log(sheetdata)
 
-                    d3.json("data/szekelyhon_data.json").then(function (rawdata) {
+                    var GSheetID = '1DC8VZjp-O0fqjoUNuXUyzPg3TYK5XE8wm0W-pcRdwi4'
+                    var data = [];
+                    var query2 = new
+                    google.visualization.Query("https://docs.google.com/spreadsheet/ccc?key=" + GSheetID);
+                    query2.setQuery("");
+                    query2.send(handleQueryResponse2);
 
-                        // console.log(rawdata)
+                    function handleQueryResponse2(response) {
+                        var data = response.getDataTable();
+                        var ColumnNames = []
+                        var n_col = data.getNumberOfColumns()
+                        var DataArray = new Array(data.getNumberOfRows());
 
-                        var convertData = function (data) {
+                        for (var col = 0; col < n_col; col++) {
+                            ColumnNames.push(data.getColumnLabel(col))
+                        }
+                        for (var row = 0; row <
+                            data.getNumberOfRows(); row++) {
+                            DataArray[row] = new Array(n_col);
+                            for (var col = 0; col < n_col; col++) {
+                                DataArray[row][col] = data.getValue(row, col);
+                            }
+                        }
+
+                        data = data_lists_to_object_array(data_to_lists(ColumnNames, DataArray))
+                        //console.log(data)
+
+                        function data_formatter(data) {
                             var res = [];
-                            for (var i = 0; i < Object.keys(data.id).length; i++) {
-                                var geoCoord = (!data.longitude[i]) ? home : [data.longitude[i], data.latitude[
-                                    i]];
-                                var geoCoord = [geoCoord[0] + (Math.random() - 0.5) * s, geoCoord[1] + (Math
+                            for (var i = 0; i < data.length; i++) {
+                                var d = data[i];
+                                var geoCoord = (!d['longitude']) ? home : [d['longitude'], d['latitude']];
+                                var geoCoord = [geoCoord[0] + (Math.random() - 0.5) * s, geoCoord[1] + (
+                                    Math
                                     .random() - 0.5) * s]
-                                var severity = (data.severity[i] == 3) ? ((data
-                                    .deaths[
-                                    i] > 0) ? data.severity[i] +
-                                    1 : data
-                                        .severity[i]) : data.severity[i];
+                                var severity = (d.severity == 3) ? ((d
+                                        .deaths[
+                                            i] > 0) ? d.severity +
+                                    1 : d
+                                    .severity) : d.severity;
                                 if (geoCoord) {
-                                    if (data.relevant[i]) {
-                                        if (!(data.duplicate[i])) {
-                                            var iid = new Date(data.date[i]).toLocaleString("hu-HU",
-                                                date_options2) + ' ' + data.geo_loc[i]
+                                    if (d.relevant) {
+                                        if (!(d.duplicate)) {
+                                            var dt = d['date'];
+                                            var idate = dt ? new Date(Date.parse(dt)) : 'Ismeretlen';
+                                            var igeo = d.geo_loc;
+                                            var iid = idate.toLocaleString("hu-HU",
+                                                date_options2) + ' ' + igeo
                                             res.push({
                                                 name: iid,
                                                 symbol: 'circle',
                                                 value: geoCoord
                                                     .concat([severity, leiras[severity]])
                                                     .concat({
-                                                        'geo_loc': data.geo_loc[i],
-                                                        'content': data.content[i],
-                                                        'date': new Date(data.date[i]),
-                                                        'deaths': data.deaths[i],
-                                                        'link': data.link[i],
+                                                        'geo_loc': igeo,
+                                                        'exact_loc': d.exact_loc,
+                                                        'content': d.content,
+                                                        'date': idate,
+                                                        'deaths': d.deaths,
+                                                        'link': d.link,
                                                         'name': iid,
-                                                        'image': data.image[i],
+                                                        'image': d.image,
                                                         'severity': severity,
                                                         'type': 'news',
                                                         'source': 'Székelyhon',
-                                                        'title': data.title[i]
-                                                    }),
+                                                        'title': d.title
+                                                    })
                                             });
                                         }
                                     }
                                 }
                             }
                             return res;
-                        };
+                        }
+
+                        data = data_formatter(data)
+                        // console.log(data)
 
                         function later_than(data, k, t) {
                             var dummy = [];
-                            var t = new Date(Date.parse(t));
+                            // var t = new Date(Date.parse(t));
                             for (var i = 0; i < data.length; i++) {
                                 if (data[i].value[k].date > t) {
                                     dummy.push(data[i])
@@ -578,7 +626,7 @@
                         function filter_than(data, k, key, t) {
                             var dummy = [];
                             for (var i = 0; i < data.length; i++) {
-                                if (data[i].value[k][key] > t) {
+                                if (data[i].value[k][key] == t) {
                                     dummy.push(data[i])
                                 }
                             }
@@ -601,17 +649,16 @@
                         var coord_dict = {}
                         var data_dict = {}
                         var time_array = []
-                        var data = convertData(rawdata);
                         // console.log(data)
                         var all_data = data.concat(sheetdata)
                         // console.log(all_data)
 
                         var sorted_data = sortObject(all_data, 'value', z, 'date')
-                        // console.log(sorted_data)                    
+                        // console.log(sorted_data)
 
                         for (i = 0; i < sorted_data.length; i++) {
-                            sorted_data[i]['id']=i+' '+sorted_data[i]['name'];
-                            sorted_data[i]['value'][z]['id']=sorted_data[i]['id']
+                            sorted_data[i]['id'] = i + ' ' + sorted_data[i]['name'];
+                            sorted_data[i]['value'][z]['id'] = sorted_data[i]['id']
                             data_dict[sorted_data[i]['name']] = sorted_data[i];
                             coord_dict[sorted_data[i]['name']] = sorted_data[i]['value'].slice(0, 2)
                             if (sorted_data[i]['value'][z]['date'] >= Date.parse(minyear)) {
@@ -650,30 +697,30 @@
                                 max: 4,
                                 inverse: true,
                                 pieces: [{
-                                    value: 0,
-                                    label: leiras[0],
-                                    color: colors[0]
-                                },
-                                {
-                                    value: 1,
-                                    label: leiras[1],
-                                    color: colors[1]
-                                },
-                                {
-                                    value: 2,
-                                    label: leiras[2],
-                                    color: colors[2]
-                                },
-                                {
-                                    value: 3,
-                                    label: leiras[3],
-                                    color: colors[3]
-                                },
-                                {
-                                    value: 4,
-                                    label: leiras[4],
-                                    color: colors[4]
-                                }
+                                        value: 0,
+                                        label: leiras[0],
+                                        color: colors[0]
+                                    },
+                                    {
+                                        value: 1,
+                                        label: leiras[1],
+                                        color: colors[1]
+                                    },
+                                    {
+                                        value: 2,
+                                        label: leiras[2],
+                                        color: colors[2]
+                                    },
+                                    {
+                                        value: 3,
+                                        label: leiras[3],
+                                        color: colors[3]
+                                    },
+                                    {
+                                        value: 4,
+                                        label: leiras[4],
+                                        color: colors[4]
+                                    }
                                 ],
                                 itemWidth: 30,
                                 itemHeight: 20,
@@ -701,55 +748,103 @@
                                 }]
                             },
                             series: [{
-                                id: 'points',
-                                type: 'scatter',
-                                coordinateSystem: 'leaflet',
-                                symbolSize: 20,
-                                itemStyle: {
-                                    normal: {
-                                        borderColor: 'black',
-                                        opacity: 0.9
-                                    }
+                                    id: 'points',
+                                    type: 'scatter',
+                                    coordinateSystem: 'leaflet',
+                                    symbolSize: large_symbol,
+                                    itemStyle: {
+                                        normal: {
+                                            borderColor: 'black',
+                                            opacity: 0.9
+                                        }
+                                    },
+                                    zlevel: 1
+                                },
+                                {
+                                    id: 'points2',
+                                    type: 'scatter',
+                                    coordinateSystem: 'leaflet',
+                                    symbolSize: small_symbol,
+                                    hoverAnimation: false,
+                                    silent: true,
+                                    itemStyle: {
+                                        normal: {
+                                            borderColor: 'black',
+                                            opacity: 0.9
+                                        }
+                                    },
+                                    zlevel: 2
+                                },
+                                {
+                                    id: 'ripples',
+                                    type: 'effectScatter',
+                                    coordinateSystem: 'leaflet',
+                                    symbolSize: large_symbol,
+                                    rippleEffect: {
+                                        brushType: 'stroke',
+
+                                    },
+                                    hoverAnimation: true,
+                                    itemStyle: {
+                                        normal: {
+                                            shadowBlur: 4,
+                                            shadowColor: '#333',
+                                            borderColor: 'black',
+                                            opacity: 0.9
+                                        }
+                                    },
+                                    zlevel: 3
+                                },
+                                {
+                                    id: 'ripples2',
+                                    type: 'effectScatter',
+                                    coordinateSystem: 'leaflet',
+                                    symbolSize: small_symbol,
+                                    hoverAnimation: false,
+                                    silent: true,
+                                    itemStyle: {
+                                        normal: {
+                                            borderColor: 'black',
+                                            opacity: 0.9
+                                        }
+                                    },
+                                    zlevel: 4
+                                },
+                                {
+                                    id: 'infocus',
+                                    type: 'effectScatter',
+                                    coordinateSystem: 'leaflet',
+                                    symbolSize: large_symbol+5,
+                                    rippleEffect: {
+                                        brushType: 'stroke',
+
+                                    },
+                                    hoverAnimation: true,
+                                    itemStyle: {
+                                        normal: {
+                                            shadowBlur: 4,
+                                            shadowColor: '#333',
+                                            borderColor: 'black',
+                                            opacity: 0.9
+                                        }
+                                    },
+                                    zlevel: 5
+                                },
+                                {
+                                    id: 'infocus2',
+                                    type: 'effectScatter',
+                                    coordinateSystem: 'leaflet',
+                                    symbolSize: small_symbol+2,
+                                    hoverAnimation: false,
+                                    silent: true,
+                                    itemStyle: {
+                                        normal: {
+                                            borderColor: 'black',
+                                            opacity: 0.9
+                                        }
+                                    },
+                                    zlevel: 6
                                 }
-                            },
-                            {
-                                id: 'ripples',
-                                type: 'effectScatter',
-                                coordinateSystem: 'leaflet',
-                                symbolSize: 20,
-                                rippleEffect: {
-                                    brushType: 'stroke',
-
-                                },
-                                hoverAnimation: true,
-                                itemStyle: {
-                                    normal: {
-                                        shadowBlur: 4,
-                                        shadowColor: '#333',
-                                        borderColor: 'black'
-                                    }
-                                },
-                                zlevel: 1
-                            },
-                            {
-                                id: 'infocus',
-                                type: 'effectScatter',
-                                coordinateSystem: 'leaflet',
-                                symbolSize: 25,
-                                rippleEffect: {
-                                    brushType: 'stroke',
-
-                                },
-                                hoverAnimation: true,
-                                itemStyle: {
-                                    normal: {
-                                        shadowBlur: 4,
-                                        shadowColor: '#333',
-                                        borderColor: 'black'
-                                    }
-                                },
-                                zlevel: 3
-                            }
                             ]
                         });
 
@@ -790,19 +885,19 @@
                                         opacity: 0.4
                                     }
                                 }
-                            }
-                            ]
+                            }]
                         });
 
                         function update_labels(d, map_click) {
 
                             counter = label_dict(datax)[d.id]
                             console.log(d.id, counter)
-                            
+
                             myChart.setOption({
                                 leaflet: {
                                     center: coord_dict[d.name],
-                                    zoom: map_click ? Math.max(map_zoom, myChart.getOption().leaflet[0].zoom) : map_zoom
+                                    zoom: map_click ? Math.max(map_zoom, myChart.getOption()
+                                        .leaflet[0].zoom) : map_zoom
                                 }
                             })
 
@@ -827,10 +922,13 @@
 
                             setTimeout(() => {
                                 myChart.setOption({
-                                    series: [
-                                        {
+                                    series: [{
                                             id: 'infocus',
                                             data: [data_dict[d.name]]
+                                        },
+                                        {
+                                            id: 'infocus2',
+                                            data: (d.exact_loc)?[data_dict[d.name]]:[]
                                         }
                                     ]
                                 })
@@ -932,11 +1030,11 @@
 
                         function get_timeline_data(datax) {
                             d = transpose([get_values(datax, 'value', z,
-                                'severity', true),
-                            get_values(datax, 'value', z,
-                                'date', false),
-                            get_values(datax, 'value', z,
-                                'severity', false),
+                                    'severity', true),
+                                get_values(datax, 'value', z,
+                                    'date', false),
+                                get_values(datax, 'value', z,
+                                    'severity', false),
                                 datax
                             ])
                             var dummy = [];
@@ -960,9 +1058,17 @@
                                     id: 'points',
                                     data: datax
                                 }, {
+                                    id: 'points2',
+                                    data: filter_than(datax, z, 'exact_loc', 1)
+                                }, {
                                     id: 'ripples',
                                     data: later_than(update_data(datax,
-                                        z, toggle, zoom), z,
+                                            z, toggle, zoom), z,
+                                        year)
+                                }, {
+                                    id: 'ripples2',
+                                    data: later_than(update_data(filter_than(datax, z, 'exact_loc', 1),
+                                            z, toggle, zoom), z,
                                         year)
                                 }]
                             })
@@ -1024,15 +1130,15 @@
                                     center: home_center,
                                     zoom: home_zoom
                                 },
-                                series: [
-                                    {
-                                        id: 'infocus',
-                                        data: []
-                                    }
-                                ]
+                                series: [{
+                                    id: 'infocus',
+                                    data: []
+                                }]
                             })
                             d3.select('#center')
-                                .html(home_title + ' &copy; 2019<br><span style="font-size:15px">frissült: 2019.03.25</span><br><i>beta verzió</i>')
+                                .html(home_title +
+                                    ' &copy; 2019<br><span style="font-size:15px">frissült: 2019.03.25</span><br><i>beta verzió</i>'
+                                )
                         }
 
                         d3.select('.leaflet-control-zoom')
@@ -1072,7 +1178,8 @@
                             .attr('r', r)
                             .on('click', function (d, i) {
                                 toggle[i] = !(toggle[i]);
-                                d3.selectAll('.cat' + i).style('opacity', toggle[i] ? 1 : min_label_opc)
+                                d3.selectAll('.cat' + i).style('opacity', toggle[i] ? 1 :
+                                    min_label_opc)
                                 update_chart();
                             })
 
@@ -1101,7 +1208,8 @@
                             })
                             .on('click', function (d, i) {
                                 toggle[i] = !(toggle[i]);
-                                d3.selectAll('.cat' + i).style('opacity', toggle[i] ? 1 : min_label_opc)
+                                d3.selectAll('.cat' + i).style('opacity', toggle[i] ? 1 :
+                                    min_label_opc)
                                 update_chart();
                             })
 
@@ -1121,7 +1229,8 @@
                             .on('click', function (d) {
                                 i = 0;
                                 rtoggle[i] = !(rtoggle[i]);
-                                d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 : min_label_opc)
+                                d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 :
+                                    min_label_opc)
                                 update_chart();
                             })
 
@@ -1143,7 +1252,8 @@
                             .on('click', function (d) {
                                 i = 1;
                                 rtoggle[i] = !(rtoggle[i]);
-                                d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 : min_label_opc)
+                                d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 :
+                                    min_label_opc)
                                 update_chart();
                             })
 
@@ -1166,7 +1276,8 @@
                             .on('click', function (d) {
                                 i = 0;
                                 rtoggle[i] = !(rtoggle[i]);
-                                d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 : min_label_opc)
+                                d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 :
+                                    min_label_opc)
                                 update_chart();
                             })
 
@@ -1189,7 +1300,8 @@
                             .on('click', function (d) {
                                 i = 1;
                                 rtoggle[i] = !(rtoggle[i]);
-                                d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 : min_label_opc)
+                                d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 :
+                                    min_label_opc)
                                 update_chart();
                             })
 
@@ -1231,7 +1343,8 @@
                                 .split('@').join('%40')
                         }
 
-                        var tweet = 'https:szekelydata.csaladen.es/medve #medveterkep #medveradar #szekelydata #dataviz @csaladenes'
+                        var tweet =
+                            'https:szekelydata.csaladen.es/medve #medveterkep #medveradar #szekelydata #dataviz @csaladenes'
 
                         d3.select('#tw')
                             .attr('href', 'https://twitter.com/home?status=' + urlFormatter(tweet))
@@ -1246,7 +1359,7 @@
                             go_home()
                         }, 50)
 
-                    });
+                    }
                 });
             };
         };
