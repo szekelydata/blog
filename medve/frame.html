@@ -498,7 +498,7 @@
                                                 '</ul>',
                                             'date': idate,
                                             'deaths': '',
-                                            'link': 'radar',
+                                            'link': (d['Fotód van róla?'])?d['Fotód van róla?']:'radar',
                                             'name': iid,
                                             'image': d['Fotód van róla?'],
                                             'type': 'news',
@@ -593,7 +593,7 @@
                         function label_dict(data) {
                             dummy = []
                             for (i = 0; i < data.length; i++) {
-                                dummy[data[i]['name']] = i;
+                                dummy[data[i]['id']] = i;
                             }
                             return dummy
                         }
@@ -610,6 +610,8 @@
                         // console.log(sorted_data)                    
 
                         for (i = 0; i < sorted_data.length; i++) {
+                            sorted_data[i]['id']=i+' '+sorted_data[i]['name'];
+                            sorted_data[i]['value'][z]['id']=sorted_data[i]['id']
                             data_dict[sorted_data[i]['name']] = sorted_data[i];
                             coord_dict[sorted_data[i]['name']] = sorted_data[i]['value'].slice(0, 2)
                             if (sorted_data[i]['value'][z]['date'] >= Date.parse(minyear)) {
@@ -794,9 +796,9 @@
 
                         function update_labels(d, map_click) {
 
-                            counter = label_dict(datax)[d.name]
-                            console.log(d.name, counter)
-
+                            counter = label_dict(datax)[d.id]
+                            console.log(d.id, counter)
+                            
                             myChart.setOption({
                                 leaflet: {
                                     center: coord_dict[d.name],
