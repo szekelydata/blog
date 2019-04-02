@@ -488,7 +488,7 @@
                                     symbol: 'rect',
                                     value: ((d['Pontosabban hol?'] == form_coords) ? geo_code[igeo] : d[
                                                 'Pontosabban hol?']
-                                            .split(',').reverse())
+                                            .split(',')).reverse()
                                         .concat([sheet_severity[d['Milyen eseményről van szó?']]])
                                         .concat([leiras[sheet_severity[d[
                                             'Milyen eseményről van szó?']]]])
