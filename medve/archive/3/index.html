@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="//www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+  <meta name="description" content="Medvetérkép | székelydata @csaladenes" />
+  <meta name="keywords"
+    content="csaladenes, d3.js, data visualization, infographic, d3plus, d3, data visualization, mit oec, mit, mit atlas, macro connections, set, d3.js, ipython, flourish, economy, omnibus, szekelyland, szekelydata, romania, transylvania, erdely" />
+  <meta property="og:image" content="https://szekelydata.csaladen.es/medve/hamarosan.png" />
+  <meta property="twitter:image" content="https://szekelydata.csaladen.es/gazdasag/2018/header1.png" />
+  <meta property="og:description" content="Medvetérkép | székelydata @csaladenes" />
+  <meta property="twitter:description" content="Medvetérkép | székelydata @csaladenes" />
+  <meta property="og:title" content="Medvetérkép | székelydata" />
+  <meta property="twitter:title" content="Medvetérkép | székelydata" />
+  <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+  <meta property="og:url" content="https://szekelydata.csaladen.es/medve" />
+  <meta property="twitter:url" content="https://szekelydata.csaladen.es/medve" />
+  <meta property="og:site_name" content="SZÉKELYDATA" />
+  <meta property="fb:admins" content="100943737036023614165" />
+  <link rel="shortcut icon" href="https://szekelydata.csaladen.es/favicon.ico" />
+  <link rel="publisher" href="https://plus.google.com/106181965793093327960" />
+  <title>Medvetérkép | székelydata</title>
+
+  <style>
+    html,
+    body {
+      height: 100%;
+      width: 100%;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      padding: 0;
+      margin: 0;
+      border: none;
+      overflow: hidden;
+    }
+
+    div {
+      transition: opacity 0.5s;
+      -webkit-transition: opacity 0.5s;
+    }
+
+    iframe {
+      border: none;
+      overflow: hidden;
+      background: none;
+      padding: 0;
+      margin: 0;
+      display: block;
+      width: 1000px;
+      height: 720px;
+    }
+
+    img {
+      display: block;
+    }
+
+    #bg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      z-index: -2;
+      width: 100%;
+      height: 100%;
+    }
+
+    #fr {
+      z-index: 2;
+    }
+
+    #cg {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      background-color: #eee;
+      opacity: 1;
+      z-index: -1;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+
+<body>
+  <div id='bg'><video style="position: absolute; left:0px; top:0px; min-width: 100%;
+        min-height: 100%;" loop muted autoplay poster="hamarosan.png">
+      <source src="medve.mp4" type="video/mp4">
+  </div>
+  <div id='cg'></div>
+  <div id='fr'>
+    <a href='http://szekelydata.csaladen.es'><img src='hamarosan.png' width="500px;"></a>
+  </div>
+  <script>
+
+    setTimeout(function () {
+      var cg = document.getElementById('cg');
+      cg.style.opacity = 0;
+      var bg = document.getElementById('bg');
+      bg.style.opacity = .2;
+    }, 2000)
+
+  </script>
+</body>
