@@ -2,7 +2,37 @@
 <html lang="en">
 
 <head>
+  <!-- Use correct character set. -->
   <meta charset="utf-8">
+  <!-- Tell IE to use the latest, best version. -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <title>A N T A R C T I C A</title>
+  <meta name="description"
+    content="A N T A R C T I C A | Research Stations Exploratorium with Ceisum JS and D3plus #tsne #cesiumjs #d3plus #dataviz #d3js #cesium @csaladenes" />
+  <meta name="keywords"
+    content="csaladenes, d3.js, data visualization, infographic, d3plus, d3, cesium, cesiumjs, map, interactivemap, data visualization, mit oec, mit, mit atlas, macro connections" />
+  <meta property="og:image" content="https://blog.csaladen.es/antarctica/antarctica.gif" />
+  <meta property="og:image:width" content="604px" />
+  <meta property="og:image:height" content="300px" />
+  <meta property="twitter:image" content="https://blog.csaladen.es/antarctica/antarctica.gif" />
+  <meta property="og:description"
+    content="A N T A R C T I C A | Research Stations Exploratorium with Ceisum JS and D3plus #tsne #cesiumjs #d3plus #dataviz #d3js #cesium @csaladenes" />
+  <meta property="twitter:description"
+    content="A N T A R C T I C A | Research Stations Exploratorium with Ceisum JS and D3plus #tsne #cesiumjs #d3plus #dataviz #d3js #cesium @csaladenes" />
+  <meta property="og:title" content="A N T A R C T I C A research stations interactive map" />
+  <meta property="twitter:title" content="A N T A R C T I C A research stations interactive map" />
+  <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+  <meta property="og:url" content="https://blog.csaladen.es/antarctica/" />
+  <meta property="twitter:url" content="https://blog.csaladen.es/antarctica/" />
+  <meta property="og:site_name" content="Try something new. Everyday." />
+  <meta property="fb:admins" content="100943737036023614165" />
+  <link rel="shortcut icon" href="https://showyourstripes.info/favicon.ico" />
+  <link rel="publisher" href="https://plus.google.com/106181965793093327960" />
+
+
   <script src="https://cesium.com/downloads/cesiumjs/releases/1.63/Build/Cesium/Cesium.js"></script>
   <link href="https://cesium.com/downloads/cesiumjs/releases/1.63/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
   <script src="https://d3js.org/d3-collection.v1.min.js"></script>
@@ -30,7 +60,7 @@
   <div id="cesiumContainer"></div>
   <script>
     Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJiZWYxMTQwMC1iZjRiLTQ2ZmQtYTk0MS0zNGI3MjI1MzRlZTYiLCJpZCI6MTY5MjcsInNjb3BlcyI6WyJhc3IiLCJnYyJdLCJpYXQiOjE1NzEzMjU3ODd9.InYGD_zyuB-tFLaIahXGyU5SoYyd5tjI3EaInQ5zrOs';
-    d3.csv("../stripes/hu.csv", function (rawdata) {
+    d3.csv("stripes/huro.csv", function (rawdata) {
       var data = Object.values(rawdata).slice(0, -1)
 
       // console.log(data)
@@ -72,80 +102,9 @@
             "id": shape,
             "name": name,
             "position": {
-              "cartographicDegrees": [lat, lon, ((year-min_years[d[0]]['year']) + 1 / 2) * height]
+              "cartographicDegrees": [lat, lon, ((year - min_years[d[0]]['year']) + 1 / 2) * height]
             },
             "cylinder": {
               "length": height,
               "topRadius": radius,
-              "bottomRadius": radius,
-              "material": {
-                "solidColor": {
-                  "color": {
-                    "rgba": [d3.rgb(color).r, d3.rgb(color).g, d3.rgb(color).b, 255]
-                  }
-                }
-              }
-            }
-          })
-        }
-      })
-
-      min_years.forEach(function (i, d) {
-        var mradius = radius / 3
-        var mheight = (2019 - min_years[d]['year'] - 0.1) * height;
-        var shape = d + 'min_year'
-        var name = shape
-        czml.push({
-          "id": shape,
-          "name": name,
-          "position": {
-            "cartographicDegrees": [min_years[d]['lat'], min_years[d]['lon'], mheight / 2]
-          },
-          "cylinder": {
-            "length": mheight,
-            "topRadius": mradius,
-            "bottomRadius": mradius,
-            "material": {
-              "solidColor": {
-                "color": {
-                  "rgba": [204, 204, 204, 235]
-                }
-              }
-            }
-          }
-        })
-      })
-
-      var viewer = new Cesium.Viewer('cesiumContainer', {
-        imageryProvider: new Cesium.OpenStreetMapImageryProvider({
-          url: 'https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/'
-        }),
-        baseLayerPicker: false,
-        shouldAnimate: true,
-        animation: false,
-        // geocoder: false,
-        homeButton: false,
-        timeline: false,
-        navigationInstructionsInitiallyVisible: false
-      });
-
-      //Enable lighting based on sun/moon positions
-      // viewer.scene.globe.enableLighting = true;
-      // viewer.clock.clockRange = Cesium.ClockRange.LOOP_STOP; //Loop at the end
-      // viewer.clock.multiplier = 1000;
-      // viewer.infoBox.frame.sandbox = "allow-same-origin allow-top-navigation allow-pointer-lock allow-popups allow-forms allow-scripts";
-
-      // imageryProvider: new Cesium.UrlTemplateImageryProvider({
-      //     url: 'https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png?lang=hu'
-      //   }),
-
-      var dataSourcePromise = Cesium.CzmlDataSource.load(czml);
-      viewer.dataSources.add(dataSourcePromise);
-      viewer.zoomTo(dataSourcePromise);
-
-    })
-
-  </script>
-</body>
-
-</html>
+        

@@ -45,6 +45,7 @@
       var radius = 7000;
 
       var min_years = new Array();
+
       data.forEach(function (d) {
         var lon = parseFloat(d[4]);
         var lat = parseFloat(d[5]);
@@ -54,15 +55,24 @@
 
           if (Object.keys(min_years).indexOf(d[0]) < 0) min_years[d[0]] = { 'year': 2019, 'lat': lat, 'lon': lon };
           min_years[d[0]]['year'] = Math.min(min_years[d[0]]['year'], year)
+        }
+      })
+
+      data.forEach(function (d) {
+        var lon = parseFloat(d[4]);
+        var lat = parseFloat(d[5]);
+        var year = parseInt(d['year']);
+        var measure = 'temp_delta_last10'
+        if (d[measure]) {
 
           var shape = d[0] + d['year']
           var name = d[''] + d['year'] + ' ' + d[measure]
-          var color = d3.scaleSequential(d3.interpolateRdYlBu).domain([1, -2.5])(d[measure])
+          var color = d3.scaleSequential(d3.interpolateRdYlBu).domain([0.5, -2])(d[measure])
           czml.push({
             "id": shape,
             "name": name,
             "position": {
-              "cartographicDegrees": [lat, lon, (2019 - year + 1 / 2) * height]
+              "cartographicDegrees": [lat, lon, ((year-min_years[d[0]]['year']) + 1 / 2) * height]
             },
             "cylinder": {
               "length": height,
@@ -108,7 +118,8 @@
 
       var viewer = new Cesium.Viewer('cesiumContainer', {
         imageryProvider: new Cesium.OpenStreetMapImageryProvider({
-          url: 'https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/'
+          url: 'https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/',
+          attribution: 'fg'
         }),
         baseLayerPicker: false,
         shouldAnimate: true,
