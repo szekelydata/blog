@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html style="height: 100%">
+
+<head>
+  <meta charset="utf-8">
+</head>
+
+<body style="height: 100%; margin: 0">
+  <div id="container" style="height: 100%"></div>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-gl/dist/echarts-gl.min.js"></script>
+  <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-stat/dist/ecStat.min.js"></script> -->
+  <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/extension/dataTool.min.js"></script> -->
+  <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/map/js/china.js"></script> -->
+  <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/map/js/world.js"></script> -->
+  <!-- <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=xfhhaTThl11qYVrqLZii6w8qE5ggnhrY&__ec_v__=20190126"></script> -->
+  <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/extension/bmap.min.js"></script> -->
+  <script src="https://d3js.org/d3-collection.v1.min.js"></script>
+  <script src="https://d3js.org/d3-dispatch.v1.min.js"></script>
+  <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
+  <script src="https://d3js.org/d3-request.v1.min.js"></script>
+  <script type="text/javascript">
+    var dom = document.getElementById("container");
+    var myChart = echarts.init(dom);
+    var app = {};
+    option = null;
+    app.title = 'MyViz';
+
+    var hours = ['12a', '10:30', '2a', '3a', '4a', '5a', '6a',
+      '7a', '8a', '9a', '10a', '11a',
+      '12p', '1p', '2p', '3p', '4p', '5p',
+      '6p', '7p', '8p', '9p', '10p', '11p'];
+    var days = ['Saturday', 'Friday', 'Thursday',
+      'Wednesday', 'Tuesday', 'Monday', 'Sunday'];
+
+    d3.csv("../stripes/geotest.csv", function (rawdata) {
+      var data = Object.values(rawdata).slice(0, -1)
+
+      var data2 = {}
+      data.forEach(function (d) {
+        (Object.keys(data2).indexOf(d['year']) > 0) ? data2[d['year']].push([d[4], d[5], d['value'], d['temp_delta80']]) : data2[d['year']] = new Array();
+      })
+
+      console.log(data2)
+
+      var series = [];
+      Object.keys(data2).sort(function (a, b) { return b - a }).forEach(function (year) {
+        series.push({
+          type: 'bar3D',
+          data: data2[year],
+          stack: 'stack',
+          shading: 'lambert',
+          emphasis: {
+            label: {
+              show: false
+            }
+          }
+        });
+      })
+
+      option = {
+          xAxis3D: {
+            type: 'category'
+          },
+          yAxis3D: {
+            type: 'category'
+          },
+          zAxis3D: {
+            type: 'value',
+            min: 0,
+            max: 80
+          },
+          grid3D: {
+            viewControl: {
+              // autoRotate: true
+            },
+            light: {
+              main: {
+                shadow: true,
+                quality: 'ultra',
+                intensity: 1.5
+              }
+            }
+          },
+          dataset: {
+            source: data
+          },
+          visualMap: {
+            min: -2,
+            max: 2,
+            calculable: true,
+            orient: 'horizontal',
+            left: 'center',
+            bottom: '5%',
+            inRange: {
+              // color: ['#1D3461', '#4575b4', '#74add1', '#abd9e9', '#e0f3f8', '#ffffbf', '#fee090', '#fdae61', '#f46d43', '#d73027', '#550C18'],
+              color: ['#1D3461', '#4575b4', '#ffffcf', '#d73027', '#550C18'],
+              // symbolSize: [30, 100]
+            }
+          },
+          series: series
+        };
+      if (option && typeof option === "object") {
+        myChart.setOption(option, true);
+      }
+    })
+  </script>
+</body>
+
+</html>

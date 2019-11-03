@@ -1,0 +1,1560 @@
+<html>
+
+<head>
+    
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+    <meta name="description"
+        content="Térképre helyeztük a székelyföldi medvetámadásokat. #medve #medveterkep #medveradar #szekelydata #szekelyland #dataviz @csaladenes" />
+    <meta name="keywords"
+        content="csaladenes, d3.js, data visualization, infographic, d3plus, d3, echarts, leaflet, map, terkep, bear map, bear, medveterkep, bear attack, medvetamadas, szekelyland, szekelydata, romania, transylvania, erdely" />
+    <meta property="og:image" content="https://medve.csaladen.es/snapshot.png" />
+    <meta property="twitter:image" content="https://medve.csaladen.es/snapshot.png" />
+    <meta property="og:description"
+        content="Térképre helyeztük a székelyföldi medvetámadásokat. #medve #medveterkep #medveradar #szekelydata #szekelyland #dataviz @csaladenes" />
+    <meta property="twitter:description"
+        content="Térképre helyeztük a székelyföldi medvetámadásokat. #medve #medveterkep #medveradar #szekelydata #szekelyland #dataviz @csaladenes" />
+    <meta property="og:title" content="🐻 Medvetérkép | székelydata" />
+    <meta property="twitter:title" content="🐻 Medvetérkép | székelydata" />
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+    <meta property="og:url" content="http://csaladenes.egologo.ro/?p=1721" />
+    <meta property="twitter:url" content="http://csaladenes.egologo.ro/?p=1721" />
+    <meta property="og:site_name" content="székelydata" />
+    <meta property="fb:admins" content="100943737036023614165" />
+    <link rel="shortcut icon" href="https://szekelydata.csaladen.es/favicon.ico" />
+    <link rel="publisher" href="https://plus.google.com/106181965793093327960" />
+    <link rel="shortcut icon" href="https://szekelydata.csaladen.es/blog/favicon.ico" />
+
+    <link rel="stylesheet" href="js/leaflet.css" crossorigin="" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css"
+        integrity="sha384-Mmxa0mLqhmOeaE8vgOSbKacftZcsNYDjQzuCOm6D02luYSzBG8vpaOykv9lFQ51Y" crossorigin="anonymous">
+    <script src="https://www.google.com/jsapi"></script>
+    <script src="js/d3-fetch.v1.min.js"></script>
+    <script src="js/d3-selection.v1.min.js"></script>
+    <script src="js/echarts.min.js"></script>
+    <script src="js/leaflet.js"></script>
+    <script src="js/echarts-leaflet.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+
+<body>
+    <style>
+        @import url(//fonts.googleapis.com/css?family=Lato:300,400,700);
+
+        html,
+        body {
+            font-family: 'Lato', Calibri, Arial, sans-serif;
+            background-color: none;
+            font-weight: 400;
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            color: rgb(56, 37, 26);
+            overflow: hidden;
+        }
+
+        a {
+            color: rgb(56, 37, 26);
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        #main {
+            width: calc(100% - 350px);
+            height: 100%;
+            position: fixed;
+            top: 0;
+            left: 350px;
+            border-left: 5px solid #7F7F7F;
+        }
+
+        #chart {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 80%;
+            height: 100%;
+            opacity: 0.8;
+        }
+
+        #chart2 {
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 20%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.8);
+            border-left: 1px solid #7F7F7F;
+        }
+
+        #nav {
+            width: 348px;
+            height: 100%;
+            padding: 0px;
+            position: fixed;
+            top: 0;
+            opacity: 0.9;
+            background: #9EA8B1;
+            border-right: 2px solid black;
+            left: 0px;
+        }
+
+        video {
+            position: fixed;
+            left: -20%;
+            top: 0%;
+            opacity: 0;
+            min-width: 120%;
+            min-height: 100%;
+            transition: opacity 0.5s;
+            -webkit-transition: opacity 0.5s;
+        }
+
+        #bga {
+            width: 100%;
+            height: 80%;
+            padding: 0px;
+            position: fixed;
+            top: 0;
+            left: 0px;
+            opacity: 0;
+            background: linear-gradient(to bottom, rgba(256, 256, 256, 1), rgba(256, 256, 256, 0.2));
+        }
+
+        #logo {
+            position: absolute;
+            left: 15%;
+            top: 10px;
+        }
+
+        #footer {
+            position: absolute;
+            left: 0;
+            bottom: 20px;
+        }
+
+        #ddate {
+            padding-top: 12px;
+        }
+
+        #footer2 {
+            position: absolute;
+            left: 0;
+            height: 21px;
+            background-color: rgb(173, 142, 106);
+            width: 100%;
+            bottom: 0px;
+        }
+
+        #mysearch {
+            left: 0px;
+            width: 100%;
+            z-index: 99;
+            /* text-shadow: 1px 1px 1px black; */
+        }
+
+        #table {
+            position: absolute;
+            left: 5%;
+            top: 150px;
+            width: 92%;
+            /* text-shadow: 1px 1px 1px black; */
+        }
+
+        #image {
+            width: 110px;
+            height: 73px;
+            border: solid 1px rgb(56, 37, 26);
+        }
+
+        i {
+            width: 25px;
+        }
+
+        #search {
+            height: 20px;
+        }
+
+        #tc {
+            padding-bottom: 10px;
+
+        }
+
+        .head {
+            font-size: 17px;
+            /* padding-left: 110px; */
+        }
+
+        #contribute {
+            position: absolute;
+            right: 24px;
+            bottom: 80px;
+            font-size: 24px;
+        }
+
+        #social {
+            font-size: 24px;
+        }
+
+        #navi {
+            position: absolute;
+            right: 0px;
+            top: 8px;
+            font-size: 24px;
+        }
+
+        #looking {
+            position: absolute;
+            left: 13px;
+            top: 13px;
+            font-size: 18px;
+        }
+
+        #radar {
+            position: absolute;
+            left: 15px;
+            font-size: 17px;
+            bottom: 33px;
+
+        }
+
+        #radar2 {
+            position: absolute;
+            left: 15px;
+            font-size: 14px;
+            bottom: 10px;
+            text-shadow: 1px 1px 1px black;
+        }
+
+        #navi i:hover {
+            text-shadow: 1px 1px 3px black;
+        }
+
+        #legend {
+            position: absolute;
+            left: 355px;
+            font-size: 17px;
+            bottom: 0px;
+            background: linear-gradient(to right, rgba(256, 256, 256, 1), rgba(256, 256, 256, 0));
+            /* background-color: rgba(256, 256, 256, 0.5); */
+            /* border: solid 1px rgb(56, 37, 26); */
+            padding:5px;
+            padding-left: 15px;
+            padding-bottom: 15px;
+
+        }
+
+        #center {
+            position: absolute;
+            left: 410px;
+            font-size: 18px;
+            top: 10px;
+            color: rgb(83, 56, 40);
+            font-weight: bold;
+            text-shadow: 1px 1px 1px black;
+        }
+
+        #radar a,
+        input {
+            color: rgb(83, 56, 40);
+            text-shadow: 1px 1px 2px black;
+        }
+
+        #contribute a {
+            color: rgb(83, 56, 40);
+            text-shadow: 1px 1px 2px black;
+        }
+
+        #home {
+            font-size: 17px;
+            background: #fff;
+            padding: 5px 0px 5px 5px;
+        }
+
+        #home:hover {
+            cursor: pointer;
+            background: #eee;
+        }
+
+        svg:hover,
+        #navi:hover {
+            cursor: pointer;
+        }
+
+        svg text {
+            font-size: 0.9em;
+            font-weight: 'bold';
+        }
+
+        #myInput {
+            /* Do not repeat the icon image */
+            width: 100%;
+            /* Full-width */
+            font-size: 18px;
+            /* Increase font-size */
+            padding: 12px 20px 8px 40px;
+            /* Add some padding */
+            /* border: 1px solid #ddd; */
+            /* Add a grey border */
+            margin-bottom: 15px;
+            background-color: rgb(189, 203, 216);
+            /* Add some space below the input */
+            /* z-index: 50; */
+        }
+
+        #myUL {
+            /* Remove default list styling */
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            margin-top: -12px;
+            margin-left: 1px;
+            display: none;
+            position: absolute;
+            height: 300px;
+            overflow-y: auto;
+            width: 99%;
+        }
+
+        #myUL li a {
+            border: 1px solid #ddd;
+            /* Add a border to all links */
+            margin-top: -1px;
+            /* Prevent double borders */
+            background-color: rgb(189, 203, 216);
+            /* Grey background color */
+            padding: 4px;
+            /* Add some padding */
+            text-decoration: none;
+            /* Remove default text underline */
+            font-size: 18px;
+            /* Increase the font-size */
+            /* Add a black text color */
+            display: block;
+            text-shadow: 1px 1px 2px black;
+            /* z-index: 50; */
+            /* Make it into a block element to fill the whole list */
+        }
+
+        #myUL li a:hover:not(.header) {
+            background-color: #eee;
+            /* Add a hover effect to all links, except for headers */
+        }
+        #content ul li {
+            width:270px;
+            word-wrap: break-word;
+        }
+    </style>
+    <video loop muted autoplay id='v'>
+        <source src="viz/medve.mp4" type="video/mp4">
+    </video>
+    <div id='bga'></div>
+    <div id='nav'>
+        <a href='/' target='_blank'>
+            <div id='logo'>
+                <img src='viz/szekelydata_medveterkep5.png' width="85%">
+            </div>
+        </a>
+        <div id='footer2'>&nbsp;</div>
+        <div id='footer'>
+            <img src='viz/footer_medve4.png' width="100%">
+        </div>
+        <div id='radar'>
+            <a href='radar/' target='_blank'>Medvét láttál? Jelezd a Medveradaron&nbsp;&nbsp;<i
+                    class="fas fa-wifi"></i></a>
+        </div>
+        <div id='radar2'>
+            <a href='data/' target='_blank'>Hibát találtál? Javítsd ki!&nbsp;&nbsp;<i class="fas fa-table"></i></a>
+            <a href='https://github.com/szekelydata/medveterkep/issues' target='_blank'>Nem működik? &nbsp;&nbsp;<i
+                    class="fab fa-github"></i></a>
+        </div>
+        <div id='table'>
+            <div id='mysearch'>
+                <input type="text" id="myInput" placeholder="Keresés...">
+                <ul id="myUL">
+                </ul>
+            </div>
+            <a id='sourcelink' href='' target='_blank'>
+                <table id='desc'>
+                    <tr>
+                        <td rowspan='3' style='width:115px;'>
+                            <img id='image' src='viz/medv.png' style='margin-left:1px;'>
+                        </td>
+
+                        <td class='head' id='ddate'><i class="fas fa-clock"></i><b id='date'></b></td>
+                    <tr>
+                        <td id='tb' class='head'><i class="fas fa-paw"></i><b id='severity'></b></td>
+                    </tr>
+                    <tr>
+                        <td id='tc' class='head'><i class="fas fa-at"></i><b id='source'></b></td>
+                    </tr>
+                </table>
+            </a>
+            <table id='desc2'>
+                <tr>
+                    <td colspan='1'><b id='title'></b></td>
+                </tr>
+                <tr>
+                    <td colspan='1' id='content'></td>
+                </tr>
+            </table>
+            <div id='navi'>
+                <i class="fas fa-caret-left" id='left'></i>
+                <i class="fas fa-caret-right" id='right'></i></a>
+            </div>
+            <div id='looking'>
+                <i class="fas fa-search"></i></a>
+            </div>
+        </div>
+        <div id='contribute'>
+            <a href="#" id='fb' class='text'
+                onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+            <a href='' id='tw' target='_blank' class='text'>
+                <i class="fab fa-twitter"></i>
+            </a>&nbsp;
+            <a id='help' href='http://csaladenes.egologo.ro/?p=1721' class='text' target='_blank' title='Leírás'>
+                <i class="fas fa-question"></i>
+            </a>
+        </div>
+    </div>
+
+    <div id='main'>
+        <div id='chart'></div>
+        <div id='chart2'></div>
+    </div>
+    <div id='center'></div>
+    <script>
+        google.load("visualization", "1");
+        google.setOnLoadCallback(init);
+
+        function init() {
+
+            var tweet =
+                'https://medve.csaladen.es #medveterkep #medveradar #szekelydata #dataviz @csaladenes'
+            var query_type = 'data'
+            var home = [25.82, 46.36];
+            var form_coords = '46.30000, 25.70000';
+            var home_center = [25.3, 46.4];
+            var home_title = 'Medvetérkép';
+            var home_zoom = 9;
+            var s = 0.005; //coordinate randomizer
+            var sheet_severity = {
+                'Medvét láttam a környéken': 2,
+                'Állatokra támadt': 3,
+                'Emberre támadt': 4,
+                'Állatokra támadott': 3,
+                'Emberre támadott': 4,
+                'Emberi áldozat': 5,
+                'Medvepolitikai döntés vagy esemény': 0,
+                'Medvére utaló nyomot láttam': 1
+            }
+            var leiras = ['Más esemény',
+                'Medvenyom',
+                'Medvét láttak',
+                'Állatokra támadt',
+                'Emberre támadt',
+                'Emberáldozat'
+            ];
+            var colors = ['#35978f','#7ABC74', '#80cdc1', '#dfc27d', '#8c510a', '#543005'];
+            var symbols = { 'Székelyhon': 'circle', 'Vadkárok HR': 'triangle' };
+            var z = 4; //index of params
+            var today = new Date()
+            var year = new Date().setDate(today.getDate() - 30) //'2019-03'; //min date to show ripple
+            var minyear = '2006'; //absolute min year for all points
+            var zoom = [60, 100] //starting zoom scale in percent of scale (60% about 2014-01)
+            var counter = 0; //init counter for first point to show on load
+            var friss = '2019.10.31'
+            var verzio = '1.2'
+            var date_options = {
+                year: "numeric",
+                month: "long",
+                day: "numeric"
+            };
+            var date_options2 = {
+                year: "numeric",
+                month: "numeric",
+                day: "numeric"
+            };
+            var map_zoom = 12; //default map zoom on load
+            var min_label_opc = 0.3; //turned off label opacity
+            var small_symbol = 7;
+            var large_symbol = 20;
+
+            function data_to_lists(ColumnNames, DataArray) {
+                return [ColumnNames].concat(DataArray)
+            }
+
+            function data_lists_to_object_array(data) {
+                var dummy = [];
+                var keys = data[0]
+                for (i = 1; i < data.length; i++) {
+                    var d = {};
+                    for (j = 0; j < keys.length; j++) {
+                        d[keys[j]] = data[i][j];
+                    }
+                    dummy.push(d);
+                }
+                return dummy
+            }
+
+            var GSheetID = '1-Ygp1M_nIK-iHq3hqF3qtKNgq6tZHttfzT42_1d_L-E'
+            var sheetdata = [];
+            var query1 = new
+                google.visualization.Query("https://docs.google.com/spreadsheet/ccc?key=" + GSheetID);
+            query1.setQuery("");
+            query1.send(handleQueryResponse1);
+
+            function handleQueryResponse1(response) {
+                var data = response.getDataTable();
+                var ColumnNames = []
+                var n_col = data.getNumberOfColumns()
+                var DataArray = new Array(data.getNumberOfRows());
+
+                for (var col = 0; col < n_col; col++) {
+                    ColumnNames.push(data.getColumnLabel(col))
+                }
+                for (var row = 0; row <
+                    data.getNumberOfRows(); row++) {
+                    DataArray[row] = new Array(n_col);
+                    for (var col = 0; col < n_col; col++) {
+                        DataArray[row][col] = data.getValue(row, col);
+                    }
+                }
+
+                sheetdata = data_lists_to_object_array(data_to_lists(ColumnNames, DataArray))
+                // console.log(sheetdata)
+
+                d3.json("geo/huncoords.json").then(function (geo_code) {
+
+                    function sheet_formatter(data) {
+                        var res = [];
+                        for (var i = 0; i < data.length; i++) {
+                            var d = data[i];
+                            if (d['Display'] != 0) {
+                                var pt = d['Mikor történt az eset?'].split("/");
+                                var dt = pt[1] + '/' + pt[0] + '/' + pt[2];
+                                var iname = d['Submission ID'];
+                                var idate = dt ? new Date(Date.parse(dt)) : 'Ismeretlen';
+                                var igeo = d['Melyik település környékén?'].split('\n')[1];
+                                var iid = idate.toLocaleString("hu-HU",
+                                    date_options2) + ' ' + igeo
+                                var loc = (d['Pontosabban hol?']) ? d['Pontosabban hol?'] : form_coords
+                                var sloc=[parseFloat(loc.split(',')[0]),parseFloat(loc.split(',')[1])]
+                                res.push({
+                                    name: iid,
+                                    symbol: 'rect',
+                                    value: ((loc == form_coords) ? geo_code[igeo] : sloc).reverse()
+                                        .concat([sheet_severity[d['Milyen eseményről van szó?']]])
+                                        .concat([leiras[sheet_severity[d[
+                                            'Milyen eseményről van szó?']]]])
+                                        .concat({
+                                            'geo_loc': igeo,
+                                            'exact_loc': (d['Pontosabban hol?'] == form_coords) ?
+                                                0 : 1,
+                                            'content': (d['Egyedül volt?'] ?
+                                                '<ul><li>' + d['Egyedül volt?'].split('\n')
+                                                    .join(', ') : ''
+                                            ) +
+                                                (d['Közel volt?'] ?
+                                                    '</li><li>' + 'Távolság: ' + d['Közel volt?']
+                                                        .split('(')[1]
+                                                        .replace(')', '') : '') +
+                                                (d['Még valami?'] ?
+                                                    '</li><li>' + d['Még valami?'] : '') +
+                                                '</ul>',
+                                            'date': idate,
+                                            'deaths': '',
+                                            'link': (d['Fotód van róla?']) ? d['Fotód van róla?'] :
+                                                'radar',
+                                            'name': iid,
+                                            'image': d['Fotód van róla?'],
+                                            'type': 'news',
+                                            'source': 'Medveradar',
+                                            'severity': sheet_severity[d[
+                                                'Milyen eseményről van szó?']],
+                                            'title': (d[
+                                                'Ismert mackó? Van neve vagy ismertető jele?'
+                                            ] ?
+                                                d[
+                                                'Ismert mackó? Van neve vagy ismertető jele?'
+                                                ] :
+                                                'Ismeretlen medve')
+                                        })
+                                });
+                            }
+                        }
+                        return res;
+                    }
+
+                    sheetdata = sheet_formatter(sheetdata)
+                    // console.log(sheetdata)
+
+                    var GSheetID = '1DC8VZjp-O0fqjoUNuXUyzPg3TYK5XE8wm0W-pcRdwi4'
+                    var data = [];
+                    var query2 = new
+                        google.visualization.Query("https://docs.google.com/spreadsheet/ccc?key=" + GSheetID);
+                    query2.setQuery("");
+                    query2.send(handleQueryResponse2);
+
+                    function handleQueryResponse2(response) {
+                        var data = response.getDataTable();
+                        var ColumnNames = []
+                        var n_col = data.getNumberOfColumns()
+                        var DataArray = new Array(data.getNumberOfRows());
+
+                        for (var col = 0; col < n_col; col++) {
+                            ColumnNames.push(data.getColumnLabel(col))
+                        }
+                        for (var row = 0; row <
+                            data.getNumberOfRows(); row++) {
+                            DataArray[row] = new Array(n_col);
+                            for (var col = 0; col < n_col; col++) {
+                                DataArray[row][col] = data.getValue(row, col);
+                            }
+                        }
+
+                        data = data_lists_to_object_array(data_to_lists(ColumnNames, DataArray))
+                        //console.log(data)
+
+                        function data_formatter(data) {
+                            var res = [];
+                            for (var i = 0; i < data.length; i++) {
+                                var d = data[i];
+                                if (!d['longitude'])
+                                    if (d.geo_loc)
+                                        if (geo_code[d.geo_loc])
+                                            console.log('geocoded', d.geo_loc, 'to', geo_code[d.geo_loc])
+                                        else
+                                            console.log("can't geocode", d.geo_loc)
+                                s = (d.exact_loc) ? (s * 1) : s; //reduce jitter if exact
+                                var geoCoord = (!d['longitude']) ? (d.geo_loc ? geo_code[d.geo_loc].reverse() : home) : [d['longitude'], d['latitude']];
+                                var geoCoord = [geoCoord[0] + (Math.random() - 0.5) * s, geoCoord[1] + (
+                                    Math
+                                        .random() - 0.5) * s]
+                                var severity = (d.severity == 4) ?
+                                    ((d.deaths > 0) ? 5 : d.severity) : d.severity;
+
+                                if (d.checked) {
+                                    if (d.relevant) {
+                                        if (!(d.duplicate)) {
+                                            var dt = d['date'];
+                                            var idate = dt ? new Date(Date.parse(dt)) : 'Ismeretlen';
+                                            var igeo = d.geo_loc;
+                                            var iid = idate.toLocaleString("hu-HU",
+                                                date_options2) + ' ' + igeo
+                                            res.push({
+                                                name: iid,
+                                                symbol: symbols[d.source],
+                                                value: geoCoord
+                                                    .concat([severity, leiras[severity]])
+                                                    .concat({
+                                                        'geo_loc': igeo,
+                                                        'exact_loc': d.exact_loc,
+                                                        'content': d.content,
+                                                        'date': idate,
+                                                        'deaths': d.deaths,
+                                                        'link': d.link,
+                                                        'name': iid,
+                                                        'image': d.image,
+                                                        'severity': severity,
+                                                        'type': 'news',
+                                                        'source': d.source,
+                                                        'title': d.title
+                                                    })
+                                            });
+                                        }
+                                    }
+                                }
+                            }
+                            return res;
+                        }
+
+                        data = data_formatter(data)
+                        // console.log(data)
+
+                        function later_than(data, k, t) {
+                            var dummy = [];
+                            // var t = new Date(Date.parse(t));
+                            for (var i = 0; i < data.length; i++) {
+                                if (data[i].value[k].date > t) {
+                                    dummy.push(data[i])
+                                }
+                            }
+                            return dummy;
+                        }
+
+                        function filter_than(data, k, key, t) {
+                            var dummy = [];
+                            for (var i = 0; i < data.length; i++) {
+                                if (data[i].value[k][key] == t) {
+                                    dummy.push(data[i])
+                                }
+                            }
+                            return dummy;
+                        }
+
+                        function sortObject(objs, k1, k2, k3) {
+                            return objs.sort((a, b) => (a[k1][k2][k3] > b[k1][k2][k3]) ? -1 :
+                                ((b[k1][k2][k3] > a[k1][k2][k3]) ? 1 : 0));
+                        }
+
+                        function label_dict(data) {
+                            dummy = []
+                            for (i = 0; i < data.length; i++) {
+                                dummy[data[i]['id']] = i;
+                            }
+                            return dummy
+                        }
+
+                        function filter_value(data){
+                            var hexpoints=new Array()
+                            data.forEach(function(d){
+                                hexpoints.push(d.value.slice(0,2).concat([1]))
+                            })
+                            return hexpoints
+                        }
+
+                        var coord_dict = {}
+                        var data_dict = {}
+                        var time_array = []
+                        // console.log(data)
+                        var all_data = data.concat(sheetdata)
+                        // console.log(all_data)
+
+                        var sorted_data = sortObject(all_data, 'value', z, 'date')
+                        // console.log(sorted_data)
+
+                        for (i = 0; i < sorted_data.length; i++) {
+                            sorted_data[i]['id'] = i// + ' ' + sorted_data[i]['name'];
+                            sorted_data[i]['value'][z]['id'] = sorted_data[i]['id']
+                            data_dict[sorted_data[i]['id']] = sorted_data[i];
+                            coord_dict[sorted_data[i]['id']] = sorted_data[i]['value'].slice(0, 2)
+                            if (sorted_data[i]['value'][z]['date'] >= Date.parse(minyear)) {
+                                time_array.push(sorted_data[i]['value'][z]['date'])
+                            }
+                        }
+
+                        time_array.sort(function (a, b) {
+                            return new Date(a.start).getTime() - new Date(b.start).getTime()
+                        })
+                        var max_time = time_array[0]
+                        // var min_time=time_array.reverse()[0]
+                        var min_time = new Date(Date.parse(minyear))
+
+                        var this_data = sorted_data[counter]['value'][z];
+                        var data0;
+                        var data1;
+                        var datax;
+
+                        var myChart = echarts.init(document.getElementById('chart'));
+                        var myChart2 = echarts.init(document.getElementById('chart2'));
+                        var pieces=new Array();
+                        for (i=0;i<colors.length;i++){
+                            pieces.push({value:i,label:leiras[i],color:colors[i]})
+                        }
+                        options = {
+                            tooltip: {
+                                trigger: 'item',
+                                showContent: false
+                            },
+                            textStyle: {
+                                fontFamily: 'Lato'
+                            },
+                            visualMap: {
+                                type: 'piecewise',
+                                dimension: 2,
+                                show: false,
+                                min: 0,
+                                max: 5,
+                                inverse: true,
+                                pieces: pieces,
+                                itemWidth: 30,
+                                itemHeight: 20,
+                                textStyle: {
+                                    color: '#533828',
+                                    fontSize: 16,
+                                    fontWeight: 'bold'
+                                }
+                            },
+                        }
+
+                        myChart.setOption(options)
+                        myChart2.setOption(options)
+
+                        myChart.setOption({
+                            leaflet: {
+                                height: '100%',
+                                roam: true,
+                                tiles: [{
+                                    label: 'Open Street Map',
+                                    urlTemplate: 'https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png?lang=hu',
+                                    options: {
+                                        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="https://maps.wikimedia.org" target="_blank">Wikimedia</a>'
+                                    }
+                                }]
+                            },
+                            series: [{
+                                id: 'points',
+                                type: 'scatter',
+                                coordinateSystem: 'leaflet',
+                                symbolSize: large_symbol,
+                                itemStyle: {
+                                    normal: {
+                                        borderColor: 'black',
+                                        opacity: 0.9
+                                    }
+                                },
+                                zlevel: 10
+                            },
+                            {
+                                id: 'points2',
+                                type: 'scatter',
+                                coordinateSystem: 'leaflet',
+                                symbolSize: small_symbol,
+                                hoverAnimation: false,
+                                silent: true,
+                                itemStyle: {
+                                    normal: {
+                                        borderColor: 'black',
+                                        opacity: 0.9
+                                    }
+                                },
+                                zlevel: 20
+                            },
+                            {
+                                id: 'ripples',
+                                type: 'effectScatter',
+                                coordinateSystem: 'leaflet',
+                                symbolSize: large_symbol,
+                                rippleEffect: {
+                                    brushType: 'stroke',
+
+                                },
+                                hoverAnimation: true,
+                                itemStyle: {
+                                    normal: {
+                                        shadowBlur: 4,
+                                        shadowColor: '#333',
+                                        borderColor: 'black',
+                                        opacity: 0.9
+                                    }
+                                },
+                                zlevel: 30
+                            },
+                            {
+                                id: 'ripples2',
+                                type: 'effectScatter',
+                                coordinateSystem: 'leaflet',
+                                symbolSize: small_symbol,
+                                hoverAnimation: false,
+                                silent: true,
+                                itemStyle: {
+                                    normal: {
+                                        borderColor: 'black',
+                                        opacity: 0.9
+                                    }
+                                },
+                                zlevel: 40
+                            },
+                            {
+                                id: 'infocus',
+                                type: 'effectScatter',
+                                coordinateSystem: 'leaflet',
+                                symbolSize: large_symbol + 5,
+                                rippleEffect: {
+                                    brushType: 'stroke',
+
+                                },
+                                hoverAnimation: true,
+                                itemStyle: {
+                                    normal: {
+                                        shadowBlur: 4,
+                                        shadowColor: '#333',
+                                        borderColor: 'black',
+                                        opacity: 0.9
+                                    }
+                                },
+                                zlevel: 50
+                            },
+                            {
+                                id: 'infocus2',
+                                type: 'effectScatter',
+                                coordinateSystem: 'leaflet',
+                                symbolSize: small_symbol + 2,
+                                hoverAnimation: false,
+                                silent: true,
+                                itemStyle: {
+                                    normal: {
+                                        borderColor: 'black',
+                                        opacity: 0.9
+                                    }
+                                },
+                                zlevel: 60
+                            }]
+                        });
+
+                        myChart2.setOption({
+
+                            yAxis: {
+                                type: 'time',
+                                min: minyear
+                            },
+                            xAxis: {
+                                gridIndex: 0,
+                                max: 5,
+                                inverse: true,
+                                show: false
+                            },
+                            grid: {
+                                left: '50px',
+                                bottom: '40px',
+                                right: '80px',
+                                top: '40px'
+                            },
+                            dataZoom: [{
+                                id: 'dataZoomY',
+                                type: 'slider',
+                                yAxisIndex: [0],
+                                filterMode: 'empty',
+                                start: zoom[0],
+                                end: zoom[1],
+                                right: 30
+                            }],
+                            series: [{
+                                id: 'timeline',
+                                type: 'scatter',
+                                symbolSize: 10,
+                                itemStyle: {
+                                    normal: {
+                                        borderColor: 'black',
+                                        opacity: 0.4
+                                    }
+                                }
+                            }]
+                        });
+
+                        function update_labels(d, map_click) {
+
+                            counter = label_dict(datax)[d.id]
+                            console.log('in focus:', d.id, d.name)
+
+                            myChart.setOption({
+                                leaflet: {
+                                    center: coord_dict[d.id],
+                                    zoom: map_click ? Math.max(map_zoom, myChart.getOption()
+                                        .leaflet[0].zoom) : map_zoom
+                                }
+                            })
+
+                            d3.select('#myInput')
+                                .property('value', d.geo_loc)
+                            d3.select('#source')
+                                .text(d.source)
+                            d3.select('#sourcelink')
+                                .attr('href', d.link)
+                            d3.select('#date')
+                                .text(d.date.toLocaleString("hu-HU", date_options))
+                            d3.select('#severity')
+                                .text(leiras[d.severity])
+                            d3.select('#title')
+                                .text(d.title)
+                            d3.select('#image')
+                                .attr('src', d.image ? d.image : 'viz/medv.png')
+                            d3.select('#content')
+                                .html(d.content)
+
+                            update_title(d)
+
+                            setTimeout(() => {
+                                myChart.setOption({
+                                    series: [{
+                                        id: 'infocus',
+                                        data: [data_dict[d.id]]
+                                    },
+                                    {
+                                        id: 'infocus2',
+                                        data: (d.exact_loc) ? [data_dict[d.id]] : []
+                                    }
+                                    ]
+                                })
+                            }, 500)
+                        }
+
+                        function update_title(d) {
+                            // console.log(d)
+                            d3.select('#center')
+                                .html('<span style="font-size:15px">' + d.title +
+                                    '</span><br>' + d.geo_loc + ', ' + d.date.toLocaleString("hu-HU",
+                                        date_options) +
+                                    '<br><span style="color:' + colors[d.severity] + '">' + leiras[d
+                                        .severity] +
+                                    '</span>')
+                        }
+
+                        function update_data(data, k, rtoggle, toggle, zoom) {
+                            diff = Math.abs(max_time - min_time)
+                            start = new Date(min_time.getTime() + diff * zoom[0] / 100.0)
+                            end = new Date(min_time.getTime() + diff * zoom[1] / 100.0)
+                            var dummy = [];
+                            for (var i = 0; i < data.length; i++) {
+                                d = data[i];
+                                if (rtoggle[d.value[k]['source']]) {
+                                    if (toggle[d.value[k]['severity']]) {
+                                        this_date = d.value[k]['date']
+                                        if ((this_date <= end) && (this_date >= start)) {
+                                            dummy.push(d)
+                                        }
+                                    }
+                                }
+                            }
+                            return dummy;
+                        }
+
+                        myChart.on('click', function (event) {
+                            // console.log(event)
+                            var d = event.data.value[z];
+                            update_labels(d, true)
+                        })
+
+                        myChart.on('mouseover', function (event) {
+                            // console.log(event)
+                            var d = event.data.value[z];
+                            update_title(d)
+                        })
+
+                        myChart2.on('click', function (event) {
+                            // console.log(event)
+                            var d = event.data.value[3].value[z];
+                            update_labels(d, false)
+                        })
+
+                        myChart2.on('mouseover', function (event) {
+                            // console.log(event)
+                            var d = event.data.value[3].value[z];
+                            update_title(d)
+                        })
+
+                        myChart2.on('datazoom', function (event) {
+                            zoom = [event.start, event.end]
+                            update_chart()
+                        })
+
+                        d3.select('#right')
+                            .on('click', function () {
+                                counter = Math.max(counter - 1, 0);
+                                this_data = datax[counter]['value'][z];
+                                update_labels(this_data, false)
+                            })
+
+                        d3.select('#left')
+                            .on('click', function () {
+                                counter = Math.min(counter + 1, datax.length);
+                                this_data = datax[counter]['value'][z];
+                                update_labels(this_data, false)
+                            })
+
+                        function get_values(data, key, z, key2, noise) {
+                            dummy = [];
+                            for (i = 0; i < data.length; i++) {
+                                jitter = (Math.random(1) - 0.5) * 0.6
+                                dummy.push(data[i][key][z][key2])
+                                // if (noise) console.log(jitter)
+                            }
+                            return dummy
+                        }
+
+                        function get_leiras(data, key, z, key2, leiras) {
+                            dummy = [];
+                            for (i = 0; i < data.length; i++) {
+                                dummy.push(leiras[data[i][key][z][key2]])
+                            }
+                            return dummy
+                        }
+
+                        function transpose(matrix) {
+                            return matrix[0].map((col, i) => matrix.map(row => row[i]));
+                        }
+
+                        function get_timeline_data(datax) {
+                            d = transpose([get_values(datax, 'value', z,
+                                'severity', true),
+                            get_values(datax, 'value', z,
+                                'date', false),
+                            get_values(datax, 'value', z,
+                                'severity', false),
+                                datax
+                            ])
+                            var dummy = [];
+                            for (i = 0; i < d.length; i++) {
+                                dummy.push({
+                                    'name': d[i][3]['name'],
+                                    'value': d[i],
+                                    'symbol': d[i][3]['symbol']
+                                })
+                            }
+                            return dummy
+                        }
+
+                        function update_chart() {
+                            data0 = update_data(data, z, rtoggle, toggle, zoom);
+                            data1 = update_data(sheetdata, z, rtoggle, toggle, zoom);
+                            datax = sortObject(data0.concat(data1), 'value', z, 'date');
+                            datay = get_timeline_data(datax);
+                            dataz = filter_than(datax, z, 'exact_loc', 1);
+                            datax = exact ? dataz : datax;
+                            console.log(datax,filter_value(datax))
+                            myChart.setOption({
+                                series: [{
+                                    id: 'points',
+                                    data: datax
+                                }, {
+                                    id: 'points2',
+                                    data: dataz
+                                }, {
+                                    id: 'ripples',
+                                    data: later_than(update_data(datax,
+                                        z, rtoggle, toggle, zoom), z,
+                                        year)
+                                }, {
+                                    id: 'ripples2',
+                                    data: later_than(update_data(dataz,
+                                        z, rtoggle, toggle, zoom), z,
+                                        year)
+                                }]
+                            })
+                            myChart2.setOption({
+                                series: [{
+                                    id: 'timeline',
+                                    data: datay
+                                }]
+                            })
+
+                            d3.select('#myUL')
+                                .selectAll('li')
+                                .remove()
+                            d3.select('#myUL')
+                                .selectAll('li')
+                                .data(datax)
+                                .enter()
+                                .append('li')
+                                .append('a')
+                                .attr('href', '#')
+                                .text(function (d) {
+                                    return d.name
+                                })
+                                .style('color', function (d) {
+                                    return colors[d.value[z].severity]
+                                })
+                                .on('click', function (d) {
+                                    drop = false;
+                                    d3.select('#myUL')
+                                        .style('display', 'none')
+                                    update_labels(d.value[z], false)
+                                })
+                        }
+
+                        function myFunction() {
+                            // Declare variables
+                            var input, filter, ul, li, a, i, txtValue;
+                            input = document.getElementById('myInput');
+                            filter = input.value.toUpperCase();
+                            ul = document.getElementById("myUL");
+                            li = ul.getElementsByTagName('li');
+
+                            // Loop through all list items, and hide those who don't match the search query
+                            for (i = 0; i < li.length; i++) {
+                                a = li[i].getElementsByTagName("a")[0];
+                                txtValue = a.textContent ||
+                                    a.innerText;
+                                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                                    li[i].style.display = "";
+                                } else {
+                                    li[i].style.display = "none";
+                                }
+                            }
+                        }
+
+                        function go_home() {
+                            myChart.setOption({
+                                leaflet: {
+                                    center: home_center,
+                                    zoom: home_zoom
+                                },
+                                series: [{
+                                    id: 'infocus',
+                                    data: []
+                                }]
+                            })
+                            d3.select('#center')
+                                .html(home_title +
+                                    ' &copy; 2019<br><span style="font-size:15px">frissült: ' + friss + '</span><br><i style="font-size:15px">' + verzio + ' verzió</i>'
+                                )
+                        }
+
+                        d3.select('.leaflet-control-zoom')
+                            .append('div')
+                            .attr('id', 'home')
+                            .html('<i class="fas fa-home"></i>')
+                            .on('click', go_home)
+
+                        // d3.select('.leaflet-top.leaflet-right')
+                        //     .append('div')
+                        //     .attr('class', 'leaflet-control')
+                        //     .attr('id', 'social')
+                        //     .html(
+                        //         '<a href = "#" id = "fb" class="text"><i class="fab fa-facebook-f"></i></a>' +
+                        //         '<a href="" id="tw" target="_blank" class="text"><i class="fab fa-twitter"></i></a>'
+                        //     )
+
+                        d3.select('#fb')
+                            .attr('onclick',
+                                "window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"
+                            )
+                        d3.select('#tw')
+                            .attr('href', 'https://twitter.com/home?status=' + urlFormatter(tweet))
+
+                        var toggle = [true, true, true, true, true, true];
+                        var rtoggle = { 'Medveradar': true, 'Székelyhon': true, 'Vadkárok HR': true };
+                        var exact = false;
+                        var h = 25;
+                        var r = 10;
+
+                        var svg = d3.select('body').append('div').attr('id', 'legend')
+                            .append('svg').attr('height', 247+1*h).attr('width', 170)
+
+                        svg.selectAll('.cat')
+                            .data(toggle)
+                            .enter()
+                            .append('circle')
+                            .attr('class', function (d, i) {
+                                return 'cat cat' + i
+                            })
+                            .style('fill', function (d, i) {
+                                return colors[i]
+                            })
+                            .style('stroke', function (d, i) {
+                                return 'black'
+                            })
+                            .style('stroke-width', function (d, i) {
+                                return 1
+                            })
+                            .attr('cx', r + 1)
+                            .attr('cy', function (d, i) {
+                                return r + 1 + i * h
+                            })
+                            .attr('r', r)
+                            .on('click', function (d, i) {
+                                toggle[i] = !(toggle[i]);
+                                d3.selectAll('.cat' + i).style('opacity', toggle[i] ? 1 :
+                                    min_label_opc)
+                                update_chart();
+                            })
+
+                        svg.selectAll('text')
+                            .data(toggle)
+                            .enter()
+                            .append('text')
+                            .attr('class', function (d, i) {
+                                return 'cat cat' + i
+                            })
+                            .style('fill', function (d, i) {
+                                return colors[i]
+                            })
+                            .style('stroke', function (d, i) {
+                                return 'black'
+                            })
+                            .style('stroke-width', function (d, i) {
+                                return 0.7
+                            })
+                            .attr('x', 2 * r + 5)
+                            .attr('y', function (d, i) {
+                                return 1.5 * r + 1 + i * h
+                            })
+                            .text(function (d, i) {
+                                return leiras[i]
+                            })
+                            .on('click', function (d, i) {
+                                toggle[i] = !(toggle[i]);
+                                d3.selectAll('.cat' + i).style('opacity', toggle[i] ? 1 :
+                                    min_label_opc)
+                                update_chart();
+                            })
+
+                        svg
+                            .append('circle')
+                            .attr('class', 'dim dim0')
+                            .attr('cx', r + 1)
+                            .attr('cy', r + 1 + 6.5 * h)
+                            .attr('r', r)
+                            .style('fill', '#9EA8B1')
+                            .style('stroke', function (d, i) {
+                                return 'black'
+                            })
+                            .style('stroke-width', function (d, i) {
+                                return 1
+                            })
+                            .on('click', function (d) {
+                                i = 'Székelyhon';
+                                rtoggle[i] = !(rtoggle[i]);
+                                d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 :
+                                    min_label_opc)
+                                update_chart();
+                            })
+
+                        svg.append('text')
+                            .attr('class', 'dim dim0')
+                            .style('fill', '#9EA8B1')
+                            .style('stroke', function (d, i) {
+                                return 'black'
+                            })
+                            .style('stroke-width', function (d, i) {
+                                return 0.7
+                            })
+                            .attr('x', 2 * r + 5)
+                            .attr('y', function (d, i) {
+                                return 1.5 * r + 1 + 6.5 * h
+                            })
+                            .text(function (d, i) {
+                                return 'Székelyhon'
+                            })
+                            .on('click', function (d) {
+                                i = 'Székelyhon';
+                                rtoggle[i] = !(rtoggle[i]);
+                                d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 :
+                                    min_label_opc)
+                                update_chart();
+                            })
+
+                        svg
+                            .append('polygon')
+                            .attr('points', 1 + "," + (8.3 * h) + " " + (1 + 2 * r) + "," + (8.3 * h) + " " + (1 + r) + "," + (8.3 * h - 2 * r))
+                            .attr('class', 'dim dim1')
+                            // .attr('cx', r + 1)
+                            // .attr('cy', r + 1 + 6.5 * h)
+                            // .attr('r', r)
+                            .style('fill', '#9EA8B1')
+                            .style('stroke', function (d, i) {
+                                return 'black'
+                            })
+                            .style('stroke-width', function (d, i) {
+                                return 1
+                            })
+                            .on('click', function (d) {
+                                i = 'Vadkárok HR';
+                                rtoggle[i] = !(rtoggle[i]);
+                                d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 :
+                                    min_label_opc)
+                                update_chart();
+                            })
+
+                        svg.append('text')
+                            .attr('class', 'dim dim1')
+                            .style('fill', '#9EA8B1')
+                            .style('stroke', function (d, i) {
+                                return 'black'
+                            })
+                            .style('stroke-width', function (d, i) {
+                                return 0.7
+                            })
+                            .attr('x', 2 * r + 5)
+                            .attr('y', function (d, i) {
+                                return 1.5 * r + 1 + 7.5 * h
+                            })
+                            .text(function (d, i) {
+                                return 'Vadkárok HR'
+                            })
+                            .on('click', function (d) {
+                                i = 'Vadkárok HR';
+                                rtoggle[i] = !(rtoggle[i]);
+                                d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 :
+                                    min_label_opc)
+                                update_chart();
+                            })
+
+                        svg
+                            .append('rect')
+                            .attr('class', 'dim dim2')
+                            .attr('x', 1)
+                            .attr('y', 1 + 8.5 * h)
+                            .attr('width', 2 * r)
+                            .attr('height', 2 * r)
+                            .style('fill', '#9EA8B1')
+                            .style('stroke', function (d, i) {
+                                return 'black'
+                            })
+                            .style('stroke-width', function (d, i) {
+                                return 1
+                            })
+                            .on('click', function (d) {
+                                i = 'Medveradar';
+                                rtoggle[i] = !(rtoggle[i]);
+                                d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 :
+                                    min_label_opc)
+                                update_chart();
+                            })
+
+                        svg.append('text')
+                            .attr('class', 'dim dim2')
+                            .style('fill', '#9EA8B1')
+                            .style('stroke', function (d, i) {
+                                return 'black'
+                            })
+                            .style('stroke-width', function (d, i) {
+                                return 1
+                            })
+                            .attr('x', 2 * r + 5)
+                            .attr('y', function (d, i) {
+                                return 1.5 * r + 1 + 8.5 * h
+                            })
+                            .text(function (d, i) {
+                                return 'Medveradar'
+                            })
+                            .on('click', function (d) {
+                                i = 'Medveradar';
+                                rtoggle[i] = !(rtoggle[i]);
+                                d3.selectAll('.dim' + i).style('opacity', rtoggle[i] ? 1 :
+                                    min_label_opc)
+                                update_chart();
+                            })
+
+                        svg
+                            .append('rect')
+                            .attr('class', 'exact')
+                            .attr('x', 1)
+                            .attr('y', 1 + 10 * h)
+                            .attr('width', 2 * r)
+                            .attr('height', 2 * r)
+                            .style('fill', '#9EA8B1')
+                            .style('stroke', function (d, i) {
+                                return 'black'
+                            })
+                            .style('stroke-width', function (d, i) {
+                                return 1
+                            })
+
+                        svg
+                            .append('rect')
+                            .attr('class', 'exact')
+                            .attr('x', 1 + 0.6 * r)
+                            .attr('y', 1 + 0.6 * r + 10 * h)
+                            .attr('width', 0.8 * r)
+                            .attr('height', 0.8 * r)
+                            .style('fill', '#9EA8B1')
+                            .style('stroke', function (d, i) {
+                                return 'black'
+                            })
+                            .style('stroke-width', function (d, i) {
+                                return 1
+                            })
+
+                        svg.append('text')
+                            .attr('class', 'exact')
+                            .style('fill', '#9EA8B1')
+                            .style('stroke', function (d, i) {
+                                return 'black'
+                            })
+                            .style('stroke-width', function (d, i) {
+                                return 1
+                            })
+                            .attr('x', 2 * r + 5)
+                            .attr('y', function (d, i) {
+                                return 1.5 * r + 1 + 10 * h
+                            })
+                            .text(function (d, i) {
+                                return 'Pontos hely ismert'
+                            })
+
+
+                        d3.selectAll('.exact')
+                            .on('click', function (d) {
+                                exact = !exact;
+                                // d3.selectAll('.exact').style('opacity', exact ? 1 : min_label_opc)
+                                update_chart();
+                            })
+
+                        d3.select('#main')
+                            .on('click', function (d) {
+                                drop = false;
+                                d3.select('#myUL')
+                                    .style('display', 'none')
+                            })
+
+                        d3.select('#myInput')
+                            .on('keyup', myFunction)
+
+                        var drop = false;
+                        d3.select('#myInput')
+                            .on('click', function (d) {
+                                drop = !drop;
+                                d3.select('#myUL')
+                                    .style('display', (drop) ? 'block' : 'none')
+                            })
+
+
+                        setTimeout(function () {
+                            d3.select('#v')
+                                .style('opacity', 1)
+                        }, 5000)
+
+                        setTimeout(function () {
+                            d3.select('#bga')
+                                .style('opacity', 1)
+                        }, 4000)
+
+                        function urlFormatter(url) {
+                            return url.toString()
+                                .split(' ').join('%20')
+                                .split('#').join('%23')
+                                .split(':').join('%3A')
+                                .split('/').join('%2F')
+                                .split('@').join('%40')
+                        }
+
+                        //init
+                        update_chart();
+                        update_labels(this_data, false)
+
+                        setTimeout(() => {
+                            go_home()
+                        }, 50)
+
+                        document.addEventListener("keydown", function (event) {
+                            if ((event.keyCode >= 33 && event.keyCode <= 34) || (event.keyCode >= 37 && event.keyCode <= 40) ||
+                                (event.keyCode == 72) || (event.keyCode == 13) || (event.keyCode == 27)) {
+                                switch (event.keyCode) {
+                                    case 33: // pg up
+                                    case 37: // left
+                                    case 38: // up
+                                        counter = Math.min(counter + 1, datax.length);
+                                        this_data = datax[counter]['value'][z];
+                                        update_labels(this_data, false)
+                                        break;
+                                    case 34: // pg down
+                                    case 39: // right
+                                    case 40: // down 
+                                        counter = Math.max(counter - 1, 0);
+                                        this_data = datax[counter]['value'][z];
+                                        update_labels(this_data, false)
+                                        break;
+                                    case 13: //enter
+                                    case 27: //esc
+                                        this_data = datax[counter]['value'][z];
+                                        update_labels(this_data, false)
+                                        break;
+                                }
+                            }
+                        }, false);
+
+                    }
+                });
+            };
+        };
+    </script>
+</body>
+
+</html>

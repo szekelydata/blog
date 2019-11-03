@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html style="height: 100%">
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body style="height: 100%; margin: 0">
+    <div id="container" style="height: 100%"></div>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-gl/dist/echarts-gl.min.js"></script>
+    <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-stat/dist/ecStat.min.js"></script> -->
+    <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/extension/dataTool.min.js"></script> -->
+    <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/map/js/china.js"></script> -->
+    <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/map/js/world.js"></script> -->
+    <!-- <script type="text/javascript"
+        src="https://api.map.baidu.com/api?v=2.0&ak=xfhhaTThl11qYVrqLZii6w8qE5ggnhrY&__ec_v__=20190126"></script> -->
+    <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/extension/bmap.min.js"></script> -->
+    <script type="text/javascript" src="simplex.js"></script>
+    <script type="text/javascript">
+
+        var dom = document.getElementById("container");
+        var myChart = echarts.init(dom);
+        var app = {};
+        option = null;
+
+
+        function generateData() {
+            var data = [];
+            var noise = new SimplexNoise(Math.random);
+            for (var i = 0; i <= 10; i++) {
+                for (var j = 0; j <= 10; j++) {
+                    var value = noise.noise2D(i / 5, j / 5);
+                    data.push([i, j, value * 2 + 4]);
+                }
+            }
+            return data;
+        }
+
+        console.log(generateData())
+
+        var series = [];
+        for (var i = 0; i < 10; i++) {
+            series.push({
+                type: 'bar3D',
+                data: generateData(),
+                stack: 'stack',
+                shading: 'lambert',
+                emphasis: {
+                    label: {
+                        show: false
+                    }
+                }
+            });
+        }
+
+        myChart.setOption({
+            xAxis3D: {
+                type: 'value'
+            },
+            yAxis3D: {
+                type: 'value'
+            },
+            zAxis3D: {
+                type: 'value'
+            },
+            grid3D: {
+                viewControl: {
+                    // autoRotate: true
+                },
+                light: {
+                    main: {
+                        shadow: true,
+                        quality: 'ultra',
+                        intensity: 1.5
+                    }
+                }
+            },
+            series: series
+        });
+
+        if (option && typeof option === "object") {
+            myChart.setOption(option, true);
+        }
+    </script>
+</body>
+
+</html>

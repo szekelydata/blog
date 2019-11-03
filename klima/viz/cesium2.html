@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <script src="https://cesium.com/downloads/cesiumjs/releases/1.63/Build/Cesium/Cesium.js"></script>
+  <script src="https://d3js.org/d3-collection.v1.min.js"></script>
+  <script src="https://d3js.org/d3-dispatch.v1.min.js"></script>
+  <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
+  <script src="https://d3js.org/d3-request.v1.min.js"></script>
+  <link href="https://cesium.com/downloads/cesiumjs/releases/1.63/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
+  <style>
+    html,
+    body,
+    #cesiumContainer {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="cesiumContainer"></div>
+  <script>
+    Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJiZWYxMTQwMC1iZjRiLTQ2ZmQtYTk0MS0zNGI3MjI1MzRlZTYiLCJpZCI6MTY5MjcsInNjb3BlcyI6WyJhc3IiLCJnYyJdLCJpYXQiOjE1NzEzMjU3ODd9.InYGD_zyuB-tFLaIahXGyU5SoYyd5tjI3EaInQ5zrOs';
+    d3.csv("../stripes/geotest.csv", function (rawdata) {
+      var data = Object.values(rawdata).slice(0, -1)
+
+      console.log(data)
+
+      var czml = [{
+        "id": "document",
+        "name": "Klmiacsikok",
+        "version": "1.0"
+      }];
+      
+      var height = 2000;
+      var min_years=new Array();
+      data.forEach(function (d) {
+        var lon = parseFloat(d[4]);
+        var lat = parseFloat(d[5]);
+        var year = parseInt(d['year']);
+        if (Object.keys(min_years).indexOf(d[0]) < 0) min_years[d[0]] = {'year':2019,'lat':lat,'lon':lon};
+        // console.log(min_years)
+        min_years[d[0]]['year'] = Math.min(min_years[d[0]]['year'], year)
+        var radius = 10000;
+        var measure = 'temp_avg'
+        var shape = d[0] + d['year']
+        var name = d[''] + d['year'] + ' ' + d[measure]
+        var nr = 14; //positive end
+        var nb = 10; //negative end
+        var r = 255 * (1 + Math.max(Math.min(d[measure], nr), 0) / nr)
+        var b = 255 * (1 + Math.max(Math.min(d[measure], nb), 0) / nb)
+        // var g = 255*1+(Math.sin(r/255)-Math.cos(b/255))
+        var g = b+r-255
+        czml.push({
+          "id": shape,
+          "name": name,
+          "position": {
+            "cartographicDegrees": [lat, lon, (2019 - year + 1 / 2) * height]
+          },
+          "cylinder": {
+            "length": height,
+            "topRadius": radius,
+            "bottomRadius": radius,
+            "material": {
+              "solidColor": {
+                "color": {
+                  "rgba": [r, g, b, 255]
+                }
+              }
+            }
+          }
+        })
+      })
+
+      min_years.forEach(function (i,d) {
+        var radius = 3000;
+        var mheight= (2019 - min_years[d]['year']-0.1) * height;
+        var shape = d + 'min_year'
+        var name = shape
+        czml.push({
+          "id": shape,
+          "name": name,
+          "position": {
+            "cartographicDegrees": [min_years[d]['lat'], min_years[d]['lon'], mheight/2]
+          },
+          "cylinder": {
+            "length": mheight,
+            "topRadius": radius,
+            "bottomRadius": radius,
+            "material": {
+              "solidColor": {
+                "color": {
+                  "rgba": [204, 204, 204, 235]
+                }
+              }
+            }
+          }
+        })
+      })
+
+      var viewer = new Cesium.Viewer('cesiumContainer', {
+        imageryProvider: new Cesium.OpenStreetMapImageryProvider({
+          url: 'https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/'
+        }),
+        baseLayerPicker: false,
+        shouldAnimate: true,
+        animation: false,
+        // geocoder: false,
+        homeButton: false,
+        timeline: false,
+        navigationInstructionsInitiallyVisible: false
+      });
+
+      //Enable lighting based on sun/moon positions
+      // viewer.scene.globe.enableLighting = true;
+      // viewer.clock.clockRange = Cesium.ClockRange.LOOP_STOP; //Loop at the end
+      // viewer.clock.multiplier = 1000;
+      // viewer.infoBox.frame.sandbox = "allow-same-origin allow-top-navigation allow-pointer-lock allow-popups allow-forms allow-scripts";
+
+      // imageryProvider: new Cesium.UrlTemplateImageryProvider({
+      //     url: 'https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png?lang=hu'
+      //   }),
+
+      var dataSourcePromise = Cesium.CzmlDataSource.load(czml);
+      viewer.dataSources.add(dataSourcePromise);
+      viewer.zoomTo(dataSourcePromise);
+
+    })
+
+  </script>
+</body>
+
+</html>
