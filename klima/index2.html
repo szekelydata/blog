@@ -9,7 +9,7 @@
   <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
   <meta name="viewport"
     content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-  <title>klímacsíkok | székelydata</title>
+  <title>Klímacsíkok</title>
   <meta name="description"
     content="A N T A R C T I C A | Research Stations Exploratorium with Ceisum JS and D3plus #tsne #cesiumjs #d3plus #dataviz #d3js #cesium @csaladenes" />
   <meta name="keywords"
@@ -36,7 +36,7 @@
   <script src="https://cesium.com/downloads/cesiumjs/releases/1.63/Build/Cesium/Cesium.js"></script>
   <link href="https://cesium.com/downloads/cesiumjs/releases/1.63/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
   <script src="https://d3js.org/d3-collection.v1.min.js"></script>
-  <!-- <script src="https://d3js.org/d3-selection.v1.min.js"></script> -->
+  <script src="https://d3js.org/d3-selection.v1.min.js"></script>
   <script src="https://d3js.org/d3-dispatch.v1.min.js"></script>
   <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
   <script src="https://d3js.org/d3-request.v1.min.js"></script>
@@ -55,9 +55,14 @@
       overflow: hidden;
     }
 
-    .cesium-infoBox-iframe {
-      overflow: hidden !important;
-      height: 150px !important;
+    .cesium-infoBox-description table tbody tr td {
+      width: 3px !important;
+      margin-top: 50px !important;
+      border: 0px;
+    }
+
+    .cesium-infoBox-description table {
+      height: 60px !important;
     }
   </style>
 </head>
@@ -66,10 +71,8 @@
   <div id="cesiumContainer"></div>
   <script>
     Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJiZWYxMTQwMC1iZjRiLTQ2ZmQtYTk0MS0zNGI3MjI1MzRlZTYiLCJpZCI6MTY5MjcsInNjb3BlcyI6WyJhc3IiLCJnYyJdLCJpYXQiOjE1NzEzMjU3ODd9.InYGD_zyuB-tFLaIahXGyU5SoYyd5tjI3EaInQ5zrOs';
-    var c = (location.hash) ? location.hash.slice(1) : 'ro';
-    console.log('Loading...', c)
     d3.json("namer.json", function (namer) {
-      d3.csv("stripes/" + c + ".csv", function (rawdata) {
+      d3.csv("stripes/ro.csv", function (rawdata) {
         var data = Object.values(rawdata).slice(0, -1)
 
         // console.log(data)
@@ -87,10 +90,9 @@
         var desc = new Array();
 
         var colors = d3.scaleSequential(d3.interpolateRdYlBu).domain([0.5, -2])
-        var stripe_width = 6;
 
         data.forEach(function (d, i) {
-          // console.log(i, d)
+          console.log(i, d)
           var lon = parseFloat(d[4]);
           var lat = parseFloat(d[5]);
           var year = parseInt(d['year']);
@@ -100,13 +102,11 @@
             if (Object.keys(min_years).indexOf(d[0]) < 0) min_years[d[0]] = { 'year': 2019, 'lat': lat, 'lon': lon };
             min_years[d[0]]['year'] = Math.min(min_years[d[0]]['year'], year)
 
-            if (Object.keys(desc).indexOf(d['']) < 0) desc[d['']] = '';
-            desc[d['']] = desc[d['']] +
-              '<span class="stripe" style="position:absolute;height:143px;width:' + stripe_width + 'px;background-color:' +
-              colors(d[measure]) + ';right:' +
-              (((2019 - year) * stripe_width) + 55) + 'px;">&nbsp;</span>';
-
           }
+
+          if (Object.keys(desc).indexOf(d['']) < 0) desc[d['']] = '<table><tr>';
+          desc[d['']] = desc[d['']] +
+            '<td style="background-color:' + (d[measure] ? colors(d[measure]) : 'yellow') + ';">-</td>';
         })
 
         data.forEach(function (d) {
@@ -122,10 +122,7 @@
             czml.push({
               "id": shape,
               "name": name,
-              "description": desc[d['']] + '<span class="stripe" style="position:absolute;' +
-                'top:65px;right:10px;font-size:18px;">2019</span>' +
-                '<span class="stripe" style="position:absolute;top:65px;font-size:18px;right:' +
-                (((2019 - min_years[d[0]]['year']) * stripe_width) + 70) + 'px;">' + min_years[d[0]]['year'] + '</span>',
+              "description": desc[d['']] + '</table></tr>',
               "position": {
                 "cartographicDegrees": [lat, lon, ((year - min_years[d[0]]['year']) + 1 / 2) * height]
               },
@@ -197,12 +194,6 @@
         var dataSourcePromise = Cesium.CzmlDataSource.load(czml);
         viewer.dataSources.add(dataSourcePromise);
         viewer.zoomTo(dataSourcePromise);
-
-        var layers = viewer.scene.imageryLayers;
-        layers.addImageryProvider(new Cesium.SingleTileImageryProvider({
-          url: 'szekelydata_klimacsikok.png',
-          rectangle: Cesium.Rectangle.fromDegrees(16.5, 44.5, 21.0, 45.5)
-        }));
 
       })
     })
