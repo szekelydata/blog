@@ -72,7 +72,7 @@
       d3.csv("stripes/" + c + ".csv", function (rawdata) {
         var data = Object.values(rawdata).slice(0, -1)
 
-        console.log(data)
+        // console.log(data)
 
         var czml = [{
           "id": "document",
@@ -129,8 +129,8 @@
                 (((2019 - min_years[d['ID']]['year']) * stripe_width) + 65) + 'px;">' + min_years[d['ID']]['year'] + '</span>',
                 // '<img src="carpet/'+d['ID']+'.png" style="width:400px;margin-top:150px;">',
               "position": {
-                // "cartographicDegrees": [lat, lon, ((year - min_years[d['ID']]['year']) + 1 / 2) * height]
-                "cartographicDegrees": [lat, lon, ((year - 1931) + 1 / 2) * height]
+                "cartographicDegrees": [lat, lon, ((year - min_years[d['ID']]['year']) + 1 / 2) * height]
+                // "cartographicDegrees": [lat, lon, ((year - 1931) + 1 / 2) * height]
               },
               "cylinder": {
                 "length": height,
@@ -150,8 +150,8 @@
 
         min_years.forEach(function (i, d) {
           var mradius = radius / 3
-          // var mheight = (2019 - min_years[d]['year'] - 0.1) * height;
-          var mheight = (2019 - 1931 - 0.1) * height;
+          var mheight = (2019 - min_years[d]['year'] - 0.1) * height;
+          // var mheight = (2019 - 1931 - 0.1) * height;
           var shape = d
           var name = shape
           czml.push({
