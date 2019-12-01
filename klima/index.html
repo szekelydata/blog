@@ -36,7 +36,7 @@
   <script src="https://cesium.com/downloads/cesiumjs/releases/1.63/Build/Cesium/Cesium.js"></script>
   <link href="https://cesium.com/downloads/cesiumjs/releases/1.63/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
   <script src="https://d3js.org/d3-collection.v1.min.js"></script>
-  <!-- <script src="https://d3js.org/d3-selection.v1.min.js"></script> -->
+  <script src="https://d3js.org/d3-selection.v1.min.js"></script>
   <script src="https://d3js.org/d3-dispatch.v1.min.js"></script>
   <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
   <script src="https://d3js.org/d3-request.v1.min.js"></script>
@@ -88,7 +88,7 @@
 
         var stripe_width = 4;
         var measure = 'XTEMP'
-        var domains={'XTEMP10': [0.5, -2], 'XTEMP': [1, -1], 'NTEMP': [0.8, -0.8]}
+        var domains = { 'XTEMP10': [0.5, -2], 'XTEMP': [1, -1], 'NTEMP': [0.8, -0.8] }
         var colors = d3.scaleSequential(d3.interpolateRdYlBu).domain(domains[measure])
 
         data.forEach(function (d, i) {
@@ -118,7 +118,7 @@
 
             var shape = d['ID'] + d['year']
             var name = d['LOC']
-            if (Object.keys(namer).indexOf(d['LOC'])>0) name=namer[d['LOC']]
+            if (Object.keys(namer).indexOf(d['LOC']) > 0) name = namer[d['LOC']]
             var color = colors(d[measure])
             czml.push({
               "id": shape,
@@ -127,7 +127,6 @@
                 'top:65px;right:10px;font-size:18px;">2019</span>' +
                 '<span class="stripe" style="position:absolute;top:65px;font-size:18px;right:' +
                 (((2019 - min_years[d['ID']]['year']) * stripe_width) + 65) + 'px;">' + min_years[d['ID']]['year'] + '</span>',
-                // '<img src="carpet/'+d['ID']+'.png" style="width:400px;margin-top:150px;">',
               "position": {
                 "cartographicDegrees": [lat, lon, ((year - min_years[d['ID']]['year']) + 1 / 2) * height]
                 // "cartographicDegrees": [lat, lon, ((year - 1931) + 1 / 2) * height]
@@ -207,8 +206,17 @@
           url: 'szekelydata_klimacsikok.png',
           rectangle: Cesium.Rectangle.fromDegrees(16.5, 44.5, 21.0, 45.5)
         }));
+
+        d3.select(".cesium-widget-credits").insert("a", ":first-child")
+          .attr("class", "cesium-credit-imageContainer")
+          .text('fd')
+          .attr("href", "https://szekelydata.csaladen.es")
+          .attr("target", "_blank")
+          .html("<img style='height:30px;margin-bottom:-8px;margin-left:8px;height:40px;' src='szd_logo.png' alt='székelydata' title='székelydata' />")
+
       })
     })
+
   </script>
 </body>
 
