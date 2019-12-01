@@ -68,7 +68,7 @@
     Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJiZWYxMTQwMC1iZjRiLTQ2ZmQtYTk0MS0zNGI3MjI1MzRlZTYiLCJpZCI6MTY5MjcsInNjb3BlcyI6WyJhc3IiLCJnYyJdLCJpYXQiOjE1NzEzMjU3ODd9.InYGD_zyuB-tFLaIahXGyU5SoYyd5tjI3EaInQ5zrOs';
     var c = (location.hash) ? location.hash.slice(1) : 'huro';
     console.log('Loading...', c)
-    d3.json("data/namer.json", function (namer) {
+    d3.json("namer.json", function (namer) {
       d3.csv("stripes/" + c + ".csv", function (rawdata) {
         var data = Object.values(rawdata).slice(0, -1)
 
