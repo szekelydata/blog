@@ -1,0 +1,294 @@
+{
+    "version": "v1",
+    "config": {
+        "visState": {
+            "filters": [],
+            "layers": [{
+                    "id": "eixpike",
+                    "type": "geojson",
+                    "config": {
+                        "dataId": "\ud83c\udf04",
+                        "label": "\ud83c\udf04",
+                        "color": [
+                            137,
+                            218,
+                            193
+                        ],
+                        "columns": {
+                            "geojson": "_geojson"
+                        },
+                        "isVisible": true,
+                        "visConfig": {
+                            "opacity": 0.8,
+                            "strokeOpacity": 0.8,
+                            "thickness": 0.8,
+                            "strokeColor": [
+                                45,
+                                57,
+                                70
+                            ],
+                            "colorRange": {
+                                "name": "Global Warming",
+                                "type": "sequential",
+                                "category": "Uber",
+                                "colors": [
+                                    "#5A1846",
+                                    "#900C3F",
+                                    "#C70039",
+                                    "#E3611C",
+                                    "#F1920E",
+                                    "#FFC300"
+                                ]
+                            },
+                            "strokeColorRange": {
+                                "name": "Global Warming",
+                                "type": "sequential",
+                                "category": "Uber",
+                                "colors": [
+                                    "#5A1846",
+                                    "#900C3F",
+                                    "#C70039",
+                                    "#E3611C",
+                                    "#F1920E",
+                                    "#FFC300"
+                                ]
+                            },
+                            "radius": 10,
+                            "sizeRange": [
+                                0,
+                                10
+                            ],
+                            "radiusRange": [
+                                0,
+                                50
+                            ],
+                            "heightRange": [
+                                0,
+                                500
+                            ],
+                            "elevationScale": 5,
+                            "stroked": true,
+                            "filled": false,
+                            "enable3d": false,
+                            "wireframe": false
+                        },
+                        "hidden": false,
+                        "textLabel": [{
+                            "field": null,
+                            "color": [
+                                255,
+                                255,
+                                255
+                            ],
+                            "size": 18,
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "anchor": "start",
+                            "alignment": "center"
+                        }]
+                    },
+                    "visualChannels": {
+                        "colorField": null,
+                        "colorScale": "quantile",
+                        "sizeField": null,
+                        "sizeScale": "linear",
+                        "strokeColorField": null,
+                        "strokeColorScale": "quantile",
+                        "heightField": null,
+                        "heightScale": "linear",
+                        "radiusField": null,
+                        "radiusScale": "linear"
+                    }
+                },
+                {
+                    "id": "8m3o8mr",
+                    "type": "geojson",
+                    "config": {
+                        "dataId": "\ud83c\udfe0",
+                        "label": "\ud83c\udfe0",
+                        "color": [
+                            231,
+                            159,
+                            213
+                        ],
+                        "columns": {
+                            "geojson": "_geojson"
+                        },
+                        "isVisible": true,
+                        "visConfig": {
+                            "opacity": 1,
+                            "strokeOpacity": 0.8,
+                            "thickness": 0.3,
+                            "strokeColor": [
+                                46,
+                                52,
+                                70
+                            ],
+                            "colorRange": {
+                                "name": "Sunrise 7",
+                                "type": "sequential",
+                                "category": "Uber",
+                                "colors": [
+                                    "#355C7D",
+                                    "#63617F",
+                                    "#916681",
+                                    "#C06C84",
+                                    "#D28389",
+                                    "#E59A8F",
+                                    "#F8B195"
+                                ]
+                            },
+                            "strokeColorRange": {
+                                "name": "Global Warming",
+                                "type": "sequential",
+                                "category": "Uber",
+                                "colors": [
+                                    "#5A1846",
+                                    "#900C3F",
+                                    "#C70039",
+                                    "#E3611C",
+                                    "#F1920E",
+                                    "#FFC300"
+                                ]
+                            },
+                            "radius": 10,
+                            "sizeRange": [
+                                0,
+                                10
+                            ],
+                            "radiusRange": [
+                                0,
+                                50
+                            ],
+                            "heightRange": [
+                                0,
+                                500
+                            ],
+                            "elevationScale": 5,
+                            "stroked": true,
+                            "filled": true,
+                            "enable3d": false,
+                            "wireframe": false
+                        },
+                        "hidden": false,
+                        "textLabel": [{
+                            "field": null,
+                            "color": [
+                                255,
+                                255,
+                                255
+                            ],
+                            "size": 18,
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "anchor": "start",
+                            "alignment": "center"
+                        }]
+                    },
+                    "visualChannels": {
+                        "colorField": {
+                            "name": "\u26ab",
+                            "type": "integer"
+                        },
+                        "colorScale": "quantize",
+                        "sizeField": null,
+                        "sizeScale": "linear",
+                        "strokeColorField": null,
+                        "strokeColorScale": "quantile",
+                        "heightField": null,
+                        "heightScale": "linear",
+                        "radiusField": null,
+                        "radiusScale": "linear"
+                    }
+                }
+            ],
+            "interactionConfig": {
+                "tooltip": {
+                    "fieldsToShow": {
+                        "\ud83c\udfe0": [{
+                                "name": "\ud83c\udf04",
+                                "format": null
+                            },
+                            {
+                                "name": "\ud83c\udfe0",
+                                "format": null
+                            },
+                            {
+                                "name": "\ud83d\udcc8",
+                                "format": ".2f"
+                            },
+                            {
+                                "name": "\ud83d\udd34",
+                                "format": null
+                            },
+                            {
+                                "name": "\ud83d\udcc6",
+                                "format": "L"
+                            }
+                        ],
+                        "\ud83c\udf04": [{
+                            "name": "\ud83c\udf04",
+                            "format": null
+                        }]
+                    },
+                    "compareMode": false,
+                    "compareType": "absolute",
+                    "enabled": true
+                },
+                "brush": {
+                    "size": 0.5,
+                    "enabled": false
+                },
+                "geocoder": {
+                    "enabled": true
+                },
+                "coordinate": {
+                    "enabled": false
+                }
+            },
+            "layerBlending": "normal",
+            "splitMaps": [],
+            "animationConfig": {
+                "currentTime": null,
+                "speed": 1
+            }
+        },
+        "mapState": {
+            "bearing": 0,
+            "dragRotate": false,
+            "latitude": 45.790537417193065,
+            "longitude": 23.48650628841905,
+            "pitch": 0,
+            "zoom": 6.000000000000001,
+            "isSplit": false
+        },
+        "mapStyle": {
+            "styleType": "ecrg3rj",
+            "topLayerGroups": {
+                "label": true
+            },
+            "visibleLayerGroups": {
+                "label": true
+            },
+            "threeDBuildingColor": [
+                194.6103322548211,
+                191.81688250953655,
+                185.2988331038727
+            ],
+            "mapStyles": {
+                "ecrg3rj": {
+                    "accessToken": "XXX",
+                    "custom": true,
+                    "icon": "https://api.mapbox.com/styles/v1/csaladenes/ckmv0lbmh02tk17nvva71n35b/static/-122.3391,37.7922,9,0,0/400x300?access_token=XXX&logo=false&attribution=false",
+                    "id": "ecrg3rj",
+                    "label": "Monochrome-copy",
+                    "url": "mapbox://styles/csaladenes/ckmv0lbmh02tk17nvva71n35b"
+                }
+            }
+        }
+    }
+}
