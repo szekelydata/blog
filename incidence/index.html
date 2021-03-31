@@ -107,6 +107,7 @@
             left: 0;
             z-index: 99;
             padding-left: 20px;
+            background: linear-gradient(to top right, #090e13, #090e13 20%, transparent 50%)
         }
         
         #top_logo {
@@ -116,7 +117,8 @@
             z-index: 99;
             padding-left: 20px;
             padding-top: 20px;
-            opacity: 0.8;
+            opacity: 0.9;
+            background: linear-gradient(to bottom right, #090e13, #090e13 30%, transparent 50%)
         }
         
         #logo_img {
@@ -128,7 +130,7 @@
         #logo_img2 {
             height: 40px;
             padding-bottom: 5px;
-            opacity: 0.8;
+            opacity: 0.9;
         }
         
         a,
@@ -136,9 +138,10 @@
             text-decoration: none;
             font-family: 'DINPro-Medium', "Helvetica Neue", Helvetica, sans-serif;
             /* font-weight: 700; */
-            font-size: 1 em;
+            font-size: 14px;
             color: #D6DCE5;
             cursor: pointer;
+            text-shadow: -1px -1px 0 #090e13, 1px -1px 0 #090e13, -1px 1px 0 #090e13, 1px 1px 0 #090e13;
         }
         
         a:hover,
@@ -154,10 +157,12 @@
         <a href="https://szekelydata.csaladen.es" alt="székelydata" title="székelydata" target="_blank"><img id="logo_img" src="szd_transparent.png" alt="székelydata"></a>
     </div>
     <div id="top_logo">
-        <a href="https://data.gov.ro/dataset/transparenta-covid" alt="data" title="data" target="_blank">COVID-19 incidence rates in Romania on 📆 30.03.2021</a>
+        <a href="https://data.gov.ro/dataset/transparenta-covid" alt="data" title="data" target="_blank" style="font-size: 16px;">COVID-19 incidence rates in Romania on 📆 30.03.2021</a>
         <br>
         <br>
-        <div onclick="document.getElementById('iframe').src = 'https://covid-large-html.csaladen.es/panels/mapbox.html#RO&light';">🔴🟡🟢 <span class='link'>3 color map</span></div>
+        <div style="display: flex;
+        justify-content: left;
+        align-items: center;" onclick="document.getElementById('iframe').src = 'https://covid-large-html.csaladen.es/panels/mapbox.html#RO&light';"><span style="height: 5px; font-size: 5px; margin-right: 4px;">🔴🟡🟢</span> <span class='link'>3 color map</span></div>
         <div style="font-size: 12px; line-height: 22px;">from the <a href="https://econ.ubbcluj.ro/coronavirus" alt="Romanian Economic Impact Monitor" title="Romanian Economic Impact Monitor" target="_blank" style="font-weight: 700;">Romanian Economic Impact Monitor</a></div>
 
         <div onclick="document.getElementById('iframe').src = '2d.html';">🗺 <span class='link'>2D map </span></div>
