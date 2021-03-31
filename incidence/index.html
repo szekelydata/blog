@@ -140,6 +140,11 @@
             color: #D6DCE5;
             cursor: pointer;
         }
+        
+        a:hover,
+        .link:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 
@@ -152,11 +157,11 @@
         <a href="https://data.gov.ro/dataset/transparenta-covid" alt="data" title="data" target="_blank">COVID-19 incidence rates in Romania on 📆 30.03.2021</a>
         <br>
         <br>
-        <div onclick="document.getElementById('iframe').src = 'https://covid-large-html.csaladen.es/panels/mapbox.html#RO&light';"><span>🔴🟡🟢 3 color map</span></div>
+        <div onclick="document.getElementById('iframe').src = 'https://covid-large-html.csaladen.es/panels/mapbox.html#RO&light';">🔴🟡🟢 <span class='link'>3 color map</span></div>
         <div style="font-size: 12px; line-height: 22px;">from the <a href="https://econ.ubbcluj.ro/coronavirus" alt="Romanian Economic Impact Monitor" title="Romanian Economic Impact Monitor" target="_blank" style="font-weight: 700;">Romanian Economic Impact Monitor</a></div>
 
-        <div onclick="document.getElementById('iframe').src = '2d.html';"><span>🗺 2D map </span></div>
-        <div onclick="document.getElementById('iframe').src = '3d.html';"><span>🌍 3D map </span></div>
+        <div onclick="document.getElementById('iframe').src = '2d.html';">🗺 <span class='link'>2D map </span></div>
+        <div onclick="document.getElementById('iframe').src = '3d.html';">🌍 <span class='link'>3D map </span></div>
     </div>
     <iframe allow="geolocation" w id="iframe" src="3d.html"></iframe>
 
