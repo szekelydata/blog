@@ -30,16 +30,13 @@
 
         gtag('config', 'G-BGMHHC320Z');
     </script>
-    <meta name="description"
-        content="Map of locality-level COVID-19 incidence rates in Romania #dataviz #szekelydata @csaladenes" />
-    <meta name="keywords"
-        content="harta incidenta covid, covid romania, harta incidenta, harta covid, harta incidenta uat, harta uat, covid uat, harta incidneta localitati, csaladenes, d3.js, data visualization, infographic, kepler, keplergl, choropleth map, map, interactive map, romania, covid19, coronavirus, incidence, incidence rates, stringency, covid, covid data, dataviz" />
+    <meta name="description" content="Map of locality-level COVID-19 incidence rates in Romania #dataviz #szekelydata @csaladenes" />
+    <meta name="keywords" content="harta incidenta covid, covid romania, harta incidenta, harta covid, harta incidenta uat, harta uat, covid uat, harta incidneta localitati, csaladenes, d3.js, data visualization, infographic, kepler, keplergl, choropleth map, map, interactive map, romania, covid19, coronavirus, incidence, incidence rates, stringency, covid, covid data, dataviz"
+    />
     <meta property="og:image" content="https://szekelydata.csaladen.es/incidence/snapshot.png" />
     <meta property="twitter:image" content="https://szekelydata.csaladen.es/incidence/snapshot.png" />
-    <meta property="og:description"
-        content="Map of locality-level COVID-19 incidence rates in Romania #dataviz #szekelydata @csaladenes" />
-    <meta property="twitter:description"
-        content="Map of locality-level COVID-19 incidence rates in Romania #dataviz #szekelydata @csaladenes" />
+    <meta property="og:description" content="Map of locality-level COVID-19 incidence rates in Romania #dataviz #szekelydata @csaladenes" />
+    <meta property="twitter:description" content="Map of locality-level COVID-19 incidence rates in Romania #dataviz #szekelydata @csaladenes" />
     <meta property="og:title" content="COVID-19 incidence rates in Romania on 📆 30.03.2021" />
     <meta property="twitter:title" content="COVID-19 incidence rates in Romania on 📆 30.03.2021" />
     <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
@@ -58,8 +55,7 @@
     <script src="https://unpkg.com/redux@3.7.2/dist/redux.js" crossorigin></script>
     <script src="https://unpkg.com/react-redux@7.1.3/dist/react-redux.min.js" crossorigin></script>
     <script src="https://unpkg.com/react-intl@3.12.0/dist/react-intl.min.js" crossorigin></script>
-    <script src="https://unpkg.com/react-copy-to-clipboard@5.0.2/build/react-copy-to-clipboard.min.js"
-        crossorigin></script>
+    <script src="https://unpkg.com/react-copy-to-clipboard@5.0.2/build/react-copy-to-clipboard.min.js" crossorigin></script>
     <script src="https://unpkg.com/styled-components@4.1.3/dist/styled-components.min.js" crossorigin></script>
     <script src="https://unpkg.com/kepler.gl@2.4.0/umd/keplergl.min.js" crossorigin></script>
     <script src="https://d3js.org/d3-fetch.v2.min.js"></script>
@@ -70,20 +66,20 @@
             font-weight: normal;
             src: local('DINPro-Medium'), url('DINPro-Medium_13936.woff') format('woff');
         }
-
+        
         body {
             margin: 0;
             padding: 0;
         }
-
+        
         .keplergl-widget-container {
             background: none;
         }
-
+        
         .map-control {
             display: none;
         }
-
+        
         #logo {
             position: fixed;
             bottom: 0;
@@ -91,7 +87,7 @@
             z-index: 99;
             padding-left: 20px;
         }
-
+        
         #top_logo {
             position: fixed;
             top: 0;
@@ -101,19 +97,19 @@
             padding-top: 20px;
             opacity: 0.8;
         }
-
+        
         #logo_img {
             height: 45px;
             margin-left: 10px;
             opacity: 0.8;
         }
-
+        
         #logo_img2 {
             height: 40px;
             padding-bottom: 5px;
             opacity: 0.8;
         }
-
+        
         a {
             text-decoration: none;
             font-family: 'DINPro-Medium', "Helvetica Neue", Helvetica, sans-serif;
@@ -127,7 +123,7 @@
 <body>
     <div id="app-content"></div>
     <script>
-        d3.json("./new_uat_daily_2021-04-01.json").then(function (rawdata) {
+        d3.json("./new_uat_daily2_2021-04-01.json").then(function(rawdata) {
             // console.log(rawdata)
             window.__keplerglDataConfig = {
                 "config": {
@@ -280,6 +276,9 @@
                                         }, {
                                             "name": "\ud83d\udcc6",
                                             "format": "L"
+                                        }, {
+                                            "name": "🚦",
+                                            "format": null
                                         }],
                                         "\ud83c\udf04": [{
                                             "name": "\ud83c\udf04",
@@ -347,9 +346,9 @@
                     "centerMap": false
                 }
             };
-            (function (i, s, o, g, r, a, m) {
+            (function(i, s, o, g, r, a, m) {
                 i['GoogleAnalyticsObject'] = r;
-                i[r] = i[r] || function () {
+                i[r] = i[r] || function() {
                     (i[r].q = i[r].q || []).push(arguments)
                 }, i[r].l = 1 * new Date();
                 a = s.createElement(o),
@@ -363,7 +362,7 @@
                 'storage': 'none',
                 'clientId': localStorage.getItem('ga:clientId')
             });
-            ga(function (tracker) {
+            ga(function(tracker) {
                 localStorage.setItem('ga:clientId', tracker.get('clientId'));
             });
             ga('set', 'checkProtocolTask', null); // Disable file protocol checking.
@@ -373,15 +372,15 @@
 
             ga('send', 'pageview');
 
-            ! function (e, t) {
+            ! function(e, t) {
                 if ("object" == typeof exports && "object" == typeof module) module.exports = t(require("react"), require("kepler.gl/components"), require("kepler.gl/actions"), require("styled-components"), require("redux"), require("kepler.gl/reducers"), require("kepler.gl/schemas"), require("kepler.gl/processors"), require("kepler.gl/middleware"), require("react-dom"), require("react-redux"), require("react-intl"), require("react-copy-to-clipboard"), require("react-helmet"));
-                else if ("function" == typeof define && define.amd) define([, , , , , , , , , , , , ,], t);
+                else if ("function" == typeof define && define.amd) define([, , , , , , , , , , , , , ], t);
                 else {
                     var n = "object" == typeof exports ? t(require("react"), require("kepler.gl/components"), require("kepler.gl/actions"), require("styled-components"), require("redux"), require("kepler.gl/reducers"), require("kepler.gl/schemas"), require("kepler.gl/processors"), require("kepler.gl/middleware"), require("react-dom"), require("react-redux"), require("react-intl"), require("react-copy-to-clipboard"), require("react-helmet")) : t(e.React, e.KeplerGl, e.KeplerGl, e.styled, e.Redux, e.KeplerGl, e.KeplerGl, e.KeplerGl, e.KeplerGl, e.ReactDOM, e.ReactRedux, e.ReactIntl, e.CopyToClipboard, e.Helmet);
-                    for (var r in n) ("object" == typeof exports ? exports : e)[r] = n[r]
+                    for (var r in n)("object" == typeof exports ? exports : e)[r] = n[r]
                 }
-            }(window, (function (e, t, n, r, o, i, a, c, l, u, p, f, s, d) {
-                return function (e) {
+            }(window, (function(e, t, n, r, o, i, a, c, l, u, p, f, s, d) {
+                return function(e) {
                     var t = {};
 
                     function n(r) {
@@ -393,66 +392,66 @@
                         };
                         return e[r].call(o.exports, o, o.exports, n), o.l = !0, o.exports
                     }
-                    return n.m = e, n.c = t, n.d = function (e, t, r) {
+                    return n.m = e, n.c = t, n.d = function(e, t, r) {
                         n.o(e, t) || Object.defineProperty(e, t, {
                             enumerable: !0,
                             get: r
                         })
-                    }, n.r = function (e) {
+                    }, n.r = function(e) {
                         "undefined" != typeof Symbol && Symbol.toStringTag && Object.defineProperty(e, Symbol.toStringTag, {
                             value: "Module"
                         }), Object.defineProperty(e, "__esModule", {
                             value: !0
                         })
-                    }, n.t = function (e, t) {
+                    }, n.t = function(e, t) {
                         if (1 & t && (e = n(e)), 8 & t) return e;
                         if (4 & t && "object" == typeof e && e && e.__esModule) return e;
                         var r = Object.create(null);
                         if (n.r(r), Object.defineProperty(r, "default", {
-                            enumerable: !0,
-                            value: e
-                        }), 2 & t && "string" != typeof e)
-                            for (var o in e) n.d(r, o, function (t) {
+                                enumerable: !0,
+                                value: e
+                            }), 2 & t && "string" != typeof e)
+                            for (var o in e) n.d(r, o, function(t) {
                                 return e[t]
                             }.bind(null, o));
                         return r
-                    }, n.n = function (e) {
-                        var t = e && e.__esModule ? function () {
+                    }, n.n = function(e) {
+                        var t = e && e.__esModule ? function() {
                             return e.default
-                        } : function () {
+                        } : function() {
                             return e
                         };
                         return n.d(t, "a", t), t
-                    }, n.o = function (e, t) {
+                    }, n.o = function(e, t) {
                         return Object.prototype.hasOwnProperty.call(e, t)
                     }, n.p = "", n(n.s = 19)
-                }([function (t, n) {
+                }([function(t, n) {
                     t.exports = e
-                }, function (e, n) {
+                }, function(e, n) {
                     e.exports = t
-                }, function (e, t) {
+                }, function(e, t) {
                     e.exports = n
-                }, function (e, t) {
+                }, function(e, t) {
                     e.exports = r
-                }, function (e, t) {
+                }, function(e, t) {
                     e.exports = o
-                }, function (e, t) {
+                }, function(e, t) {
                     e.exports = i
-                }, function (e, t, n) {
-                    (function (t) {
+                }, function(e, t, n) {
+                    (function(t) {
                         var r, o = void 0 !== t ? t : "undefined" != typeof window ? window : {},
                             i = n(18);
                         "undefined" != typeof document ? r = document : (r = o["__GLOBAL_DOCUMENT_CACHE@4"]) || (r = o["__GLOBAL_DOCUMENT_CACHE@4"] = i), e.exports = r
                     }).call(this, n(10))
-                }, function (e, t) {
+                }, function(e, t) {
                     e.exports = a
-                }, function (e, t) {
+                }, function(e, t) {
                     e.exports = console
-                }, function (e, t) {
+                }, function(e, t) {
                     e.exports = c
-                }, function (e, t) {
+                }, function(e, t) {
                     var n;
-                    n = function () {
+                    n = function() {
                         return this
                     }();
                     try {
@@ -461,24 +460,24 @@
                         "object" == typeof window && (n = window)
                     }
                     e.exports = n
-                }, function (e, t) {
+                }, function(e, t) {
                     e.exports = l
-                }, function (e, t) {
+                }, function(e, t) {
                     e.exports = u
-                }, function (e, t) {
+                }, function(e, t) {
                     e.exports = p
-                }, function (e, t) {
+                }, function(e, t) {
                     e.exports = f
-                }, function (e, t) {
+                }, function(e, t) {
                     e.exports = s
-                }, function (e, t, n) {
-                    (function (t) {
+                }, function(e, t, n) {
+                    (function(t) {
                         var n;
                         n = "undefined" != typeof window ? window : void 0 !== t ? t : "undefined" != typeof self ? self : {}, e.exports = n
                     }).call(this, n(10))
-                }, function (e, t) {
+                }, function(e, t) {
                     e.exports = d
-                }, function (e, t) { }, function (e, t, n) {
+                }, function(e, t) {}, function(e, t, n) {
                     "use strict";
                     n.r(t);
                     var r = n(4),
@@ -486,35 +485,35 @@
                         i = n(11);
 
                     function a(e) {
-                        return function (e) {
+                        return function(e) {
                             if (Array.isArray(e)) {
                                 for (var t = 0, n = new Array(e.length); t < e.length; t++) n[t] = e[t];
                                 return n
                             }
-                        }(e) || function (e) {
+                        }(e) || function(e) {
                             if (Symbol.iterator in Object(e) || "[object Arguments]" === Object.prototype.toString.call(e)) return Array.from(e)
-                        }(e) || function () {
+                        }(e) || function() {
                             throw new TypeError("Invalid attempt to spread non-iterable instance")
                         }()
                     }
                     var c = o.keplerGlReducer.initialState({
-                        uiState: {
-                            currentModal: null,
-                            activeSidePanel: null
-                        }
-                    }),
+                            uiState: {
+                                currentModal: null,
+                                activeSidePanel: null
+                            }
+                        }),
                         l = Object(r.combineReducers)({
                             keplerGl: c
                         }),
-                        u = function (e) {
-                            var t = Object(i.enhanceReduxMiddleware)([function (t) {
-                                return function (n) {
-                                    return function (r) {
-                                        var o = n(r);
-                                        return "function" == typeof e && e(r, t), o
+                        u = function(e) {
+                            var t = Object(i.enhanceReduxMiddleware)([function(t) {
+                                    return function(n) {
+                                        return function(r) {
+                                            var o = n(r);
+                                            return "function" == typeof e && e(r, t), o
+                                        }
                                     }
-                                }
-                            }]),
+                                }]),
                                 n = [r.applyMiddleware.apply(void 0, a(t))];
                             return Object(r.createStore)(l, {}, r.compose.apply(void 0, n))
                         },
@@ -530,7 +529,7 @@
                         h = n(14);
 
                     function w() {
-                        return (w = Object.assign || function (e) {
+                        return (w = Object.assign || function(e) {
                             for (var t = 1; t < arguments.length; t++) {
                                 var n = arguments[t];
                                 for (var r in n) Object.prototype.hasOwnProperty.call(n, r) && (e[r] = n[r])
@@ -538,13 +537,13 @@
                             return e
                         }).apply(this, arguments)
                     }
-                    var j = function () {
+                    var j = function() {
                         var e = Object(g.PanelHeaderFactory)();
-                        return Object(g.withState)([], (function (e) {
+                        return Object(g.withState)([], (function(e) {
                             return e
                         }), {
                             toggleModal: v.toggleModal
-                        })((function (t) {
+                        })((function(t) {
                             return f.a.createElement(h.IntlProvider, {
                                 locale: "en",
                                 messages: {
@@ -557,14 +556,14 @@
                                     href: "https://docs.kepler.gl/docs/keplergl-jupyter",
                                     blank: !0,
                                     tooltip: "tooltip.documentation",
-                                    onClick: function () { }
+                                    onClick: function() {}
                                 }]
                             })))
                         }))
                     };
 
                     function O() {
-                        var e = function (e, t) {
+                        var e = function(e, t) {
                             t || (t = e.slice(0));
                             return Object.freeze(Object.defineProperties(e, {
                                 raw: {
@@ -572,25 +571,25 @@
                                 }
                             }))
                         }(["\n  .side-panel--container {\n    transform:scale(0.85);\n    transform-origin: top left;\n    height: 117.64%;\n    padding-top: 0;\n    padding-right: 0;\n    padding-bottom: 0;\n    padding-left: 0;\n\n    .side-bar {\n      height: 100%;\n    }\n    .side-bar__close {\n      right: -30px;\n      top: 14px;\n    }\n  }\n"]);
-                        return O = function () {
+                        return O = function() {
                             return e
                         }, e
                     }
                     var x = b.a.div(O());
-                    var E = function () {
-                        var e = Object(g.CollapseButtonFactory)(),
-                            t = Object(g.SidebarFactory)(e);
-                        return function (e) {
-                            return f.a.createElement(x, null, f.a.createElement(t, e))
-                        }
-                    },
+                    var E = function() {
+                            var e = Object(g.CollapseButtonFactory)(),
+                                t = Object(g.SidebarFactory)(e);
+                            return function(e) {
+                                return f.a.createElement(x, null, f.a.createElement(t, e))
+                            }
+                        },
                         S = n(7),
                         q = n(15);
 
                     function A(e, t) {
-                        return function (e) {
+                        return function(e) {
                             if (Array.isArray(e)) return e
-                        }(e) || function (e, t) {
+                        }(e) || function(e, t) {
                             if (!(Symbol.iterator in Object(e)) && "[object Arguments]" !== Object.prototype.toString.call(e)) return;
                             var n = [],
                                 r = !0,
@@ -608,13 +607,13 @@
                                 }
                             }
                             return n
-                        }(e, t) || function () {
+                        }(e, t) || function() {
                             throw new TypeError("Invalid attempt to destructure non-iterable instance")
                         }()
                     }
 
                     function T() {
-                        var e = function (e, t) {
+                        var e = function(e, t) {
                             t || (t = e.slice(0));
                             return Object.freeze(Object.defineProperties(e, {
                                 raw: {
@@ -622,31 +621,31 @@
                                 }
                             }))
                         }(["\n  width: 100%;\n  display: flex;\n  flex-direction: column;\n  height: 100%;\n  .copy-button {\n    position: absolute;\n    margin-top: -45px;\n    right: 28px;\n  }\n  textarea {\n    overflow-y: scroll;\n    white-space: pre-wrap;\n    width: 100%;\n    height: 100%;\n    resize: none;\n  }\n"]);
-                        return T = function () {
+                        return T = function() {
                             return e
                         }, e
                     }
                     var k = {
-                        true: "True",
-                        false: "False",
-                        null: "None"
-                    },
+                            true: "True",
+                            false: "False",
+                            null: "None"
+                        },
                         C = b.a.div.attrs({
                             className: "copy-config"
                         })(T());
-                    var _ = function (e) {
+                    var _ = function(e) {
                         var t = e.config,
                             n = A(Object(p.useState)(!1), 2),
                             r = n[0],
                             o = n[1],
-                            i = function (e) {
-                                return JSON.stringify(e, null, 2).replace(/: ([a-z]+)/g, (function (e, t) {
+                            i = function(e) {
+                                return JSON.stringify(e, null, 2).replace(/: ([a-z]+)/g, (function(e, t) {
                                     return ": " + k[t] || !1
                                 }))
                             }(t);
                         return f.a.createElement(C, null, f.a.createElement(q.CopyToClipboard, {
                             text: i,
-                            onCopy: function () {
+                            onCopy: function() {
                                 return o(!0)
                             },
                             className: "copy-button"
@@ -660,8 +659,8 @@
                             selected: !0
                         }))
                     };
-                    var P = function () {
-                        var e = function (e) {
+                    var P = function() {
+                        var e = function(e) {
                             var t = e.activeSidePanel,
                                 n = e.visState,
                                 r = e.mapState,
@@ -682,7 +681,7 @@
                                 iconComponent: g.Icons.CodeAlt
                             }]
                         };
-                        var t = Object(g.withState)([o.visStateLens, o.mapStateLens, o.mapStyleLens], (function (e) {
+                        var t = Object(g.withState)([o.visStateLens, o.mapStateLens, o.mapStyleLens], (function(e) {
                             return e
                         }))(e);
                         return t.defaultProps = {
@@ -698,7 +697,7 @@
                         var n = Object.keys(e);
                         if (Object.getOwnPropertySymbols) {
                             var r = Object.getOwnPropertySymbols(e);
-                            t && (r = r.filter((function (t) {
+                            t && (r = r.filter((function(t) {
                                 return Object.getOwnPropertyDescriptor(e, t).enumerable
                             }))), n.push.apply(n, r)
                         }
@@ -715,9 +714,9 @@
                     }
 
                     function z(e, t) {
-                        return function (e) {
+                        return function(e) {
                             if (Array.isArray(e)) return e
-                        }(e) || function (e, t) {
+                        }(e) || function(e, t) {
                             if (!(Symbol.iterator in Object(e)) && "[object Arguments]" !== Object.prototype.toString.call(e)) return;
                             var n = [],
                                 r = !0,
@@ -735,13 +734,13 @@
                                 }
                             }
                             return n
-                        }(e, t) || function () {
+                        }(e, t) || function() {
                             throw new TypeError("Invalid attempt to destructure non-iterable instance")
                         }()
                     }
 
                     function D() {
-                        var e = function (e, t) {
+                        var e = function(e, t) {
                             t || (t = e.slice(0));
                             return Object.freeze(Object.defineProperties(e, {
                                 raw: {
@@ -749,15 +748,15 @@
                                 }
                             }))
                         }(["\n  width: 100%;\n  height: 100%;\n  .kepler-gl .ReactModal__Overlay.ReactModal__Overlay--after-open {\n    position: absolute !important;\n  }\n\n  .kepler-gl .side-panel__content > div {\n    display: flex;\n    height: 100%;\n    flex-direction: column;\n  }\n"]);
-                        return D = function () {
+                        return D = function() {
                             return e
                         }, e
                     }
                     var L = n(17),
                         G = L ? L.Helmet : null,
                         N = Object(g.injectComponents)([
-                            [g.AddDataButtonFactory, function () {
-                                return function () {
+                            [g.AddDataButtonFactory, function() {
+                                return function() {
                                     return f.a.createElement("div", null)
                                 }
                             }],
@@ -766,21 +765,21 @@
                             [g.CustomPanelsFactory, P]
                         ]),
                         I = b.a.div(D());
-                    var F = function () {
+                    var F = function() {
                         var e = Object(p.useRef)(null),
                             t = z(Object(p.useState)({}), 2),
                             n = t[0],
                             r = t[1],
-                            o = function () {
+                            o = function() {
                                 if (e.current) {
                                     var t = e.current.offsetWidth,
                                         o = e.current.offsetHeight,
-                                        i = function (e) {
+                                        i = function(e) {
                                             for (var t = 1; t < arguments.length; t++) {
                                                 var n = null != arguments[t] ? arguments[t] : {};
-                                                t % 2 ? M(Object(n), !0).forEach((function (t) {
+                                                t % 2 ? M(Object(n), !0).forEach((function(t) {
                                                     R(e, t, n[t])
-                                                })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(n)) : M(Object(n)).forEach((function (t) {
+                                                })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(n)) : M(Object(n)).forEach((function(t) {
                                                     Object.defineProperty(e, t, Object.getOwnPropertyDescriptor(n, t))
                                                 }))
                                             }
@@ -793,12 +792,12 @@
                                     r(i)
                                 }
                             },
-                            i = function () {
+                            i = function() {
                                 return window.setTimeout(o, 500)
                             };
-                        return Object(p.useEffect)((function () {
+                        return Object(p.useEffect)((function() {
                             return window.addEventListener("resize", i),
-                                function () {
+                                function() {
                                     return window.removeEventListener("resize", i)
                                 }
                         }), []), f.a.createElement(I, {
@@ -826,16 +825,16 @@
                             getMapboxRef: o
                         }))
                     };
-                    var K = function (e) {
-                        e.id;
-                        var t = e.store,
-                            n = e.ele;
-                        d.a.render(f.a.createElement((function () {
-                            return f.a.createElement(y.Provider, {
-                                store: t
-                            }, f.a.createElement(F, null))
-                        }), null), n)
-                    },
+                    var K = function(e) {
+                            e.id;
+                            var t = e.store,
+                                n = e.ele;
+                            d.a.render(f.a.createElement((function() {
+                                return f.a.createElement(y.Provider, {
+                                    store: t
+                                }, f.a.createElement(F, null))
+                            }), null), n)
+                        },
                         H = n(6),
                         J = n.n(H),
                         Y = n(16),
@@ -843,14 +842,14 @@
                         W = n(9),
                         U = n(8),
                         Q = n.n(U);
-                    var V = function (...e) {
+                    var V = function(...e) {
                         0
                     };
 
                     function X(e) {
-                        return (X = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (e) {
+                        return (X = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function(e) {
                             return typeof e
-                        } : function (e) {
+                        } : function(e) {
                             return e && "function" == typeof Symbol && e.constructor === Symbol && e !== Symbol.prototype ? "symbol" : typeof e
                         })(e)
                     }
@@ -864,7 +863,7 @@
                         if ("object" === X(t)) t.columns && t.data && t.index ? (V("data is a dataframe"), o = "df") : o = "json";
                         else if ("string" == typeof t) try {
                             r = JSON.parse(t), o = "json"
-                        } catch (e) { }
+                        } catch (e) {}
                         return {
                             data: r,
                             type: o,
@@ -877,12 +876,12 @@
                             r = e.info;
                         V("processReceivedData");
                         try {
-                            t = "csv" === r.queryType ? Object(W.processCsvData)(n) : "json" === r.queryType ? Object(W.processGeojson)(n) : "df" === r.queryType ? function (e) {
-                                var t = e.columns.map((function (e) {
-                                    return {
-                                        name: e
-                                    }
-                                })),
+                            t = "csv" === r.queryType ? Object(W.processCsvData)(n) : "json" === r.queryType ? Object(W.processGeojson)(n) : "df" === r.queryType ? function(e) {
+                                var t = e.columns.map((function(e) {
+                                        return {
+                                            name: e
+                                        }
+                                    })),
                                     n = e.data;
                                 return {
                                     fields: t,
@@ -904,8 +903,8 @@
                             n = e.config,
                             r = e.options,
                             o = e.store,
-                            i = t ? function (e) {
-                                return Object.keys(e).map((function (t) {
+                            i = t ? function(e) {
+                                return Object.keys(e).map((function(t) {
                                     return {
                                         id: t,
                                         data: e[t]
@@ -913,7 +912,7 @@
                                 }))
                             }(t) : [];
                         V(i);
-                        var a = i.map(Z).map((function (e) {
+                        var a = i.map(Z).map((function(e) {
                             return {
                                 data: e.data,
                                 info: {
@@ -923,7 +922,7 @@
                                     queryOption: "jupyter"
                                 }
                             }
-                        })).map($).filter((function (e) {
+                        })).map($).filter((function(e) {
                             return e && e.data
                         }));
                         V("addDataConfigToKeplerGl"), V(a), V(n);
@@ -937,7 +936,7 @@
                         }))
                     }
                     var te, ne, re, oe, ie = (te = u(), (ne = J.a.createElement("div")).setAttribute("style", "width: 100vw; height: 100vh; position: absolute"), J.a.body.appendChild(ne), {
-                        render: function () {
+                        render: function() {
                             K({
                                 id: "keplergl-0",
                                 store: te,
