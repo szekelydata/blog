@@ -123,7 +123,8 @@
 <body>
     <div id="app-content"></div>
     <script>
-        d3.json("./new_uat_daily2_2021-04-05.json").then(function(rawdata) {
+        var hash = window.location.hash.slice(1);
+        d3.json("./new_uat_daily2_2021-04-" + hash + ".json").then(function(rawdata) {
             // console.log(rawdata)
             window.__keplerglDataConfig = {
                 "config": {
