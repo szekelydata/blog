@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="ie=edge" http-equiv="x-ua-compatible">
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-57335320-4" type="0f36b8182868c637eae9c9e2-text/javascript"></script>
+    <script type="0f36b8182868c637eae9c9e2-text/javascript">
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-57335320-4');
+    </script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BGMHHC320Z" type="0f36b8182868c637eae9c9e2-text/javascript"></script>
+    <script type="0f36b8182868c637eae9c9e2-text/javascript">
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-BGMHHC320Z');
+    </script>
+    <meta name="description" content="Map of locality-level COVID-19 incidence rates in Romania #dataviz #szekelydata @csaladenes" />
+    <meta name="keywords" content="harta incidenta covid, covid romania, harta incidenta, harta covid, harta incidenta uat, harta uat, covid uat, harta incidneta localitati, csaladenes, d3.js, data visualization, infographic, kepler, keplergl, choropleth map, map, interactive map, romania, covid19, coronavirus, incidence, incidence rates, stringency, covid, covid data, dataviz"
+    />
+    <meta property="og:image" content="https://szekelydata.csaladen.es/incidence/snapshot.png" />
+    <meta property="twitter:image" content="https://szekelydata.csaladen.es/incidence/snapshot.png" />
+    <meta property="og:description" content="Map of locality-level COVID-19 incidence rates in Romania #dataviz #szekelydata @csaladenes" />
+    <meta property="twitter:description" content="Map of locality-level COVID-19 incidence rates in Romania #dataviz #szekelydata @csaladenes" />
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+    <meta property="og:title" content="COVID-19 incidence rates in Romania - interactive map" />
+    <meta property="twitter:title" content="COVID-19 incidence rates in Romania - interactive map" />
+    <title>COVID-19 incidence rates in Romania on 📆 06.04.2021</title>
+    <meta property="og:url" content="https://szekelydata.csaladen.es/incidence/" />
+    <meta property="twitter:url" content="https://szekelydata.csaladen.es/incidence/" />
+    <meta property="og:site_name" content="székelydata" />
+    <meta property="fb:admins" content="100943737036023614165" />
+    <link rel="shortcut icon" href="https://szekelydata.csaladen.es/favicon.ico" />
+    <link rel="shortcut icon" href="https://szekelydata.csaladen.es/blog/favicon.ico" />
+    <link href="https://d1a3f4spazzrp4.cloudfront.net/kepler.gl/uber-fonts/4.0.0/superfine.css" rel="stylesheet">
+    <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.1.1/mapbox-gl.css" rel="stylesheet">
+    <script src="https://unpkg.com/react@16.8.4/umd/react.production.min.js" crossorigin type="0f36b8182868c637eae9c9e2-text/javascript"></script>
+    <script src="https://unpkg.com/react-dom@16.8.4/umd/react-dom.production.min.js" crossorigin type="0f36b8182868c637eae9c9e2-text/javascript"></script>
+    <script src="https://unpkg.com/redux@3.7.2/dist/redux.js" crossorigin type="0f36b8182868c637eae9c9e2-text/javascript"></script>
+    <script src="https://unpkg.com/react-redux@7.1.3/dist/react-redux.min.js" crossorigin type="0f36b8182868c637eae9c9e2-text/javascript"></script>
+    <script src="https://unpkg.com/react-intl@3.12.0/dist/react-intl.min.js" crossorigin type="0f36b8182868c637eae9c9e2-text/javascript"></script>
+    <script src="https://unpkg.com/react-copy-to-clipboard@5.0.2/build/react-copy-to-clipboard.min.js" crossorigin type="0f36b8182868c637eae9c9e2-text/javascript"></script>
+    <script src="https://unpkg.com/styled-components@4.1.3/dist/styled-components.min.js" crossorigin type="0f36b8182868c637eae9c9e2-text/javascript"></script>
+    <script src="https://unpkg.com/kepler.gl@2.4.0/umd/keplergl.min.js" crossorigin type="0f36b8182868c637eae9c9e2-text/javascript"></script>
+    <style>
+        font-family: ff-clan-web-pro,
+        'Helvetica Neue',
+        Helvetica,
+        sans-serif;
+        font-weight: 400;
+        font-size: 0.875em;
+        line-height: 1.71429;
+        *,
+        *:before,
+        *:after {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        
+        @font-face {
+            font-family: 'DINPro-Medium';
+            font-style: normal;
+            font-weight: normal;
+            src: local('DINPro-Medium'), url('DINPro-Medium_13936.woff') format('woff');
+        }
+        
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background: radial-gradient(#7e768b, #090e13);
+        }
+        
+        iframe {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+            overflow: hidden;
+            background: radial-gradient(#7e768b, #090e13);
+        }
+        
+        .map-control {
+            display: none;
+        }
+        
+        #logo {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            z-index: 99;
+            padding-left: 20px;
+            background: linear-gradient(to top right, #090e13, #090e13 20%, transparent 50%)
+        }
+        
+        #top_logo {
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 99;
+            padding-left: 20px;
+            padding-top: 20px;
+            opacity: 0.9;
+            background: linear-gradient(to bottom right, #090e13, #090e13 30%, transparent 50%)
+        }
+        
+        #logo_img {
+            height: 45px;
+            margin-left: 10px;
+            padding-bottom: 20px;
+            opacity: 0.8;
+        }
+        
+        #logo_img2 {
+            height: 40px;
+            padding-bottom: 25px;
+            opacity: 0.9;
+        }
+        
+        a,
+        div {
+            text-decoration: none;
+            font-family: 'DINPro-Medium', "Helvetica Neue", Helvetica, sans-serif;
+            /* font-weight: 700; */
+            font-size: 14px;
+            color: #D6DCE5;
+            cursor: pointer;
+            text-shadow: -1px -1px 0 #090e13, 1px -1px 0 #090e13, -1px 1px 0 #090e13, 1px 1px 0 #090e13;
+        }
+        
+        a:hover,
+        .link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="logo">
+        <a href="https://data.csaladen.es" alt="Dénes Csala Data Consulting" title="Dénes Csala Data Consulting" target="_blank"><img id="logo_img2" src="dc2_logo.png" alt="Dénes Csala Data Consulting"></a>
+        <a href="https://szekelydata.csaladen.es" alt="székelydata" title="székelydata" target="_blank"><img id="logo_img" src="szd_transparent.png" alt="székelydata"></a>
+    </div>
+    <div id="top_logo">
+        <a href="https://data.gov.ro/dataset/transparenta-covid" alt="data" title="data" target="_blank" style="font-size: 16px;">COVID-19 incidence rates in Romania on 📆 06.04.2021</a>
+        <br>
+        <br>
+        <div style="display: flex;
+        justify-content: left;
+        align-items: center;" onclick="document.getElementById('iframe').src = 'https://covid-large-html.csaladen.es/panels/daily/mapbox-2021-05-'+date+'.html#RO&dark';"><span style="height: 5px; font-size: 5px; margin-right: 4px;">🔴🟡🟢</span> <span class='link'>3 color map</span></div>
+        <div style="font-size: 12px; line-height: 22px;">from the <a href="https://econ.ubbcluj.ro/coronavirus" alt="Romanian Economic Impact Monitor" title="Romanian Economic Impact Monitor" target="_blank" style="font-weight: 700;">Romanian Economic Impact Monitor</a></div>
+
+        <div onclick="document.getElementById('iframe').src = '2d.html#0'+date1;">🗺 <span class='link'>2D map </span></div>
+        <div onclick="document.getElementById('iframe').src = '3d.html#0'+date1;">🌍 <span class='link'>3D map </span></div>
+    </div>
+    <iframe allow="geolocation" id="iframe"></iframe>
+    <script>
+        date = '02';
+        date1 = String(parseInt(date) - 1)
+        document.getElementById('iframe').src = '3d.html#0' + date1;
+        document.title = 'COVID-19 incidence rates in Romania on 📆 ' + date + '.05.2021'
+        document.querySelector('#top_logo').querySelector('a').textContent = document.title
+    </script>
+
+</body>
+
+</html>
+
+</html>
