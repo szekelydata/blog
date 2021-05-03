@@ -1,6 +1,9 @@
-[<img src="szekelydata.png" alt="favicon" height=24 width=24 />  SZÉKELYDATA](http://csaladenes.egologo.ro/)
+[<img src="favicon.ico" alt="favicon" height=24 width=24 />  székelydata](http://csaladenes.egologo.ro/)
 ========
 [![Alt text](header.jpg "Optional title")](http://csaladenes.egologo.ro/)  
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/szekelydata/blog/blob/master/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/szekelydata/blog?label=last%20update)](https://github.com/szekelydata/blog)
   
 Ez a kódtár mappákba rendezve tartalmaz mindent amire szükséged lehet, hogy reprodukáld a bejegyzésekben beumutatottakat. 
 Látogasd meg a blogot [itt](http://csaladenes.egologo.ro/). 
