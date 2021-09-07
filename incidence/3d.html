@@ -37,8 +37,8 @@
     <meta property="twitter:image" content="https://szekelydata.csaladen.es/incidence/snapshot.png" />
     <meta property="og:description" content="Map of locality-level COVID-19 incidence rates in Romania #dataviz #szekelydata @csaladenes" />
     <meta property="twitter:description" content="Map of locality-level COVID-19 incidence rates in Romania #dataviz #szekelydata @csaladenes" />
-    <meta property="og:title" content="COVID-19 incidence rates in Romania on 📆 30.03.2021" />
-    <meta property="twitter:title" content="COVID-19 incidence rates in Romania on 📆 30.03.2021" />
+    <meta property="og:title" content="COVID-19 incidence rates in Romania" />
+    <meta property="twitter:title" content="COVID-19 incidence rates in Romania" />
     <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
     <meta property="og:url" content="https://szekelydata.csaladen.es/incidence/" />
     <meta property="twitter:url" content="https://szekelydata.csaladen.es/incidence/" />
@@ -46,7 +46,7 @@
     <meta property="fb:admins" content="100943737036023614165" />
     <link rel="shortcut icon" href="https://szekelydata.csaladen.es/favicon.ico" />
     <link rel="shortcut icon" href="https://szekelydata.csaladen.es/blog/favicon.ico" />
-    <title>COVID-19 incidence rates in Romania on 📆 30.03.2021</title>
+    <title>COVID-19 incidence rates in Romania</title>
 
     <link href="https://d1a3f4spazzrp4.cloudfront.net/kepler.gl/uber-fonts/4.0.0/superfine.css" rel="stylesheet">
     <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.1.1/mapbox-gl.css" rel="stylesheet">
@@ -124,7 +124,7 @@
     <div id="app-content"></div>
     <script>
         var hash = window.location.hash.slice(1);
-        d3.json("./new_uat_daily2_2021-06-" + hash + ".json").then(function(rawdata) {
+        d3.json("./new_uat_daily2_2021-" + hash + ".json").then(function(rawdata) {
             // console.log(rawdata)
             window.__keplerglDataConfig = {
                 "config": {
