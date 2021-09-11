@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+
+<head>
+	<link rel="stylesheet" href="ex/style/stylex.css" type="text/css" media="screen" />
+</head>
+<meta charset="utf-8">
+<meta name="description" content="SZÉKELYDATA | Időfelhasználási Vizualizáció" />
+<meta name="keywords"
+	content="csaladenes, d3.js, data visualization, d3, szekelyfold, szekelydata, time use, sand dance, sand map, interactive data visualization, dataviz, transylvania, erdély, székely, point cloud, dynamic, time utilization, atus" />
+<meta property="og:image" content="https://szekelydata.csaladen.es/rutin/snapshot.png" />
+<meta property="twitter:image" content="https://szekelydata.csaladen.es/rutin/snapshot.png" />
+<meta property="og:description" content="SZÉKELYDATA | Időfelhasználási Vizualizáció" />
+<meta property="twitter:description" content="SZÉKELYDATA | Időfelhasználási Vizualizáció" />
+<meta property="og:title" content="Rutin - egy átlagos erdélyi hétköznap villanásai" />
+<meta property="twitter:title" content="Rutin - egy átlagos erdélyi hétköznap villanásai" />
+<meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+<meta property="og:url" content="http://csaladenes.egologo.ro/?p=1157" />
+<meta property="twitter:url" content="http://csaladenes.egologo.ro/?p=1157" />
+<meta property="og:site_name" content="SZÉKELYDATA" />
+<meta property="fb:admins" content="100943737036023614165" />
+<link rel="shortcut icon" href="https://szekelydata.csaladen.es/favicon.ico" />
+<link rel="publisher" href="https://plus.google.com/106181965793093327960" />
+<title>Rutin - egy átlagos erdélyi hétköznap villanásai</title>
+
+<body>
+	<div id="main-wrapper" style='display: inline-block;'>
+		<div id="sidebar">
+			<div id="current_time">04:00</div>
+			<div id="speed">
+				<div class="togglebutton slow" data-val="slow">Lassú</div>
+				<div class="togglebutton medium" data-val="medium">Közepes</div>
+				<div class="togglebutton fast current" data-val="fast">Gyors</div>
+				<div class="clr"></div>
+			</div>
+			<div id="week">
+				<a class="togglebutton2 hkoz" id="hkoz" href="#hkoz" onclick='location.reload();'
+					data-val="hkoz">Hétköznap</a>
+				<a class="togglebutton2 hetv" id="hetv" href="#hetv" onclick='location.reload();'
+					data-val="hetv">Hétvége</a>
+				<div class="clr"></div>
+			</div>
+			<div id="note"></div>
+			<!-- <img src="szekelydatabw3.png"
+				style="border: 1px solid #333;height:70px;position: fixed;top: 615px; left:10px;" /> -->
+			<div id="dgraph"
+				style="border: none; width :295px;height :273px;position: fixed;top: 354px; left:-25px;background:none;overflow:hidden;">
+			</div>
+			<div id="cite">
+			</div>
+		</div>
+		<div id="chart" style='position:fixed;top:0px;left:220px;'></div>
+		<div class="clr"></div>
+	</div>
+	</div>
+	<script src="ex/js/d3-3-5-5.min.js"></script>
+	<script src="ex/js/d3plus.js"></script>
+	<script>
+		var USER_SPEED = "fast";
+
+		var width = 840,
+			height = 680,
+			padding = 1,
+			maxRadius = 7;
+		// color = d3.scale.category10();
+
+		var sched_objs = [],
+			curr_minute = 0;
+
+		var act_codes = [
+			{ "index": "15", "short": "Kutya", "desc": "Sétáltatás | Természet" },
+			{ "index": "3", "short": "Meló", "desc": "Munka (irodai | kétkezi)" },
+			{ "index": "7", "short": "TV", "desc": "TV | Film | Mozi" },
+			{ "index": "5", "short": "Vásárlás", "desc": "Vásárlás | Mall" },
+			{ "index": "6", "short": "Áhítat", "desc": "Vallásgyakorlás | Önkéntesség" },
+			{ "index": "4", "short": "Net", "desc": "Internet | Telefon | Facebook" },
+			{ "index": "1", "short": "Zuhany", "desc": "Zuhany | Mosdó" },
+			{ "index": "8", "short": "Olvasás", "desc": "Könyv | Újság | Keresztrejtvény" },
+			{ "index": "9", "short": "Otthon", "desc": "Házimunka | Gyerekfelügyelet" },
+			{ "index": "0", "short": "Szundi", "desc": "Alvás" },
+			{ "index": "11", "short": "Sport", "desc": "Edzés | Edzőterem | Szaladás" },
+			{ "index": "12", "short": "Hobby", "desc": "Kertészkedés | Barkácsolás | Rokonok" },
+			{ "index": "2", "short": "Kaja", "desc": "Étkezés | Étterem" },
+			{ "index": "14", "short": "Sör", "desc": "Kávézó | Pub | Szórakozóhely" },
+			{ "index": "13", "short": "Suli", "desc": "Tanulás | Magánóra" },
+			{ "index": "10", "short": "Hivatal", "desc": "Hivatalos elintéznivalók" },
+			{ "index": "16", "short": "Úton", "desc": "Utazás | Vezetés" },
+		];
+
+		var order = [];
+
+		act_codes.forEach(function (d, i) {
+			order[d["index"]] = i
+		})
+
+
+		var speeds = { "slow": 500, "medium": 200, "fast": 50 };
+
+
+		var all_time_notes = {
+			"hkoz": [
+				{ "start_minute": 1, "stop_minute": 30, "note": "Még egy átlagos erdélyi hétköznap! Az adatokat a SZÉKELYDATA online időfelhasználási kérdőívből nyertük." },
+				{ "start_minute": 35, "stop_minute": 65, "note": "A pontok a válaszadók napi rutinját tükrözik. Most éppen hajnali 5 óra van." },
+				{ "start_minute": 70, "stop_minute": 100, "note": "A legtöbben még szundítunk kora reggel. Lassan ébredezünk. De a kutyát már le kell vinni." },
+				{ "start_minute": 130, "stop_minute": 170, "note": "A nap zuhannyal és rántottával indul. Közben újságot olvasunk és híreket - a Facebookon." },
+				{ "start_minute": 180, "stop_minute": 300, "note": "Reggeli után irány munkahely, iskola vagy egyetem. Odaút a forgalomban is eltöltünk pár percet. Van aki otthon marad, és ott végzi teendőit. Mások sporttal, esetleg imával indítják a napot." },
+				{ "start_minute": 360, "stop_minute": 440, "note": "Robog a munkanap, tanulunk, dolgozunk és kilincselünk a hivatalokban." },
+				{ "start_minute": 480, "stop_minute": 540, "note": "Ebédidő, de nem mindenki tartja be. Sokan egészen délután 3-ig eltolják." },
+				{ "start_minute": 660, "stop_minute": 720, "note": "A sulinak már vége, és lassan a munkahelyről is kezdünk hazaszállingózni." },
+				{ "start_minute": 780, "stop_minute": 830, "note": "Munka után család, sport vagy hobby! Sokan még bevásárolunk úton hazafele." },
+				{ "start_minute": 840, "stop_minute": 910, "note": "Vacsoraidő! De este 7 és 11 között a leggyakoribb elfoglaltság az internet." },
+				{ "start_minute": 930, "stop_minute": 1030, "note": "Vacsora után jöhet egy kis relaxáció. TV, Internet, esetleg egy sör vagy tea a haverokkal, vagy talán színház/mozi. De olvasni, sportolni is kitűnő ez az óra." },
+				{ "start_minute": 1080, "stop_minute": 1140, "note": "Lassan mindenki hazatér, majd pedig egy rövid zuhany és néhány lájk után irány az ágy." },
+				{ "start_minute": 1112, "stop_minute": 1180, "note": "Még befejezzük az utólsó oldalt, filmet, linket, üzenetet." },
+				{ "start_minute": 1210, "stop_minute": 1300, "note": "Jó éjt! Majdnem mindenki alszik már. Néhányan későig lógunk a neten, de éjjel 2:30 és 5:30 között 96 %-unk pihen." },
+			], "hetv": [{ "start_minute": 1, "stop_minute": 30, "note": "Még egy átlagos erdélyi hétvége! Az adatokat a SZÉKELYDATA online időfelhasználási kérdőívből nyertük." },
+			{ "start_minute": 35, "stop_minute": 65, "note": "A pontok a válaszadók napi rutinját tükrözik. Most éppen hajnali 5 óra van, egy átlagos hétvégi napon" },
+			{ "start_minute": 70, "stop_minute": 100, "note": "A legtöbben még szundítunk kora reggel. Lassan ébredezünk. De a kutyát már le kell vinni." },
+			{ "start_minute": 130, "stop_minute": 170, "note": "Hétvégén később kelünk. A nap zuhannyal és reggelivel indul." },
+			{ "start_minute": 270, "stop_minute": 330, "note": "Hosszű reggeli után kevesen dolgozunk. Néhányan vásárolni mennek, mások templomba." },
+			{ "start_minute": 360, "stop_minute": 440, "note": "Van aki a természetet választja, kirándul vagy hobbijának hódol. A házimunkára is kerül idő." },
+			{ "start_minute": 480, "stop_minute": 540, "note": "Hétvégén rendszeresbbek az étkezések is: 10-kor reggelizünk, délután 3-kor ebédelünk és este 8-kor vacsorázunk" },
+			{ "start_minute": 660, "stop_minute": 720, "note": "A délután a pihenésé és a kirándulásé." },
+			{ "start_minute": 780, "stop_minute": 830, "note": "Az itthon maradtak tévézünk, internetezünk." },
+			{ "start_minute": 930, "stop_minute": 1030, "note": "Vacsora után jöhet a készülődés, majd irány a város! Hétvégi estéink egyértelműen a barátainknak szenteljük." },
+			{ "start_minute": 1080, "stop_minute": 1140, "note": "Hétvégén később térünk nyugovóra, akár ha otthon is maradtunk." },
+			{ "start_minute": 1112, "stop_minute": 1180, "note": "De lassan az utolsó buli is befjeződik és mindenki hazatér.." },
+			]
+		};
+		var notes_index = 0;
+
+
+		// Activity to put in center of circle arrangement
+		var center_act = "Utazás | Vezetés",
+			center_pt = { "x": 435, "y": 320 };
+
+
+		// Coordinates for activities
+		var foci = {};
+		act_codes.forEach(function (code, i) {
+			if (code.desc == center_act) {
+				foci[code.index] = center_pt;
+			} else {
+				var theta = 2 * Math.PI / (act_codes.length - 1);
+				foci[code.index] = { x: 280 * Math.cos(i * theta) + 430, y: 230 * Math.sin(i * theta) + 335 };
+			}
+		});
+
+
+		// Start the SVG
+		var svg = d3.select("#chart").append("svg")
+			.attr("width", width)
+			.attr("height", height);
+
+
+		// Load data and let's do it.
+		//d3.tsv("ex/data/days-simulated-v2.tsv", function(error, data) {	
+		datalink = "hkoz";
+
+		if (window.location.hash == "#hkoz") datalink = "hkoz";
+		if (window.location.hash == "#hetv") datalink = "hetv";
+
+		var week = { "hkoz": "hétköznap", "hetv": "hétvég" }
+		d3.select("#cite").html('Rutin&nbsp;|&nbsp;<a href="https://szekelydata.csaladen.es/" target="_blank">székelydata</a>&nbsp;&nbsp;<a href="http://csaladenes.egologo.ro/?p=1157" target="_blank">leírás</a>&nbsp;|&nbsp;<a href="https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/" target="_blank">ihlet</a>&nbsp;|&nbsp;<a href="https://szekelydata.csaladen.es/kerdoiv/">kérdőív</a>')
+
+		d3.select("." + datalink).attr("class", "togglebutton2 current " + datalink);
+
+		var time_notes = all_time_notes[datalink];
+
+		//Render bar chart
+		var visualization = d3plus.viz()
+			.container("#dgraph")
+			.type("bar")
+			.id("activity")
+			.order("order")
+			.color("color")
+			.text("Tevékenység")
+			.x({ "value": "activity", "axis": false, "grid": false, "label": false, "ticks": { "color": "none", "width": "0" } })
+			.y({ "value": "Minta", "axis": false, "grid": false, "label": false, "ticks": { "color": "none", "width": "0" } })
+			.legend(false)
+			.messages(false)
+			//.tooltip(false)
+			.background("none")
+			.axes({ "background": { "color": "none", "stroke": { "color": "none" } }, "ticks": false })
+
+		d3.tsv(datalink + '3.csv', function (error, data) {
+
+			data.forEach(function (d) {
+				var day_array = d.day.split(",");
+				//console.log(day_array)
+				var activities = [];
+				for (var i = 0; i < day_array.length; i++) {
+					// Duration
+					if (i % 2 == 1) {
+						activities.push({ 'act': day_array[i - 1], 'duration': +day_array[i] });
+					}
+				}
+				sched_objs.push(activities);
+			});
+
+			// Used for percentages by minute
+			var act_counts = { "0": 0, "1": 0, "2": 0, "3": 0, "4": 0, "5": 0, "6": 0, "7": 0, "8": 0, "9": 0, "10": 0, "11": 0, "12": 0, "13": 0, "14": 0, "15": 0, "16": 0 };
+
+			// A node for each person's schedule
+			var nodes = sched_objs.map(function (o, i) {
+				var act = o[0].act;
+				act_counts[act] += 1;
+				var init_x = foci[act].x + Math.random();
+				var init_y = foci[act].y + Math.random();
+				return {
+					act: act,
+					radius: 3,
+					x: init_x,
+					y: init_y,
+					color: color(act),
+					moves: 0,
+					next_move_time: o[0].duration,
+					sched: o,
+				}
+			});
+
+			var force = d3.layout.force()
+				.nodes(nodes)
+				.size([width, height])
+				// .links([])
+				.gravity(0)
+				.charge(0)
+				.friction(.9)
+				.on("tick", tick)
+				.start();
+
+			var circle = svg.selectAll("circle")
+				.data(nodes)
+				.enter().append("circle")
+				.attr("r", function (d) { return d.radius; })
+				.style("fill", function (d) { return d.color; });
+			// .call(force.drag);
+
+			// Activity labels
+			var label = svg.selectAll("text")
+				.data(act_codes)
+				.enter().append("text")
+				.attr("x", function (d, i) {
+					if (d.desc == center_act) {
+						return center_pt.x;
+					} else {
+						var theta = 2 * Math.PI / (act_codes.length - 1);
+						return 350 * Math.cos(i * theta) + 430;
+					}
+
+				})
+				.attr("y", function (d, i) {
+					if (d.desc == center_act) {
+						return center_pt.y + 40;
+					} else {
+						var theta = 2 * Math.PI / (act_codes.length - 1);
+						return 290 * Math.sin(i * theta) + 330;
+					}
+
+				});
+
+			label.append("tspan")
+				.attr("x", function () { return d3.select(this.parentNode).attr("x"); })
+				// .attr("dy", "1.3em")
+				.attr("text-anchor", "middle")
+				.attr("fill", "#888")
+				.attr("font-size", "18px")
+				.text(function (d) {
+					return d.short;
+				});
+			label.append("tspan")
+				.attr("x", function () { return d3.select(this.parentNode).attr("x"); })
+				.attr("dy", "1.4em")
+				.attr("text-anchor", "middle")
+				.attr("fill", "#444")
+				.attr("font-size", "12px")
+				.text(function (d) {
+					return d.desc;
+				});
+			label.append("tspan")
+				.attr("dy", "1.4em")
+				.attr("x", function () { return d3.select(this.parentNode).attr("x"); })
+				.attr("text-anchor", "middle")
+				.attr("fill", "#888")
+				.attr("class", "actpct")
+				.text(function (d) {
+					return act_counts[d.index] + "%";
+				});
+
+			// Update nodes based on activity and duration
+			function timer() {
+				d3.range(nodes.length).map(function (i) {
+					var curr_node = nodes[i],
+						curr_moves = curr_node.moves;
+
+					// Time to go to next activity
+					if (curr_node.next_move_time == curr_minute) {
+						if (curr_node.moves == curr_node.sched.length - 1) {
+							curr_moves = 0;
+						} else {
+							curr_moves += 1;
+						}
+
+						// Subtract from current activity count
+						act_counts[curr_node.act] -= 1;
+
+						// Move on to next activity
+						curr_node.act = curr_node.sched[curr_moves].act;
+
+						// Add to new activity count
+						act_counts[curr_node.act] += 1;
+
+						curr_node.moves = curr_moves;
+						curr_node.cx = foci[curr_node.act].x;
+						curr_node.cy = foci[curr_node.act].y;
+
+						nodes[i].next_move_time += nodes[i].sched[curr_node.moves].duration;
+					}
+
+				});
+
+				force.resume();
+				curr_minute += 1;
+
+				// Update percentages
+				label.selectAll("tspan.actpct")
+					.text(function (d) {
+						return readablePercent(act_counts[d.index], nodes.length)
+					});
+
+				// Update time
+				var true_minute = curr_minute % 1440;
+				d3.select("#current_time").text(minutesToTime(true_minute));
+
+				// Update notes
+				// var true_minute = curr_minute % 1440;
+				if (true_minute == time_notes[notes_index].start_minute) {
+					d3.select("#note")
+						.style("top", "0px")
+						.transition()
+						.duration(600)
+						.style("top", "20px")
+						.style("color", "#888")
+						.text(time_notes[notes_index].note);
+				}
+
+				// Make note disappear at the end.
+				else if (true_minute == time_notes[notes_index].stop_minute) {
+
+					d3.select("#note").transition()
+						.duration(1000)
+						.style("top", "300px")
+						.style("color", "#222");
+
+					notes_index += 1;
+					if (notes_index == time_notes.length) {
+						notes_index = 0;
+					}
+				}
+
+				if (curr_minute % 5 == 0) {
+					data2 = [];
+					//console.log(act_counts);
+					Object.keys(act_counts).forEach(function (d) {
+						data2.push({ "activity": d, "Minta": act_counts[d], "order": order[d], "color": color(d), "Tevékenység": act_codes[order[d]]["short"] })
+					})
+					visualization
+						.data(data2)
+						.draw();
+				}
+
+				setTimeout(timer, speeds[USER_SPEED]);
+			}
+			setTimeout(timer, speeds[USER_SPEED]);
+
+
+			function tick(e) {
+				var k = 0.04 * e.alpha;
+
+				// Push nodes toward their designated focus.
+				nodes.forEach(function (o, i) {
+					var curr_act = o.act;
+
+					// Make sleep more sluggish moving.
+					if (curr_act == "0") {
+						var damper = 0.6;
+					} else {
+						var damper = 1;
+					}
+					o.color = color(curr_act);
+					o.y += (foci[curr_act].y - o.y) * k * damper;
+					o.x += (foci[curr_act].x - o.x) * k * damper;
+				});
+
+				circle
+					.each(collide(.5))
+					.attr("cx", function (d) { return d.x; })
+					.attr("cy", function (d) { return d.y; })
+					//.transition(2000).delay(1000)
+					.style("fill", function (d) { return d.color; });
+			}
+
+
+			// Resolve collisions between nodes.
+			function collide(alpha) {
+				var quadtree = d3.geom.quadtree(nodes);
+				return function (d) {
+					var r = d.radius + maxRadius + padding,
+						nx1 = d.x - r,
+						nx2 = d.x + r,
+						ny1 = d.y - r,
+						ny2 = d.y + r;
+					quadtree.visit(function (quad, x1, y1, x2, y2) {
+						if (quad.point && (quad.point !== d)) {
+							var x = d.x - quad.point.x,
+								y = d.y - quad.point.y,
+								l = Math.sqrt(x * x + y * y),
+								r = d.radius + quad.point.radius + (d.act !== quad.point.act) * padding;
+							if (l < r) {
+								l = (l - r) / l * alpha;
+								d.x -= x *= l;
+								d.y -= y *= l;
+								quad.point.x += x;
+								quad.point.y += y;
+							}
+						}
+						return x1 > nx2 || x2 < nx1 || y1 > ny2 || y2 < ny1;
+					});
+				};
+			}
+
+
+			// Speed toggle
+			d3.selectAll(".togglebutton")
+				.on("click", function () {
+					if (d3.select(this).attr("data-val") == "slow") {
+						d3.select(".slow").classed("current", true);
+						d3.select(".medium").classed("current", false);
+						d3.select(".fast").classed("current", false);
+					} else if (d3.select(this).attr("data-val") == "medium") {
+						d3.select(".slow").classed("current", false);
+						d3.select(".medium").classed("current", true);
+						d3.select(".fast").classed("current", false);
+					}
+					else {
+						d3.select(".slow").classed("current", false);
+						d3.select(".medium").classed("current", false);
+						d3.select(".fast").classed("current", true);
+					}
+
+					USER_SPEED = d3.select(this).attr("data-val");
+				});
+
+			/*
+			// Week toggle
+			d3.selectAll(".togglebutton2")
+			  .on("click", function() {
+				if (d3.select(this).attr("data-val") == "hkoz") {
+					d3.select(".hkoz").classed("current", true);
+					d3.select(".hetv").classed("current", false);
+				} 
+				else {
+					d3.select(".hkoz").classed("current", false);
+					d3.select(".hetv").classed("current", true);
+				}
+				
+				USER_DATA = d3.select(this).attr("data-val");
+			});
+			*/
+
+		}); // @end d3.tsv
+
+
+
+		function color(activity) {
+
+			var colorByActivity = {
+				"0": "#e0d400",
+				"1": "#1c8af9",
+				"2": "#51BC05",
+				"3": "#FF7F00",
+				"4": "#DB32A4",
+				"5": "#00CDF8",
+				"6": "#E63B60",
+				"7": "#8E5649",
+				"8": "#68c99e",
+				"9": "#a477c8",
+				"10": "#5C76EC",
+				"11": "#E773C3",
+				"12": "#799fd2",
+				"13": "#038a6c",
+				"14": "#cc87fa",
+				"15": "#ee8e76",
+				"16": "#bbbbbb",
+			}
+
+			return colorByActivity[activity];
+
+		}
+
+
+
+		// Output readable percent based on count.
+		function readablePercent(n, m) {
+
+			var pct = 100 * n / m;
+			if (pct < 1 && pct > 0) {
+				pct = "<1%";
+			} else {
+				pct = Math.round(pct) + "%";
+			}
+
+			return pct;
+		}
+
+
+		// Minutes to time of day. Data is minutes from 4am.
+		function minutesToTime(m) {
+			var minutes = (m + 4 * 60) % 1440;
+			//console.log(minutes)
+			var hh = Math.floor(minutes / 60);
+			var ampm;
+			/*
+			if (hh > 12) {
+				hh = hh - 12;
+				ampm = "pm";
+			} else if (hh == 12) {
+				ampm = "pm";
+			} else if (hh == 0) {
+				hh = 12;
+				ampm = "am";
+			} else {
+				ampm = "am";
+			}
+			*/
+			ampm = "";
+			var mm = minutes % 60;
+			if (mm < 10) {
+				mm = "0" + mm;
+			}
+			if (hh < 10) {
+				hh = "0" + hh;
+			}
+
+			return hh + ":" + mm + ampm
+		}
+
+	</script>
