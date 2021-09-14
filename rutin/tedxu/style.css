@@ -1,0 +1,159 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-weight:bold;
+    background:none;
+    color:#ddd;
+    overflow:hidden;
+    vertical-align: baseline;
+    font-family: "Open Sans", Segoe UI light, Verdana, Tahoma, Helvetica, sans-serif;
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+    display: block;
+}
+
+.d3plus_tooltip{
+    display:none !important;
+    visibility: hidden !important;
+    opacity:0 !important;
+}
+
+.tick {
+    display:none !important;
+    visibility: hidden !important;
+    opacity:0 !important;
+    width:0px;
+    height:0px;
+}
+
+body {
+    line-height: 1;
+}
+
+ol,ul {
+    list-style: none;
+}
+
+blockquote,q {
+    quotes: none;
+}
+
+blockquote:before,blockquote:after,q:before,q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+#main-wrapper {
+    font-size: 14px;
+}
+
+#sidebar {
+    width: 239px;
+    float: left;
+    margin-right: 30px;
+    padding-right: 20px;
+    /* border-right: 1px solid #333; */
+    height: 680px;
+}
+
+#current_time {
+    font-size: 70px;
+    color: #ddd;
+    text-align: center;
+}
+
+#chart {
+    float: left;
+    margin-left: 0px;
+}
+
+#speed,#week {
+    font-size: 13px;
+    text-transform: uppercase;
+    margin: 15px 0 20px 25px;
+}
+
+#speed .togglebutton, #week .togglebutton2  {
+    padding: 3px 3px;
+    text-align: center;
+    border: 1px solid #444;
+    cursor: pointer;
+    float: left;
+}
+
+#speed .togglebutton {
+    width: 60px;
+}
+
+#week .togglebutton2 {
+    width: 93px;
+}
+
+#speed .togglebutton.slow, #week .togglebutton.hkoz {
+    border-right: none;
+}
+
+#speed .togglebutton.fast, #week .togglebutton2.hetv {
+    border-left: none;
+}
+
+#speed .togglebutton.current, #week .togglebutton2.current {
+    color: #222;
+    background: #999;
+    border: 1px solid #444;
+}
+
+#note {
+    position: relative;
+    color: #222;
+    padding-left: 25px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.4em;
+}
+
+#cite {
+    position: fixed;
+    /* border-top: 1px solid #444; */
+    padding-top: 20px;
+    top: 600px;
+    height:60px;
+    background: none;
+    left:0px;
+    color:#444;
+    padding-left:20px;
+    padding-right:10px;
+    font-size: 12px;
+    line-height: 1.4em;
+    width: 249px;
+}
+
+circle {
+    stroke:none;
+}
+
+.line {
+    stroke-width: 0.1px;
+}
+
+a {
+    color: #777;
+    text-decoration: none;
+    border-bottom: 1px solid #ddd;
+}
+
+a:hover {
+    border-bottom: 3px solid #ddd;
+}
+
+.clr {
+    clear: both;
+}   
