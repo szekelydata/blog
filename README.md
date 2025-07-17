@@ -32,3 +32,7 @@ Még több adatvarázslatért, kérlek __támogasd__ a munkámat:
 Csala Dénes, 2017  
 http://csaladen.es
 
+## 💫 Stars over time
+[![Stargazers over time](https://starchart.cc/szekelydata/blog.svg?variant=adaptive)](https://starchart.cc/szekelydata/blog)
+
+
